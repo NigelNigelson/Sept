@@ -1,0 +1,972 @@
+[
+  {
+    "city_ref": "atlanta-ga",
+    "city": "Atlanta",
+    "state_ref": "georgia",
+    "residency_context": {
+      "host_for": [
+        "emory_neurology",
+        "morehouse_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "emory_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        },
+        {
+          "residency_id": "morehouse_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography_context": {
+      "proximity_highlights": "Hartsfield-Jackson is the world's busiest passenger airport, giving Atlanta outsized air connectivity for its size; ~2.5-3h drive to the NC/SC Blue Ridge foothills, ~4.5h to Gulf/Atlantic coast; sits at the hub of I-20/I-75/I-85 [Tier3|cross_verified:false|estimated|2026-09-14] general-knowledge geographic inference, consistent with Tier policy's default-Tier3 treatment for this field.",
+      "regional_centrality": "Primary economic, cultural, and transportation hub of the Southeast US ('capital of the New South'); largest metro in GA and the broader Southeast interior; major corporate HQ base (Delta, Coca-Cola, Home Depot, UPS) [Tier3|cross_verified:false|estimated|2026-09-14]."
+    }
+  },
+  {
+    "city_ref": "augusta-ga",
+    "city": "Augusta",
+    "state_ref": "georgia",
+    "residency_context": {
+      "host_for": [
+        "mcg_augusta_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "mcg_augusta_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography_context": {
+      "proximity_highlights": "On the Savannah River at the GA/SC state line, directly across from North Augusta SC; ~2.5h to Atlanta, ~3h to Charleston SC coast; home to Augusta National Golf Club/The Masters, a globally recognized annual draw [Tier3|cross_verified:false|estimated|2026-09-14].",
+      "regional_centrality": "Secondary GA city (2nd-largest metro in the state), regional hub for the CSRA (Central Savannah River Area) spanning GA/SC; anchored by Fort Eisenhower (Army Cyber Center) and Augusta University; not a national-tier hub like Atlanta [Tier3|cross_verified:false|estimated|2026-09-14]."
+    }
+  },
+  {
+    "city_ref": "aurora-co",
+    "city": "Aurora",
+    "state_ref": "colorado",
+    "residency_context": {
+      "host_for": [
+        "univ_colorado_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "univ_colorado_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography_context": {
+      "proximity_highlights": "3rd-most-populous CO city, immediately east/southeast of Denver proper; ~10mi to Denver International Airport (DIA sits partly within Aurora's boundary); ~1h to Rocky Mountain foothills/Red Rocks; Cherry Creek State Park and Aurora Reservoir within city limits [Tier3|cross_verified:false|estimated|2026-09-14].",
+      "regional_centrality": "Functions as a major suburban/satellite city within the Denver metro rather than an independent regional hub, despite its own large population; shares DIA and Front Range infrastructure with Denver [Tier3|cross_verified:false|estimated|2026-09-14]."
+    }
+  },
+  {
+    "city_ref": "austin-tx",
+    "city": "Austin",
+    "state_ref": "texas",
+    "residency_context": {
+      "host_for": [
+        "dellmed_utaustin_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "dellmed_utaustin_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography_context": {
+      "proximity_highlights": "On the Balcones Fault line between Blackland Prairie (east) and Hill Country (west); ~3h to Houston/Gulf Coast, ~1h to San Antonio, ~3.5h to Dallas; Barton Springs, Lady Bird Lake, and the Hill Country lakes chain within/near city [Tier3|cross_verified:false|estimated|2026-09-14].",
+      "regional_centrality": "Texas state capital and a major independent tech/business hub (not a satellite of any larger city); anchors the fast-growing Austin-Round Rock MSA in central TX, distinct from the Houston/DFW/San Antonio triangle [Tier3|cross_verified:false|estimated|2026-09-14]."
+    }
+  },
+  {
+    "city_ref": "chapel-hill-nc",
+    "city": "Chapel Hill",
+    "state_ref": "north-carolina",
+    "residency_context": {
+      "host_for": [
+        "unc_neurology"
+      ],
+      "suburb_for": [
+        {
+          "residency_id": "duke_neurology",
+          "host_city_ref": "durham-nc",
+          "distance_mi": 12,
+          "drive_time_offpeak_min": 18,
+          "drive_time_rush_min": 28
+        }
+      ],
+      "research_target_for": [
+        {
+          "residency_id": "unc_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography_context": {
+      "proximity_highlights": "12mi from Durham (cross-listed host in this dataset); part of North Carolina's Research Triangle with Raleigh (~28mi); UNC-Chapel Hill campus dominates the city's built environment and identity [Tier3|cross_verified:false|estimated|2026-09-14].",
+      "regional_centrality": "College-town anchor of the Research Triangle rather than an independent metro center; shares labor market, healthcare systems (UNC Health), and cultural identity with Durham/Raleigh [Tier3|cross_verified:false|estimated|2026-09-14]."
+    }
+  },
+  {
+    "city_ref": "charlottesville-va",
+    "city": "Charlottesville",
+    "state_ref": "virginia",
+    "residency_context": {
+      "host_for": [
+        "uva_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "uva_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography_context": {
+      "proximity_highlights": "15mi east of the Blue Ridge Mountains/Skyline Drive/Shenandoah NP; ~1.5h to Richmond, ~2h to Washington DC; Monticello (UNESCO World Heritage) and UVA's Jefferson-designed Rotunda/Lawn (also UNESCO-listed) both within city limits [Tier3|cross_verified:false|estimated|2026-09-14].",
+      "regional_centrality": "Mid-size independent regional hub for central VA (distinct from the Richmond and DC metros), anchored by the University of Virginia and UVA Health; widely regarded as one of the more climate- and quality-of-life-amenable mid-Atlantic small metros [Tier3|cross_verified:false|estimated|2026-09-14]."
+    }
+  },
+  {
+    "city_ref": "columbia-md",
+    "city": "Columbia",
+    "state_ref": "maryland",
+    "residency_context": {
+      "host_for": [],
+      "suburb_for": [
+        {
+          "residency_id": "johns_hopkins_neurology",
+          "host_city_ref": "baltimore-md",
+          "distance_mi": 20,
+          "drive_time_offpeak_min": 28,
+          "drive_time_rush_min": 42
+        },
+        {
+          "residency_id": "univ_maryland_neurology",
+          "host_city_ref": "baltimore-md",
+          "distance_mi": 18,
+          "drive_time_offpeak_min": 25,
+          "drive_time_rush_min": 38
+        }
+      ],
+      "research_target_for": [
+        {
+          "residency_id": "johns_hopkins_neurology",
+          "swapped_from_host": true,
+          "swapped_from_host_ref": "baltimore-md",
+          "note": "Baltimore's violent crime rate runs ~3-4x the national average, and the blocks immediately around Johns Hopkins Hospital in East Baltimore have a well-documented pattern of shootings and robberies (JHU security alerts, local news). Swapped to Columbia, MD, repeatedly ranked one of the safest cities in the US (WalletHub)."
+        },
+        {
+          "residency_id": "univ_maryland_neurology",
+          "swapped_from_host": true,
+          "swapped_from_host_ref": "baltimore-md",
+          "note": "Same Baltimore host-city problem as Johns Hopkins (citywide violent crime ~3-4x national average, west-side hospital corridor affected too). Swapped to Columbia, MD, a repeat WalletHub #1 safest city."
+        }
+      ]
+    },
+    "geography_context": {
+      "proximity_highlights": "Planned community roughly equidistant (~20mi) between Baltimore and Washington DC along the I-95 corridor; swapped in this dataset for Baltimore given lower crime rate (see residency_context note) [Tier3|cross_verified:false|estimated|2026-09-14].",
+      "regional_centrality": "Not an independent regional hub - a large planned suburb functioning within the Baltimore-Washington combined labor market; notable as one of the first major US planned communities (founded 1967) [Tier3|cross_verified:false|estimated|2026-09-14]."
+    }
+  },
+  {
+    "city_ref": "dallas-tx",
+    "city": "Dallas",
+    "state_ref": "texas",
+    "residency_context": {
+      "host_for": [
+        "utsw_neurology",
+        "baylor_umc_dallas_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "baylor_umc_dallas_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        },
+        {
+          "residency_id": "utsw_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography_context": {
+      "proximity_highlights": "Sits on the Trinity River in the Blackland Prairie; ~30min to Fort Worth, ~3.5h to Austin, ~4h to Houston; DFW International is one of the world's busiest airports and anchors the metroplex's connectivity [Tier3|cross_verified:false|estimated|2026-09-14].",
+      "regional_centrality": "Co-anchor (with Fort Worth) of the Dallas-Fort Worth metroplex, the primary business/financial/logistics hub of North Texas and one of the largest US metros; major corporate HQ base (AT&T, American Airlines, ExxonMobil) [Tier3|cross_verified:false|estimated|2026-09-14]."
+    }
+  },
+  {
+    "city_ref": "durham-nc",
+    "city": "Durham",
+    "state_ref": "north-carolina",
+    "residency_context": {
+      "host_for": [
+        "duke_neurology"
+      ],
+      "suburb_for": [
+        {
+          "residency_id": "unc_neurology",
+          "host_city_ref": "chapel-hill-nc",
+          "distance_mi": 12,
+          "drive_time_offpeak_min": 18,
+          "drive_time_rush_min": 28
+        }
+      ],
+      "research_target_for": [
+        {
+          "residency_id": "duke_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography_context": {
+      "proximity_highlights": "12mi from Chapel Hill (cross-listed host); ~23mi from Raleigh; anchors the 'Research Triangle Park' area alongside Duke University and RTP's biotech/pharma corridor [Tier3|cross_verified:false|estimated|2026-09-14].",
+      "regional_centrality": "One of the three Triangle anchor cities (with Raleigh and Chapel Hill); a significant sub-hub in its own right given Duke University/Duke Health and RTP's biotech industry base, though the Triangle functions as one integrated regional labor market [Tier3|cross_verified:false|estimated|2026-09-14]."
+    }
+  },
+  {
+    "city_ref": "englewood-co",
+    "city": "Englewood",
+    "state_ref": "colorado",
+    "residency_context": {
+      "host_for": [
+        "hca_healthone_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "hca_healthone_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography_context": {
+      "proximity_highlights": "Immediately south of Denver proper (~7mi from downtown Denver); part of the inner Denver-metro suburban ring alongside Cherry Hills Village and Littleton [Tier3|cross_verified:false|estimated|2026-09-14].",
+      "regional_centrality": "Small inner-ring Denver suburb, not an independent regional hub; functions entirely within the Denver metro's economic/transportation system [Tier3|cross_verified:false|estimated|2026-09-14]."
+    }
+  },
+  {
+    "city_ref": "farmington-ct",
+    "city": "Farmington",
+    "state_ref": "connecticut",
+    "residency_context": {
+      "host_for": [],
+      "suburb_for": [
+        {
+          "residency_id": "uconn_hartford_neurology",
+          "host_city_ref": "hartford-ct",
+          "distance_mi": 10,
+          "drive_time_offpeak_min": 15,
+          "drive_time_rush_min": 25
+        }
+      ],
+      "research_target_for": [
+        {
+          "residency_id": "uconn_hartford_neurology",
+          "swapped_from_host": true,
+          "swapped_from_host_ref": "hartford-ct",
+          "note": "Hartford's violent crime rate runs well above the national average (murder rate ~3x, FBI data). Swapped to Farmington, a low-crime suburb that is also home to UConn Health's main campus."
+        }
+      ]
+    },
+    "geography_context": {
+      "proximity_highlights": "~10mi west of Hartford in the Farmington Valley; swapped in this dataset for Hartford given lower crime rate (see residency_context note) [Tier3|cross_verified:false|estimated|2026-09-14].",
+      "regional_centrality": "Affluent Hartford-metro suburb, not an independent regional hub; part of the Hartford-East Hartford-Middletown MSA's economic system [Tier3|cross_verified:false|estimated|2026-09-14]."
+    }
+  },
+  {
+    "city_ref": "folsom-ca",
+    "city": "Folsom",
+    "state_ref": "california",
+    "residency_context": {
+      "host_for": [],
+      "suburb_for": [
+        {
+          "residency_id": "ucdavis_neurology",
+          "host_city_ref": "sacramento-ca",
+          "distance_mi": 22,
+          "drive_time_offpeak_min": 28,
+          "drive_time_rush_min": 40
+        }
+      ],
+      "research_target_for": [
+        {
+          "residency_id": "ucdavis_neurology",
+          "swapped_from_host": true,
+          "swapped_from_host_ref": "sacramento-ca",
+          "note": "Sacramento's violent crime rate is ~100%+ above the national average, and UC Davis Medical Center directly borders Oak Park, a neighborhood with a long-documented concentration of violent crime and drug activity. Swapped to Folsom, a low-crime Sacramento suburb (~40-48% below national average)."
+        }
+      ]
+    },
+    "geography_context": {
+      "proximity_highlights": "On the American River at the edge of the Sierra Nevada foothills, ~25mi northeast of downtown Sacramento; Folsom Lake and the historic Folsom Powerhouse/Gold Rush-era downtown are local draws [Tier3|cross_verified:false|estimated|2026-09-14].",
+      "regional_centrality": "Affluent Sacramento-metro suburb/exurb, not an independent regional hub; swapped in this dataset for Sacramento given lower crime rate (see residency_context note) [Tier3|cross_verified:false|estimated|2026-09-14]."
+    }
+  },
+  {
+    "city_ref": "gainesville-fl",
+    "city": "Gainesville",
+    "state_ref": "florida",
+    "residency_context": {
+      "host_for": [
+        "uf_gainesville_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "uf_gainesville_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography_context": {
+      "proximity_highlights": "North-central FL, ~1.5h to Jacksonville/Atlantic coast, ~2h to Tampa/Gulf coast; home to the University of Florida, the dominant presence in the local economy and identity [Tier3|cross_verified:false|estimated|2026-09-14].",
+      "regional_centrality": "Primary hub for north-central FL, distinct from the state's larger coastal metros (Jacksonville, Tampa, Orlando, Miami); a college town whose economy and population are anchored by UF and UF Health/Shands [Tier3|cross_verified:false|estimated|2026-09-14]."
+    }
+  },
+  {
+    "city_ref": "galveston-tx",
+    "city": "Galveston",
+    "state_ref": "texas",
+    "residency_context": {
+      "host_for": [
+        "utmb_galveston_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "utmb_galveston_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography_context": {
+      "proximity_highlights": "Barrier island ~50mi southeast of downtown Houston via I-45; historic Strand District, 32mi of Gulf beaches, and the Bolivar Ferry to the Bolivar Peninsula nearby [Tier3|cross_verified:false|estimated|2026-09-14].",
+      "regional_centrality": "Historic port city, now primarily a resort/tourism and cruise-port satellite of the much larger Houston metro rather than an independent regional hub; still home to UTMB (a major academic medical center) [Tier3|cross_verified:false|estimated|2026-09-14]."
+    }
+  },
+  {
+    "city_ref": "germantown-tn",
+    "city": "Germantown",
+    "state_ref": "tennessee",
+    "residency_context": {
+      "host_for": [],
+      "suburb_for": [
+        {
+          "residency_id": "uthsc_memphis_neurology",
+          "host_city_ref": "memphis-tn",
+          "distance_mi": 15,
+          "drive_time_offpeak_min": 22,
+          "drive_time_rush_min": 32
+        }
+      ],
+      "research_target_for": [
+        {
+          "residency_id": "uthsc_memphis_neurology",
+          "swapped_from_host": true,
+          "swapped_from_host_ref": "memphis-tn",
+          "note": "Memphis has the highest violent crime rate of any large US city per FBI data. Swapped to Germantown, an affluent Memphis suburb with violent crime roughly 85-90% below the national average."
+        }
+      ]
+    },
+    "geography_context": {
+      "proximity_highlights": "Affluent Memphis suburb ~16mi east of downtown Memphis; swapped in this dataset for Memphis given lower crime rate (see residency_context note); on the Mississippi River bluffs region [Tier3|cross_verified:false|estimated|2026-09-14].",
+      "regional_centrality": "Not an independent regional hub - a suburb functioning within the Memphis metro's economy, though notably higher-income than the city core [Tier3|cross_verified:false|estimated|2026-09-14]."
+    }
+  },
+  {
+    "city_ref": "greenville-nc",
+    "city": "Greenville",
+    "state_ref": "north-carolina",
+    "residency_context": {
+      "host_for": [
+        "ecu_health_brody_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "ecu_health_brody_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography_context": {
+      "proximity_highlights": "On the Tar River in NC's Inner Coastal Plain; ~1.5h to the Outer Banks/Atlantic beaches, ~1.5h to Raleigh; East Carolina University dominates the local economy and identity [Tier3|cross_verified:false|estimated|2026-09-14].",
+      "regional_centrality": "Primary regional hub for eastern NC's Coastal Plain (a sub-region otherwise lacking a large metro), anchored by ECU and ECU Health's regional referral hospital system, though far smaller than the Triangle/Triad/Charlotte metros [Tier3|cross_verified:false|estimated|2026-09-14]."
+    }
+  },
+  {
+    "city_ref": "honolulu-hi",
+    "city": "Honolulu",
+    "state_ref": "hawaii",
+    "residency_context": {
+      "host_for": [
+        "hawaii_jabsom_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "hawaii_jabsom_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography_context": {
+      "proximity_highlights": "On the south shore of Oahu; Waikiki Beach, Diamond Head, and Pearl Harbor/USS Arizona Memorial are the defining tourist draws; ~200mi (a short interisland flight) from the Big Island's Kilauea volcano, the source of vog affecting Oahu's air [Tier3|cross_verified:false|estimated|2026-09-14].",
+      "regional_centrality": "State capital and by far the largest city in Hawaii, the undisputed economic/cultural/transportation hub of the state; geographically isolated from every other city in this dataset (nearest mainland US city is ~2,500mi away) [Tier3|cross_verified:false|estimated|2026-09-14]."
+    }
+  },
+  {
+    "city_ref": "jacksonville-fl",
+    "city": "Jacksonville",
+    "state_ref": "florida",
+    "residency_context": {
+      "host_for": [
+        "mayo_jacksonville_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "mayo_jacksonville_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography_context": {
+      "proximity_highlights": "On the St. Johns River near the FL/GA border, with Atlantic beaches (Jacksonville Beach) within city limits; ~1.5h to Gainesville, ~4.5h to Miami; largest city by land area in the contiguous US (consolidated city-county) [Tier3|cross_verified:false|estimated|2026-09-14].",
+      "regional_centrality": "Largest city in FL by population and a major independent regional hub for northeast FL/southeast GA, anchored by a large financial-services and logistics/port sector (JAXPORT) [Tier3|cross_verified:false|estimated|2026-09-14]."
+    }
+  },
+  {
+    "city_ref": "knoxville-tn",
+    "city": "Knoxville",
+    "state_ref": "tennessee",
+    "residency_context": {
+      "host_for": [
+        "utgsm_knoxville_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "utgsm_knoxville_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography_context": {
+      "proximity_highlights": "In the Tennessee River valley at the foot of the Great Smoky Mountains; ~45min to Great Smoky Mountains National Park (the most-visited US national park); University of Tennessee's flagship campus anchors downtown [Tier3|cross_verified:false|estimated|2026-09-14].",
+      "regional_centrality": "Primary regional hub for East Tennessee/the Tennessee Valley, distinct from Nashville (Middle TN) and Memphis (West TN); a gateway city for Smoky Mountains tourism [Tier3|cross_verified:false|estimated|2026-09-14]."
+    }
+  },
+  {
+    "city_ref": "los-angeles-ca",
+    "city": "Los Angeles",
+    "state_ref": "california",
+    "residency_context": {
+      "host_for": [
+        "ucla_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "ucla_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography_context": {
+      "proximity_highlights": "Los Angeles Basin ringed by the Santa Monica, San Gabriel, and San Bernardino mountains; ~2h to Palm Springs desert, ~1.5h to San Diego, direct Pacific coastline (Santa Monica, Venice, Malibu) [Tier3|cross_verified:false|estimated|2026-09-14].",
+      "regional_centrality": "Primary economic/entertainment/cultural hub of Southern California and the nation's 2nd-largest metro; anchors the massive LA-Long Beach-Anaheim combined statistical area [Tier3|cross_verified:false|estimated|2026-09-14]."
+    }
+  },
+  {
+    "city_ref": "miami-fl",
+    "city": "Miami",
+    "state_ref": "florida",
+    "residency_context": {
+      "host_for": [
+        "umiami_jackson_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "umiami_jackson_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography_context": {
+      "proximity_highlights": "On Biscayne Bay at the southeastern tip of the FL peninsula, ~1h to the Florida Keys, direct access to the Everglades to the west; South Beach/Art Deco district and a major cruise port define the tourist identity [Tier3|cross_verified:false|estimated|2026-09-14].",
+      "regional_centrality": "Primary international gateway city for Latin America/Caribbean trade and finance, and the anchor of the Miami-Ft.Lauderdale-W.Palm Beach metro, the largest in FL [Tier3|cross_verified:false|estimated|2026-09-14]."
+    }
+  },
+  {
+    "city_ref": "nashville-tn",
+    "city": "Nashville",
+    "state_ref": "tennessee",
+    "residency_context": {
+      "host_for": [
+        "vanderbilt_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "vanderbilt_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography_context": {
+      "proximity_highlights": "On the Cumberland River in Middle Tennessee; ~3h to Knoxville, ~3.5h to Memphis; globally recognized as the center of the country-music industry ('Music City'), with Broadway's honky-tonks and the Grand Ole Opry as defining tourist draws [Tier3|cross_verified:false|estimated|2026-09-14].",
+      "regional_centrality": "TN's state capital and largest metro, the primary economic/healthcare/entertainment hub of Middle Tennessee; one of the fastest-growing major US metros in recent years [Tier3|cross_verified:false|estimated|2026-09-14]."
+    }
+  },
+  {
+    "city_ref": "oklahoma-city-ok",
+    "city": "Oklahoma City",
+    "state_ref": "oklahoma",
+    "residency_context": {
+      "host_for": [
+        "ou_health_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "ou_health_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography_context": {
+      "proximity_highlights": "In the Southern Plains at the crossroads of I-35/I-40; ~1.5h to Tulsa, no major mountain ranges or coastline nearby - the most geographically 'interior/continental' city in this dataset alongside Nashville/Dallas; the Bricktown entertainment district and National Cowboy & Western Heritage Museum are local draws [Tier3|cross_verified:false|estimated|2026-09-14].",
+      "regional_centrality": "Oklahoma's state capital and largest city, the primary economic/government hub of the Southern Plains region between Dallas-Fort Worth and Kansas City [Tier3|cross_verified:false|estimated|2026-09-14]."
+    }
+  },
+  {
+    "city_ref": "palo-alto-ca",
+    "city": "Palo Alto",
+    "state_ref": "california",
+    "residency_context": {
+      "host_for": [
+        "stanford_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "stanford_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography_context": {
+      "proximity_highlights": "On the San Francisco Peninsula between the Bay and the Santa Cruz Mountains; adjacent to Stanford University; ~35mi to San Francisco, ~15mi to San Jose, at the historical heart of Silicon Valley [Tier3|cross_verified:false|estimated|2026-09-14].",
+      "regional_centrality": "Not an independent metro center but a high-profile anchor node within the Bay Area/Silicon Valley tech corridor, disproportionately influential given Stanford and its concentration of venture capital and tech HQs [Tier3|cross_verified:false|estimated|2026-09-14]."
+    }
+  },
+  {
+    "city_ref": "phoenix-az",
+    "city": "Phoenix",
+    "state_ref": "arizona",
+    "residency_context": {
+      "host_for": [
+        "barrow_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "barrow_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography_context": {
+      "proximity_highlights": "In the Sonoran Desert's Salt River Valley ('the Valley of the Sun'); ~2h to Sedona/red rock country, ~3h to the Grand Canyon, ~3h to Tucson; Camelback Mountain and South Mountain Park within city limits [Tier3|cross_verified:false|estimated|2026-09-14].",
+      "regional_centrality": "Arizona's state capital and by far the largest city in the state, the primary economic/government hub of the Southwest interior; anchors one of the fastest-growing major US metros [Tier3|cross_verified:false|estimated|2026-09-14]."
+    }
+  },
+  {
+    "city_ref": "portland-or",
+    "city": "Portland",
+    "state_ref": "oregon",
+    "residency_context": {
+      "host_for": [
+        "ohsu_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "ohsu_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography_context": {
+      "proximity_highlights": "At the confluence of the Willamette and Columbia rivers; ~1.5h to Mt. Hood, ~1.5h to the Oregon Coast, ~3h to Seattle; known for Powell's Books, food-cart culture, and extensive urban green space (Forest Park) [Tier3|cross_verified:false|estimated|2026-09-14].",
+      "regional_centrality": "Largest city in Oregon and the state's primary commercial/industrial/cultural hub and leading West Coast port, per Britannica's own description; anchors the Portland-Vancouver metro spanning the OR/WA border [Tier3|cross_verified:false|estimated|2026-09-14]."
+    }
+  },
+  {
+    "city_ref": "providence-ri",
+    "city": "Providence",
+    "state_ref": "rhode-island",
+    "residency_context": {
+      "host_for": [
+        "brown_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "brown_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography_context": {
+      "proximity_highlights": "At the head of Narragansett Bay; ~1h to Newport's coastal mansions, ~1h to Boston, ~3h to New York City; a dense, historic New England city anchored by Brown University and RISD [Tier3|cross_verified:false|estimated|2026-09-14].",
+      "regional_centrality": "Rhode Island's state capital and largest city, the state's undisputed economic/cultural hub given RI's small size (the whole state functions largely as one metro area) [Tier3|cross_verified:false|estimated|2026-09-14]."
+    }
+  },
+  {
+    "city_ref": "richmond-va",
+    "city": "Richmond",
+    "state_ref": "virginia",
+    "residency_context": {
+      "host_for": [
+        "vcu_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "vcu_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography_context": {
+      "proximity_highlights": "Fall Line city where the James River drops through a 7-mile rapids zone through downtown; ~1.5h to Virginia Beach/Atlantic coast, ~1.5h to Charlottesville, ~2h to Washington DC [Tier3|cross_verified:false|estimated|2026-09-14].",
+      "regional_centrality": "Virginia's state capital and the primary economic/government hub of central VA; significant regional healthcare and financial-services center (VCU Health, Capital One HQ area) [Tier3|cross_verified:false|estimated|2026-09-14]."
+    }
+  },
+  {
+    "city_ref": "roanoke-va",
+    "city": "Roanoke",
+    "state_ref": "virginia",
+    "residency_context": {
+      "host_for": [
+        "carilion_vtc_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "carilion_vtc_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography_context": {
+      "proximity_highlights": "In the Roanoke Valley along the Blue Ridge Parkway/Mill Mountain; ~3.5h to Richmond, ~3h to DC, ~1.5h to the WV border; Mill Mountain Star ('world's largest freestanding illuminated star') visible from most of the city [Tier3|cross_verified:false|estimated|2026-09-14].",
+      "regional_centrality": "Largest city and primary regional hub of Southwest Virginia (the 'Star City of the South'), geographically and economically distinct from the I-95 corridor cities (Richmond/DC) elsewhere in this dataset [Tier3|cross_verified:false|estimated|2026-09-14]."
+    }
+  },
+  {
+    "city_ref": "salisbury-md",
+    "city": "Salisbury",
+    "state_ref": "maryland",
+    "residency_context": {
+      "host_for": [
+        "tidalhealth_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "tidalhealth_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography_context": {
+      "proximity_highlights": "Largest city on Maryland's Eastern Shore/Delmarva Peninsula; ~30mi to Ocean City/Atlantic beaches, ~2.5h to Baltimore/DC across the Bay Bridge [Tier3|cross_verified:false|estimated|2026-09-14].",
+      "regional_centrality": "Primary regional hub for the Eastern Shore/Delmarva Peninsula (a sub-region otherwise lacking a large metro), anchored by Salisbury University and TidalHealth Peninsula Regional's referral hospital system [Tier3|cross_verified:false|estimated|2026-09-14]."
+    }
+  },
+  {
+    "city_ref": "salt-lake-city-ut",
+    "city": "Salt Lake City",
+    "state_ref": "utah",
+    "residency_context": {
+      "host_for": [
+        "univ_utah_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "univ_utah_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography_context": {
+      "proximity_highlights": "On the Wasatch Front between the Wasatch Mountains and the Great Salt Lake; ~40min to multiple world-class ski resorts (Alta, Snowbird, Park City); ~4h to the Utah/Arizona 'Mighty 5' national park corridor is a longer haul but the Wasatch canyons are immediate [Tier3|cross_verified:false|estimated|2026-09-14].",
+      "regional_centrality": "Utah's state capital and largest city, the primary economic/religious (LDS Church world headquarters)/transportation hub of the Mountain West interior, anchoring the Wasatch Front's chain of cities [Tier3|cross_verified:false|estimated|2026-09-14]."
+    }
+  },
+  {
+    "city_ref": "san-diego-ca",
+    "city": "San Diego",
+    "state_ref": "california",
+    "residency_context": {
+      "host_for": [
+        "ucsd_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "ucsd_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography_context": {
+      "proximity_highlights": "On the Pacific coast at the CA/Mexico border, ~20min to Tijuana; Balboa Park, San Diego Zoo, and extensive naval/military presence (Naval Base San Diego, Marine Corps Base Camp Pendleton nearby) define the local landscape [Tier3|cross_verified:false|estimated|2026-09-14].",
+      "regional_centrality": "2nd-largest city in CA and an independent major metro (not a satellite of LA), anchored by biotech, defense/military, and tourism industries [Tier3|cross_verified:false|estimated|2026-09-14]."
+    }
+  },
+  {
+    "city_ref": "san-francisco-ca",
+    "city": "San Francisco",
+    "state_ref": "california",
+    "residency_context": {
+      "host_for": [
+        "ucsf_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "ucsf_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography_context": {
+      "proximity_highlights": "On a peninsula between the Pacific Ocean and San Francisco Bay; Golden Gate Bridge, Alcatraz, and cable cars define the tourist identity; ~35mi to Palo Alto/Silicon Valley, ~1.5h to Napa/Sonoma wine country [Tier3|cross_verified:false|estimated|2026-09-14].",
+      "regional_centrality": "Cultural and (historically) financial anchor of the Bay Area, though tech-industry gravity has shifted somewhat toward Silicon Valley/Peninsula cities in recent decades; still the Bay Area's most internationally recognized city [Tier3|cross_verified:false|estimated|2026-09-14]."
+    }
+  },
+  {
+    "city_ref": "scottsdale-az",
+    "city": "Scottsdale",
+    "state_ref": "arizona",
+    "residency_context": {
+      "host_for": [
+        "mayo_scottsdale_phoenix_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "mayo_scottsdale_phoenix_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography_context": {
+      "proximity_highlights": "Immediately east of Phoenix in the Valley of the Sun; home to the McDowell Sonoran Preserve (one of the largest urban desert preserves in the US) and a major golf/resort-tourism economy; ~30min to downtown Phoenix [Tier3|cross_verified:false|estimated|2026-09-14].",
+      "regional_centrality": "Affluent Phoenix-metro suburb known for resorts, golf, and Old Town shopping/dining, not an independent regional hub - functions within the Phoenix metro's economy [Tier3|cross_verified:false|estimated|2026-09-14]."
+    }
+  },
+  {
+    "city_ref": "seattle-wa",
+    "city": "Seattle",
+    "state_ref": "washington",
+    "residency_context": {
+      "host_for": [
+        "uw_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "uw_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography_context": {
+      "proximity_highlights": "On Puget Sound between the Olympic and Cascade mountain ranges; ~2.5h to Mt. Rainier, ~3h to the Olympic Peninsula rainforest, ferry access to the San Juan Islands; Pike Place Market and the Space Needle anchor the tourist identity [Tier3|cross_verified:false|estimated|2026-09-14].",
+      "regional_centrality": "Largest city in the Pacific Northwest and the primary economic/tech-industry hub of the region (Amazon, Microsoft HQ-adjacent, Boeing legacy), anchoring the Seattle-Tacoma-Bellevue metro [Tier3|cross_verified:false|estimated|2026-09-14]."
+    }
+  },
+  {
+    "city_ref": "tacoma-wa",
+    "city": "Tacoma",
+    "state_ref": "washington",
+    "residency_context": {
+      "host_for": [
+        "madigan_army_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "madigan_army_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography_context": {
+      "proximity_highlights": "On Commencement Bay at the south end of Puget Sound; ~30min to Seattle, ~1h to Mt. Rainier (closer than Seattle); the Museum of Glass and a revitalized waterfront are local draws [Tier3|cross_verified:false|estimated|2026-09-14].",
+      "regional_centrality": "3rd-largest city in WA, historically a major port/industrial city, now increasingly a lower-cost satellite within the greater Seattle metro's economy while retaining its own port/logistics base (Port of Tacoma) [Tier3|cross_verified:false|estimated|2026-09-14]."
+    }
+  },
+  {
+    "city_ref": "tampa-fl",
+    "city": "Tampa",
+    "state_ref": "florida",
+    "residency_context": {
+      "host_for": [
+        "usf_morsani_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "usf_morsani_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography_context": {
+      "proximity_highlights": "On Tampa Bay along the Gulf Coast, adjacent to St. Petersburg/Clearwater; ~1.5h to Orlando, ~3h to Miami; a major cruise port and MacDill Air Force Base (US Central Command HQ) are locally significant [Tier3|cross_verified:false|estimated|2026-09-14].",
+      "regional_centrality": "Anchor city of the Tampa-St. Petersburg-Clearwater metro, the primary economic/healthcare hub of FL's west-central Gulf Coast [Tier3|cross_verified:false|estimated|2026-09-14]."
+    }
+  },
+  {
+    "city_ref": "winston-salem-nc",
+    "city": "Winston-Salem",
+    "state_ref": "north-carolina",
+    "residency_context": {
+      "host_for": [
+        "wake_forest_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "wake_forest_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography_context": {
+      "proximity_highlights": "Anchor city of the Piedmont Triad alongside Greensboro and High Point; ~80mi from Charlotte, ~90mi from Raleigh; Old Salem's preserved 18th-century Moravian district sits adjacent to downtown [Tier3|cross_verified:false|estimated|2026-09-14].",
+      "regional_centrality": "Primary anchor of the Piedmont Triad sub-region, a distinct metro from the Triangle and Charlotte; historically a tobacco/textile hub, now diversified into healthcare (Wake Forest Baptist) and finance [Tier3|cross_verified:false|estimated|2026-09-14]."
+    }
+  },
+  {
+    "city_ref": "woodbridge-ct",
+    "city": "Woodbridge",
+    "state_ref": "connecticut",
+    "residency_context": {
+      "host_for": [],
+      "suburb_for": [
+        {
+          "residency_id": "yale_neurology",
+          "host_city_ref": "new-haven-ct",
+          "distance_mi": 8,
+          "drive_time_offpeak_min": 15,
+          "drive_time_rush_min": 22
+        }
+      ],
+      "research_target_for": [
+        {
+          "residency_id": "yale_neurology",
+          "swapped_from_host": true,
+          "swapped_from_host_ref": "new-haven-ct",
+          "note": "New Haven's citywide crime rate runs well above the national average, and the Hill neighborhood around Yale-New Haven Hospital shows above-average violent crime in local data. Swapped to Woodbridge, one of the lowest-crime towns in Connecticut."
+        }
+      ]
+    },
+    "geography_context": {
+      "proximity_highlights": "Quiet New Haven suburb ~8mi from downtown New Haven/Yale; swapped in this dataset for New Haven given lower crime rate (see residency_context note); closer to Long Island Sound than Farmington [Tier3|cross_verified:false|estimated|2026-09-14].",
+      "regional_centrality": "Small affluent New Haven-metro suburb, not an independent regional hub; part of the New Haven-Milford MSA's economic system [Tier3|cross_verified:false|estimated|2026-09-14]."
+    }
+  }
+]

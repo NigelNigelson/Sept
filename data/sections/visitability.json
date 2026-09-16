@@ -1,0 +1,1206 @@
+[
+  {
+    "city_ref": "atlanta-ga",
+    "city": "Atlanta",
+    "state_ref": "georgia",
+    "residency_context": {
+      "host_for": [
+        "emory_neurology",
+        "morehouse_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "emory_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        },
+        {
+          "residency_id": "morehouse_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "visitability": {
+      "nearest_airport": {
+        "airport_code": "ATL",
+        "airport_name": "Hartsfield-Jackson Atlanta International Airport [Tier1|cross_verified:false|verified|2026-09-13] (reaffirms/restructures the airport identified in geography.nearest_airport (same underlying fact, independently re-picked where a closer or better-served alternative existed))",
+        "distance_mi": "~10 mi [Tier1|cross_verified:false|verified|2026-09-13]",
+        "drive_time_min": "~15 min by car in typical traffic, sourced [Tier2|cross_verified:false|estimated|2026-09-13]"
+      },
+      "distance_from_anchors": "San Francisco, CA: ~2134 mi great-circle (airport-to-airport, ATL→SFO); ~3h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Virginia (using Washington Dulles/IAD as a representative VA airport, per instruction that the specific airport doesn't matter): ~534 mi great-circle (ATL→IAD); ~0h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Phoenix, AZ: ~1584 mi great-circle (ATL→PHX); ~2h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | METHOD NOTE: distances are great-circle (straight-line) airport-to-airport using published airport coordinates, computed directly — not driving distance, and not independently re-verified via live search. Time differences use the same nominal zone convention as commute.ez_time_diff (0h=Eastern,1h=Central,2h=Mountain,3h=Pacific), which does not track seasonal DST shifts. Arizona and Hawaii don't observe DST, so their real-world offset from Pacific/Mountain-observing cities shifts by up to 1h depending on time of year — e.g. Phoenix matches Pacific Daylight Time (not Mountain Daylight Time) for most of the year.",
+      "nearby_pois": "Known for: World of Coca-Cola, the Georgia Aquarium, CNN Center, the Martin Luther King Jr. National Historical Park, and the Atlanta BeltLine [Tier3|cross_verified:false|estimated|2026-09-13] (well-established general knowledge, not individually re-searched this pass)"
+    }
+  },
+  {
+    "city_ref": "augusta-ga",
+    "city": "Augusta",
+    "state_ref": "georgia",
+    "residency_context": {
+      "host_for": [
+        "mcg_augusta_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "mcg_augusta_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "visitability": {
+      "nearest_airport": {
+        "airport_code": "AGS",
+        "airport_name": "Augusta Regional Airport [Tier3|cross_verified:false|estimated|2026-09-13] (airport identified consistent with geography.nearest_airport; distance/drive time not independently re-sourced this pass)",
+        "distance_mi": "~9 mi [Tier3|cross_verified:false|estimated|2026-09-13]",
+        "drive_time_min": "~15 min by car in typical traffic, estimated from distance [Tier3|cross_verified:false|estimated|2026-09-13]"
+      },
+      "distance_from_anchors": "San Francisco, CA: ~2275 mi great-circle (airport-to-airport, AGS→SFO); ~3h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Virginia (using Washington Dulles/IAD as a representative VA airport, per instruction that the specific airport doesn't matter): ~460 mi great-circle (AGS→IAD); ~0h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Phoenix, AZ: ~1727 mi great-circle (AGS→PHX); ~2h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | METHOD NOTE: distances are great-circle (straight-line) airport-to-airport using published airport coordinates, computed directly — not driving distance, and not independently re-verified via live search. Time differences use the same nominal zone convention as commute.ez_time_diff (0h=Eastern,1h=Central,2h=Mountain,3h=Pacific), which does not track seasonal DST shifts. Arizona and Hawaii don't observe DST, so their real-world offset from Pacific/Mountain-observing cities shifts by up to 1h depending on time of year — e.g. Phoenix matches Pacific Daylight Time (not Mountain Daylight Time) for most of the year.",
+      "nearby_pois": "Known for: the Masters Golf Tournament & Augusta National Golf Club (the city's defining identity), the Augusta Riverwalk along the Savannah River, and the boyhood home of James Brown [Tier3|cross_verified:false|verified|2026-09-13] (dedicated search this pass)"
+    }
+  },
+  {
+    "city_ref": "aurora-co",
+    "city": "Aurora",
+    "state_ref": "colorado",
+    "residency_context": {
+      "host_for": [
+        "univ_colorado_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "univ_colorado_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "visitability": {
+      "nearest_airport": {
+        "airport_code": "DEN",
+        "airport_name": "Denver International Airport [Tier2|cross_verified:false|estimated|2026-09-13] (airport identified consistent with geography.nearest_airport; distance/drive time not independently re-sourced this pass)",
+        "distance_mi": "~15 mi [Tier2|cross_verified:false|estimated|2026-09-13]",
+        "drive_time_min": "~22 min by car in typical traffic, estimated from distance [Tier3|cross_verified:false|estimated|2026-09-13]"
+      },
+      "distance_from_anchors": "San Francisco, CA: ~965 mi great-circle (airport-to-airport, DEN→SFO); ~1h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Virginia (using Washington Dulles/IAD as a representative VA airport, per instruction that the specific airport doesn't matter): ~1449 mi great-circle (DEN→IAD); ~2h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Phoenix, AZ: ~602 mi great-circle (DEN→PHX); ~0h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | METHOD NOTE: distances are great-circle (straight-line) airport-to-airport using published airport coordinates, computed directly — not driving distance, and not independently re-verified via live search. Time differences use the same nominal zone convention as commute.ez_time_diff (0h=Eastern,1h=Central,2h=Mountain,3h=Pacific), which does not track seasonal DST shifts. Arizona and Hawaii don't observe DST, so their real-world offset from Pacific/Mountain-observing cities shifts by up to 1h depending on time of year — e.g. Phoenix matches Pacific Daylight Time (not Mountain Daylight Time) for most of the year.",
+      "nearby_pois": "Known for: no single iconic draw; local touristy spots include Cherry Creek State Park, the Stanley Marketplace (shopping/dining hub), Aurora Reservoir, and the Aurora History Museum [Tier3|cross_verified:false|verified|2026-09-13] (dedicated search this pass)"
+    }
+  },
+  {
+    "city_ref": "austin-tx",
+    "city": "Austin",
+    "state_ref": "texas",
+    "residency_context": {
+      "host_for": [
+        "dellmed_utaustin_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "dellmed_utaustin_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "visitability": {
+      "nearest_airport": {
+        "airport_code": "AUS",
+        "airport_name": "Austin-Bergstrom International Airport [Tier2|cross_verified:false|estimated|2026-09-13] (airport identified consistent with geography.nearest_airport; distance/drive time not independently re-sourced this pass)",
+        "distance_mi": "~8 mi [Tier2|cross_verified:false|estimated|2026-09-13]",
+        "drive_time_min": "~15 min by car in typical traffic, estimated from distance [Tier3|cross_verified:false|estimated|2026-09-13]"
+      },
+      "distance_from_anchors": "San Francisco, CA: ~1502 mi great-circle (airport-to-airport, AUS→SFO); ~2h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Virginia (using Washington Dulles/IAD as a representative VA airport, per instruction that the specific airport doesn't matter): ~1295 mi great-circle (AUS→IAD); ~1h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Phoenix, AZ: ~870 mi great-circle (AUS→PHX); ~1h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | METHOD NOTE: distances are great-circle (straight-line) airport-to-airport using published airport coordinates, computed directly — not driving distance, and not independently re-verified via live search. Time differences use the same nominal zone convention as commute.ez_time_diff (0h=Eastern,1h=Central,2h=Mountain,3h=Pacific), which does not track seasonal DST shifts. Arizona and Hawaii don't observe DST, so their real-world offset from Pacific/Mountain-observing cities shifts by up to 1h depending on time of year — e.g. Phoenix matches Pacific Daylight Time (not Mountain Daylight Time) for most of the year.",
+      "nearby_pois": "Known for: live music on Sixth Street (\"Live Music Capital of the World\"), SXSW, Barton Springs Pool, the Texas State Capitol, and the South Congress food-truck/shopping strip [Tier3|cross_verified:false|estimated|2026-09-13] (well-established general knowledge, not individually re-searched this pass)"
+    }
+  },
+  {
+    "city_ref": "chapel-hill-nc",
+    "city": "Chapel Hill",
+    "state_ref": "north-carolina",
+    "residency_context": {
+      "host_for": [
+        "unc_neurology"
+      ],
+      "suburb_for": [
+        {
+          "residency_id": "duke_neurology",
+          "host_city_ref": "durham-nc",
+          "distance_mi": 12,
+          "drive_time_offpeak_min": 18,
+          "drive_time_rush_min": 28
+        }
+      ],
+      "research_target_for": [
+        {
+          "residency_id": "unc_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "visitability": {
+      "nearest_airport": {
+        "airport_code": "RDU",
+        "airport_name": "Raleigh-Durham International Airport [Tier1|cross_verified:false|verified|2026-09-13] (reaffirms/restructures the airport identified in geography.nearest_airport (same underlying fact, independently re-picked where a closer or better-served alternative existed))",
+        "distance_mi": "~15 mi [Tier1|cross_verified:false|verified|2026-09-13]",
+        "drive_time_min": "~22 min by car in typical traffic, estimated from distance [Tier2|cross_verified:false|estimated|2026-09-13]"
+      },
+      "distance_from_anchors": "San Francisco, CA: ~2395 mi great-circle (airport-to-airport, RDU→SFO); ~3h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Virginia (using Washington Dulles/IAD as a representative VA airport, per instruction that the specific airport doesn't matter): ~225 mi great-circle (RDU→IAD); ~0h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Phoenix, AZ: ~1887 mi great-circle (RDU→PHX); ~2h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | METHOD NOTE: distances are great-circle (straight-line) airport-to-airport using published airport coordinates, computed directly — not driving distance, and not independently re-verified via live search. Time differences use the same nominal zone convention as commute.ez_time_diff (0h=Eastern,1h=Central,2h=Mountain,3h=Pacific), which does not track seasonal DST shifts. Arizona and Hawaii don't observe DST, so their real-world offset from Pacific/Mountain-observing cities shifts by up to 1h depending on time of year — e.g. Phoenix matches Pacific Daylight Time (not Mountain Daylight Time) for most of the year.",
+      "nearby_pois": "Known for: the UNC-Chapel Hill campus (the Old Well, Franklin Street, Kenan Memorial Stadium) and its Tar Heels basketball/college-town identity [Tier3|cross_verified:false|verified|2026-09-13] (dedicated search this pass)"
+    }
+  },
+  {
+    "city_ref": "charlottesville-va",
+    "city": "Charlottesville",
+    "state_ref": "virginia",
+    "residency_context": {
+      "host_for": [
+        "uva_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "uva_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "visitability": {
+      "nearest_airport": {
+        "airport_code": "CHO",
+        "airport_name": "Charlottesville-Albemarle Airport [Tier3|cross_verified:false|estimated|2026-09-13] (airport identified consistent with geography.nearest_airport; distance/drive time not independently re-sourced this pass)",
+        "distance_mi": "~8 mi [Tier3|cross_verified:false|estimated|2026-09-13]",
+        "drive_time_min": "~15 min by car in typical traffic, estimated from distance [Tier3|cross_verified:false|estimated|2026-09-13]"
+      },
+      "distance_from_anchors": "San Francisco, CA: ~2373 mi great-circle (airport-to-airport, CHO→SFO); ~3h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Virginia (using Washington Dulles/IAD as a representative VA airport, per instruction that the specific airport doesn't matter): ~78 mi great-circle (CHO→IAD); ~0h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Phoenix, AZ: ~1898 mi great-circle (CHO→PHX); ~2h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | METHOD NOTE: distances are great-circle (straight-line) airport-to-airport using published airport coordinates, computed directly — not driving distance, and not independently re-verified via live search. Time differences use the same nominal zone convention as commute.ez_time_diff (0h=Eastern,1h=Central,2h=Mountain,3h=Pacific), which does not track seasonal DST shifts. Arizona and Hawaii don't observe DST, so their real-world offset from Pacific/Mountain-observing cities shifts by up to 1h depending on time of year — e.g. Phoenix matches Pacific Daylight Time (not Mountain Daylight Time) for most of the year.",
+      "nearby_pois": "Known for: Monticello (Thomas Jefferson's home, a UNESCO World Heritage Site), the University of Virginia (the Rotunda and the Lawn, also UNESCO-listed), and the Monticello Wine Trail [Tier3|cross_verified:false|verified|2026-09-13] (dedicated search this pass)"
+    }
+  },
+  {
+    "city_ref": "columbia-md",
+    "city": "Columbia",
+    "state_ref": "maryland",
+    "residency_context": {
+      "host_for": [],
+      "suburb_for": [
+        {
+          "residency_id": "johns_hopkins_neurology",
+          "host_city_ref": "baltimore-md",
+          "distance_mi": 20,
+          "drive_time_offpeak_min": 28,
+          "drive_time_rush_min": 42
+        },
+        {
+          "residency_id": "univ_maryland_neurology",
+          "host_city_ref": "baltimore-md",
+          "distance_mi": 18,
+          "drive_time_offpeak_min": 25,
+          "drive_time_rush_min": 38
+        }
+      ],
+      "research_target_for": [
+        {
+          "residency_id": "johns_hopkins_neurology",
+          "swapped_from_host": true,
+          "swapped_from_host_ref": "baltimore-md",
+          "note": "Baltimore's violent crime rate runs ~3-4x the national average, and the blocks immediately around Johns Hopkins Hospital in East Baltimore have a well-documented pattern of shootings and robberies (JHU security alerts, local news). Swapped to Columbia, MD, repeatedly ranked one of the safest cities in the US (WalletHub)."
+        },
+        {
+          "residency_id": "univ_maryland_neurology",
+          "swapped_from_host": true,
+          "swapped_from_host_ref": "baltimore-md",
+          "note": "Same Baltimore host-city problem as Johns Hopkins (citywide violent crime ~3-4x national average, west-side hospital corridor affected too). Swapped to Columbia, MD, a repeat WalletHub #1 safest city."
+        }
+      ]
+    },
+    "visitability": {
+      "nearest_airport": {
+        "airport_code": "BWI",
+        "airport_name": "Baltimore/Washington International Thurgood Marshall Airport [Tier1|cross_verified:false|verified|2026-09-13] (reaffirms/restructures the airport identified in geography.nearest_airport (same underlying fact, independently re-picked where a closer or better-served alternative existed))",
+        "distance_mi": "~15 mi [Tier1|cross_verified:false|verified|2026-09-13]",
+        "drive_time_min": "~20 min by car in typical traffic, estimated from distance [Tier2|cross_verified:false|estimated|2026-09-13]"
+      },
+      "distance_from_anchors": "San Francisco, CA: ~2451 mi great-circle (airport-to-airport, BWI→SFO); ~3h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Virginia (using Washington Dulles/IAD as a representative VA airport, per instruction that the specific airport doesn't matter): ~45 mi great-circle (BWI→IAD); ~0h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Phoenix, AZ: ~1994 mi great-circle (BWI→PHX); ~2h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | METHOD NOTE: distances are great-circle (straight-line) airport-to-airport using published airport coordinates, computed directly — not driving distance, and not independently re-verified via live search. Time differences use the same nominal zone convention as commute.ez_time_diff (0h=Eastern,1h=Central,2h=Mountain,3h=Pacific), which does not track seasonal DST shifts. Arizona and Hawaii don't observe DST, so their real-world offset from Pacific/Mountain-observing cities shifts by up to 1h depending on time of year — e.g. Phoenix matches Pacific Daylight Time (not Mountain Daylight Time) for most of the year.",
+      "nearby_pois": "Known for: Merriweather Post Pavilion (major outdoor concert venue), Lake Kittamaqundi, and its identity as one of the first major planned communities in the US (developer James Rouse) [Tier3|cross_verified:false|verified|2026-09-13] (dedicated search this pass)"
+    }
+  },
+  {
+    "city_ref": "dallas-tx",
+    "city": "Dallas",
+    "state_ref": "texas",
+    "residency_context": {
+      "host_for": [
+        "utsw_neurology",
+        "baylor_umc_dallas_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "baylor_umc_dallas_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        },
+        {
+          "residency_id": "utsw_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "visitability": {
+      "nearest_airport": {
+        "airport_code": "DAL",
+        "airport_name": "Dallas Love Field [Tier2|cross_verified:false|estimated|2026-09-13] (airport identified consistent with geography.nearest_airport; distance/drive time not independently re-sourced this pass) NOTE: Love Field (DAL) chosen as literal nearest by distance and has commercial service (Southwest hub); Dallas/Fort Worth International (DFW) is the larger hub, ~17 mi from downtown, if broader connectivity matters more than proximity.",
+        "distance_mi": "~6 mi [Tier2|cross_verified:false|estimated|2026-09-13]",
+        "drive_time_min": "~12 min by car in typical traffic, estimated from distance [Tier3|cross_verified:false|estimated|2026-09-13]"
+      },
+      "distance_from_anchors": "San Francisco, CA: ~1473 mi great-circle (airport-to-airport, DAL→SFO); ~2h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Virginia (using Washington Dulles/IAD as a representative VA airport, per instruction that the specific airport doesn't matter): ~1162 mi great-circle (DAL→IAD); ~1h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Phoenix, AZ: ~877 mi great-circle (DAL→PHX); ~1h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | METHOD NOTE: distances are great-circle (straight-line) airport-to-airport using published airport coordinates, computed directly — not driving distance, and not independently re-verified via live search. Time differences use the same nominal zone convention as commute.ez_time_diff (0h=Eastern,1h=Central,2h=Mountain,3h=Pacific), which does not track seasonal DST shifts. Arizona and Hawaii don't observe DST, so their real-world offset from Pacific/Mountain-observing cities shifts by up to 1h depending on time of year — e.g. Phoenix matches Pacific Daylight Time (not Mountain Daylight Time) for most of the year.",
+      "nearby_pois": "Known for: the Sixth Floor Museum at Dealey Plaza (JFK assassination site), the Dallas Arts District, and Reunion Tower [Tier3|cross_verified:false|estimated|2026-09-13] (well-established general knowledge, not individually re-searched this pass)"
+    }
+  },
+  {
+    "city_ref": "durham-nc",
+    "city": "Durham",
+    "state_ref": "north-carolina",
+    "residency_context": {
+      "host_for": [
+        "duke_neurology"
+      ],
+      "suburb_for": [
+        {
+          "residency_id": "unc_neurology",
+          "host_city_ref": "chapel-hill-nc",
+          "distance_mi": 12,
+          "drive_time_offpeak_min": 18,
+          "drive_time_rush_min": 28
+        }
+      ],
+      "research_target_for": [
+        {
+          "residency_id": "duke_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "visitability": {
+      "nearest_airport": {
+        "airport_code": "RDU",
+        "airport_name": "Raleigh-Durham International Airport [Tier2|cross_verified:false|estimated|2026-09-13] (airport identified consistent with geography.nearest_airport; distance/drive time not independently re-sourced this pass)",
+        "distance_mi": "~10 mi [Tier2|cross_verified:false|estimated|2026-09-13]",
+        "drive_time_min": "~15 min by car in typical traffic, estimated from distance [Tier3|cross_verified:false|estimated|2026-09-13]"
+      },
+      "distance_from_anchors": "San Francisco, CA: ~2395 mi great-circle (airport-to-airport, RDU→SFO); ~3h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Virginia (using Washington Dulles/IAD as a representative VA airport, per instruction that the specific airport doesn't matter): ~225 mi great-circle (RDU→IAD); ~0h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Phoenix, AZ: ~1887 mi great-circle (RDU→PHX); ~2h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | METHOD NOTE: distances are great-circle (straight-line) airport-to-airport using published airport coordinates, computed directly — not driving distance, and not independently re-verified via live search. Time differences use the same nominal zone convention as commute.ez_time_diff (0h=Eastern,1h=Central,2h=Mountain,3h=Pacific), which does not track seasonal DST shifts. Arizona and Hawaii don't observe DST, so their real-world offset from Pacific/Mountain-observing cities shifts by up to 1h depending on time of year — e.g. Phoenix matches Pacific Daylight Time (not Mountain Daylight Time) for most of the year.",
+      "nearby_pois": "Known for: Duke University (Duke Chapel, Duke Gardens, Cameron Indoor Stadium), the Durham Bulls Athletic Park, and the American Tobacco Historic District [Tier3|cross_verified:false|verified|2026-09-13] (dedicated search this pass)"
+    }
+  },
+  {
+    "city_ref": "englewood-co",
+    "city": "Englewood",
+    "state_ref": "colorado",
+    "residency_context": {
+      "host_for": [
+        "hca_healthone_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "hca_healthone_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "visitability": {
+      "nearest_airport": {
+        "airport_code": "DEN",
+        "airport_name": "Denver International Airport [Tier1|cross_verified:false|verified|2026-09-13] (reaffirms/restructures the airport identified in geography.nearest_airport (same underlying fact, independently re-picked where a closer or better-served alternative existed)) NOTE: Denver Intl (DEN) is the nearest airport with commercial service; Centennial Airport (APA) is closer (~10 mi) but general-aviation only, no commercial flights.",
+        "distance_mi": "~25 mi [Tier1|cross_verified:false|verified|2026-09-13]",
+        "drive_time_min": "~35 min by car in typical traffic, estimated from distance [Tier2|cross_verified:false|estimated|2026-09-13]"
+      },
+      "distance_from_anchors": "San Francisco, CA: ~965 mi great-circle (airport-to-airport, DEN→SFO); ~1h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Virginia (using Washington Dulles/IAD as a representative VA airport, per instruction that the specific airport doesn't matter): ~1449 mi great-circle (DEN→IAD); ~2h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Phoenix, AZ: ~602 mi great-circle (DEN→PHX); ~0h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | METHOD NOTE: distances are great-circle (straight-line) airport-to-airport using published airport coordinates, computed directly — not driving distance, and not independently re-verified via live search. Time differences use the same nominal zone convention as commute.ez_time_diff (0h=Eastern,1h=Central,2h=Mountain,3h=Pacific), which does not track seasonal DST shifts. Arizona and Hawaii don't observe DST, so their real-world offset from Pacific/Mountain-observing cities shifts by up to 1h depending on time of year — e.g. Phoenix matches Pacific Daylight Time (not Mountain Daylight Time) for most of the year.",
+      "nearby_pois": "Known for: no single iconic draw; local touristy spots include Fiddler's Green Amphitheatre (concert venue), the Museum of Outdoor Arts, and Pirates Cove Family Aquatic Center [Tier3|cross_verified:false|verified|2026-09-13] (dedicated search this pass)"
+    }
+  },
+  {
+    "city_ref": "farmington-ct",
+    "city": "Farmington",
+    "state_ref": "connecticut",
+    "residency_context": {
+      "host_for": [],
+      "suburb_for": [
+        {
+          "residency_id": "uconn_hartford_neurology",
+          "host_city_ref": "hartford-ct",
+          "distance_mi": 10,
+          "drive_time_offpeak_min": 15,
+          "drive_time_rush_min": 25
+        }
+      ],
+      "research_target_for": [
+        {
+          "residency_id": "uconn_hartford_neurology",
+          "swapped_from_host": true,
+          "swapped_from_host_ref": "hartford-ct",
+          "note": "Hartford's violent crime rate runs well above the national average (murder rate ~3x, FBI data). Swapped to Farmington, a low-crime suburb that is also home to UConn Health's main campus."
+        }
+      ]
+    },
+    "visitability": {
+      "nearest_airport": {
+        "airport_code": "BDL",
+        "airport_name": "Bradley International Airport [Tier1|cross_verified:false|verified|2026-09-13] (reaffirms/restructures the airport identified in geography.nearest_airport (same underlying fact, independently re-picked where a closer or better-served alternative existed))",
+        "distance_mi": "~20 mi [Tier1|cross_verified:false|verified|2026-09-13]",
+        "drive_time_min": "~25 min by car in typical traffic, estimated from distance [Tier2|cross_verified:false|estimated|2026-09-13]"
+      },
+      "distance_from_anchors": "San Francisco, CA: ~2619 mi great-circle (airport-to-airport, BDL→SFO); ~3h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Virginia (using Washington Dulles/IAD as a representative VA airport, per instruction that the specific airport doesn't matter): ~325 mi great-circle (BDL→IAD); ~0h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Phoenix, AZ: ~2208 mi great-circle (BDL→PHX); ~2h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | METHOD NOTE: distances are great-circle (straight-line) airport-to-airport using published airport coordinates, computed directly — not driving distance, and not independently re-verified via live search. Time differences use the same nominal zone convention as commute.ez_time_diff (0h=Eastern,1h=Central,2h=Mountain,3h=Pacific), which does not track seasonal DST shifts. Arizona and Hawaii don't observe DST, so their real-world offset from Pacific/Mountain-observing cities shifts by up to 1h depending on time of year — e.g. Phoenix matches Pacific Daylight Time (not Mountain Daylight Time) for most of the year.",
+      "nearby_pois": "Known for: Hill-Stead Museum (a National Historic Landmark house museum with French Impressionist art by Monet, Degas, and Manet) and Miss Porter's School (Jackie Kennedy's alma mater) [Tier3|cross_verified:false|verified|2026-09-13] (dedicated search this pass)"
+    }
+  },
+  {
+    "city_ref": "folsom-ca",
+    "city": "Folsom",
+    "state_ref": "california",
+    "residency_context": {
+      "host_for": [],
+      "suburb_for": [
+        {
+          "residency_id": "ucdavis_neurology",
+          "host_city_ref": "sacramento-ca",
+          "distance_mi": 22,
+          "drive_time_offpeak_min": 28,
+          "drive_time_rush_min": 40
+        }
+      ],
+      "research_target_for": [
+        {
+          "residency_id": "ucdavis_neurology",
+          "swapped_from_host": true,
+          "swapped_from_host_ref": "sacramento-ca",
+          "note": "Sacramento's violent crime rate is ~100%+ above the national average, and UC Davis Medical Center directly borders Oak Park, a neighborhood with a long-documented concentration of violent crime and drug activity. Swapped to Folsom, a low-crime Sacramento suburb (~40-48% below national average)."
+        }
+      ]
+    },
+    "visitability": {
+      "nearest_airport": {
+        "airport_code": "SMF",
+        "airport_name": "Sacramento International Airport [Tier1|cross_verified:false|verified|2026-09-13] (reaffirms/restructures the airport identified in geography.nearest_airport (same underlying fact, independently re-picked where a closer or better-served alternative existed))",
+        "distance_mi": "~25 mi [Tier1|cross_verified:false|verified|2026-09-13]",
+        "drive_time_min": "~30 min by car in typical traffic, estimated from distance [Tier2|cross_verified:false|estimated|2026-09-13]"
+      },
+      "distance_from_anchors": "San Francisco, CA: ~86 mi great-circle (airport-to-airport, SMF→SFO); ~0h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Virginia (using Washington Dulles/IAD as a representative VA airport, per instruction that the specific airport doesn't matter): ~2352 mi great-circle (SMF→IAD); ~3h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Phoenix, AZ: ~646 mi great-circle (SMF→PHX); ~1h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | METHOD NOTE: distances are great-circle (straight-line) airport-to-airport using published airport coordinates, computed directly — not driving distance, and not independently re-verified via live search. Time differences use the same nominal zone convention as commute.ez_time_diff (0h=Eastern,1h=Central,2h=Mountain,3h=Pacific), which does not track seasonal DST shifts. Arizona and Hawaii don't observe DST, so their real-world offset from Pacific/Mountain-observing cities shifts by up to 1h depending on time of year — e.g. Phoenix matches Pacific Daylight Time (not Mountain Daylight Time) for most of the year.",
+      "nearby_pois": "Known for: Folsom Prison (immortalized by Johnny Cash's \"Folsom Prison Blues\" and his 1968 live album there), the Johnny Cash Trail, the Gold Rush-era Historic District/Sutter Street, and Folsom Lake [Tier3|cross_verified:false|verified|2026-09-13] (dedicated search this pass)"
+    }
+  },
+  {
+    "city_ref": "gainesville-fl",
+    "city": "Gainesville",
+    "state_ref": "florida",
+    "residency_context": {
+      "host_for": [
+        "uf_gainesville_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "uf_gainesville_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "visitability": {
+      "nearest_airport": {
+        "airport_code": "GNV",
+        "airport_name": "Gainesville Regional Airport [Tier3|cross_verified:false|estimated|2026-09-13] (airport identified consistent with geography.nearest_airport; distance/drive time not independently re-sourced this pass)",
+        "distance_mi": "~8 mi [Tier3|cross_verified:false|estimated|2026-09-13]",
+        "drive_time_min": "~15 min by car in typical traffic, estimated from distance [Tier3|cross_verified:false|estimated|2026-09-13]"
+      },
+      "distance_from_anchors": "San Francisco, CA: ~2352 mi great-circle (airport-to-airport, GNV→SFO); ~3h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Virginia (using Washington Dulles/IAD as a representative VA airport, per instruction that the specific airport doesn't matter): ~696 mi great-circle (GNV→IAD); ~0h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Phoenix, AZ: ~1764 mi great-circle (GNV→PHX); ~2h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | METHOD NOTE: distances are great-circle (straight-line) airport-to-airport using published airport coordinates, computed directly — not driving distance, and not independently re-verified via live search. Time differences use the same nominal zone convention as commute.ez_time_diff (0h=Eastern,1h=Central,2h=Mountain,3h=Pacific), which does not track seasonal DST shifts. Arizona and Hawaii don't observe DST, so their real-world offset from Pacific/Mountain-observing cities shifts by up to 1h depending on time of year — e.g. Phoenix matches Pacific Daylight Time (not Mountain Daylight Time) for most of the year.",
+      "nearby_pois": "Known for: the University of Florida (Ben Hill Griffin Stadium, \"The Swamp\") and the Florida Museum of Natural History's Butterfly Rainforest [Tier3|cross_verified:false|estimated|2026-09-13] (well-established general knowledge, not individually re-searched this pass)"
+    }
+  },
+  {
+    "city_ref": "galveston-tx",
+    "city": "Galveston",
+    "state_ref": "texas",
+    "residency_context": {
+      "host_for": [
+        "utmb_galveston_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "utmb_galveston_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "visitability": {
+      "nearest_airport": {
+        "airport_code": "HOU",
+        "airport_name": "William P. Hobby Airport (Houston) [Tier2|cross_verified:false|estimated|2026-09-13] (airport identified consistent with geography.nearest_airport; distance/drive time not independently re-sourced this pass) NOTE: Scholes International at Galveston (GLS) is general-aviation only, in-city. William P. Hobby (HOU) chosen over George Bush Intercontinental (IAH, ~70 mi) as the nearer commercial option.",
+        "distance_mi": "~45 mi [Tier2|cross_verified:false|estimated|2026-09-13]",
+        "drive_time_min": "~55 min by car in typical traffic, estimated from distance [Tier3|cross_verified:false|estimated|2026-09-13]"
+      },
+      "distance_from_anchors": "San Francisco, CA: ~1646 mi great-circle (airport-to-airport, HOU→SFO); ~2h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Virginia (using Washington Dulles/IAD as a representative VA airport, per instruction that the specific airport doesn't matter): ~1200 mi great-circle (HOU→IAD); ~1h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Phoenix, AZ: ~1018 mi great-circle (HOU→PHX); ~1h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | METHOD NOTE: distances are great-circle (straight-line) airport-to-airport using published airport coordinates, computed directly — not driving distance, and not independently re-verified via live search. Time differences use the same nominal zone convention as commute.ez_time_diff (0h=Eastern,1h=Central,2h=Mountain,3h=Pacific), which does not track seasonal DST shifts. Arizona and Hawaii don't observe DST, so their real-world offset from Pacific/Mountain-observing cities shifts by up to 1h depending on time of year — e.g. Phoenix matches Pacific Daylight Time (not Mountain Daylight Time) for most of the year.",
+      "nearby_pois": "Known for: the Strand Historic District (Victorian-era National Historic Landmark, center of Mardi Gras Galveston and Dickens on the Strand), 32 miles of Gulf beaches, Moody Gardens, and its 1900 hurricane history [Tier3|cross_verified:false|verified|2026-09-13] (dedicated search this pass)"
+    }
+  },
+  {
+    "city_ref": "germantown-tn",
+    "city": "Germantown",
+    "state_ref": "tennessee",
+    "residency_context": {
+      "host_for": [],
+      "suburb_for": [
+        {
+          "residency_id": "uthsc_memphis_neurology",
+          "host_city_ref": "memphis-tn",
+          "distance_mi": 15,
+          "drive_time_offpeak_min": 22,
+          "drive_time_rush_min": 32
+        }
+      ],
+      "research_target_for": [
+        {
+          "residency_id": "uthsc_memphis_neurology",
+          "swapped_from_host": true,
+          "swapped_from_host_ref": "memphis-tn",
+          "note": "Memphis has the highest violent crime rate of any large US city per FBI data. Swapped to Germantown, an affluent Memphis suburb with violent crime roughly 85-90% below the national average."
+        }
+      ]
+    },
+    "visitability": {
+      "nearest_airport": {
+        "airport_code": "MEM",
+        "airport_name": "Memphis International Airport [Tier1|cross_verified:false|verified|2026-09-13] (reaffirms/restructures the airport identified in geography.nearest_airport (same underlying fact, independently re-picked where a closer or better-served alternative existed))",
+        "distance_mi": "~20 mi [Tier1|cross_verified:false|verified|2026-09-13]",
+        "drive_time_min": "~30 min by car in typical traffic, estimated from distance [Tier2|cross_verified:false|estimated|2026-09-13]"
+      },
+      "distance_from_anchors": "San Francisco, CA: ~1803 mi great-circle (airport-to-airport, MEM→SFO); ~2h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Virginia (using Washington Dulles/IAD as a representative VA airport, per instruction that the specific airport doesn't matter): ~741 mi great-circle (MEM→IAD); ~1h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Phoenix, AZ: ~1261 mi great-circle (MEM→PHX); ~1h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | METHOD NOTE: distances are great-circle (straight-line) airport-to-airport using published airport coordinates, computed directly — not driving distance, and not independently re-verified via live search. Time differences use the same nominal zone convention as commute.ez_time_diff (0h=Eastern,1h=Central,2h=Mountain,3h=Pacific), which does not track seasonal DST shifts. Arizona and Hawaii don't observe DST, so their real-world offset from Pacific/Mountain-observing cities shifts by up to 1h depending on time of year — e.g. Phoenix matches Pacific Daylight Time (not Mountain Daylight Time) for most of the year.",
+      "nearby_pois": "Known for: no single iconic draw; local touristy spots include Oaklawn Garden, Fort Germantown (a historic Civil War redoubt), and the Germantown Performing Arts Center; close to Memphis attractions like the Memphis Zoo [Tier3|cross_verified:false|verified|2026-09-13] (dedicated search this pass)"
+    }
+  },
+  {
+    "city_ref": "greenville-nc",
+    "city": "Greenville",
+    "state_ref": "north-carolina",
+    "residency_context": {
+      "host_for": [
+        "ecu_health_brody_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "ecu_health_brody_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "visitability": {
+      "nearest_airport": {
+        "airport_code": "PGV",
+        "airport_name": "Pitt-Greenville Airport [Tier3|cross_verified:false|estimated|2026-09-13] (airport identified consistent with geography.nearest_airport; distance/drive time not independently re-sourced this pass)",
+        "distance_mi": "~8 mi [Tier3|cross_verified:false|estimated|2026-09-13]",
+        "drive_time_min": "~15 min by car in typical traffic, estimated from distance [Tier3|cross_verified:false|estimated|2026-09-13]"
+      },
+      "distance_from_anchors": "San Francisco, CA: ~2475 mi great-circle (airport-to-airport, PGV→SFO); ~3h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Virginia (using Washington Dulles/IAD as a representative VA airport, per instruction that the specific airport doesn't matter): ~229 mi great-circle (PGV→IAD); ~0h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Phoenix, AZ: ~1967 mi great-circle (PGV→PHX); ~2h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | METHOD NOTE: distances are great-circle (straight-line) airport-to-airport using published airport coordinates, computed directly — not driving distance, and not independently re-verified via live search. Time differences use the same nominal zone convention as commute.ez_time_diff (0h=Eastern,1h=Central,2h=Mountain,3h=Pacific), which does not track seasonal DST shifts. Arizona and Hawaii don't observe DST, so their real-world offset from Pacific/Mountain-observing cities shifts by up to 1h depending on time of year — e.g. Phoenix matches Pacific Daylight Time (not Mountain Daylight Time) for most of the year.",
+      "nearby_pois": "Known for: East Carolina University (a defining college-town identity) and outdoor recreation along the Tar River (the Greenville Greenway, River Park North) [Tier3|cross_verified:false|verified|2026-09-13] (dedicated search this pass)"
+    }
+  },
+  {
+    "city_ref": "honolulu-hi",
+    "city": "Honolulu",
+    "state_ref": "hawaii",
+    "residency_context": {
+      "host_for": [
+        "hawaii_jabsom_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "hawaii_jabsom_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "visitability": {
+      "nearest_airport": {
+        "airport_code": "HNL",
+        "airport_name": "Daniel K. Inouye International Airport [Tier2|cross_verified:false|estimated|2026-09-13] (airport identified consistent with geography.nearest_airport; distance/drive time not independently re-sourced this pass)",
+        "distance_mi": "~4 mi [Tier2|cross_verified:false|estimated|2026-09-13]",
+        "drive_time_min": "~10 min by car in typical traffic, estimated from distance [Tier3|cross_verified:false|estimated|2026-09-13]"
+      },
+      "distance_from_anchors": "San Francisco, CA: ~2396 mi great-circle (airport-to-airport, HNL→SFO); ~2h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Virginia (using Washington Dulles/IAD as a representative VA airport, per instruction that the specific airport doesn't matter): ~4809 mi great-circle (HNL→IAD); ~5h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Phoenix, AZ: ~2913 mi great-circle (HNL→PHX); ~3h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | METHOD NOTE: distances are great-circle (straight-line) airport-to-airport using published airport coordinates, computed directly — not driving distance, and not independently re-verified via live search. Time differences use the same nominal zone convention as commute.ez_time_diff (0h=Eastern,1h=Central,2h=Mountain,3h=Pacific), which does not track seasonal DST shifts. Arizona and Hawaii don't observe DST, so their real-world offset from Pacific/Mountain-observing cities shifts by up to 1h depending on time of year — e.g. Phoenix matches Pacific Daylight Time (not Mountain Daylight Time) for most of the year.",
+      "nearby_pois": "Known for: Waikiki Beach, Diamond Head crater, Pearl Harbor/USS Arizona Memorial, and Iolani Palace [Tier3|cross_verified:false|estimated|2026-09-13] (well-established general knowledge, not individually re-searched this pass)"
+    }
+  },
+  {
+    "city_ref": "jacksonville-fl",
+    "city": "Jacksonville",
+    "state_ref": "florida",
+    "residency_context": {
+      "host_for": [
+        "mayo_jacksonville_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "mayo_jacksonville_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "visitability": {
+      "nearest_airport": {
+        "airport_code": "JAX",
+        "airport_name": "Jacksonville International Airport [Tier2|cross_verified:false|estimated|2026-09-13] (airport identified consistent with geography.nearest_airport; distance/drive time not independently re-sourced this pass)",
+        "distance_mi": "~13 mi [Tier2|cross_verified:false|estimated|2026-09-13]",
+        "drive_time_min": "~18 min by car in typical traffic, estimated from distance [Tier3|cross_verified:false|estimated|2026-09-13]"
+      },
+      "distance_from_anchors": "San Francisco, CA: ~2362 mi great-circle (airport-to-airport, JAX→SFO); ~3h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Virginia (using Washington Dulles/IAD as a representative VA airport, per instruction that the specific airport doesn't matter): ~632 mi great-circle (JAX→IAD); ~0h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Phoenix, AZ: ~1783 mi great-circle (JAX→PHX); ~2h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | METHOD NOTE: distances are great-circle (straight-line) airport-to-airport using published airport coordinates, computed directly — not driving distance, and not independently re-verified via live search. Time differences use the same nominal zone convention as commute.ez_time_diff (0h=Eastern,1h=Central,2h=Mountain,3h=Pacific), which does not track seasonal DST shifts. Arizona and Hawaii don't observe DST, so their real-world offset from Pacific/Mountain-observing cities shifts by up to 1h depending on time of year — e.g. Phoenix matches Pacific Daylight Time (not Mountain Daylight Time) for most of the year.",
+      "nearby_pois": "Known for: its Atlantic beaches, the St. Johns River Riverwalk, and the Cummer Museum of Art & Gardens [Tier3|cross_verified:false|estimated|2026-09-13] (well-established general knowledge, not individually re-searched this pass)"
+    }
+  },
+  {
+    "city_ref": "knoxville-tn",
+    "city": "Knoxville",
+    "state_ref": "tennessee",
+    "residency_context": {
+      "host_for": [
+        "utgsm_knoxville_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "utgsm_knoxville_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "visitability": {
+      "nearest_airport": {
+        "airport_code": "TYS",
+        "airport_name": "McGhee Tyson Airport [Tier1|cross_verified:false|verified|2026-09-13] (reaffirms/restructures the airport identified in geography.nearest_airport (same underlying fact, independently re-picked where a closer or better-served alternative existed))",
+        "distance_mi": "~12 mi [Tier1|cross_verified:false|verified|2026-09-13]",
+        "drive_time_min": "~20 min by car in typical traffic, estimated from distance [Tier2|cross_verified:false|estimated|2026-09-13]"
+      },
+      "distance_from_anchors": "San Francisco, CA: ~2115 mi great-circle (airport-to-airport, TYS→SFO); ~3h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Virginia (using Washington Dulles/IAD as a representative VA airport, per instruction that the specific airport doesn't matter): ~419 mi great-circle (TYS→IAD); ~0h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Phoenix, AZ: ~1596 mi great-circle (TYS→PHX); ~2h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | METHOD NOTE: distances are great-circle (straight-line) airport-to-airport using published airport coordinates, computed directly — not driving distance, and not independently re-verified via live search. Time differences use the same nominal zone convention as commute.ez_time_diff (0h=Eastern,1h=Central,2h=Mountain,3h=Pacific), which does not track seasonal DST shifts. Arizona and Hawaii don't observe DST, so their real-world offset from Pacific/Mountain-observing cities shifts by up to 1h depending on time of year — e.g. Phoenix matches Pacific Daylight Time (not Mountain Daylight Time) for most of the year.",
+      "nearby_pois": "Known for: the Sunsphere (the golden-glass observation tower left from the 1982 World's Fair), Market Square, World's Fair Park, and the University of Tennessee [Tier3|cross_verified:false|verified|2026-09-13] (dedicated search this pass)"
+    }
+  },
+  {
+    "city_ref": "los-angeles-ca",
+    "city": "Los Angeles",
+    "state_ref": "california",
+    "residency_context": {
+      "host_for": [
+        "ucla_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "ucla_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "visitability": {
+      "nearest_airport": {
+        "airport_code": "LAX",
+        "airport_name": "Los Angeles International Airport [Tier2|cross_verified:false|estimated|2026-09-13] (airport identified consistent with geography.nearest_airport; distance/drive time not independently re-sourced this pass)",
+        "distance_mi": "~15 mi [Tier2|cross_verified:false|estimated|2026-09-13]",
+        "drive_time_min": "~30 min by car in typical traffic, estimated from distance [Tier3|cross_verified:false|estimated|2026-09-13]"
+      },
+      "distance_from_anchors": "San Francisco, CA: ~338 mi great-circle (airport-to-airport, LAX→SFO); ~0h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Virginia (using Washington Dulles/IAD as a representative VA airport, per instruction that the specific airport doesn't matter): ~2283 mi great-circle (LAX→IAD); ~3h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Phoenix, AZ: ~369 mi great-circle (LAX→PHX); ~1h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | METHOD NOTE: distances are great-circle (straight-line) airport-to-airport using published airport coordinates, computed directly — not driving distance, and not independently re-verified via live search. Time differences use the same nominal zone convention as commute.ez_time_diff (0h=Eastern,1h=Central,2h=Mountain,3h=Pacific), which does not track seasonal DST shifts. Arizona and Hawaii don't observe DST, so their real-world offset from Pacific/Mountain-observing cities shifts by up to 1h depending on time of year — e.g. Phoenix matches Pacific Daylight Time (not Mountain Daylight Time) for most of the year.",
+      "nearby_pois": "Known for: the Hollywood Sign and Walk of Fame, Griffith Observatory, Santa Monica Pier, and Universal Studios Hollywood [Tier3|cross_verified:false|estimated|2026-09-13] (well-established general knowledge, not individually re-searched this pass)"
+    }
+  },
+  {
+    "city_ref": "miami-fl",
+    "city": "Miami",
+    "state_ref": "florida",
+    "residency_context": {
+      "host_for": [
+        "umiami_jackson_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "umiami_jackson_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "visitability": {
+      "nearest_airport": {
+        "airport_code": "MIA",
+        "airport_name": "Miami International Airport [Tier2|cross_verified:false|estimated|2026-09-13] (airport identified consistent with geography.nearest_airport; distance/drive time not independently re-sourced this pass)",
+        "distance_mi": "~8 mi [Tier2|cross_verified:false|estimated|2026-09-13]",
+        "drive_time_min": "~15 min by car in typical traffic, estimated from distance [Tier3|cross_verified:false|estimated|2026-09-13]"
+      },
+      "distance_from_anchors": "San Francisco, CA: ~2581 mi great-circle (airport-to-airport, MIA→SFO); ~3h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Virginia (using Washington Dulles/IAD as a representative VA airport, per instruction that the specific airport doesn't matter): ~924 mi great-circle (MIA→IAD); ~0h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Phoenix, AZ: ~1969 mi great-circle (MIA→PHX); ~2h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | METHOD NOTE: distances are great-circle (straight-line) airport-to-airport using published airport coordinates, computed directly — not driving distance, and not independently re-verified via live search. Time differences use the same nominal zone convention as commute.ez_time_diff (0h=Eastern,1h=Central,2h=Mountain,3h=Pacific), which does not track seasonal DST shifts. Arizona and Hawaii don't observe DST, so their real-world offset from Pacific/Mountain-observing cities shifts by up to 1h depending on time of year — e.g. Phoenix matches Pacific Daylight Time (not Mountain Daylight Time) for most of the year.",
+      "nearby_pois": "Known for: South Beach and the Art Deco Historic District on Ocean Drive, Little Havana, and the Wynwood Walls street-art district [Tier3|cross_verified:false|estimated|2026-09-13] (well-established general knowledge, not individually re-searched this pass)"
+    }
+  },
+  {
+    "city_ref": "nashville-tn",
+    "city": "Nashville",
+    "state_ref": "tennessee",
+    "residency_context": {
+      "host_for": [
+        "vanderbilt_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "vanderbilt_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "visitability": {
+      "nearest_airport": {
+        "airport_code": "BNA",
+        "airport_name": "Nashville International Airport [Tier2|cross_verified:false|estimated|2026-09-13] (airport identified consistent with geography.nearest_airport; distance/drive time not independently re-sourced this pass)",
+        "distance_mi": "~8 mi [Tier2|cross_verified:false|estimated|2026-09-13]",
+        "drive_time_min": "~15 min by car in typical traffic, estimated from distance [Tier3|cross_verified:false|estimated|2026-09-13]"
+      },
+      "distance_from_anchors": "San Francisco, CA: ~1964 mi great-circle (airport-to-airport, BNA→SFO); ~2h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Virginia (using Washington Dulles/IAD as a representative VA airport, per instruction that the specific airport doesn't matter): ~541 mi great-circle (BNA→IAD); ~1h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Phoenix, AZ: ~1446 mi great-circle (BNA→PHX); ~1h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | METHOD NOTE: distances are great-circle (straight-line) airport-to-airport using published airport coordinates, computed directly — not driving distance, and not independently re-verified via live search. Time differences use the same nominal zone convention as commute.ez_time_diff (0h=Eastern,1h=Central,2h=Mountain,3h=Pacific), which does not track seasonal DST shifts. Arizona and Hawaii don't observe DST, so their real-world offset from Pacific/Mountain-observing cities shifts by up to 1h depending on time of year — e.g. Phoenix matches Pacific Daylight Time (not Mountain Daylight Time) for most of the year.",
+      "nearby_pois": "Known for: the Grand Ole Opry, the honky-tonks of lower Broadway, and the Country Music Hall of Fame [Tier3|cross_verified:false|estimated|2026-09-13] (well-established general knowledge, not individually re-searched this pass)"
+    }
+  },
+  {
+    "city_ref": "oklahoma-city-ok",
+    "city": "Oklahoma City",
+    "state_ref": "oklahoma",
+    "residency_context": {
+      "host_for": [
+        "ou_health_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "ou_health_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "visitability": {
+      "nearest_airport": {
+        "airport_code": "OKC",
+        "airport_name": "Will Rogers World Airport [Tier2|cross_verified:false|estimated|2026-09-13] (airport identified consistent with geography.nearest_airport; distance/drive time not independently re-sourced this pass)",
+        "distance_mi": "~10 mi [Tier2|cross_verified:false|estimated|2026-09-13]",
+        "drive_time_min": "~15 min by car in typical traffic, estimated from distance [Tier3|cross_verified:false|estimated|2026-09-13]"
+      },
+      "distance_from_anchors": "San Francisco, CA: ~1381 mi great-circle (airport-to-airport, OKC→SFO); ~2h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Virginia (using Washington Dulles/IAD as a representative VA airport, per instruction that the specific airport doesn't matter): ~1133 mi great-circle (OKC→IAD); ~1h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Phoenix, AZ: ~832 mi great-circle (OKC→PHX); ~1h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | METHOD NOTE: distances are great-circle (straight-line) airport-to-airport using published airport coordinates, computed directly — not driving distance, and not independently re-verified via live search. Time differences use the same nominal zone convention as commute.ez_time_diff (0h=Eastern,1h=Central,2h=Mountain,3h=Pacific), which does not track seasonal DST shifts. Arizona and Hawaii don't observe DST, so their real-world offset from Pacific/Mountain-observing cities shifts by up to 1h depending on time of year — e.g. Phoenix matches Pacific Daylight Time (not Mountain Daylight Time) for most of the year.",
+      "nearby_pois": "Known for: Bricktown (entertainment district with the Bricktown Canal), the Oklahoma City National Memorial & Museum, and the National Cowboy & Western Heritage Museum [Tier3|cross_verified:false|estimated|2026-09-13] (well-established general knowledge, not individually re-searched this pass)"
+    }
+  },
+  {
+    "city_ref": "palo-alto-ca",
+    "city": "Palo Alto",
+    "state_ref": "california",
+    "residency_context": {
+      "host_for": [
+        "stanford_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "stanford_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "visitability": {
+      "nearest_airport": {
+        "airport_code": "SJC",
+        "airport_name": "Norman Y. Mineta San Jose International Airport [Tier2|cross_verified:false|estimated|2026-09-13] (airport identified consistent with geography.nearest_airport; distance/drive time not independently re-sourced this pass) NOTE: San Jose Intl (SJC) chosen over SFO (~20 mi, per geography.nearest_airport) as the marginally closer major commercial option; Palo Alto Airport (PAO) is in-city but general-aviation only.",
+        "distance_mi": "~15 mi [Tier2|cross_verified:false|estimated|2026-09-13]",
+        "drive_time_min": "~20 min by car in typical traffic, estimated from distance [Tier3|cross_verified:false|estimated|2026-09-13]"
+      },
+      "distance_from_anchors": "San Francisco, CA: ~30 mi great-circle (airport-to-airport, SJC→SFO); ~0h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Virginia (using Washington Dulles/IAD as a representative VA airport, per instruction that the specific airport doesn't matter): ~2395 mi great-circle (SJC→IAD); ~3h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Phoenix, AZ: ~621 mi great-circle (SJC→PHX); ~1h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | METHOD NOTE: distances are great-circle (straight-line) airport-to-airport using published airport coordinates, computed directly — not driving distance, and not independently re-verified via live search. Time differences use the same nominal zone convention as commute.ez_time_diff (0h=Eastern,1h=Central,2h=Mountain,3h=Pacific), which does not track seasonal DST shifts. Arizona and Hawaii don't observe DST, so their real-world offset from Pacific/Mountain-observing cities shifts by up to 1h depending on time of year — e.g. Phoenix matches Pacific Daylight Time (not Mountain Daylight Time) for most of the year.",
+      "nearby_pois": "Known for: Stanford University (the Main Quad, Hoover Tower, Cantor Arts Center, and Rodin Sculpture Garden), and its role as the birthplace of Silicon Valley (the HP Garage) [Tier3|cross_verified:false|verified|2026-09-13] (dedicated search this pass)"
+    }
+  },
+  {
+    "city_ref": "phoenix-az",
+    "city": "Phoenix",
+    "state_ref": "arizona",
+    "residency_context": {
+      "host_for": [
+        "barrow_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "barrow_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "visitability": {
+      "nearest_airport": {
+        "airport_code": "PHX",
+        "airport_name": "Phoenix Sky Harbor International Airport [Tier2|cross_verified:false|estimated|2026-09-13] (airport identified consistent with geography.nearest_airport; distance/drive time not independently re-sourced this pass)",
+        "distance_mi": "~3 mi [Tier2|cross_verified:false|estimated|2026-09-13]",
+        "drive_time_min": "~10 min by car in typical traffic, estimated from distance [Tier3|cross_verified:false|estimated|2026-09-13]"
+      },
+      "distance_from_anchors": "San Francisco, CA: ~650 mi great-circle (airport-to-airport, PHX→SFO); ~1h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Virginia (using Washington Dulles/IAD as a representative VA airport, per instruction that the specific airport doesn't matter): ~1952 mi great-circle (PHX→IAD); ~2h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Phoenix, AZ: 0 mi great-circle (PHX→PHX), this IS the Phoenix anchor; ~0h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | METHOD NOTE: distances are great-circle (straight-line) airport-to-airport using published airport coordinates, computed directly — not driving distance, and not independently re-verified via live search. Time differences use the same nominal zone convention as commute.ez_time_diff (0h=Eastern,1h=Central,2h=Mountain,3h=Pacific), which does not track seasonal DST shifts. Arizona and Hawaii don't observe DST, so their real-world offset from Pacific/Mountain-observing cities shifts by up to 1h depending on time of year — e.g. Phoenix matches Pacific Daylight Time (not Mountain Daylight Time) for most of the year.",
+      "nearby_pois": "Known for: Camelback Mountain, the Desert Botanical Garden, and South Mountain Park & Preserve [Tier3|cross_verified:false|estimated|2026-09-13] (well-established general knowledge, not individually re-searched this pass)"
+    }
+  },
+  {
+    "city_ref": "portland-or",
+    "city": "Portland",
+    "state_ref": "oregon",
+    "residency_context": {
+      "host_for": [
+        "ohsu_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "ohsu_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "visitability": {
+      "nearest_airport": {
+        "airport_code": "PDX",
+        "airport_name": "Portland International Airport [Tier2|cross_verified:false|estimated|2026-09-13] (airport identified consistent with geography.nearest_airport; distance/drive time not independently re-sourced this pass)",
+        "distance_mi": "~9 mi [Tier2|cross_verified:false|estimated|2026-09-13]",
+        "drive_time_min": "~20 min by car in typical traffic, estimated from distance [Tier3|cross_verified:false|estimated|2026-09-13]"
+      },
+      "distance_from_anchors": "San Francisco, CA: ~551 mi great-circle (airport-to-airport, PDX→SFO); ~0h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Virginia (using Washington Dulles/IAD as a representative VA airport, per instruction that the specific airport doesn't matter): ~2321 mi great-circle (PDX→IAD); ~3h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Phoenix, AZ: ~1010 mi great-circle (PDX→PHX); ~1h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | METHOD NOTE: distances are great-circle (straight-line) airport-to-airport using published airport coordinates, computed directly — not driving distance, and not independently re-verified via live search. Time differences use the same nominal zone convention as commute.ez_time_diff (0h=Eastern,1h=Central,2h=Mountain,3h=Pacific), which does not track seasonal DST shifts. Arizona and Hawaii don't observe DST, so their real-world offset from Pacific/Mountain-observing cities shifts by up to 1h depending on time of year — e.g. Phoenix matches Pacific Daylight Time (not Mountain Daylight Time) for most of the year.",
+      "nearby_pois": "Known for: Powell's City of Books, the city's famous food-truck pods, Portland Japanese Garden, and Pittock Mansion [Tier3|cross_verified:false|estimated|2026-09-13] (well-established general knowledge, not individually re-searched this pass)"
+    }
+  },
+  {
+    "city_ref": "providence-ri",
+    "city": "Providence",
+    "state_ref": "rhode-island",
+    "residency_context": {
+      "host_for": [
+        "brown_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "brown_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "visitability": {
+      "nearest_airport": {
+        "airport_code": "PVD",
+        "airport_name": "Rhode Island T.F. Green International Airport [Tier1|cross_verified:false|verified|2026-09-13] (reaffirms/restructures the airport identified in geography.nearest_airport (same underlying fact, independently re-picked where a closer or better-served alternative existed))",
+        "distance_mi": "~8 mi [Tier1|cross_verified:false|verified|2026-09-13]",
+        "drive_time_min": "~15 min by car in typical traffic, estimated from distance [Tier2|cross_verified:false|estimated|2026-09-13]"
+      },
+      "distance_from_anchors": "San Francisco, CA: ~2685 mi great-circle (airport-to-airport, PVD→SFO); ~3h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Virginia (using Washington Dulles/IAD as a representative VA airport, per instruction that the specific airport doesn't matter): ~371 mi great-circle (PVD→IAD); ~0h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Phoenix, AZ: ~2272 mi great-circle (PVD→PHX); ~2h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | METHOD NOTE: distances are great-circle (straight-line) airport-to-airport using published airport coordinates, computed directly — not driving distance, and not independently re-verified via live search. Time differences use the same nominal zone convention as commute.ez_time_diff (0h=Eastern,1h=Central,2h=Mountain,3h=Pacific), which does not track seasonal DST shifts. Arizona and Hawaii don't observe DST, so their real-world offset from Pacific/Mountain-observing cities shifts by up to 1h depending on time of year — e.g. Phoenix matches Pacific Daylight Time (not Mountain Daylight Time) for most of the year.",
+      "nearby_pois": "Known for: WaterFire (the recurring bonfire art installation on the rivers downtown), Brown University/RISD, and Roger Williams Park [Tier3|cross_verified:false|estimated|2026-09-13] (well-established general knowledge, not individually re-searched this pass)"
+    }
+  },
+  {
+    "city_ref": "richmond-va",
+    "city": "Richmond",
+    "state_ref": "virginia",
+    "residency_context": {
+      "host_for": [
+        "vcu_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "vcu_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "visitability": {
+      "nearest_airport": {
+        "airport_code": "RIC",
+        "airport_name": "Richmond International Airport [Tier2|cross_verified:false|estimated|2026-09-13] (airport identified consistent with geography.nearest_airport; distance/drive time not independently re-sourced this pass)",
+        "distance_mi": "~10 mi [Tier2|cross_verified:false|estimated|2026-09-13]",
+        "drive_time_min": "~18 min by car in typical traffic, estimated from distance [Tier3|cross_verified:false|estimated|2026-09-13]"
+      },
+      "distance_from_anchors": "San Francisco, CA: ~2443 mi great-circle (airport-to-airport, RIC→SFO); ~3h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Virginia (using Washington Dulles/IAD as a representative VA airport, per instruction that the specific airport doesn't matter): ~100 mi great-circle (RIC→IAD); ~0h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Phoenix, AZ: ~1961 mi great-circle (RIC→PHX); ~2h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | METHOD NOTE: distances are great-circle (straight-line) airport-to-airport using published airport coordinates, computed directly — not driving distance, and not independently re-verified via live search. Time differences use the same nominal zone convention as commute.ez_time_diff (0h=Eastern,1h=Central,2h=Mountain,3h=Pacific), which does not track seasonal DST shifts. Arizona and Hawaii don't observe DST, so their real-world offset from Pacific/Mountain-observing cities shifts by up to 1h depending on time of year — e.g. Phoenix matches Pacific Daylight Time (not Mountain Daylight Time) for most of the year.",
+      "nearby_pois": "Known for: the American Civil War Museum at Historic Tredegar, the Virginia State Capitol (designed by Thomas Jefferson), Monument Avenue, and Hollywood Cemetery [Tier3|cross_verified:false|verified|2026-09-13] (dedicated search this pass)"
+    }
+  },
+  {
+    "city_ref": "roanoke-va",
+    "city": "Roanoke",
+    "state_ref": "virginia",
+    "residency_context": {
+      "host_for": [
+        "carilion_vtc_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "carilion_vtc_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "visitability": {
+      "nearest_airport": {
+        "airport_code": "ROA",
+        "airport_name": "Roanoke-Blacksburg Regional Airport [Tier3|cross_verified:false|estimated|2026-09-13] (airport identified consistent with geography.nearest_airport; distance/drive time not independently re-sourced this pass)",
+        "distance_mi": "~5 mi [Tier3|cross_verified:false|estimated|2026-09-13]",
+        "drive_time_min": "~12 min by car in typical traffic, estimated from distance [Tier3|cross_verified:false|estimated|2026-09-13]"
+      },
+      "distance_from_anchors": "San Francisco, CA: ~2305 mi great-circle (airport-to-airport, ROA→SFO); ~3h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Virginia (using Washington Dulles/IAD as a representative VA airport, per instruction that the specific airport doesn't matter): ~177 mi great-circle (ROA→IAD); ~0h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Phoenix, AZ: ~1816 mi great-circle (ROA→PHX); ~2h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | METHOD NOTE: distances are great-circle (straight-line) airport-to-airport using published airport coordinates, computed directly — not driving distance, and not independently re-verified via live search. Time differences use the same nominal zone convention as commute.ez_time_diff (0h=Eastern,1h=Central,2h=Mountain,3h=Pacific), which does not track seasonal DST shifts. Arizona and Hawaii don't observe DST, so their real-world offset from Pacific/Mountain-observing cities shifts by up to 1h depending on time of year — e.g. Phoenix matches Pacific Daylight Time (not Mountain Daylight Time) for most of the year.",
+      "nearby_pois": "Known for: the Roanoke Star (Mill Mountain Star) — the world's largest freestanding illuminated star, giving Roanoke its nickname \"Star City of the South\" — and surrounding Mill Mountain Park/Zoo [Tier3|cross_verified:false|verified|2026-09-13] (dedicated search this pass)"
+    }
+  },
+  {
+    "city_ref": "salisbury-md",
+    "city": "Salisbury",
+    "state_ref": "maryland",
+    "residency_context": {
+      "host_for": [
+        "tidalhealth_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "tidalhealth_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "visitability": {
+      "nearest_airport": {
+        "airport_code": "SBY",
+        "airport_name": "Salisbury-Ocean City Wicomico Regional Airport [Tier3|cross_verified:false|estimated|2026-09-13] (airport identified consistent with geography.nearest_airport; distance/drive time not independently re-sourced this pass)",
+        "distance_mi": "~5 mi [Tier3|cross_verified:false|estimated|2026-09-13]",
+        "drive_time_min": "~12 min by car in typical traffic, estimated from distance [Tier3|cross_verified:false|estimated|2026-09-13]"
+      },
+      "distance_from_anchors": "San Francisco, CA: ~2525 mi great-circle (airport-to-airport, SBY→SFO); ~3h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Virginia (using Washington Dulles/IAD as a representative VA airport, per instruction that the specific airport doesn't matter): ~113 mi great-circle (SBY→IAD); ~0h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Phoenix, AZ: ~2058 mi great-circle (SBY→PHX); ~2h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | METHOD NOTE: distances are great-circle (straight-line) airport-to-airport using published airport coordinates, computed directly — not driving distance, and not independently re-verified via live search. Time differences use the same nominal zone convention as commute.ez_time_diff (0h=Eastern,1h=Central,2h=Mountain,3h=Pacific), which does not track seasonal DST shifts. Arizona and Hawaii don't observe DST, so their real-world offset from Pacific/Mountain-observing cities shifts by up to 1h depending on time of year — e.g. Phoenix matches Pacific Daylight Time (not Mountain Daylight Time) for most of the year.",
+      "nearby_pois": "Known for: the Salisbury Zoo (a well-regarded free-admission zoo) and its role as the \"Capital of the Eastern Shore\", a common stopover en route to Ocean City [Tier3|cross_verified:false|verified|2026-09-13] (dedicated search this pass)"
+    }
+  },
+  {
+    "city_ref": "salt-lake-city-ut",
+    "city": "Salt Lake City",
+    "state_ref": "utah",
+    "residency_context": {
+      "host_for": [
+        "univ_utah_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "univ_utah_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "visitability": {
+      "nearest_airport": {
+        "airport_code": "SLC",
+        "airport_name": "Salt Lake City International Airport [Tier2|cross_verified:false|estimated|2026-09-13] (airport identified consistent with geography.nearest_airport; distance/drive time not independently re-sourced this pass)",
+        "distance_mi": "~4 mi [Tier2|cross_verified:false|estimated|2026-09-13]",
+        "drive_time_min": "~10 min by car in typical traffic, estimated from distance [Tier3|cross_verified:false|estimated|2026-09-13]"
+      },
+      "distance_from_anchors": "San Francisco, CA: ~598 mi great-circle (airport-to-airport, SLC→SFO); ~1h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Virginia (using Washington Dulles/IAD as a representative VA airport, per instruction that the specific airport doesn't matter): ~1823 mi great-circle (SLC→IAD); ~2h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Phoenix, AZ: ~508 mi great-circle (SLC→PHX); ~0h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | METHOD NOTE: distances are great-circle (straight-line) airport-to-airport using published airport coordinates, computed directly — not driving distance, and not independently re-verified via live search. Time differences use the same nominal zone convention as commute.ez_time_diff (0h=Eastern,1h=Central,2h=Mountain,3h=Pacific), which does not track seasonal DST shifts. Arizona and Hawaii don't observe DST, so their real-world offset from Pacific/Mountain-observing cities shifts by up to 1h depending on time of year — e.g. Phoenix matches Pacific Daylight Time (not Mountain Daylight Time) for most of the year.",
+      "nearby_pois": "Known for: Temple Square, the Utah State Capitol, and proximity to the Great Salt Lake and Wasatch Range ski resorts [Tier3|cross_verified:false|estimated|2026-09-13] (well-established general knowledge, not individually re-searched this pass)"
+    }
+  },
+  {
+    "city_ref": "san-diego-ca",
+    "city": "San Diego",
+    "state_ref": "california",
+    "residency_context": {
+      "host_for": [
+        "ucsd_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "ucsd_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "visitability": {
+      "nearest_airport": {
+        "airport_code": "SAN",
+        "airport_name": "San Diego International Airport (Lindbergh Field) [Tier2|cross_verified:false|estimated|2026-09-13] (airport identified consistent with geography.nearest_airport; distance/drive time not independently re-sourced this pass)",
+        "distance_mi": "~3 mi [Tier2|cross_verified:false|estimated|2026-09-13]",
+        "drive_time_min": "~10 min by car in typical traffic, estimated from distance [Tier3|cross_verified:false|estimated|2026-09-13]"
+      },
+      "distance_from_anchors": "San Francisco, CA: ~447 mi great-circle (airport-to-airport, SAN→SFO); ~0h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Virginia (using Washington Dulles/IAD as a representative VA airport, per instruction that the specific airport doesn't matter): ~2248 mi great-circle (SAN→IAD); ~3h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Phoenix, AZ: ~304 mi great-circle (SAN→PHX); ~1h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | METHOD NOTE: distances are great-circle (straight-line) airport-to-airport using published airport coordinates, computed directly — not driving distance, and not independently re-verified via live search. Time differences use the same nominal zone convention as commute.ez_time_diff (0h=Eastern,1h=Central,2h=Mountain,3h=Pacific), which does not track seasonal DST shifts. Arizona and Hawaii don't observe DST, so their real-world offset from Pacific/Mountain-observing cities shifts by up to 1h depending on time of year — e.g. Phoenix matches Pacific Daylight Time (not Mountain Daylight Time) for most of the year.",
+      "nearby_pois": "Known for: Balboa Park and the San Diego Zoo, the USS Midway Museum, and La Jolla Cove [Tier3|cross_verified:false|estimated|2026-09-13] (well-established general knowledge, not individually re-searched this pass)"
+    }
+  },
+  {
+    "city_ref": "san-francisco-ca",
+    "city": "San Francisco",
+    "state_ref": "california",
+    "residency_context": {
+      "host_for": [
+        "ucsf_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "ucsf_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "visitability": {
+      "nearest_airport": {
+        "airport_code": "SFO",
+        "airport_name": "San Francisco International Airport [Tier1|cross_verified:false|verified|2026-09-13] (reaffirms/restructures the airport identified in geography.nearest_airport (same underlying fact, independently re-picked where a closer or better-served alternative existed))",
+        "distance_mi": "~13 mi [Tier1|cross_verified:false|verified|2026-09-13]",
+        "drive_time_min": "~25 min by car in typical traffic, estimated from distance [Tier2|cross_verified:false|estimated|2026-09-13]"
+      },
+      "distance_from_anchors": "San Francisco, CA: 0 mi great-circle (airport-to-airport, SFO→SFO), this IS the San Francisco anchor; ~0h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Virginia (using Washington Dulles/IAD as a representative VA airport, per instruction that the specific airport doesn't matter): ~2413 mi great-circle (SFO→IAD); ~3h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Phoenix, AZ: ~650 mi great-circle (SFO→PHX); ~1h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | METHOD NOTE: distances are great-circle (straight-line) airport-to-airport using published airport coordinates, computed directly — not driving distance, and not independently re-verified via live search. Time differences use the same nominal zone convention as commute.ez_time_diff (0h=Eastern,1h=Central,2h=Mountain,3h=Pacific), which does not track seasonal DST shifts. Arizona and Hawaii don't observe DST, so their real-world offset from Pacific/Mountain-observing cities shifts by up to 1h depending on time of year — e.g. Phoenix matches Pacific Daylight Time (not Mountain Daylight Time) for most of the year.",
+      "nearby_pois": "Known for: the Golden Gate Bridge, Alcatraz Island, Fisherman's Wharf, and the cable cars [Tier3|cross_verified:false|estimated|2026-09-13] (well-established general knowledge, not individually re-searched this pass)"
+    }
+  },
+  {
+    "city_ref": "scottsdale-az",
+    "city": "Scottsdale",
+    "state_ref": "arizona",
+    "residency_context": {
+      "host_for": [
+        "mayo_scottsdale_phoenix_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "mayo_scottsdale_phoenix_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "visitability": {
+      "nearest_airport": {
+        "airport_code": "PHX",
+        "airport_name": "Phoenix Sky Harbor International Airport [Tier1|cross_verified:false|verified|2026-09-13] (reaffirms/restructures the airport identified in geography.nearest_airport (same underlying fact, independently re-picked where a closer or better-served alternative existed))",
+        "distance_mi": "~15 mi [Tier1|cross_verified:false|verified|2026-09-13]",
+        "drive_time_min": "~22 min by car in typical traffic, estimated from distance [Tier2|cross_verified:false|estimated|2026-09-13]"
+      },
+      "distance_from_anchors": "San Francisco, CA: ~650 mi great-circle (airport-to-airport, PHX→SFO); ~1h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Virginia (using Washington Dulles/IAD as a representative VA airport, per instruction that the specific airport doesn't matter): ~1952 mi great-circle (PHX→IAD); ~2h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Phoenix, AZ: ~15 mi great-circle (PHX→PHX), Scottsdale's nearest airport IS Phoenix Sky Harbor (PHX), so airport-to-airport distance is trivially 0; using Scottsdale's own distance-to-PHX figure (~15 mi) from visitability.nearest_airport instead, as the informative city-to-anchor distance; ~0h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | METHOD NOTE: distances are great-circle (straight-line) airport-to-airport using published airport coordinates, computed directly — not driving distance, and not independently re-verified via live search. Time differences use the same nominal zone convention as commute.ez_time_diff (0h=Eastern,1h=Central,2h=Mountain,3h=Pacific), which does not track seasonal DST shifts. Arizona and Hawaii don't observe DST, so their real-world offset from Pacific/Mountain-observing cities shifts by up to 1h depending on time of year — e.g. Phoenix matches Pacific Daylight Time (not Mountain Daylight Time) for most of the year.",
+      "nearby_pois": "Known for: Old Town Scottsdale, its concentration of desert resorts and spas, and Taliesin West (Frank Lloyd Wright's winter home/studio) [Tier3|cross_verified:false|estimated|2026-09-13] (well-established general knowledge, not individually re-searched this pass)"
+    }
+  },
+  {
+    "city_ref": "seattle-wa",
+    "city": "Seattle",
+    "state_ref": "washington",
+    "residency_context": {
+      "host_for": [
+        "uw_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "uw_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "visitability": {
+      "nearest_airport": {
+        "airport_code": "SEA",
+        "airport_name": "Seattle-Tacoma International Airport [Tier2|cross_verified:false|estimated|2026-09-13] (airport identified consistent with geography.nearest_airport; distance/drive time not independently re-sourced this pass)",
+        "distance_mi": "~13 mi [Tier2|cross_verified:false|estimated|2026-09-13]",
+        "drive_time_min": "~25 min by car in typical traffic, estimated from distance [Tier3|cross_verified:false|estimated|2026-09-13]"
+      },
+      "distance_from_anchors": "San Francisco, CA: ~679 mi great-circle (airport-to-airport, SEA→SFO); ~0h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Virginia (using Washington Dulles/IAD as a representative VA airport, per instruction that the specific airport doesn't matter): ~2300 mi great-circle (SEA→IAD); ~3h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Phoenix, AZ: ~1107 mi great-circle (SEA→PHX); ~1h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | METHOD NOTE: distances are great-circle (straight-line) airport-to-airport using published airport coordinates, computed directly — not driving distance, and not independently re-verified via live search. Time differences use the same nominal zone convention as commute.ez_time_diff (0h=Eastern,1h=Central,2h=Mountain,3h=Pacific), which does not track seasonal DST shifts. Arizona and Hawaii don't observe DST, so their real-world offset from Pacific/Mountain-observing cities shifts by up to 1h depending on time of year — e.g. Phoenix matches Pacific Daylight Time (not Mountain Daylight Time) for most of the year.",
+      "nearby_pois": "Known for: the Space Needle, Pike Place Market, and Chihuly Garden and Glass [Tier3|cross_verified:false|estimated|2026-09-13] (well-established general knowledge, not individually re-searched this pass)"
+    }
+  },
+  {
+    "city_ref": "tacoma-wa",
+    "city": "Tacoma",
+    "state_ref": "washington",
+    "residency_context": {
+      "host_for": [
+        "madigan_army_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "madigan_army_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "visitability": {
+      "nearest_airport": {
+        "airport_code": "SEA",
+        "airport_name": "Seattle-Tacoma International Airport [Tier1|cross_verified:false|verified|2026-09-13] (reaffirms/restructures the airport identified in geography.nearest_airport (same underlying fact, independently re-picked where a closer or better-served alternative existed))",
+        "distance_mi": "~20 mi [Tier1|cross_verified:false|verified|2026-09-13]",
+        "drive_time_min": "~25 min by car in typical traffic, estimated from distance [Tier2|cross_verified:false|estimated|2026-09-13]"
+      },
+      "distance_from_anchors": "San Francisco, CA: ~679 mi great-circle (airport-to-airport, SEA→SFO); ~0h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Virginia (using Washington Dulles/IAD as a representative VA airport, per instruction that the specific airport doesn't matter): ~2300 mi great-circle (SEA→IAD); ~3h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Phoenix, AZ: ~1107 mi great-circle (SEA→PHX); ~1h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | METHOD NOTE: distances are great-circle (straight-line) airport-to-airport using published airport coordinates, computed directly — not driving distance, and not independently re-verified via live search. Time differences use the same nominal zone convention as commute.ez_time_diff (0h=Eastern,1h=Central,2h=Mountain,3h=Pacific), which does not track seasonal DST shifts. Arizona and Hawaii don't observe DST, so their real-world offset from Pacific/Mountain-observing cities shifts by up to 1h depending on time of year — e.g. Phoenix matches Pacific Daylight Time (not Mountain Daylight Time) for most of the year.",
+      "nearby_pois": "Known for: the Museum of Glass and the adjoining Chihuly Bridge of Glass, and Point Defiance Park [Tier3|cross_verified:false|estimated|2026-09-13] (well-established general knowledge, not individually re-searched this pass)"
+    }
+  },
+  {
+    "city_ref": "tampa-fl",
+    "city": "Tampa",
+    "state_ref": "florida",
+    "residency_context": {
+      "host_for": [
+        "usf_morsani_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "usf_morsani_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "visitability": {
+      "nearest_airport": {
+        "airport_code": "TPA",
+        "airport_name": "Tampa International Airport [Tier2|cross_verified:false|estimated|2026-09-13] (airport identified consistent with geography.nearest_airport; distance/drive time not independently re-sourced this pass)",
+        "distance_mi": "~6 mi [Tier2|cross_verified:false|estimated|2026-09-13]",
+        "drive_time_min": "~15 min by car in typical traffic, estimated from distance [Tier3|cross_verified:false|estimated|2026-09-13]"
+      },
+      "distance_from_anchors": "San Francisco, CA: ~2389 mi great-circle (airport-to-airport, TPA→SFO); ~3h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Virginia (using Washington Dulles/IAD as a representative VA airport, per instruction that the specific airport doesn't matter): ~813 mi great-circle (TPA→IAD); ~0h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Phoenix, AZ: ~1785 mi great-circle (TPA→PHX); ~2h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | METHOD NOTE: distances are great-circle (straight-line) airport-to-airport using published airport coordinates, computed directly — not driving distance, and not independently re-verified via live search. Time differences use the same nominal zone convention as commute.ez_time_diff (0h=Eastern,1h=Central,2h=Mountain,3h=Pacific), which does not track seasonal DST shifts. Arizona and Hawaii don't observe DST, so their real-world offset from Pacific/Mountain-observing cities shifts by up to 1h depending on time of year — e.g. Phoenix matches Pacific Daylight Time (not Mountain Daylight Time) for most of the year.",
+      "nearby_pois": "Known for: Busch Gardens Tampa Bay, the historic Ybor City district (Cuban/cigar-industry heritage), and the Tampa Riverwalk [Tier3|cross_verified:false|estimated|2026-09-13] (well-established general knowledge, not individually re-searched this pass)"
+    }
+  },
+  {
+    "city_ref": "winston-salem-nc",
+    "city": "Winston-Salem",
+    "state_ref": "north-carolina",
+    "residency_context": {
+      "host_for": [
+        "wake_forest_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "wake_forest_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "visitability": {
+      "nearest_airport": {
+        "airport_code": "GSO",
+        "airport_name": "Piedmont Triad International Airport [Tier1|cross_verified:false|verified|2026-09-13] (reaffirms/restructures the airport identified in geography.nearest_airport (same underlying fact, independently re-picked where a closer or better-served alternative existed)) NOTE: Smith Reynolds Airport (INT) is in-city but has minimal scheduled commercial service; Piedmont Triad Intl (GSO) is the nearest airport with substantial commercial service.",
+        "distance_mi": "~25 mi [Tier1|cross_verified:false|verified|2026-09-13]",
+        "drive_time_min": "~30 min by car in typical traffic, estimated from distance [Tier2|cross_verified:false|estimated|2026-09-13]"
+      },
+      "distance_from_anchors": "San Francisco, CA: ~2329 mi great-circle (airport-to-airport, GSO→SFO); ~3h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Virginia (using Washington Dulles/IAD as a representative VA airport, per instruction that the specific airport doesn't matter): ~240 mi great-circle (GSO→IAD); ~0h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Phoenix, AZ: ~1822 mi great-circle (GSO→PHX); ~2h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | METHOD NOTE: distances are great-circle (straight-line) airport-to-airport using published airport coordinates, computed directly — not driving distance, and not independently re-verified via live search. Time differences use the same nominal zone convention as commute.ez_time_diff (0h=Eastern,1h=Central,2h=Mountain,3h=Pacific), which does not track seasonal DST shifts. Arizona and Hawaii don't observe DST, so their real-world offset from Pacific/Mountain-observing cities shifts by up to 1h depending on time of year — e.g. Phoenix matches Pacific Daylight Time (not Mountain Daylight Time) for most of the year.",
+      "nearby_pois": "Known for: Old Salem Museums & Gardens (a preserved 18th-century Moravian settlement, a National Historic Landmark) and the Reynolda House Museum of American Art [Tier3|cross_verified:false|verified|2026-09-13] (dedicated search this pass)"
+    }
+  },
+  {
+    "city_ref": "woodbridge-ct",
+    "city": "Woodbridge",
+    "state_ref": "connecticut",
+    "residency_context": {
+      "host_for": [],
+      "suburb_for": [
+        {
+          "residency_id": "yale_neurology",
+          "host_city_ref": "new-haven-ct",
+          "distance_mi": 8,
+          "drive_time_offpeak_min": 15,
+          "drive_time_rush_min": 22
+        }
+      ],
+      "research_target_for": [
+        {
+          "residency_id": "yale_neurology",
+          "swapped_from_host": true,
+          "swapped_from_host_ref": "new-haven-ct",
+          "note": "New Haven's citywide crime rate runs well above the national average, and the Hill neighborhood around Yale-New Haven Hospital shows above-average violent crime in local data. Swapped to Woodbridge, one of the lowest-crime towns in Connecticut."
+        }
+      ]
+    },
+    "visitability": {
+      "nearest_airport": {
+        "airport_code": "HVN",
+        "airport_name": "Tweed New Haven Airport [Tier1|cross_verified:false|verified|2026-09-13] (reaffirms/restructures the airport identified in geography.nearest_airport (same underlying fact, independently re-picked where a closer or better-served alternative existed)) NOTE: Tweed New Haven (HVN) has limited commercial service (Avelo Airlines); Bradley Intl (BDL), ~45 mi north near Hartford, is the nearest full-service major hub.",
+        "distance_mi": "~10 mi [Tier1|cross_verified:false|verified|2026-09-13]",
+        "drive_time_min": "~18 min by car in typical traffic, estimated from distance [Tier2|cross_verified:false|estimated|2026-09-13]"
+      },
+      "distance_from_anchors": "San Francisco, CA: ~2617 mi great-circle (airport-to-airport, HVN→SFO); ~3h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Virginia (using Washington Dulles/IAD as a representative VA airport, per instruction that the specific airport doesn't matter): ~289 mi great-circle (HVN→IAD); ~0h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | Phoenix, AZ: ~2196 mi great-circle (HVN→PHX); ~2h nominal time difference [computed|cross_verified:false|estimated|2026-09-13] | METHOD NOTE: distances are great-circle (straight-line) airport-to-airport using published airport coordinates, computed directly — not driving distance, and not independently re-verified via live search. Time differences use the same nominal zone convention as commute.ez_time_diff (0h=Eastern,1h=Central,2h=Mountain,3h=Pacific), which does not track seasonal DST shifts. Arizona and Hawaii don't observe DST, so their real-world offset from Pacific/Mountain-observing cities shifts by up to 1h depending on time of year — e.g. Phoenix matches Pacific Daylight Time (not Mountain Daylight Time) for most of the year.",
+      "nearby_pois": "Known for: no significant standalone tourist draw of its own — a quiet residential New Haven suburb; closest notable attraction is the small Palestine Museum, with Yale University/downtown New Haven a short drive away [Tier3|cross_verified:false|verified|2026-09-13] (dedicated search this pass)"
+    }
+  }
+]

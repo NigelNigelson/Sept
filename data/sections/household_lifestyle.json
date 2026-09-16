@@ -1,0 +1,1011 @@
+[
+  {
+    "city_ref": "atlanta-ga",
+    "city": "Atlanta",
+    "state_ref": "georgia",
+    "residency_context": {
+      "host_for": [
+        "emory_neurology",
+        "morehouse_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "emory_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        },
+        {
+          "residency_id": "morehouse_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "household_lifestyle": {
+      "housing_snapshot": "Metro ZHVI (Atlanta-Sandy Springs-Roswell) $377,813, down ~1.5% YoY (Zillow Research, Aug 2026 market report); city-level figure not separately isolated this pass. [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "partner_job_market": "Atlanta-Sandy Springs-Roswell MSA unemployment 2.8% (Apr 2026, BLS LAUS via USAFacts) to 3.2% (Jul 2026, BLS large-metro table, rank 4th-lowest of large metros) — consistently among the tightest labor markets in the dataset. [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "pet_logistics": "GA sets no statewide BSL preemption — local governments may enact breed-specific ordinances (O.C.G.A. §§4-8-20 to 4-8-33 is otherwise breed-neutral). No pit-bull/breed ban identified for this specific city in this pass. [Tier 2|cross_verified:true|single-source|2026-09-13] Note: household_lifestyle.pet_logistics has no authoritative city-level source category (per tier policy) — this is best-effort state-law context, not a comprehensive city pet-policy review."
+    }
+  },
+  {
+    "city_ref": "augusta-ga",
+    "city": "Augusta",
+    "state_ref": "georgia",
+    "residency_context": {
+      "host_for": [
+        "mcg_augusta_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "mcg_augusta_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "household_lifestyle": {
+      "housing_snapshot": "null — no dedicated Zillow/Redfin city-level page surfaced in this pass; not chased further per per-field search-budget guidance (this field is low decision-weight).",
+      "partner_job_market": "RESOLVED (was stale) — Augusta-Richmond County GA-SC MSA unemployment 3.9% (Dec 2025 preliminary, BLS Southeast regional office direct), matching a Georgia Dept. of Labor release for Mar 2026 also reporting 3.9%; ranged 3.9-4.8% across Sep 2025-Feb 2026. Cross-verified across two Tier-1 sources, supersedes the earlier Jan-2025 figure. [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "pet_logistics": "GA sets no statewide BSL preemption — local governments may enact breed-specific ordinances (O.C.G.A. §§4-8-20 to 4-8-33 is otherwise breed-neutral). No pit-bull/breed ban identified for this specific city in this pass. [Tier 2|cross_verified:true|single-source|2026-09-13] Note: household_lifestyle.pet_logistics has no authoritative city-level source category (per tier policy) — this is best-effort state-law context, not a comprehensive city pet-policy review."
+    }
+  },
+  {
+    "city_ref": "aurora-co",
+    "city": "Aurora",
+    "state_ref": "colorado",
+    "residency_context": {
+      "host_for": [
+        "univ_colorado_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "univ_colorado_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "household_lifestyle": {
+      "housing_snapshot": "City ZHVI $458,582, down ~3.1% YoY (Zillow, Jul 2026); compares to Arapahoe County $482,406 and CO state $538,932. [Tier 2|cross_verified:false|single-source|2026-09-13]",
+      "partner_job_market": "Denver-Aurora-Centennial MSA unemployment 4.1% (Jul 2026, BLS large-metro table). [Tier 1|cross_verified:false|verified|2026-09-13]",
+      "pet_logistics": "CO's state law bars BSL only in non-home-rule jurisdictions; home-rule cities may still restrict breeds. Aurora had a pit-bull ban 2005–2024, repealed by voters Nov 2024 (56%% in favor) — no active breed ban as of this check. [Tier 2|cross_verified:true|verified|2026-09-13] Note: household_lifestyle.pet_logistics has no authoritative city-level source category (per tier policy) — this is best-effort state-law context, not a comprehensive city pet-policy review."
+    }
+  },
+  {
+    "city_ref": "austin-tx",
+    "city": "Austin",
+    "state_ref": "texas",
+    "residency_context": {
+      "host_for": [
+        "dellmed_utaustin_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "dellmed_utaustin_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "household_lifestyle": {
+      "housing_snapshot": "Metro ZHVI (Austin-Round Rock) $419,900, down ~4.2% YoY (Zillow Research, Aug 2026 market report) — note Austin's home-value data is noisy online (many relocation/mortgage-blog results); this figure is from Zillow's own research page, not a third-party aggregator. [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "partner_job_market": "Austin-Round Rock-San Marcos MSA unemployment 4.0% (Jul 2026, BLS large-metro table). [Tier 1|cross_verified:false|verified|2026-09-13]",
+      "pet_logistics": "TX statutorily preempts local breed-specific ordinances (Health & Safety Code §822.047, since 1991); no city or county may ban/restrict dogs by breed. [Tier 1|cross_verified:true|verified|2026-09-13] Note: household_lifestyle.pet_logistics has no authoritative city-level source category (per tier policy) — this is best-effort state-law context, not a comprehensive city pet-policy review."
+    }
+  },
+  {
+    "city_ref": "chapel-hill-nc",
+    "city": "Chapel Hill",
+    "state_ref": "north-carolina",
+    "residency_context": {
+      "host_for": [
+        "unc_neurology"
+      ],
+      "suburb_for": [
+        {
+          "residency_id": "duke_neurology",
+          "host_city_ref": "durham-nc",
+          "distance_mi": 12,
+          "drive_time_offpeak_min": 18,
+          "drive_time_rush_min": 28
+        }
+      ],
+      "research_target_for": [
+        {
+          "residency_id": "unc_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "household_lifestyle": {
+      "housing_snapshot": "null — no dedicated city-level ZHVI source surfaced this pass; Chapel Hill shares Durham-Chapel Hill MSA with Durham (see that record) but no city-specific figure retrieved.",
+      "partner_job_market": "Durham-Chapel Hill MSA unemployment 3.2% (Mar 2026, NC Dept. of Commerce, sourced from BLS LAUS). [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "pet_logistics": "NC has no state BSL preemption (a 2015 preemption bill was defeated); local governments retain authority to enact breed-specific ordinances, though none identified for this specific city. [Tier 2|cross_verified:true|single-source|2026-09-13] Note: household_lifestyle.pet_logistics has no authoritative city-level source category (per tier policy) — this is best-effort state-law context, not a comprehensive city pet-policy review."
+    }
+  },
+  {
+    "city_ref": "charlottesville-va",
+    "city": "Charlottesville",
+    "state_ref": "virginia",
+    "residency_context": {
+      "host_for": [
+        "uva_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "uva_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "household_lifestyle": {
+      "housing_snapshot": "null — no dedicated city-level ZHVI source surfaced this pass.",
+      "partner_job_market": "Charlottesville MSA unemployment ~2.7-3.0% (Apr 2026, BLS LAUS via ycharts/FRED) — one of the lowest rates in the dataset. [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "pet_logistics": "VA statutorily preempts local BSL (Va. Code §3.2-6540): a dog cannot be declared dangerous/vicious on breed alone, and localities cannot ban ownership of a specific breed. [Tier 1|cross_verified:true|verified|2026-09-13] Note: household_lifestyle.pet_logistics has no authoritative city-level source category (per tier policy) — this is best-effort state-law context, not a comprehensive city pet-policy review."
+    }
+  },
+  {
+    "city_ref": "columbia-md",
+    "city": "Columbia",
+    "state_ref": "maryland",
+    "residency_context": {
+      "host_for": [],
+      "suburb_for": [
+        {
+          "residency_id": "johns_hopkins_neurology",
+          "host_city_ref": "baltimore-md",
+          "distance_mi": 20,
+          "drive_time_offpeak_min": 28,
+          "drive_time_rush_min": 42
+        },
+        {
+          "residency_id": "univ_maryland_neurology",
+          "host_city_ref": "baltimore-md",
+          "distance_mi": 18,
+          "drive_time_offpeak_min": 25,
+          "drive_time_rush_min": 38
+        }
+      ],
+      "research_target_for": [
+        {
+          "residency_id": "johns_hopkins_neurology",
+          "swapped_from_host": true,
+          "swapped_from_host_ref": "baltimore-md",
+          "note": "Baltimore's violent crime rate runs ~3-4x the national average, and the blocks immediately around Johns Hopkins Hospital in East Baltimore have a well-documented pattern of shootings and robberies (JHU security alerts, local news). Swapped to Columbia, MD, repeatedly ranked one of the safest cities in the US (WalletHub)."
+        },
+        {
+          "residency_id": "univ_maryland_neurology",
+          "swapped_from_host": true,
+          "swapped_from_host_ref": "baltimore-md",
+          "note": "Same Baltimore host-city problem as Johns Hopkins (citywide violent crime ~3-4x national average, west-side hospital corridor affected too). Swapped to Columbia, MD, a repeat WalletHub #1 safest city."
+        }
+      ]
+    },
+    "household_lifestyle": {
+      "housing_snapshot": "City ZHVI $518,039, roughly flat YoY (+0.1%) (Zillow, Jun 2026); compares to Howard County $643,819 and MD state $436,104. [Tier 2|cross_verified:false|single-source|2026-09-13]",
+      "partner_job_market": "Baltimore-Columbia-Towson MSA unemployment 4.2% (Jul 2026, BLS large-metro table). [Tier 1|cross_verified:false|verified|2026-09-13]",
+      "pet_logistics": "MD has no state BSL preemption; local ordinances are technically possible, but no dedicated county/city-level search was run this pass (low decision-weight field). [Tier 3|cross_verified:false|estimated|2026-09-13] Note: household_lifestyle.pet_logistics has no authoritative city-level source category (per tier policy) — this is best-effort state-law context, not a comprehensive city pet-policy review."
+    }
+  },
+  {
+    "city_ref": "dallas-tx",
+    "city": "Dallas",
+    "state_ref": "texas",
+    "residency_context": {
+      "host_for": [
+        "utsw_neurology",
+        "baylor_umc_dallas_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "baylor_umc_dallas_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        },
+        {
+          "residency_id": "utsw_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "household_lifestyle": {
+      "housing_snapshot": "Metro ZHVI (Dallas-Fort Worth-Arlington) $361,463, down ~1.9% YoY (Zillow Research, Aug 2026 market report). [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "partner_job_market": "Dallas-Fort Worth-Arlington MSA unemployment 4.6% (Jul 2026, BLS large-metro table). [Tier 1|cross_verified:false|verified|2026-09-13]",
+      "pet_logistics": "TX statutorily preempts local breed-specific ordinances (Health & Safety Code §822.047, since 1991); no city or county may ban/restrict dogs by breed. [Tier 1|cross_verified:true|verified|2026-09-13] Note: household_lifestyle.pet_logistics has no authoritative city-level source category (per tier policy) — this is best-effort state-law context, not a comprehensive city pet-policy review."
+    }
+  },
+  {
+    "city_ref": "durham-nc",
+    "city": "Durham",
+    "state_ref": "north-carolina",
+    "residency_context": {
+      "host_for": [
+        "duke_neurology"
+      ],
+      "suburb_for": [
+        {
+          "residency_id": "unc_neurology",
+          "host_city_ref": "chapel-hill-nc",
+          "distance_mi": 12,
+          "drive_time_offpeak_min": 18,
+          "drive_time_rush_min": 28
+        }
+      ],
+      "research_target_for": [
+        {
+          "residency_id": "duke_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "household_lifestyle": {
+      "housing_snapshot": "null — no dedicated city-level ZHVI source surfaced this pass; Durham shares Durham-Chapel Hill MSA with Chapel Hill but no city-specific figure retrieved.",
+      "partner_job_market": "Durham-Chapel Hill MSA unemployment 3.2% (Mar 2026, NC Dept. of Commerce, sourced from BLS LAUS) — same MSA as Chapel Hill. [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "pet_logistics": "NC has no state BSL preemption (a 2015 preemption bill was defeated); local governments retain authority to enact breed-specific ordinances, though none identified for this specific city. [Tier 2|cross_verified:true|single-source|2026-09-13] Note: household_lifestyle.pet_logistics has no authoritative city-level source category (per tier policy) — this is best-effort state-law context, not a comprehensive city pet-policy review."
+    }
+  },
+  {
+    "city_ref": "englewood-co",
+    "city": "Englewood",
+    "state_ref": "colorado",
+    "residency_context": {
+      "host_for": [
+        "hca_healthone_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "hca_healthone_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "household_lifestyle": {
+      "housing_snapshot": "City ZHVI $516,330, down ~2.7% YoY (Zillow, Jun 2026). [Tier 2|cross_verified:false|single-source|2026-09-13]",
+      "partner_job_market": "Denver-Aurora-Centennial MSA unemployment 4.1% (Jul 2026, BLS large-metro table). [Tier 1|cross_verified:false|verified|2026-09-13]",
+      "pet_logistics": "CO's state law bars BSL only in non-home-rule jurisdictions. No breed-specific ordinance identified for Englewood specifically (distinct from neighboring Aurora/Denver, which had their own now-repealed bans). [Tier 2|cross_verified:false|single-source|2026-09-13] Note: household_lifestyle.pet_logistics has no authoritative city-level source category (per tier policy) — this is best-effort state-law context, not a comprehensive city pet-policy review."
+    }
+  },
+  {
+    "city_ref": "farmington-ct",
+    "city": "Farmington",
+    "state_ref": "connecticut",
+    "residency_context": {
+      "host_for": [],
+      "suburb_for": [
+        {
+          "residency_id": "uconn_hartford_neurology",
+          "host_city_ref": "hartford-ct",
+          "distance_mi": 10,
+          "drive_time_offpeak_min": 15,
+          "drive_time_rush_min": 25
+        }
+      ],
+      "research_target_for": [
+        {
+          "residency_id": "uconn_hartford_neurology",
+          "swapped_from_host": true,
+          "swapped_from_host_ref": "hartford-ct",
+          "note": "Hartford's violent crime rate runs well above the national average (murder rate ~3x, FBI data). Swapped to Farmington, a low-crime suburb that is also home to UConn Health's main campus."
+        }
+      ]
+    },
+    "household_lifestyle": {
+      "housing_snapshot": "City ZHVI ~$498,000–502,000, up ~6.9% YoY (Zillow, Jul/Aug 2026); compares to Hartford County ~$389,000 and CT state ~$452,000 — Farmington runs notably above both. [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "partner_job_market": "Hartford-West Hartford-East Hartford MSA unemployment 5.8% (Jul 2026, BLS large-metro table) — tracks CT's statewide 2026 uptick (state rate 5.2% in Jul 2026 per CT DOL). [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "pet_logistics": "CT is counted among the ~22 states that statutorily preempt local breed-specific ordinances. [Tier 2|cross_verified:true|single-source|2026-09-13] Note: household_lifestyle.pet_logistics has no authoritative city-level source category (per tier policy) — this is best-effort state-law context, not a comprehensive city pet-policy review."
+    }
+  },
+  {
+    "city_ref": "folsom-ca",
+    "city": "Folsom",
+    "state_ref": "california",
+    "residency_context": {
+      "host_for": [],
+      "suburb_for": [
+        {
+          "residency_id": "ucdavis_neurology",
+          "host_city_ref": "sacramento-ca",
+          "distance_mi": 22,
+          "drive_time_offpeak_min": 28,
+          "drive_time_rush_min": 40
+        }
+      ],
+      "research_target_for": [
+        {
+          "residency_id": "ucdavis_neurology",
+          "swapped_from_host": true,
+          "swapped_from_host_ref": "sacramento-ca",
+          "note": "Sacramento's violent crime rate is ~100%+ above the national average, and UC Davis Medical Center directly borders Oak Park, a neighborhood with a long-documented concentration of violent crime and drug activity. Swapped to Folsom, a low-crime Sacramento suburb (~40-48% below national average)."
+        }
+      ]
+    },
+    "household_lifestyle": {
+      "housing_snapshot": "City ZHVI $763,818, down ~1.2% YoY (Zillow, Jul 2026). [Tier 2|cross_verified:false|single-source|2026-09-13]",
+      "partner_job_market": "Sacramento-Roseville-Folsom MSA unemployment 5.0% (Jul 2026, BLS large-metro table). [Tier 1|cross_verified:false|verified|2026-09-13]",
+      "pet_logistics": "CA statutorily preempts local BSL for the \"dangerous/vicious\" designation (Health & Safety Code §122331); cities may only regulate breed via mandatory spay/neuter programs, not outright bans. [Tier 1|cross_verified:true|verified|2026-09-13] Note: household_lifestyle.pet_logistics has no authoritative city-level source category (per tier policy) — this is best-effort state-law context, not a comprehensive city pet-policy review."
+    }
+  },
+  {
+    "city_ref": "gainesville-fl",
+    "city": "Gainesville",
+    "state_ref": "florida",
+    "residency_context": {
+      "host_for": [
+        "uf_gainesville_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "uf_gainesville_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "household_lifestyle": {
+      "housing_snapshot": "null — no dedicated city-level ZHVI source surfaced this pass.",
+      "partner_job_market": "Gainesville MSA unemployment 5.5% (Jun 2026, BLS direct news release, cross-checked against USAFacts/FRED) — among the higher rates in the dataset, partly a college-town/seasonal effect. [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "pet_logistics": "FL eliminated all local BSL statewide via 2023 legislation (HB 941/SB 942), which removed the pre-1990 grandfather clause and ended Miami-Dade County's ~30-year pit-bull ban (in effect 1989–2023). No breed bans remain anywhere in FL. [Tier 2|cross_verified:true|verified|2026-09-13] Note: household_lifestyle.pet_logistics has no authoritative city-level source category (per tier policy) — this is best-effort state-law context, not a comprehensive city pet-policy review."
+    }
+  },
+  {
+    "city_ref": "galveston-tx",
+    "city": "Galveston",
+    "state_ref": "texas",
+    "residency_context": {
+      "host_for": [
+        "utmb_galveston_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "utmb_galveston_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "household_lifestyle": {
+      "housing_snapshot": "null — Galveston's barrier-island/tourist market differs enough from the broader Houston-Pasadena-The Woodlands metro (ZHVI $305,386, Zillow Aug 2026) that using the metro figure as a city proxy would be misleading; no clean city-specific figure retrieved this pass.",
+      "partner_job_market": "Houston-Pasadena-The Woodlands MSA unemployment 5.1% (Jul 2026, BLS large-metro table); Galveston County itself not separately isolated. [Tier 1|cross_verified:false|verified|2026-09-13]",
+      "pet_logistics": "TX statutorily preempts local breed-specific ordinances (Health & Safety Code §822.047, since 1991); no city or county may ban/restrict dogs by breed. [Tier 1|cross_verified:true|verified|2026-09-13] Note: household_lifestyle.pet_logistics has no authoritative city-level source category (per tier policy) — this is best-effort state-law context, not a comprehensive city pet-policy review."
+    }
+  },
+  {
+    "city_ref": "germantown-tn",
+    "city": "Germantown",
+    "state_ref": "tennessee",
+    "residency_context": {
+      "host_for": [],
+      "suburb_for": [
+        {
+          "residency_id": "uthsc_memphis_neurology",
+          "host_city_ref": "memphis-tn",
+          "distance_mi": 15,
+          "drive_time_offpeak_min": 22,
+          "drive_time_rush_min": 32
+        }
+      ],
+      "research_target_for": [
+        {
+          "residency_id": "uthsc_memphis_neurology",
+          "swapped_from_host": true,
+          "swapped_from_host_ref": "memphis-tn",
+          "note": "Memphis has the highest violent crime rate of any large US city per FBI data. Swapped to Germantown, an affluent Memphis suburb with violent crime roughly 85-90% below the national average."
+        }
+      ]
+    },
+    "household_lifestyle": {
+      "housing_snapshot": "City ZHVI $489,666, down ~1.2% YoY (Zillow, May 2026) — notably above the Memphis metro figure (see partner_job_market), consistent with Germantown's affluent-suburb profile. [Tier 2|cross_verified:false|single-source|2026-09-13]",
+      "partner_job_market": "Memphis TN-MS-AR MSA unemployment 4.7% (Jul 2026, BLS large-metro table); Germantown itself (affluent suburb) likely runs below the metro average, not separately isolated. [Tier 1|cross_verified:false|verified|2026-09-13]",
+      "pet_logistics": "TN has no state BSL preemption (a 2022 preemption bill was defeated); local authority to restrict breeds exists in principle, none identified for this specific city. [Tier 2|cross_verified:true|single-source|2026-09-13] Note: household_lifestyle.pet_logistics has no authoritative city-level source category (per tier policy) — this is best-effort state-law context, not a comprehensive city pet-policy review."
+    }
+  },
+  {
+    "city_ref": "greenville-nc",
+    "city": "Greenville",
+    "state_ref": "north-carolina",
+    "residency_context": {
+      "host_for": [
+        "ecu_health_brody_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "ecu_health_brody_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "household_lifestyle": {
+      "housing_snapshot": "null — no dedicated city-level ZHVI source surfaced this pass.",
+      "partner_job_market": "Greenville, NC micro area unemployment 3.7% (Mar 2026, NC Dept. of Commerce, sourced from BLS LAUS). [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "pet_logistics": "NC has no state BSL preemption (a 2015 preemption bill was defeated); local governments retain authority to enact breed-specific ordinances, though none identified for this specific city. [Tier 2|cross_verified:true|single-source|2026-09-13] Note: household_lifestyle.pet_logistics has no authoritative city-level source category (per tier policy) — this is best-effort state-law context, not a comprehensive city pet-policy review."
+    }
+  },
+  {
+    "city_ref": "honolulu-hi",
+    "city": "Honolulu",
+    "state_ref": "hawaii",
+    "residency_context": {
+      "host_for": [
+        "hawaii_jabsom_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "hawaii_jabsom_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "household_lifestyle": {
+      "housing_snapshot": "null — no dedicated city-level ZHVI source surfaced this pass; Honolulu's O'ahu-wide housing market is well known to be one of the priciest in the US but a current sourced figure wasn't retrieved this pass.",
+      "partner_job_market": "Urban Honolulu MSA unemployment 2.8% (Jul 2026, BLS large-metro table, rank 1st — lowest of all large US metros). [Tier 1|cross_verified:false|verified|2026-09-13]",
+      "pet_logistics": "HI has no state BSL preemption; no breed-specific ordinance identified for Honolulu County in this pass. [Tier 2|cross_verified:true|single-source|2026-09-13] Note: household_lifestyle.pet_logistics has no authoritative city-level source category (per tier policy) — this is best-effort state-law context, not a comprehensive city pet-policy review."
+    }
+  },
+  {
+    "city_ref": "jacksonville-fl",
+    "city": "Jacksonville",
+    "state_ref": "florida",
+    "residency_context": {
+      "host_for": [
+        "mayo_jacksonville_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "mayo_jacksonville_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "household_lifestyle": {
+      "housing_snapshot": "Metro ZHVI $351,487, roughly flat YoY (Zillow Research, Aug 2026 market report). [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "partner_job_market": "Jacksonville MSA unemployment 4.9% (Jul 2026, BLS large-metro table). [Tier 1|cross_verified:false|verified|2026-09-13]",
+      "pet_logistics": "FL eliminated all local BSL statewide via 2023 legislation (HB 941/SB 942), which removed the pre-1990 grandfather clause and ended Miami-Dade County's ~30-year pit-bull ban (in effect 1989–2023). No breed bans remain anywhere in FL. [Tier 2|cross_verified:true|verified|2026-09-13] Note: household_lifestyle.pet_logistics has no authoritative city-level source category (per tier policy) — this is best-effort state-law context, not a comprehensive city pet-policy review."
+    }
+  },
+  {
+    "city_ref": "knoxville-tn",
+    "city": "Knoxville",
+    "state_ref": "tennessee",
+    "residency_context": {
+      "host_for": [
+        "utgsm_knoxville_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "utgsm_knoxville_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "household_lifestyle": {
+      "housing_snapshot": "null — no dedicated city-level ZHVI source surfaced this pass.",
+      "partner_job_market": "Knoxville MSA unemployment ~3.2-3.4% (Jun 2026, BLS LAUS via USAFacts/FRED). [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "pet_logistics": "TN has no state BSL preemption (a 2022 preemption bill was defeated); local authority to restrict breeds exists in principle, none identified for this specific city. [Tier 2|cross_verified:true|single-source|2026-09-13] Note: household_lifestyle.pet_logistics has no authoritative city-level source category (per tier policy) — this is best-effort state-law context, not a comprehensive city pet-policy review."
+    }
+  },
+  {
+    "city_ref": "los-angeles-ca",
+    "city": "Los Angeles",
+    "state_ref": "california",
+    "residency_context": {
+      "host_for": [
+        "ucla_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "ucla_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "household_lifestyle": {
+      "housing_snapshot": "Metro ZHVI $957,612, up ~1.4% YoY (Zillow Research, Aug 2026 market report). [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "partner_job_market": "Los Angeles-Long Beach-Anaheim MSA unemployment 5.0% (Jul 2026, BLS large-metro table). [Tier 1|cross_verified:false|verified|2026-09-13]",
+      "pet_logistics": "CA statutorily preempts local BSL for the \"dangerous/vicious\" designation (Health & Safety Code §122331); cities may only regulate breed via mandatory spay/neuter programs, not outright bans. [Tier 1|cross_verified:true|verified|2026-09-13] Note: household_lifestyle.pet_logistics has no authoritative city-level source category (per tier policy) — this is best-effort state-law context, not a comprehensive city pet-policy review."
+    }
+  },
+  {
+    "city_ref": "miami-fl",
+    "city": "Miami",
+    "state_ref": "florida",
+    "residency_context": {
+      "host_for": [
+        "umiami_jackson_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "umiami_jackson_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "household_lifestyle": {
+      "housing_snapshot": "Metro ZHVI (Miami-Fort Lauderdale-West Palm Beach) $477,919, up ~0.5% YoY (Zillow Research, Aug 2026 market report). [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "partner_job_market": "Miami-Fort Lauderdale-West Palm Beach MSA unemployment 3.7% (Jul 2026, BLS large-metro table). [Tier 1|cross_verified:false|verified|2026-09-13]",
+      "pet_logistics": "FL eliminated all local BSL statewide via 2023 legislation (HB 941/SB 942); this directly ended Miami-Dade County's ~30-year pit-bull ban (in effect 1989–2023) — relevant since Miami itself was the highest-profile ban in the country. No breed restrictions remain. [Tier 2|cross_verified:true|verified|2026-09-13] Note: household_lifestyle.pet_logistics has no authoritative city-level source category (per tier policy) — this is best-effort state-law context, not a comprehensive city pet-policy review."
+    }
+  },
+  {
+    "city_ref": "nashville-tn",
+    "city": "Nashville",
+    "state_ref": "tennessee",
+    "residency_context": {
+      "host_for": [
+        "vanderbilt_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "vanderbilt_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "household_lifestyle": {
+      "housing_snapshot": "Metro ZHVI $453,322, down ~0.3% YoY (Zillow Research, Aug 2026 market report). [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "partner_job_market": "Nashville-Davidson-Murfreesboro-Franklin MSA unemployment 3.0% (Jul 2026, BLS large-metro table, rank 2nd-lowest of large metros). [Tier 1|cross_verified:false|verified|2026-09-13]",
+      "pet_logistics": "TN has no state BSL preemption (a 2022 preemption bill was defeated); local authority to restrict breeds exists in principle, none identified for this specific city. [Tier 2|cross_verified:true|single-source|2026-09-13] Note: household_lifestyle.pet_logistics has no authoritative city-level source category (per tier policy) — this is best-effort state-law context, not a comprehensive city pet-policy review."
+    }
+  },
+  {
+    "city_ref": "oklahoma-city-ok",
+    "city": "Oklahoma City",
+    "state_ref": "oklahoma",
+    "residency_context": {
+      "host_for": [
+        "ou_health_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "ou_health_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "household_lifestyle": {
+      "housing_snapshot": "Metro ZHVI $246,105, up ~1.1% YoY (Zillow Research, Aug 2026 market report) — one of the more affordable metros in the dataset. [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "partner_job_market": "Oklahoma City MSA unemployment 4.3% (Jul 2026, BLS large-metro table). [Tier 1|cross_verified:false|verified|2026-09-13]",
+      "pet_logistics": "OK statutorily preempts local BSL. [Tier 2|cross_verified:true|single-source|2026-09-13] Note: household_lifestyle.pet_logistics has no authoritative city-level source category (per tier policy) — this is best-effort state-law context, not a comprehensive city pet-policy review."
+    }
+  },
+  {
+    "city_ref": "palo-alto-ca",
+    "city": "Palo Alto",
+    "state_ref": "california",
+    "residency_context": {
+      "host_for": [
+        "stanford_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "stanford_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "household_lifestyle": {
+      "housing_snapshot": "City ZHVI $3,599,324, up ~4.5% YoY (Zillow, Jul 2026) — among the highest in the entire 39-city dataset; well above the San Jose-Sunnyvale-Santa Clara metro figure ($1,544,638, Zillow Aug 2026 report), consistent with Palo Alto's premium-suburb profile. [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "partner_job_market": "San Jose-Sunnyvale-Santa Clara MSA unemployment 4.1% (Jul 2026, BLS large-metro table); Palo Alto itself not separately isolated. [Tier 1|cross_verified:false|verified|2026-09-13]",
+      "pet_logistics": "CA statutorily preempts local BSL for the \"dangerous/vicious\" designation (Health & Safety Code §122331); cities may only regulate breed via mandatory spay/neuter programs, not outright bans. [Tier 1|cross_verified:true|verified|2026-09-13] Note: household_lifestyle.pet_logistics has no authoritative city-level source category (per tier policy) — this is best-effort state-law context, not a comprehensive city pet-policy review."
+    }
+  },
+  {
+    "city_ref": "phoenix-az",
+    "city": "Phoenix",
+    "state_ref": "arizona",
+    "residency_context": {
+      "host_for": [
+        "barrow_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "barrow_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "household_lifestyle": {
+      "housing_snapshot": "Metro ZHVI $442,171, down ~1.0% YoY (Zillow Research, Aug 2026 market report). [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "partner_job_market": "Phoenix-Mesa-Chandler MSA unemployment 4.8% (Jul 2026, BLS large-metro table). [Tier 1|cross_verified:false|verified|2026-09-13]",
+      "pet_logistics": "AZ is counted among the ~22 states that statutorily preempt local breed-specific ordinances. [Tier 2|cross_verified:true|single-source|2026-09-13] Note: household_lifestyle.pet_logistics has no authoritative city-level source category (per tier policy) — this is best-effort state-law context, not a comprehensive city pet-policy review."
+    }
+  },
+  {
+    "city_ref": "portland-or",
+    "city": "Portland",
+    "state_ref": "oregon",
+    "residency_context": {
+      "host_for": [
+        "ohsu_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "ohsu_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "household_lifestyle": {
+      "housing_snapshot": "Metro ZHVI $545,374, roughly flat YoY (Zillow Research, Aug 2026 market report). [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "partner_job_market": "Portland-Vancouver-Hillsboro MSA unemployment 4.9% (Jul 2026, BLS large-metro table). [Tier 1|cross_verified:false|verified|2026-09-13]",
+      "pet_logistics": "OR has no state BSL preemption; no breed-specific ordinance identified for this city in this pass. [Tier 2|cross_verified:true|single-source|2026-09-13] Note: household_lifestyle.pet_logistics has no authoritative city-level source category (per tier policy) — this is best-effort state-law context, not a comprehensive city pet-policy review."
+    }
+  },
+  {
+    "city_ref": "providence-ri",
+    "city": "Providence",
+    "state_ref": "rhode-island",
+    "residency_context": {
+      "host_for": [
+        "brown_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "brown_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "household_lifestyle": {
+      "housing_snapshot": "Metro ZHVI $528,018, up ~3.7% YoY (Zillow Research, Aug 2026 market report). [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "partner_job_market": "Providence-Warwick MSA unemployment 4.2% (Jul 2026, BLS large-metro table). [Tier 1|cross_verified:false|verified|2026-09-13]",
+      "pet_logistics": "RI statutorily preempts local BSL. [Tier 2|cross_verified:true|single-source|2026-09-13] Note: household_lifestyle.pet_logistics has no authoritative city-level source category (per tier policy) — this is best-effort state-law context, not a comprehensive city pet-policy review."
+    }
+  },
+  {
+    "city_ref": "richmond-va",
+    "city": "Richmond",
+    "state_ref": "virginia",
+    "residency_context": {
+      "host_for": [
+        "vcu_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "vcu_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "household_lifestyle": {
+      "housing_snapshot": "Metro ZHVI $396,305, up ~2.7% YoY (Zillow Research, Aug 2026 market report). [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "partner_job_market": "Richmond MSA unemployment 3.8% (Jul 2026, BLS large-metro table). [Tier 1|cross_verified:false|verified|2026-09-13]",
+      "pet_logistics": "VA statutorily preempts local BSL (Va. Code §3.2-6540): a dog cannot be declared dangerous/vicious on breed alone, and localities cannot ban ownership of a specific breed. [Tier 1|cross_verified:true|verified|2026-09-13] Note: household_lifestyle.pet_logistics has no authoritative city-level source category (per tier policy) — this is best-effort state-law context, not a comprehensive city pet-policy review."
+    }
+  },
+  {
+    "city_ref": "roanoke-va",
+    "city": "Roanoke",
+    "state_ref": "virginia",
+    "residency_context": {
+      "host_for": [
+        "carilion_vtc_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "carilion_vtc_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "household_lifestyle": {
+      "housing_snapshot": "null — no dedicated city-level ZHVI source surfaced this pass.",
+      "partner_job_market": "Roanoke MSA unemployment 3.5% (May 2026, BLS LAUS via USAFacts). [Tier 1|cross_verified:false|verified|2026-09-13]",
+      "pet_logistics": "VA statutorily preempts local BSL (Va. Code §3.2-6540): a dog cannot be declared dangerous/vicious on breed alone, and localities cannot ban ownership of a specific breed. [Tier 1|cross_verified:true|verified|2026-09-13] Note: household_lifestyle.pet_logistics has no authoritative city-level source category (per tier policy) — this is best-effort state-law context, not a comprehensive city pet-policy review."
+    }
+  },
+  {
+    "city_ref": "salisbury-md",
+    "city": "Salisbury",
+    "state_ref": "maryland",
+    "residency_context": {
+      "host_for": [
+        "tidalhealth_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "tidalhealth_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "household_lifestyle": {
+      "housing_snapshot": "null — no dedicated city-level ZHVI source surfaced this pass.",
+      "partner_job_market": "RESOLVED — Salisbury, MD-DE MSA unemployment 3.9% (Dec 2025 preliminary, BLS Mid-Atlantic regional office direct), consistent with Wicomico County's 4.0% (May 2026, BLS LAUS via USAFacts) — both Tier-1 BLS series agree at ~4%. The earlier-flagged 6.3% 'Salisbury city' figure (zipdatamaps, a Tier-3 aggregator with undisclosed methodology) is an outlier against two independent Tier-1 BLS series and is not used. [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "pet_logistics": "MD has no state BSL preemption; local ordinances are technically possible, but no dedicated county/city-level search was run this pass (low decision-weight field). [Tier 3|cross_verified:false|estimated|2026-09-13] Note: household_lifestyle.pet_logistics has no authoritative city-level source category (per tier policy) — this is best-effort state-law context, not a comprehensive city pet-policy review."
+    }
+  },
+  {
+    "city_ref": "salt-lake-city-ut",
+    "city": "Salt Lake City",
+    "state_ref": "utah",
+    "residency_context": {
+      "host_for": [
+        "univ_utah_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "univ_utah_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "household_lifestyle": {
+      "housing_snapshot": "Metro ZHVI $562,551, up ~1.0% YoY (Zillow Research, Aug 2026 market report). [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "partner_job_market": "Salt Lake City-Murray MSA unemployment 3.5% (Jul 2026, BLS large-metro table). [Tier 1|cross_verified:false|verified|2026-09-13]",
+      "pet_logistics": "UT statutorily preempts local BSL. [Tier 2|cross_verified:true|single-source|2026-09-13] Note: household_lifestyle.pet_logistics has no authoritative city-level source category (per tier policy) — this is best-effort state-law context, not a comprehensive city pet-policy review."
+    }
+  },
+  {
+    "city_ref": "san-diego-ca",
+    "city": "San Diego",
+    "state_ref": "california",
+    "residency_context": {
+      "host_for": [
+        "ucsd_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "ucsd_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "household_lifestyle": {
+      "housing_snapshot": "Metro ZHVI $934,936, up ~1.0% YoY (Zillow Research, Aug 2026 market report). [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "partner_job_market": "San Diego-Chula Vista-Carlsbad MSA unemployment 4.7% (Jul 2026, BLS large-metro table). [Tier 1|cross_verified:false|verified|2026-09-13]",
+      "pet_logistics": "CA statutorily preempts local BSL for the \"dangerous/vicious\" designation (Health & Safety Code §122331); cities may only regulate breed via mandatory spay/neuter programs, not outright bans. [Tier 1|cross_verified:true|verified|2026-09-13] Note: household_lifestyle.pet_logistics has no authoritative city-level source category (per tier policy) — this is best-effort state-law context, not a comprehensive city pet-policy review."
+    }
+  },
+  {
+    "city_ref": "san-francisco-ca",
+    "city": "San Francisco",
+    "state_ref": "california",
+    "residency_context": {
+      "host_for": [
+        "ucsf_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "ucsf_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "household_lifestyle": {
+      "housing_snapshot": "Metro ZHVI $1,134,525, up ~3.3% YoY (Zillow Research, Aug 2026 market report). [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "partner_job_market": "San Francisco-Oakland-Fremont MSA unemployment 4.4% (Jul 2026, BLS large-metro table). [Tier 1|cross_verified:false|verified|2026-09-13]",
+      "pet_logistics": "CA statutorily preempts local BSL for the \"dangerous/vicious\" designation (Health & Safety Code §122331); cities may only regulate breed via mandatory spay/neuter programs, not outright bans. [Tier 1|cross_verified:true|verified|2026-09-13] Note: household_lifestyle.pet_logistics has no authoritative city-level source category (per tier policy) — this is best-effort state-law context, not a comprehensive city pet-policy review."
+    }
+  },
+  {
+    "city_ref": "scottsdale-az",
+    "city": "Scottsdale",
+    "state_ref": "arizona",
+    "residency_context": {
+      "host_for": [
+        "mayo_scottsdale_phoenix_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "mayo_scottsdale_phoenix_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "household_lifestyle": {
+      "housing_snapshot": "RESOLVED (was stale) — City ZHVI $854,394, up 2.3% YoY (Zillow, data as of Jul 31 2026), homes going to pending in ~53 days. Cross-checked against a second aggregator's 2026 median (~$883,000, smartersquares.com) — same ballpark. Supersedes the earlier figure, which was a stale 2023 snapshot served on a 2026-dated page. [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "partner_job_market": "Phoenix-Mesa-Chandler MSA unemployment 4.8% (Jul 2026, BLS large-metro table); Scottsdale itself not separately isolated. [Tier 1|cross_verified:false|verified|2026-09-13]",
+      "pet_logistics": "AZ is counted among the ~22 states that statutorily preempt local breed-specific ordinances. [Tier 2|cross_verified:true|single-source|2026-09-13] Note: household_lifestyle.pet_logistics has no authoritative city-level source category (per tier policy) — this is best-effort state-law context, not a comprehensive city pet-policy review."
+    }
+  },
+  {
+    "city_ref": "seattle-wa",
+    "city": "Seattle",
+    "state_ref": "washington",
+    "residency_context": {
+      "host_for": [
+        "uw_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "uw_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "household_lifestyle": {
+      "housing_snapshot": "Metro ZHVI (Seattle-Tacoma-Bellevue) $730,623, down ~1.6% YoY (Zillow Research, Aug 2026 market report); city-level Seattle figure not separately isolated. [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "partner_job_market": "Seattle-Tacoma-Bellevue MSA unemployment 5.0% (Jul 2026, BLS large-metro table). [Tier 1|cross_verified:false|verified|2026-09-13]",
+      "pet_logistics": "WA statutorily preempts local BSL. [Tier 2|cross_verified:true|single-source|2026-09-13] Note: household_lifestyle.pet_logistics has no authoritative city-level source category (per tier policy) — this is best-effort state-law context, not a comprehensive city pet-policy review."
+    }
+  },
+  {
+    "city_ref": "tacoma-wa",
+    "city": "Tacoma",
+    "state_ref": "washington",
+    "residency_context": {
+      "host_for": [
+        "madigan_army_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "madigan_army_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "household_lifestyle": {
+      "housing_snapshot": "null — the shared Seattle-Tacoma-Bellevue metro ZHVI ($730,623) would overstate Tacoma specifically, since Tacoma's own market runs well below Seattle proper; no clean city-specific figure retrieved this pass.",
+      "partner_job_market": "Seattle-Tacoma-Bellevue MSA unemployment 5.0% (Jul 2026, BLS large-metro table); Tacoma itself not separately isolated. [Tier 1|cross_verified:false|verified|2026-09-13]",
+      "pet_logistics": "WA statutorily preempts local BSL. [Tier 2|cross_verified:true|single-source|2026-09-13] Note: household_lifestyle.pet_logistics has no authoritative city-level source category (per tier policy) — this is best-effort state-law context, not a comprehensive city pet-policy review."
+    }
+  },
+  {
+    "city_ref": "tampa-fl",
+    "city": "Tampa",
+    "state_ref": "florida",
+    "residency_context": {
+      "host_for": [
+        "usf_morsani_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "usf_morsani_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "household_lifestyle": {
+      "housing_snapshot": "Metro ZHVI $359,285, down ~0.6% YoY (Zillow Research, Aug 2026 market report). [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "partner_job_market": "Tampa-St. Petersburg-Clearwater MSA unemployment 4.8% (Jul 2026, BLS large-metro table). [Tier 1|cross_verified:false|verified|2026-09-13]",
+      "pet_logistics": "FL eliminated all local BSL statewide via 2023 legislation (HB 941/SB 942), which removed the pre-1990 grandfather clause and ended Miami-Dade County's ~30-year pit-bull ban (in effect 1989–2023). No breed bans remain anywhere in FL. [Tier 2|cross_verified:true|verified|2026-09-13] Note: household_lifestyle.pet_logistics has no authoritative city-level source category (per tier policy) — this is best-effort state-law context, not a comprehensive city pet-policy review."
+    }
+  },
+  {
+    "city_ref": "winston-salem-nc",
+    "city": "Winston-Salem",
+    "state_ref": "north-carolina",
+    "residency_context": {
+      "host_for": [
+        "wake_forest_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "wake_forest_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "household_lifestyle": {
+      "housing_snapshot": "null — no dedicated city-level ZHVI source surfaced this pass.",
+      "partner_job_market": "Winston-Salem MSA unemployment 3.5% (Mar 2026, NC Dept. of Commerce, sourced from BLS LAUS). [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "pet_logistics": "NC has no state BSL preemption (a 2015 preemption bill was defeated); local governments retain authority to enact breed-specific ordinances, though none identified for this specific city. [Tier 2|cross_verified:true|single-source|2026-09-13] Note: household_lifestyle.pet_logistics has no authoritative city-level source category (per tier policy) — this is best-effort state-law context, not a comprehensive city pet-policy review."
+    }
+  },
+  {
+    "city_ref": "woodbridge-ct",
+    "city": "Woodbridge",
+    "state_ref": "connecticut",
+    "residency_context": {
+      "host_for": [],
+      "suburb_for": [
+        {
+          "residency_id": "yale_neurology",
+          "host_city_ref": "new-haven-ct",
+          "distance_mi": 8,
+          "drive_time_offpeak_min": 15,
+          "drive_time_rush_min": 22
+        }
+      ],
+      "research_target_for": [
+        {
+          "residency_id": "yale_neurology",
+          "swapped_from_host": true,
+          "swapped_from_host_ref": "new-haven-ct",
+          "note": "New Haven's citywide crime rate runs well above the national average, and the Hill neighborhood around Yale-New Haven Hospital shows above-average violent crime in local data. Swapped to Woodbridge, one of the lowest-crime towns in Connecticut."
+        }
+      ]
+    },
+    "household_lifestyle": {
+      "housing_snapshot": "City ZHVI $649,706, up ~1.2% YoY (Zillow) — notably above the New Haven metro overall, consistent with Woodbridge's affluent-suburb profile. [Tier 2|cross_verified:false|single-source|2026-09-13]",
+      "partner_job_market": "New Haven MSA unemployment 5.3% (Apr 2026, BLS Northeast regional office direct) — tracks CT's statewide 2026 uptick; among the higher rates in the dataset. [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "pet_logistics": "CT is counted among the ~22 states that statutorily preempt local breed-specific ordinances. [Tier 2|cross_verified:true|single-source|2026-09-13] Note: household_lifestyle.pet_logistics has no authoritative city-level source category (per tier policy) — this is best-effort state-law context, not a comprehensive city pet-policy review."
+    }
+  }
+]

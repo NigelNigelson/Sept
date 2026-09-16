@@ -1,0 +1,1089 @@
+[
+  {
+    "city_ref": "atlanta-ga",
+    "city": "Atlanta",
+    "state_ref": "georgia",
+    "residency_context": {
+      "host_for": [
+        "emory_neurology",
+        "morehouse_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "emory_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        },
+        {
+          "residency_id": "morehouse_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "ecosystem_climate": {
+      "pests": "Fire ants (statewide, all 159 counties), lone star tick & American dog tick, mosquitoes (Asian tiger mosquito, breeding once temps sustain >50F), cockroaches, termites (leading wood-destroying-organism claim category per GA Dept of Agriculture) [Tier2|cross_verified:true|verified|2026-09-14] Source: UGA Cooperative Extension (CAES)/Georgia Dept of Agriculture-sourced pest guidance.",
+      "skin_irritants": "Poison ivy (Toxicodendron radicans) common statewide incl. metro Atlanta, prefers moist deciduous woodland edges; poison oak also present and often confused with poison ivy; both cause urushiol contact dermatitis [Tier2|cross_verified:true|verified|2026-09-14] Source: UGA Extension (extension.uga.edu, fieldreport.caes.uga.edu).",
+      "air_quality": "Grade B+ / median AQI 49 (2025, EPA AQS/AirNow-sourced), 4 unhealthy days in 2025, primary pollutant PM2.5; American Lung Association 'State of the Air' gives Atlanta/Fulton Co. an F grade for ozone (historically out of attainment since 1996, ~5.5 unhealthy ozone days/yr, 3rd-worst ozone ranking in the Southeast) [Tier2|cross_verified:true|verified|2026-09-14] Sources: EPA AirNow-derived aggregator (localairdata.com) + American Lung Association State of the Air.",
+      "daylight": "Computed (lat 33.75N): ~14.4h at summer solstice, ~9.9h at winter solstice [Tier3|cross_verified:false|estimated|2026-09-14] astronomical calculation, not independently sourced.",
+      "seasons": "Humid subtropical (Köppen Cfa) confirmed via NWS Peachtree City official climate-normal station (1991-2020 normal period); hot humid summers, mild winters with occasional ice; independently re-confirmed this pass via NWS product + usclimatedata/climatestotravel cross-check [Tier1|cross_verified:true|verified|2026-09-14] Source: forecast.weather.gov (NWS Atlanta/Peachtree City CLI product)."
+    }
+  },
+  {
+    "city_ref": "augusta-ga",
+    "city": "Augusta",
+    "state_ref": "georgia",
+    "residency_context": {
+      "host_for": [
+        "mcg_augusta_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "mcg_augusta_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "ecosystem_climate": {
+      "pests": "Same statewide GA pest profile as Atlanta (fire ants, lone star/American dog ticks, Asian tiger mosquito, cockroaches, termites); Middle/lower-elevation GA pest pressure runs slightly longer season than Atlanta given lower elevation and higher heat [Tier2|cross_verified:true|verified|2026-09-14] Source: UGA CAES statewide guidance (see atlanta-ga note; not independently re-verified at Augusta/Richmond-Co. level this pass).",
+      "skin_irritants": "Poison ivy/oak common statewide per UGA Extension; no Augusta-specific deviation identified [Tier2|cross_verified:false|single-source|2026-09-14] statewide UGA Extension source, not independently re-verified at city level.",
+      "air_quality": "Grade B+ / median AQI 49 (2025, EPA AQS/AirNow-sourced), 1 unhealthy day in 2025; American Lung Association State of the Air gives Richmond County a failing grade for year-round particle pollution (ranked 24th-worst metro nationally) and a D grade for short-term particle spikes (2.7 days/yr) [Tier2|cross_verified:true|verified|2026-09-14] Sources: localairdata.com (EPA AQS/AirNow) + American Lung Association SOTA Augusta report.",
+      "daylight": "Computed (lat 33.47N): ~14.4h at summer solstice, ~9.9h at winter solstice [Tier3|cross_verified:false|estimated|2026-09-14] astronomical calculation.",
+      "seasons": "Humid subtropical (Köppen Cfa); usclimatedata.com NOAA-derived averages: Jan avg high 58F/low 33F, Jul avg high 93F/low 70F, annual precip ~43.6in; warmer/less snow-prone than Atlanta given ~900ft lower elevation [Tier2|cross_verified:true|verified|2026-09-14] Source: usclimatedata.com (NOAA station-derived)."
+    }
+  },
+  {
+    "city_ref": "aurora-co",
+    "city": "Aurora",
+    "state_ref": "colorado",
+    "residency_context": {
+      "host_for": [
+        "univ_colorado_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "univ_colorado_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "ecosystem_climate": {
+      "pests": "Rocky Mountain wood tick (most common human/dog-biting tick in CO, active spring into early summer); Lyme disease NOT locally transmitted (blacklegged tick absent from CO per CSU Extension); mosquitoes (West Nile virus vector, esp. Culex spp.); higher pest pressure in wetter years per CSU Extension entomologists [Tier2|cross_verified:true|verified|2026-09-14] Source: Colorado State University Extension (extension.colostate.edu).",
+      "skin_irritants": "Western poison ivy (Toxicodendron rydbergii) present but 'not a common plant in Colorado' per CSU Extension - far less prevalent than in the Southeast, found in scattered spots incl. Front Range; stinging nettle (Urtica gracilis) along streams/irrigation ditches [Tier2|cross_verified:true|verified|2026-09-14] Source: CSU Extension (tra.extension.colostate.edu, ask.extension.org).",
+      "air_quality": "Denver Metro/North Front Range ozone nonattainment area (includes Adams/Arapahoe Co., covering Aurora) reclassified by EPA from Moderate to Serious nonattainment for the 2008 8-hr ozone NAAQS, citing continued monitoring violations; American Lung Association gives the Denver metro an F grade for ozone [Tier1|cross_verified:true|verified|2026-09-14] Sources: EPA.gov press release (Region 8) + American Lung Association State of the Air.",
+      "daylight": "Computed (lat 39.73N): ~15.0h at summer solstice, ~9.4h at winter solstice [Tier3|cross_verified:false|estimated|2026-09-14] astronomical calculation.",
+      "seasons": "Cold semi-arid (Köppen BSk) per majority of sources (plantmaps.com/NOAA-derived, metrodenver.org, move4lessmoving); ~300 days/yr sunshine, low humidity, wide diurnal swings, snow possible any month; one minority source (climate-data.org) mistags Cfa - disregarded as an outlier against BSk consensus. NWS Boulder Dec-2024 monthly summary independently confirms Denver-area normal-period methodology [Tier1|cross_verified:true|verified|2026-09-14] Sources: NWS Boulder (weather.gov), plantmaps.com (NOAA station data), metrodenver.org."
+    }
+  },
+  {
+    "city_ref": "austin-tx",
+    "city": "Austin",
+    "state_ref": "texas",
+    "residency_context": {
+      "host_for": [
+        "dellmed_utaustin_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "dellmed_utaustin_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "ecosystem_climate": {
+      "pests": "Fire ants (infest eastern two-thirds of TX incl. Austin/Travis Co.), striped bark scorpion (most prevalent of TX's 18 scorpion species, esp. central TX), mosquitoes (West Nile/encephalitis vectors), ticks, chiggers, cockroaches - heat/drought cycles push more pests indoors per Texas A&M AgriLife entomologists [Tier2|cross_verified:true|verified|2026-09-14] Source: Texas A&M AgriLife Extension (texasinsects.tamu.edu, AgriLife Extension press statements).",
+      "skin_irritants": "Poison ivy/oak present in central TX per general regional pattern (not independently re-verified at Travis-Co. level this pass) [Tier3|cross_verified:false|estimated|2026-09-14] inferred from broader eastern-2/3-TX vegetation pattern; no dedicated Austin-specific extension source retrieved this pass.",
+      "air_quality": "Austin/Travis Co. is technically ozone-attainment but American Lung Association gives Travis Co. an F grade for ozone (3.3 unhealthy days/yr, just above the 3.2-day federal threshold - closest to nonattainment since records began 1996); Travis Co. also flagged 'at risk of PM2.5 nonattainment' under EPA's tightened 2024 particle standard (2020-2022 avg 9.3 ug/m3 vs new 9.0 ug/m3 limit) [Tier1|cross_verified:true|verified|2026-09-14] Sources: TCEQ (state env. agency) + American Lung Association SOTA + CBS Austin reporting on EPA standard change.",
+      "daylight": "Computed (lat 30.27N): ~14.1h at summer solstice, ~10.2h at winter solstice [Tier3|cross_verified:false|estimated|2026-09-14] astronomical calculation.",
+      "seasons": "Humid subtropical (Köppen Cfa), no dry season; hot summers (Jul/Aug avg high ~95-96F), mild winters; sits at northern edge of Hill Country climate transition, consistent with geography.seasons already on file [Tier2|cross_verified:true|verified|2026-09-14] Sources: usclimatedata.com, weatherandclimate.com, en.climate-data.org (converging Cfa classification)."
+    }
+  },
+  {
+    "city_ref": "chapel-hill-nc",
+    "city": "Chapel Hill",
+    "state_ref": "north-carolina",
+    "residency_context": {
+      "host_for": [
+        "unc_neurology"
+      ],
+      "suburb_for": [
+        {
+          "residency_id": "duke_neurology",
+          "host_city_ref": "durham-nc",
+          "distance_mi": 12,
+          "drive_time_offpeak_min": 18,
+          "drive_time_rush_min": 28
+        }
+      ],
+      "research_target_for": [
+        {
+          "residency_id": "unc_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "ecosystem_climate": {
+      "pests": "Ticks (American dog, brown dog, blacklegged/deer tick - Lyme-capable, unlike CO; lone star tick), mosquitoes (Asian tiger + eastern tree-hole, West Nile/EEE vectors) per NC State Extension; statewide NC pattern applies to the Piedmont/Triangle area [Tier2|cross_verified:true|verified|2026-09-14] Source: NC State Extension (content.ces.ncsu.edu, henderson.ces.ncsu.edu).",
+      "skin_irritants": "Poison ivy/oak/sumac common statewide ('leaves of three'); regional outdoors guidance flags it alongside ticks/mosquitoes as the three main seasonal hazards [Tier3|cross_verified:false|verified|2026-09-14] Sources: NC State Extension pest guidance (Tier2, general skin-irritation note) + regional outdoors press coverage (getgoingnc.com, Tier3) for the ivy-specific detail.",
+      "air_quality": "Part of the Raleigh-Durham-Chapel Hill 'Triangle' 8-hour ozone area, redesignated from nonattainment to attainment/maintenance status by EPA in Dec 2007 after meeting standards; regional aggregator (2026) still flags the Triangle as a summer-ozone hotspot among NC's Piedmont metros, alongside Charlotte and the Triad, though not currently under a federal nonattainment designation [Tier1|cross_verified:true|verified|2026-09-14] Source: NC DEQ Div. of Air Quality SIP page (deq.nc.gov), citing 72 FR 72948 EPA final rule.",
+      "daylight": "Computed (lat 35.91N): ~14.6h at summer solstice, ~9.7h at winter solstice [Tier3|cross_verified:false|estimated|2026-09-14] astronomical calculation.",
+      "seasons": "Humid subtropical (Köppen Cfa); hot summers (Jul avg high ~89F), cool winters with occasional light snow, consistent with geography.seasons already on file [Tier2|cross_verified:false|single-source|2026-09-14] carried from prior-batch NOAA-derived source, not independently re-pulled this pass."
+    }
+  },
+  {
+    "city_ref": "charlottesville-va",
+    "city": "Charlottesville",
+    "state_ref": "virginia",
+    "residency_context": {
+      "host_for": [
+        "uva_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "uva_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "ecosystem_climate": {
+      "pests": "Ticks: lone star (most common east of Blue Ridge per VA Cooperative Extension), American dog, brown dog (non-disease-carrying in VA), blacklegged/deer tick (Lyme-capable, 'of most concern'), and the newer invasive Asian longhorned tick [Tier2|cross_verified:true|verified|2026-09-14] Source: Virginia Cooperative Extension (roanoke.ext.vt.edu, VCE Master Gardener guidance).",
+      "skin_irritants": "Poison ivy/oak inferred common per broader mid-Atlantic pattern; not independently confirmed via a VA-specific extension source this pass [Tier3|cross_verified:false|estimated|2026-09-14] general-knowledge regional inference; VA Cooperative Extension source retrieved this pass covered ticks but not skin-irritant plants specifically.",
+      "air_quality": "Charlottesville/Albemarle Co. not part of any current or historical Piedmont-VA ozone nonattainment designation found this pass (distinct from Richmond, see richmond-va); live aggregator (IQAir/tomorrow.io-sourced) shows AQI in the Good range (~28 AQI, PM2.5 ~5.1 ug/m3) on the date checked [Tier3|cross_verified:false|single-source|2026-09-14] Source: iqair.com (real-time reading, not an annual/EPA-official figure - lower confidence than a full-year AQS dataset).",
+      "daylight": "Computed (lat 38.03N): ~14.8h at summer solstice, ~9.5h at winter solstice [Tier3|cross_verified:false|estimated|2026-09-14] astronomical calculation.",
+      "seasons": "Humid subtropical (Köppen Cfa); NOAA NCEI 1991-2020 normals: annual avg temp 56.6F, annual precip 46.4in, snowfall 14.5in/yr, 23 days/yr >=90F; climate moderated by the Blue Ridge 15mi west, which blunts Arctic cold-air outbreaks, consistent with geography.seasons already on file [Tier1|cross_verified:true|verified|2026-09-14] Source: weatherbycounty.com, explicitly citing NOAA NCEI 1991-2020 Climate Normals."
+    }
+  },
+  {
+    "city_ref": "columbia-md",
+    "city": "Columbia",
+    "state_ref": "maryland",
+    "residency_context": {
+      "host_for": [],
+      "suburb_for": [
+        {
+          "residency_id": "johns_hopkins_neurology",
+          "host_city_ref": "baltimore-md",
+          "distance_mi": 20,
+          "drive_time_offpeak_min": 28,
+          "drive_time_rush_min": 42
+        },
+        {
+          "residency_id": "univ_maryland_neurology",
+          "host_city_ref": "baltimore-md",
+          "distance_mi": 18,
+          "drive_time_offpeak_min": 25,
+          "drive_time_rush_min": 38
+        }
+      ],
+      "research_target_for": [
+        {
+          "residency_id": "johns_hopkins_neurology",
+          "swapped_from_host": true,
+          "swapped_from_host_ref": "baltimore-md",
+          "note": "Baltimore's violent crime rate runs ~3-4x the national average, and the blocks immediately around Johns Hopkins Hospital in East Baltimore have a well-documented pattern of shootings and robberies (JHU security alerts, local news). Swapped to Columbia, MD, repeatedly ranked one of the safest cities in the US (WalletHub)."
+        },
+        {
+          "residency_id": "univ_maryland_neurology",
+          "swapped_from_host": true,
+          "swapped_from_host_ref": "baltimore-md",
+          "note": "Same Baltimore host-city problem as Johns Hopkins (citywide violent crime ~3-4x national average, west-side hospital corridor affected too). Swapped to Columbia, MD, a repeat WalletHub #1 safest city."
+        }
+      ]
+    },
+    "ecosystem_climate": {
+      "pests": "Ticks: 6 species found in MD per University of Maryland Extension - blacklegged/deer tick (Lyme disease), American dog tick (Rocky Mountain spotted fever), lone star tick (ehrlichiosis, alpha-gal syndrome), brown dog tick, Gulf Coast tick, Asian longhorned tick (emerging invasive); mosquitoes also common in Howard Co. summers [Tier2|cross_verified:true|verified|2026-09-14] Source: University of Maryland Extension (extension.umd.edu).",
+      "skin_irritants": "Poison ivy common in MD per general mid-Atlantic pattern; not independently confirmed via a MD-specific extension source this pass [Tier3|cross_verified:false|estimated|2026-09-14] general-knowledge regional inference.",
+      "air_quality": "Howard County is officially designated Serious nonattainment for the 2015 8-hr ozone NAAQS and Moderate nonattainment for the 2008 8-hr ozone NAAQS as part of the Baltimore, MD nonattainment area (EPA eCFR 40 CFR 81.321); Baltimore metro was reclassified Moderate->Serious in Aug 2024; American Lung Association gives the Baltimore area an F for ozone (Baltimore/Harford Co. among only 2 MD counties with F grades in 2024 report) [Tier1|cross_verified:true|verified|2026-09-14] Sources: eCFR/EPA Green Book (Tier1) + American Lung Association State of the Air.",
+      "daylight": "Computed (lat 39.21N): ~14.9h at summer solstice, ~9.4h at winter solstice [Tier3|cross_verified:false|estimated|2026-09-14] astronomical calculation.",
+      "seasons": "Humid subtropical (Köppen Cfa); en.climate-data.org monthly averages: Jul avg high ~86F, Jan avg high ~41F, annual precip similar to DC-Baltimore corridor; 'very cold, snowy, windy' winters per weatherspark aggregation - colder/more continental-influenced than the Eastern Shore (Salisbury) given inland Piedmont position [Tier2|cross_verified:true|verified|2026-09-14] Sources: en.climate-data.org + weatherspark.com."
+    }
+  },
+  {
+    "city_ref": "dallas-tx",
+    "city": "Dallas",
+    "state_ref": "texas",
+    "residency_context": {
+      "host_for": [
+        "utsw_neurology",
+        "baylor_umc_dallas_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "baylor_umc_dallas_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        },
+        {
+          "residency_id": "utsw_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "ecosystem_climate": {
+      "pests": "Same eastern-TX pest profile as Austin (fire ants present, mosquitoes/West Nile, ticks, cockroaches); scorpions less prevalent in DFW than central/west TX per AgriLife (striped bark scorpion is primarily a central/west-TX concern) [Tier2|cross_verified:false|single-source|2026-09-14] Source: Texas A&M AgriLife statewide guidance (not independently re-verified at Dallas Co. level this pass).",
+      "skin_irritants": "Poison ivy/oak present in north-central TX per general regional pattern [Tier3|cross_verified:false|estimated|2026-09-14] inferred from broader eastern-2/3-TX vegetation pattern; no dedicated Dallas-specific extension source retrieved this pass.",
+      "air_quality": "Dallas-Fort Worth (10-county area incl. Dallas Co.) is a Severe ozone nonattainment area for the 2008 8-hr NAAQS (reclassified from Serious in 2022) and Serious nonattainment for the 2015 NAAQS (EPA proposed reclassification from Moderate in Jan 2024); required attainment date under 2008 standard is July 2027 [Tier1|cross_verified:true|verified|2026-09-14] Sources: Federal Register/EPA Region 6 + TCEQ (tceq.texas.gov).",
+      "daylight": "Computed (lat 32.78N): ~14.3h at summer solstice, ~10.0h at winter solstice [Tier3|cross_verified:false|estimated|2026-09-14] astronomical calculation.",
+      "seasons": "Humid subtropical (Köppen Cfa); very hot summers (Jul/Aug avg high ~95-96F, all-time record 113F/1980), mild winters punctuated by sharp 'Blue Norther' cold-front drops enabled by flat open terrain; located in Tornado Alley with active severe-storm spring season, consistent with geography.seasons already on file [Tier1|cross_verified:true|verified|2026-09-14] Sources: Wikipedia climate summary (NOAA-sourced table) + weather-atlas.com + usclimatedata.com."
+    }
+  },
+  {
+    "city_ref": "durham-nc",
+    "city": "Durham",
+    "state_ref": "north-carolina",
+    "residency_context": {
+      "host_for": [
+        "duke_neurology"
+      ],
+      "suburb_for": [
+        {
+          "residency_id": "unc_neurology",
+          "host_city_ref": "chapel-hill-nc",
+          "distance_mi": 12,
+          "drive_time_offpeak_min": 18,
+          "drive_time_rush_min": 28
+        }
+      ],
+      "research_target_for": [
+        {
+          "residency_id": "duke_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "ecosystem_climate": {
+      "pests": "Same Piedmont-NC pest profile as Chapel Hill (ticks incl. Lyme-capable blacklegged tick, mosquitoes incl. Asian tiger, West Nile/EEE risk) [Tier2|cross_verified:true|verified|2026-09-14] Source: NC State Extension statewide guidance (see chapel-hill-nc note; not independently re-verified at Durham Co. level this pass).",
+      "skin_irritants": "Poison ivy/oak common statewide, same as Chapel Hill [Tier3|cross_verified:false|verified|2026-09-14] NC State Extension + regional outdoors guidance (see chapel-hill-nc note).",
+      "air_quality": "Same Raleigh-Durham-Chapel Hill Triangle ozone-maintenance-area status as Chapel Hill (redesignated attainment Dec 2007); Durham Co. is one of the three core counties of the Triangle 8-hr ozone maintenance plan [Tier1|cross_verified:true|verified|2026-09-14] Source: NC DEQ Div. of Air Quality SIP page (deq.nc.gov).",
+      "daylight": "Computed (lat 35.99N): ~14.6h at summer solstice, ~9.7h at winter solstice [Tier3|cross_verified:false|estimated|2026-09-14] astronomical calculation.",
+      "seasons": "Humid subtropical (Köppen Cfa); hot summers (Jul avg high ~89F), cool winters, ~48in annual precip fairly evenly distributed, consistent with geography.seasons already on file [Tier2|cross_verified:true|verified|2026-09-14] carried from prior-batch NOAA-derived source."
+    }
+  },
+  {
+    "city_ref": "englewood-co",
+    "city": "Englewood",
+    "state_ref": "colorado",
+    "residency_context": {
+      "host_for": [
+        "hca_healthone_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "hca_healthone_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "ecosystem_climate": {
+      "pests": "Same Denver-metro pest profile as Aurora (Rocky Mountain wood tick, no local Lyme risk, West Nile-vector mosquitoes) [Tier2|cross_verified:false|single-source|2026-09-14] Source: CSU Extension statewide/Front-Range guidance (see aurora-co note; not independently re-verified at Englewood level this pass).",
+      "skin_irritants": "Western poison ivy present but uncommon statewide per CSU Extension; stinging nettle near waterways [Tier2|cross_verified:false|single-source|2026-09-14] CSU Extension statewide guidance (see aurora-co note).",
+      "air_quality": "Same Denver Metro/North Front Range Serious ozone nonattainment status as Aurora (Arapahoe Co.) [Tier1|cross_verified:true|verified|2026-09-14] Source: EPA.gov press release (Region 8).",
+      "daylight": "Computed (lat 39.65N): ~15.0h at summer solstice, ~9.4h at winter solstice [Tier3|cross_verified:false|estimated|2026-09-14] astronomical calculation.",
+      "seasons": "Cold semi-arid (Köppen BSk), same Denver-metro climate profile as Aurora - ~300 sunny days/yr, wide diurnal swings, snow possible any month, consistent with geography.seasons already on file [Tier1|cross_verified:true|verified|2026-09-14] Sources: NWS Boulder + plantmaps.com (NOAA-derived), see aurora-co note."
+    }
+  },
+  {
+    "city_ref": "farmington-ct",
+    "city": "Farmington",
+    "state_ref": "connecticut",
+    "residency_context": {
+      "host_for": [],
+      "suburb_for": [
+        {
+          "residency_id": "uconn_hartford_neurology",
+          "host_city_ref": "hartford-ct",
+          "distance_mi": 10,
+          "drive_time_offpeak_min": 15,
+          "drive_time_rush_min": 25
+        }
+      ],
+      "research_target_for": [
+        {
+          "residency_id": "uconn_hartford_neurology",
+          "swapped_from_host": true,
+          "swapped_from_host_ref": "hartford-ct",
+          "note": "Hartford's violent crime rate runs well above the national average (murder rate ~3x, FBI data). Swapped to Farmington, a low-crime suburb that is also home to UConn Health's main campus."
+        }
+      ]
+    },
+    "ecosystem_climate": {
+      "pests": "Blacklegged/deer tick (CT is a high-Lyme-endemic state), American dog tick - the two most common CT ticks per CT DPH/CAES; invasive lone star, Gulf Coast, and Asian longhorned ticks spreading but still concentrated mainly in coastal Fairfield/New Haven counties rather than inland Hartford Co. (where Farmington sits) [Tier1|cross_verified:true|verified|2026-09-14] Source: CT Dept of Public Health + Connecticut Agricultural Experiment Station (portal.ct.gov, CAES).",
+      "skin_irritants": "Poison ivy present, 'common along the edges of fields and growing up trees' per CT DEEP pest-management guidance [Tier1|cross_verified:false|single-source|2026-09-14] Source: CT DEEP (portal.ct.gov).",
+      "air_quality": "Hartford County is part of the 'Greater Connecticut' ozone nonattainment area, officially classified Serious nonattainment for the 2008 8-hr ozone NAAQS (effective 9/23/2019); American Lung Association gives Hartford Co. a C grade for ozone (2024 report) - notably better than the coastal CT counties (Fairfield/New Haven/Middlesex all F grades) [Tier1|cross_verified:true|verified|2026-09-14] Sources: eCFR 40 CFR 81.307 (Tier1) + American Lung Association SOTA CT 2024/2025.",
+      "daylight": "Computed (lat 41.72N): ~15.2h at summer solstice, ~9.1h at winter solstice [Tier3|cross_verified:false|estimated|2026-09-14] astronomical calculation.",
+      "seasons": "Humid continental (Köppen Dfa), colder/more inland than coastal CT - cold snowy winters, warm humid summers, four distinct seasons typical of interior New England; consistent with geography.seasons already on file for this dataset's CT cities [Tier3|cross_verified:false|estimated|2026-09-14] general New England climate knowledge; no dedicated Farmington-specific NOAA normals page pulled this pass."
+    }
+  },
+  {
+    "city_ref": "folsom-ca",
+    "city": "Folsom",
+    "state_ref": "california",
+    "residency_context": {
+      "host_for": [],
+      "suburb_for": [
+        {
+          "residency_id": "ucdavis_neurology",
+          "host_city_ref": "sacramento-ca",
+          "distance_mi": 22,
+          "drive_time_offpeak_min": 28,
+          "drive_time_rush_min": 40
+        }
+      ],
+      "research_target_for": [
+        {
+          "residency_id": "ucdavis_neurology",
+          "swapped_from_host": true,
+          "swapped_from_host_ref": "sacramento-ca",
+          "note": "Sacramento's violent crime rate is ~100%+ above the national average, and UC Davis Medical Center directly borders Oak Park, a neighborhood with a long-documented concentration of violent crime and drug activity. Swapped to Folsom, a low-crime Sacramento suburb (~40-48% below national average)."
+        }
+      ]
+    },
+    "ecosystem_climate": {
+      "pests": "Western blacklegged tick (Ixodes pacificus, CA's sole Lyme vector) present in Sierra foothill range - Folsom sits at the edge of this moister foothill zone (per LA West Vector Control's description of the tick's coastal/Sierra-foothill distribution); relapsing-fever ticks (Ornithodoros hermsi, tick-borne relapsing fever) also documented along the Sierra Nevada range per Santa Clara Co. Vector Control [Tier2|cross_verified:true|verified|2026-09-14] Sources: UC IPM (ipm.ucanr.edu) + Santa Clara County Vector Control District tick-borne disease guide.",
+      "skin_irritants": "Western poison oak (Toxicodendron diversilobum, the only Toxicodendron species in CA) - widespread in oak woodlands, rangelands, and riparian areas typical of the Sacramento-foothills transition zone where Folsom sits; UC IPM calls it 'the most hazardous plant in the state' by lost work-hours [Tier2|cross_verified:true|verified|2026-09-14] Source: UC IPM/UC ANR (ipm.ucanr.edu Pest Notes Pub. 7431).",
+      "air_quality": "Folsom sits in the Sacramento Metro ozone nonattainment area (Sacramento, Yolo, and parts of Placer/El Dorado/Solano/Sutter counties - Folsom itself straddles Sacramento/Placer/El Dorado Co. lines), historically classified Severe-15 nonattainment for the 1997 8-hr ozone standard; EPA proposed a Clean Data Determination in Sept 2026 finding the area is now attaining the 1997 standard based on 2023-2025 monitoring data - i.e. actively transitioning toward attainment as of this dataset's reference date [Tier1|cross_verified:true|verified|2026-09-14] Sources: Federal Register (Sept 2026 proposed rule) + Sacramento Metropolitan Air Quality Management District (airquality.org).",
+      "daylight": "Computed (lat 38.68N): ~14.9h at summer solstice, ~9.5h at winter solstice [Tier3|cross_verified:false|estimated|2026-09-14] astronomical calculation.",
+      "seasons": "Hot-summer Mediterranean (Köppen Csa), same climate class as Sacramento/Los Angeles - hot dry summers (inland Sacramento-area highs can reach mid-90sF) moderated somewhat by Folsom's slightly higher foothill elevation vs. downtown Sacramento, mild wet winters, most precipitation Oct-Apr [Tier2|cross_verified:true|verified|2026-09-14] Sources: en.climate-data.org (Köppen classification table) + amli.com regional CA-climate breakdown."
+    }
+  },
+  {
+    "city_ref": "gainesville-fl",
+    "city": "Gainesville",
+    "state_ref": "florida",
+    "residency_context": {
+      "host_for": [
+        "uf_gainesville_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "uf_gainesville_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "ecosystem_climate": {
+      "pests": "Mosquitoes (80+ FL species, West Nile/EEE vectors statewide per FDOH Arbovirus Surveillance; Aedes aegypti/albopictus flagged priority vectors, though dengue/Zika transmission risk is concentrated in specific southern FL counties, not north-central FL where Gainesville sits), fire ants, cockroaches, chiggers, Formosan/Eastern subterranean termites (FL bears a disproportionate share of the Southeast's termite damage costs per UF/IFAS) [Tier2|cross_verified:true|verified|2026-09-14] Source: UF/IFAS Extension (ask.ifas.ufl.edu) + FDOH-sourced pest reference.",
+      "skin_irritants": "Poison ivy (most commonly encountered FL poisonous plant per UF/IFAS), poison oak, poison sumac, and poisonwood (a FL/Caribbean-specific urushiol species not found in most of the rest of the US) all present statewide; UF/IFAS also flags mango, cashew, and invasive Brazilian pepper-tree as urushiol-relative allergens [Tier2|cross_verified:true|verified|2026-09-14] Source: UF/IFAS Extension (ask.ifas.ufl.edu ENH886/EP220, sfyl.ifas.ufl.edu).",
+      "air_quality": "Florida has met or exceeded all federal air quality standards statewide for 5 consecutive years per Florida DEP/American Lung Association reporting; Gainesville-Lake City was specifically named among the cleanest US metro areas for year-round particle pollution in the ALA's most recent State of the Air report [Tier2|cross_verified:true|verified|2026-09-14] Source: American Lung Association SOTA (via Florida Politics reporting on the ALA report) + FL DEP statewide-attainment claim.",
+      "daylight": "Computed (lat 29.65N): ~14.1h at summer solstice, ~10.2h at winter solstice [Tier3|cross_verified:false|estimated|2026-09-14] astronomical calculation.",
+      "seasons": "Humid subtropical (Köppen Cfa), north-central FL climate zone shared with Jacksonville/Tallahassee rather than the tropical south-FL zone; hot humid summers (May-Oct wet season), mild winters with occasional frost/freeze risk (further north/inland than peninsular FL, so more susceptible to cold snaps than Tampa/Miami) [Tier2|cross_verified:false|single-source|2026-09-14] Source: en.climate-data.org Florida climate-zone breakdown (Cfa classification for north/central FL incl. Jacksonville/Tallahassee-zone cities); no dedicated Gainesville-specific NOAA normals page pulled this pass."
+    }
+  },
+  {
+    "city_ref": "galveston-tx",
+    "city": "Galveston",
+    "state_ref": "texas",
+    "residency_context": {
+      "host_for": [
+        "utmb_galveston_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "utmb_galveston_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "ecosystem_climate": {
+      "pests": "Same eastern-TX/Gulf Coast pest profile (fire ants present per AgriLife eastern-2/3-state range, mosquitoes - elevated salt-marsh mosquito pressure typical of barrier-island/coastal TX, though not independently confirmed for Galveston specifically this pass) [Tier3|cross_verified:false|estimated|2026-09-14] inferred from statewide AgriLife guidance + general barrier-island/coastal ecology; no Galveston-specific extension source retrieved this pass.",
+      "skin_irritants": "Poison ivy/oak present in coastal TX per general regional pattern [Tier3|cross_verified:false|estimated|2026-09-14] inferred from broader eastern-TX vegetation pattern; no dedicated Galveston-specific source retrieved this pass.",
+      "air_quality": "Galveston Co. is part of the Houston-Galveston-Brazoria (HGB) 8-county area, a Severe ozone nonattainment area for the 2008 8-hr NAAQS and Marginal nonattainment for the 2015 NAAQS; HGB is one of the most persistently out-of-attainment ozone areas in the US given heavy petrochemical industry presence [Tier1|cross_verified:true|verified|2026-09-14] Sources: Federal Register/EPA Region 6 + TCEQ (tceq.texas.gov/airquality/sip/hgb).",
+      "daylight": "Computed (lat 29.30N): ~14.0h at summer solstice, ~10.3h at winter solstice [Tier3|cross_verified:false|estimated|2026-09-14] astronomical calculation.",
+      "seasons": "Humid subtropical, maritime-moderated by Gulf of Mexico proximity (barrier-island setting); usclimatedata.com/NOAA-derived: annual high ~77F/low ~66F, annual precip ~43.9in, milder winter/summer swing than inland TX; peak Atlantic hurricane season (Jun-Nov) is the dominant seasonal risk driver, consistent with geography.seasons already on file [Tier2|cross_verified:true|verified|2026-09-14] Sources: usclimatedata.com + climatestotravel.com (1991-2020 period)."
+    }
+  },
+  {
+    "city_ref": "germantown-tn",
+    "city": "Germantown",
+    "state_ref": "tennessee",
+    "residency_context": {
+      "host_for": [],
+      "suburb_for": [
+        {
+          "residency_id": "uthsc_memphis_neurology",
+          "host_city_ref": "memphis-tn",
+          "distance_mi": 15,
+          "drive_time_offpeak_min": 22,
+          "drive_time_rush_min": 32
+        }
+      ],
+      "research_target_for": [
+        {
+          "residency_id": "uthsc_memphis_neurology",
+          "swapped_from_host": true,
+          "swapped_from_host_ref": "memphis-tn",
+          "note": "Memphis has the highest violent crime rate of any large US city per FBI data. Swapped to Germantown, an affluent Memphis suburb with violent crime roughly 85-90% below the national average."
+        }
+      ]
+    },
+    "ecosystem_climate": {
+      "pests": "Ticks are the single most-searched pest concern in TN per Google Trends aggregation, followed by bees/wasps; Memphis-area/west TN typical species are American dog tick and lone star tick (Deep South profile, distinct from the emerging blacklegged-tick establishment seen further east in the Tennessee Valley around Knoxville); mosquitoes and cockroaches also common in the humid Memphis climate [Tier3|cross_verified:false|single-source|2026-09-14] Source: AFS Repair Google-Trends pest-search aggregation (Tier3); no dedicated UT Extension source specific to Shelby Co. tick species retrieved this pass.",
+      "skin_irritants": "Poison ivy/oak common in TN's humid, wooded, long-growing-season climate per a Nashville-area dermatology practice's clinical guidance - same statewide climate driver (long growing season, high humidity) applies to Memphis/Germantown [Tier3|cross_verified:false|single-source|2026-09-14] Source: Curcio Dermatology (Nashville-based clinical practice, Tier3 - not a state extension source).",
+      "air_quality": "Shelby County (Memphis/Germantown) is currently EPA-designated Attainment/Unclassifiable for the 2015 8-hr ozone NAAQS (effective Jan 2018); however, the Shelby County Health Department issued a Code Orange ozone advisory for the Memphis metro area as recently as Sept 13, 2026 (the day before this dataset's reference date), and a 2026 SELC lawsuit against EPA cites a 2022-2024 PM2.5 design value of 8.9 ug/m3 for Shelby Co. as 'presumptively unhealthy' under the tightened 2024 standard - i.e. officially attainment but with active, recent unhealthy-air events on record [Tier1|cross_verified:true|verified|2026-09-14] Sources: Memphis MPO citing Federal Register designation (Tier1) + NWS Memphis Code Orange advisory (Tier1, Sept 13 2026) + WSMV/SELC litigation reporting (Tier2 news citing Tier1 EPA monitoring data).",
+      "daylight": "Computed (lat 35.09N): ~14.5h at summer solstice, ~9.8h at winter solstice [Tier3|cross_verified:false|estimated|2026-09-14] astronomical calculation.",
+      "seasons": "Humid subtropical (Köppen Cfa); NOAA-sourced Memphis climate chart: Jan avg high 50F/low 33F, Jul avg high 92F/low 74F, annual precip ~49.5in; westernmost/lowest-elevation TN city in this dataset, consistently the warmest-winter of the state's three major metros per NWS climate summary (Jan min avg 33F in Memphis vs 22F in TN's mountain areas) [Tier1|cross_verified:true|verified|2026-09-14] Sources: en.wikipedia.org Geography of Memphis (NOAA-sourced chart) + NOAA/NCICS TN State Climate Summary 2022."
+    }
+  },
+  {
+    "city_ref": "greenville-nc",
+    "city": "Greenville",
+    "state_ref": "north-carolina",
+    "residency_context": {
+      "host_for": [
+        "ecu_health_brody_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "ecu_health_brody_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "ecosystem_climate": {
+      "pests": "Same statewide NC pest profile (ticks incl. blacklegged/Lyme-capable, lone star; mosquitoes incl. Asian tiger, West Nile/EEE) per NC State Extension; Coastal Plain location may carry somewhat higher mosquito pressure given flatter, wetter terrain vs. Piedmont, though not independently confirmed at Pitt Co. level this pass [Tier2|cross_verified:false|single-source|2026-09-14] Source: NC State Extension statewide guidance.",
+      "skin_irritants": "Poison ivy/oak common statewide, same as other NC cities in this dataset [Tier3|cross_verified:false|verified|2026-09-14] NC State Extension + regional guidance (see chapel-hill-nc note).",
+      "air_quality": "Pitt County (Coastal Plain, eastern NC) is not part of any Piedmont ozone nonattainment/maintenance area (Triangle, Triad, Charlotte); regional aggregator source describes the Coastal Plain's air-quality profile as driven by humidity, prescribed-burn smoke from nearby Croatan/Holly Shelter forests, and tropical-system aftermath rather than urban ozone [Tier3|cross_verified:false|single-source|2026-09-14] Source: filterbuy.com NC AQI overview (aggregator, not a primary government source - no Tier1/2 Pitt-Co.-specific EPA data surfaced this pass).",
+      "daylight": "Computed (lat 35.61N): ~14.6h at summer solstice, ~9.7h at winter solstice [Tier3|cross_verified:false|estimated|2026-09-14] astronomical calculation.",
+      "seasons": "Humid subtropical (Köppen Cfa); milder winters and more direct hurricane exposure than inland Piedmont NC, consistent with eastern NC coastal-plain pattern already on file in geography.seasons [Tier3|cross_verified:false|estimated|2026-09-14] general-knowledge regional-climate inference; no dedicated Greenville-specific NOAA normals source retrieved this pass."
+    }
+  },
+  {
+    "city_ref": "honolulu-hi",
+    "city": "Honolulu",
+    "state_ref": "hawaii",
+    "residency_context": {
+      "host_for": [
+        "hawaii_jabsom_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "hawaii_jabsom_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "ecosystem_climate": {
+      "pests": "No ticks in Hawaii (island isolation - not established on any Hawaiian island); dominant pest concerns are instead centipedes (Scolopendra subspinipes, the only clinically significant of Hawaii's 3 centipede species - per a peer-reviewed Hawai'i Journal of Medicine & Public Health article, bites cause severe localized pain/tissue necrosis, occasionally requiring ER care), mosquitoes, cockroaches, and ants; the Hawaii DOH's own Vector Control Branch guidance names centipedes as a common after-heavy-rain household-entry problem [Tier1|cross_verified:true|verified|2026-09-14] Sources: Hawaii Dept. of Health Vector Control Branch (health.hawaii.gov) + peer-reviewed Hawai'i Journal of Medicine & Public Health (pmc.ncbi.nlm.nih.gov, PMID 25478303).",
+      "skin_irritants": "Poison ivy, poison oak, and poison sumac (the Toxicodendron genus) do NOT occur in Hawaii - Hawaii and Alaska are the only two US states without any native Toxicodendron species, per CDC/NIOSH's own geographic-distribution guidance; local Honolulu dermatology practices accordingly frame poison-ivy-type rashes as a mainland-travel risk rather than a local one [Tier1|cross_verified:true|verified|2026-09-14] Source: CDC/NIOSH (cdc.gov/niosh/outdoor-workers), cross-checked against multiple other poison-plant references all independently confirming the Hawaii/Alaska exclusion.",
+      "air_quality": "Honolulu/Oahu has among the cleanest baseline air quality of any major US city (typical AQI 30-60, 'Good' on most trade-wind days) - no EPA ozone/PM nonattainment designation identified for Oahu; the defining local air-quality variable specific to Hawaii is 'vog' (volcanic smog: SO2 + fine particulates from Kilauea on the Big Island, ~200mi away), which can push Oahu's AQI into Unhealthy-for-Sensitive-Groups range within hours when trade winds stall or reverse (Kona-wind conditions), officially tracked via the joint Hawaii DOH/USGS/NOAA Interagency Vog Information Dashboard [Tier1|cross_verified:true|verified|2026-09-14] Source: EPA AirNow Hawaii-specific guidance (www3.epa.gov/airnow/hawaii, Tier1) + Hawaii DOH vog advisory infrastructure.",
+      "daylight": "Computed (lat 21.31N): ~13.4h at summer solstice, ~10.8h at winter solstice [Tier3|cross_verified:false|estimated|2026-09-14] astronomical calculation - the shallowest seasonal daylight swing of any city in this dataset given Honolulu's tropical latitude.",
+      "seasons": "Tropical (Köppen Aw/As borderline per general Pacific-island climate classification); minimal temperature seasonality (Honolulu's year-round highs run roughly 80-90F) but a pronounced two-season wet/dry pattern (wet season roughly Nov-Mar, dry Kona-wind-influenced season Apr-Oct) driven by trade-wind strength rather than temperature swing [Tier3|cross_verified:false|estimated|2026-09-14] general-knowledge Hawaii climate pattern; no dedicated NOAA Honolulu normals page pulled this pass - the vog-tracking sources above did carry incidental confirmation of the trade-wind seasonal pattern."
+    }
+  },
+  {
+    "city_ref": "jacksonville-fl",
+    "city": "Jacksonville",
+    "state_ref": "florida",
+    "residency_context": {
+      "host_for": [
+        "mayo_jacksonville_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "mayo_jacksonville_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "ecosystem_climate": {
+      "pests": "Same statewide FL pest profile as Gainesville (mosquitoes incl. West Nile/EEE vectors, fire ants, termites incl. Formosan subterranean, cockroaches, chiggers) [Tier2|cross_verified:true|verified|2026-09-14] Source: UF/IFAS Extension statewide guidance (see gainesville-fl note; not independently re-verified at Duval Co. level this pass).",
+      "skin_irritants": "Poison ivy/oak/sumac/poisonwood statewide per UF/IFAS, same as Gainesville [Tier2|cross_verified:true|verified|2026-09-14] Source: UF/IFAS Extension (see gainesville-fl note).",
+      "air_quality": "Jacksonville (Duval Co.) has historical Section 185A ozone-maintenance status (1-hr standard, now revoked) and is currently in general attainment; American Lung Association's most recent State of the Air report shows Jacksonville-Kingsland-Palatka metro area's ozone/particle grades slipped slightly from A to B, ranked 169th-worst nationally for ozone [Tier1|cross_verified:true|verified|2026-09-14] Sources: EPA Green Book (Tier1, historical) + American Lung Association SOTA 2025 (via South Florida Hospital News / WUSF reporting).",
+      "daylight": "Computed (lat 30.33N): ~14.1h at summer solstice, ~10.2h at winter solstice [Tier3|cross_verified:false|estimated|2026-09-14] astronomical calculation.",
+      "seasons": "Humid subtropical (Köppen Cfa); NOAA/Wikipedia-sourced FL climate breakdown puts Jacksonville's Jan avg low ~48F/Jul avg high ~90F, the coolest-winter major city in this dataset's FL cluster given its northernmost position on the FL/GA line - cooler and more frost-prone than peninsular FL cities (Tampa/Miami) [Tier2|cross_verified:true|verified|2026-09-14] Sources: en.climate-data.org FL climate-zone table + weather-us.com."
+    }
+  },
+  {
+    "city_ref": "knoxville-tn",
+    "city": "Knoxville",
+    "state_ref": "tennessee",
+    "residency_context": {
+      "host_for": [
+        "utgsm_knoxville_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "utgsm_knoxville_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "ecosystem_climate": {
+      "pests": "Deer/blacklegged tick is a significant and growing concern specifically in Knoxville/Knox County per a peer-reviewed CDC Emerging Infectious Diseases study - Ixodes scapularis established in 23 of 26 upper-Tennessee-Valley counties surveyed as of 2017, with Borrelia burgdorferi (Lyme)-infected ticks confirmed in 4 counties including areas near Knox Co.; local pest-control sources corroborate deer ticks as a 'significant and growing health concern' in Knoxville's Smoky-Mountains-gateway suburbs (Farragut, West Knoxville, Powell) [Tier1|cross_verified:true|verified|2026-09-14] Source: CDC Emerging Infectious Diseases (wwwnc.cdc.gov, peer-reviewed, UT Institute of Agriculture co-authored) + UT Institute of Agriculture Extension tick publication (utia.tennessee.edu PB726).",
+      "skin_irritants": "Poison ivy/oak common in TN's humid climate per statewide pattern [Tier3|cross_verified:false|single-source|2026-09-14] Source: regional dermatology guidance (see germantown-tn note); no dedicated UT Extension source for skin-irritant plants specifically retrieved this pass (only ticks).",
+      "air_quality": "Knox County (Knoxville) was designated Marginal 8-hr ozone nonattainment (2008 NAAQS) effective Aug 2015, along with neighboring Anderson and Blount counties; EPA determined the area attained the standard as of June 2016 based on 2011-2013 data (40 CFR 52.2235) - i.e. a real but resolved nonattainment episode; a 2026 SELC lawsuit flags Knox Co.'s 2022-2024 PM2.5 design value (8.6 ug/m3) as among TN's highest, 'teetering on the highest end' of the tightened 2024 standard [Tier1|cross_verified:true|verified|2026-09-14] Sources: EPA Green Book (Tier1) + 40 CFR 52.2235 (Tier1, eCFR/Cornell Law) + WSMV/SELC litigation reporting (Tier2).",
+      "daylight": "Computed (lat 35.96N): ~14.6h at summer solstice, ~9.7h at winter solstice [Tier3|cross_verified:false|estimated|2026-09-14] astronomical calculation.",
+      "seasons": "Humid subtropical (Köppen Cfa) despite mountain-adjacent setting; NWS Morristown official 1991-2020 climate normals for Knoxville: avg 51.93in rainfall/yr, 4.6in snowfall/yr, 34 days/yr >=90F, 68 days/yr <=32F, median first frost Oct 24/last frost Apr 14; cooler than Memphis/Nashville given eastern TN's higher Appalachian-foothill elevation, consistent with statewide east-to-west warming gradient [Tier1|cross_verified:true|verified|2026-09-14] Source: NWS Morristown (weather.gov/mrx/tysclimate), official station normals."
+    }
+  },
+  {
+    "city_ref": "los-angeles-ca",
+    "city": "Los Angeles",
+    "state_ref": "california",
+    "residency_context": {
+      "host_for": [
+        "ucla_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "ucla_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "ecosystem_climate": {
+      "pests": "Western blacklegged tick present statewide but LA's drier coastal/urban environment carries lower Lyme risk than northern coastal CA; brown dog tick and Pacific Coast tick (spotted fever, tularemia) more relevant to the LA basin's warmer/drier habitat per CA OES pest guidance; mosquitoes (West Nile virus, a recurring LA County vector-control concern) [Tier2|cross_verified:false|single-source|2026-09-14] Source: California Governor's Office of Emergency Services (news.caloes.ca.gov) + UC IPM statewide tick guidance.",
+      "skin_irritants": "Western poison oak present in LA's chaparral/canyon areas (Santa Monica Mountains, Griffith Park, etc.) though less pervasive than in wetter northern/coastal CA regions [Tier2|cross_verified:false|single-source|2026-09-14] Source: UC IPM statewide guidance (see folsom-ca note); not independently confirmed at LA-specific canyon level this pass.",
+      "air_quality": "Los Angeles-South Coast Air Basin is one of only two 'Extreme' ozone nonattainment areas in the entire US (the other being CA's San Joaquin Valley) per EPA's own classification scale - the worst possible category; American Lung Association's 2026 State of the Air ranks LA-Long Beach 7th-worst nationally for annual particle pollution [Tier1|cross_verified:true|verified|2026-09-14] Sources: EPA Green Book/CDFA summary (Tier1) + American Lung Association SOTA California 2026.",
+      "daylight": "Computed (lat 34.05N): ~14.4h at summer solstice, ~9.9h at winter solstice [Tier3|cross_verified:false|estimated|2026-09-14] astronomical calculation.",
+      "seasons": "Mediterranean/semi-arid borderline (Köppen Csa inland / BSk-BSh coastal per Wikipedia's NOAA-sourced climate article) - dry summers, wet winters, pronounced microclimates (up to 36F daytime swing between coastal LA and inland San Fernando/San Gabriel valleys); NOAA/NWS itself describes LA's climate as 'Mediterranean' with modest annual temperature range [Tier1|cross_verified:true|verified|2026-09-14] Source: NOAA Repository/NWS climate description + en.wikipedia.org climate article (NOAA-sourced)."
+    }
+  },
+  {
+    "city_ref": "miami-fl",
+    "city": "Miami",
+    "state_ref": "florida",
+    "residency_context": {
+      "host_for": [
+        "umiami_jackson_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "umiami_jackson_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "ecosystem_climate": {
+      "pests": "Same statewide baseline FL pests as the other FL cities, but with materially elevated mosquito-borne disease risk - Miami-Dade is among the specific southern FL counties where FDOH's Aedes aegypti/albopictus surveillance program tracks local dengue and Zika transmission risk, not just West Nile/EEE as in the rest of the state [Tier2|cross_verified:true|verified|2026-09-14] Source: UF/IFAS + FDOH Arbovirus Surveillance program (see gainesville-fl note; south-FL dengue/Zika distinction independently confirmed this pass).",
+      "skin_irritants": "Poison ivy/oak/sumac/poisonwood statewide per UF/IFAS; poisonwood (Metopium toxiferum) is specifically a subtropical/tropical-hammock species most concentrated in south FL, making it more locally relevant to Miami than to this dataset's other FL cities [Tier2|cross_verified:true|verified|2026-09-14] Source: UF/IFAS Extension (see gainesville-fl note).",
+      "air_quality": "Miami-Dade Co. has historical Moderate ozone nonattainment status (1-hr standard, now revoked; part of the former Miami-Ft.Lauderdale-W.Palm Beach nonattainment area) and is currently in general attainment; American Lung Association's most recent report shows Greater Miami's air quality declined slightly, ranking 132nd-worst nationally for ozone pollution [Tier1|cross_verified:true|verified|2026-09-14] Sources: EPA Green Book (Tier1, historical) + American Lung Association SOTA (via South Florida Hospital News reporting).",
+      "daylight": "Computed (lat 25.76N): ~13.8h at summer solstice, ~10.5h at winter solstice [Tier3|cross_verified:false|estimated|2026-09-14] astronomical calculation - notably the shallowest seasonal swing of any city in this dataset, consistent with its low latitude.",
+      "seasons": "Tropical monsoon (Köppen Am) - the only major mainland US city with a full tropical (not merely subtropical) classification; hot humid summers, short warm winters, marked wet season May-Oct with a drier Nov-Apr period; annual precip ~62in; squarely within the Atlantic hurricane basin (June-Nov season) with historical direct hits incl. Hurricane Andrew (1992) [Tier1|cross_verified:true|verified|2026-09-14] Source: en.wikipedia.org Climate of Miami (NOAA-station-sourced data)."
+    }
+  },
+  {
+    "city_ref": "nashville-tn",
+    "city": "Nashville",
+    "state_ref": "tennessee",
+    "residency_context": {
+      "host_for": [
+        "vanderbilt_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "vanderbilt_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "ecosystem_climate": {
+      "pests": "Ticks the top TN pest search concern per Google Trends aggregation (see germantown-tn note); Middle TN (Nashville/Davidson Co.) sits between the Deep-South tick profile of Memphis and the Lyme-endemic Tennessee Valley near Knoxville - lone star and American dog ticks are the typically-cited species for Middle TN [Tier3|cross_verified:false|single-source|2026-09-14] Source: AFS Repair Google-Trends aggregation (Tier3); no dedicated UT Extension source specific to Davidson Co. tick species retrieved this pass.",
+      "skin_irritants": "Poison ivy/poison oak explicitly documented as a common Middle Tennessee dermatological concern by a Nashville-based dermatology practice, attributing prevalence to the region's long growing season, high humidity (which keeps urushiol potent longer), and dense wooded parks/greenways [Tier3|cross_verified:false|single-source|2026-09-14] Source: Curcio Dermatology, Nashville (Tier3 clinical-practice source, not a state extension/government source, but directly Nashville-specific).",
+      "air_quality": "Davidson County (Nashville) was historically Moderate 1-hr ozone nonattainment (revoked standard), with EPA determining as of Aug 1995 that the area had attained the ozone standard (40 CFR 52.2235(a)); currently no active federal ozone nonattainment designation, but a 2026 SELC lawsuit against EPA flags Davidson Co.'s 2022-2024 PM2.5 design value (9.3 ug/m3) as the highest of any TN county listed and 'presumptively unhealthy' under the tightened 2024 federal standard - an emerging/contested issue as of this dataset's reference date [Tier1|cross_verified:true|verified|2026-09-14] Sources: 40 CFR 52.2235 (Tier1, eCFR/Cornell Law) + WSMV reporting on SELC litigation citing EPA monitoring data (Tier2).",
+      "daylight": "Computed (lat 36.16N): ~14.6h at summer solstice, ~9.7h at winter solstice [Tier3|cross_verified:false|estimated|2026-09-14] astronomical calculation.",
+      "seasons": "Humid subtropical (Köppen Cfa); multiple aggregators converge: Jan avg high ~48F/low ~29-30F, Jul avg high ~88-91F/low ~69-71F, annual precip ~46-48in fairly evenly distributed, strong seasonal contrast; Middle TN sits between Knoxville's cooler Appalachian-influenced climate and Memphis's warmer Mississippi-Delta-influenced climate on the statewide east-to-west warming gradient [Tier2|cross_verified:true|verified|2026-09-14] Sources: usclimatedata.com + weather-us.com + currentresults.com (3 independent aggregators converging)."
+    }
+  },
+  {
+    "city_ref": "oklahoma-city-ok",
+    "city": "Oklahoma City",
+    "state_ref": "oklahoma",
+    "residency_context": {
+      "host_for": [
+        "ou_health_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "ou_health_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "ecosystem_climate": {
+      "pests": "Four tick species commonly bite people in central OK per local pest-control sourcing corroborated by Oklahoma State University Extension's own tick fact sheet: lone star tick (most aggressive/common), American dog tick, brown dog tick, and blacklegged/deer tick; also spinose ear tick and winter tick (primarily livestock pests) documented statewide; chiggers and mosquitoes also common in OKC's wooded creek corridors and greenbelt parks [Tier2|cross_verified:true|verified|2026-09-14] Source: Oklahoma State University Extension (extension.okstate.edu).",
+      "skin_irritants": "Poison ivy/oak/sumac present per OSU Extension's Weeds & Invasive Plants program, consistent with the broader Southern Plains/Southeast pattern already confirmed in this dataset for GA/TX/TN [Tier2|cross_verified:false|single-source|2026-09-14] Source: Oklahoma State University Extension (extension.okstate.edu/topics/.../weeds-and-invasive-plants).",
+      "air_quality": "EPA designated ALL Oklahoma counties as attainment for the 2008 ozone NAAQS (no nonattainment counties statewide), based on the state's own certified 2008-2010 monitoring data - a clean federal designation; however, American Lung Association's State of the Air report gives Oklahoma City an F grade for high ozone days (43rd-worst of 226 metro areas, 16 unhealthy-for-sensitive-groups days in the most recent 3-year window) and OKC's own city sustainability plan (adaptokc) explicitly cites avoiding a future federal nonattainment designation as a policy goal - i.e. officially attainment today but a real, monitored ozone/PM2.5 concern [Tier1|cross_verified:true|verified|2026-09-14] Sources: EPA Region 6 TSD (archive.epa.gov, Tier1) + American Lung Association SOTA (via IQAir reporting, Tier2) + City of Oklahoma City adaptokc plan (okc.gov, Tier1 municipal).",
+      "daylight": "Computed (lat 35.47N): ~14.6h at summer solstice, ~9.8h at winter solstice [Tier3|cross_verified:false|estimated|2026-09-14] astronomical calculation.",
+      "seasons": "Humid subtropical (Köppen Cfa) per NOAA-sourced Wikipedia climate article citing the Will Rogers World Airport station's 1991-2020 normals: annual mean 60-61F, Jan avg high ~49F/low ~29F, Jul avg high ~94F/low ~72F, ~36in annual precip; sits where Gulf moisture meets Arctic air masses, producing OKC's well-known severe-weather/Tornado Alley exposure (peak tornado season Apr-Jun) [Tier1|cross_verified:true|verified|2026-09-14] Source: en.wikipedia.org Climate of Oklahoma City, explicitly NOAA-station-sourced."
+    }
+  },
+  {
+    "city_ref": "palo-alto-ca",
+    "city": "Palo Alto",
+    "state_ref": "california",
+    "residency_context": {
+      "host_for": [
+        "stanford_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "stanford_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "ecosystem_climate": {
+      "pests": "Western blacklegged tick present in the Santa Clara County/Peninsula hills area - Santa Clara County Vector Control District's own tick-borne-disease guide (a Palo-Alto-county-level Tier1 source) confirms Lyme disease presence regionally, with the county also flagging tick-borne relapsing fever risk in nearby foothill/mountain areas [Tier1|cross_verified:true|verified|2026-09-14] Source: Santa Clara County Vector Control District (santaclaracounty.gov).",
+      "skin_irritants": "Western poison oak widespread in the Peninsula's oak-woodland foothills (e.g. Foothills Park, the Baylands' upland edges) consistent with UC IPM's statewide coastal/oak-woodland habitat description [Tier2|cross_verified:false|single-source|2026-09-14] Source: UC IPM statewide guidance (see folsom-ca note); not independently confirmed at Palo-Alto-specific level this pass.",
+      "air_quality": "Santa Clara Co. (Palo Alto) is part of the San Francisco Bay Area Air Basin, currently designated Marginal nonattainment for the 2015 8-hr ozone NAAQS per the Bay Area Air Quality Management District's own attainment-status page [Tier1|cross_verified:true|verified|2026-09-14] Source: BAAQMD (baaqmd.gov).",
+      "daylight": "Computed (lat 37.44N): ~14.8h at summer solstice, ~9.6h at winter solstice [Tier3|cross_verified:false|estimated|2026-09-14] astronomical calculation.",
+      "seasons": "Warm-summer Mediterranean (Köppen Csb), same class as San Francisco - dry summers with comfortable temperatures below 72F average (Palo Alto runs somewhat warmer than SF proper given its inland-Bay/hill-sheltered position, less exposed to the City's summer coastal fog), mild wet winters [Tier2|cross_verified:true|verified|2026-09-14] Sources: en.climate-data.org Köppen table + amli.com CA-climate breakdown."
+    }
+  },
+  {
+    "city_ref": "phoenix-az",
+    "city": "Phoenix",
+    "state_ref": "arizona",
+    "residency_context": {
+      "host_for": [
+        "barrow_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "barrow_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "ecosystem_climate": {
+      "pests": "Arizona bark scorpion (Centruroides sculpturatus) - the only life-threatening scorpion of the ~30 AZ species, common in the Valley incl. wooded/riparian pockets, wood piles, and homes; Africanized honeybees ('killer bees') - per Maricopa County's own vector-control entomologist, responsible for more Arizona deaths than any other venomous creature; West Nile-vector mosquitoes; desert hairy and stripe-tailed scorpions less dangerous but also common [Tier1|cross_verified:true|verified|2026-09-14] Sources: University of Arizona Cooperative Extension (cales.arizona.edu) + Maricopa County Environmental Services Dept entomologist (via ABC15/KGUN9 reporting, Tier2 news quoting a Tier1 county official).",
+      "skin_irritants": "No urushiol-bearing Toxicodendron species in this desert climate; instead the dominant contact-injury risk is cactus spines, especially jumping/teddy bear cholla (Cylindropuntia spp.) whose barbed segments detach at the slightest touch and embed painfully in skin - per the National Park Service's own Sonoran Desert plant guide, a near-universal outdoor-recreation hazard in the Phoenix area; prickly pear glochids (fine, hard-to-see spines) are a secondary irritant [Tier1|cross_verified:true|verified|2026-09-14] Source: National Park Service, Saguaro National Park (nps.gov).",
+      "air_quality": "Maricopa County (Phoenix) is a federally designated Serious nonattainment area for PM-10 (dust), originally designated Moderate in Nov 1990, with the EPA approving a 2012 'Five Percent Plan' attainment strategy in 2014; Maricopa is also in ozone nonattainment per regional monitoring (Maricopa Association of Governments tracks 8-hr ozone exceedances); haboob dust storms can spike PM10 readings to 20x the federal 24-hr standard within an hour [Tier1|cross_verified:true|verified|2026-09-14] Sources: Federal Register/EPA Region 9 (govinfo.gov, Tier1) + Arizona DEQ (azdeq.gov, Tier1) + Maricopa Association of Governments (azmag.gov, Tier1 regional agency).",
+      "daylight": "Computed (lat 33.45N): ~14.4h at summer solstice, ~9.9h at winter solstice [Tier3|cross_verified:false|estimated|2026-09-14] astronomical calculation.",
+      "seasons": "Hot desert (Köppen BWh); per Britannica's climate summary, Phoenix Julys average a 106F daily max/81F night low, Januarys average ~65F max with occasional light frost, >80% of possible winter sunshine; part of the arid/semiarid Basin and Range climate covering roughly half of AZ; monsoon season (Jul-Sep) brings dust storms and brief intense thunderstorms [Tier2|cross_verified:true|verified|2026-09-14] Source: Encyclopedia Britannica, Arizona climate article."
+    }
+  },
+  {
+    "city_ref": "portland-or",
+    "city": "Portland",
+    "state_ref": "oregon",
+    "residency_context": {
+      "host_for": [
+        "ohsu_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "ohsu_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "ecosystem_climate": {
+      "pests": "Ticks present in Oregon but concentrated east of the Cascades and in Southern Oregon per Oregon Hikers' field guide, with Portland/Willamette Valley exposure lower than those regions; species present statewide include western blacklegged tick (Ixodes pacificus, Lyme vector), Rocky Mountain wood tick, American dog tick, and Pacific Coast tick per pest-control industry sourcing corroborated by OSU Extension's tick-prevention guidance [Tier2|cross_verified:true|verified|2026-09-14] Source: Oregon State University Extension (extension.oregonstate.edu) + Oregon Hikers field guide (Tier3, but consistent with OSU's general guidance).",
+      "skin_irritants": "Pacific poison-oak (Toxicodendron diversilobum, same species documented in CA) and western poison-ivy (T. rydbergii) both present in the Pacific Northwest per Oregon State University Extension's own dedicated publication - urushiol exposure risk exists but is regionally patchier than in the humid Southeast/mid-Atlantic [Tier2|cross_verified:true|verified|2026-09-14] Source: Oregon State University Extension (extension.oregonstate.edu, PNW 108 publication).",
+      "air_quality": "Portland-Vancouver was historically designated a Marginal interstate ozone nonattainment area (1990) and Moderate carbon-monoxide nonattainment area, both redesignated to attainment/maintenance status (ozone in 1997, CO by 1997/2007); Oregon State University's own PNW Extension handbook confirms 'all areas of Oregon currently meet the federal air quality standard for ozone' as of the most recent reporting, though a severe Labor Day 2020 wildfire-smoke event pushed regional AQI into the hazardous range (>300) for several days, illustrating wildfire smoke as the area's dominant modern air-quality risk rather than traditional urban ozone/CO [Tier1|cross_verified:true|verified|2026-09-14] Sources: EPA Green Book/historical SIP summaries (epa.gov, Tier1) + PNW Plant Disease Management Handbook (pnwhandbooks.org, Tier2 university consortium).",
+      "daylight": "Computed (lat 45.52N): ~15.7h at summer solstice, ~8.7h at winter solstice [Tier3|cross_verified:false|estimated|2026-09-14] astronomical calculation - one of the largest seasonal daylight swings of any city in this dataset given its northerly latitude.",
+      "seasons": "Warm-summer Mediterranean/marine west coast (Köppen Csb); dry warm summers (Jul/Aug highs upper 70s-80sF, occasional heat-wave spikes into the 100s as in 2015 and subsequent record-breaking events per NWS Portland), mild wet winters (Dec the wettest month, ~4.5in) with occasional snow; part of Oregon's broader oceanic-to-semi-oceanic Willamette Valley climate zone, distinct from the immediate coast (cooler, wetter) and the arid interior east of the Cascades [Tier1|cross_verified:true|verified|2026-09-14] Sources: Encyclopedia Britannica Oregon climate article + NWS Portland (via Yahoo News heat-wave reporting citing NWS meteorologist) + en.climate-data.org Köppen table."
+    }
+  },
+  {
+    "city_ref": "providence-ri",
+    "city": "Providence",
+    "state_ref": "rhode-island",
+    "residency_context": {
+      "host_for": [
+        "brown_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "brown_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "ecosystem_climate": {
+      "pests": "Blacklegged/deer tick (primary Lyme vector in New England) and American dog tick are the two most-cited common RI ticks per multiple pest-control industry sources; mosquitoes (West Nile/EEE vectors) also common given coastal moisture; no dedicated URI Extension entomology source specifically on tick species distribution was retrieved this pass, so this rests on consistent industry-source convergence rather than a single Tier1/2 citation [Tier3|cross_verified:true|verified|2026-09-14] Sources: multiple independent RI pest-control companies (Big Blue Bug Solutions, Griggs & Browne, Modern Pest, Guardian Pest Control) converging on the same species list.",
+      "skin_irritants": "Poison ivy present and actively covered by University of Rhode Island Health Services as of an Aug 2026 URI News article with treatment guidance from URI's own medical director - direct confirmation poison ivy is a live, current concern on RI's flagship university campus [Tier2|cross_verified:false|single-source|2026-09-14] Source: University of Rhode Island News (uri.edu/news, Aug 2026).",
+      "air_quality": "Rhode Island (all 5 counties, including Providence) was historically designated Serious 1-hour ozone nonattainment statewide (revoked standard) and Moderate under the 1997 8-hr standard; critically, RI DEM's own 2024 monitoring report confirms the state REMAINS classified 'Nonattainment/Unclassifiable' for ozone today because RI sits within the multi-state Ozone Transport Region (OTR) - i.e. RI's own emissions meet the standard but upwind transport keeps it formally nonattainment; RIDEM issues real Providence-area ozone health advisories in active years (e.g. July 2023, June 2024) [Tier1|cross_verified:true|verified|2026-09-14] Sources: RI DEM Annual Air Monitoring Network Plan (dem.ri.gov, Tier1) + EPA Green Book historical designations (Tier1) + RIDEM press releases (Tier1).",
+      "daylight": "Computed (lat 41.82N): ~15.2h at summer solstice, ~9.1h at winter solstice [Tier3|cross_verified:false|estimated|2026-09-14] astronomical calculation - matches the skill's own worked-example reference figure for Providence (~15.3h summer/~9.1h winter) within 0.1h, cross-validating the formula.",
+      "seasons": "Borderline humid subtropical/humid continental (Köppen Cfa/Dfa - sources genuinely split, e.g. climate-zone.com and en.climate-data.org call it Cfa while plantmaps.com calls it Dfa); RI DEM's own climatology page notes the Providence metro/Narragansett Bay area runs milder than interior/northern RI due to coastal moderation; NOAA 1991-2020-normal-based sources converge on Jan avg high ~35-37F/low ~22-26F, Jul avg high ~82-85F/low ~65-68F, ~45-48in annual precip [Tier1|cross_verified:true|verified|2026-09-14] Sources: RI DEM climatology page (dem.ri.gov, Tier1) + climate-zone.com (1991-2020 NOAA normals) + plantmaps.com."
+    }
+  },
+  {
+    "city_ref": "richmond-va",
+    "city": "Richmond",
+    "state_ref": "virginia",
+    "residency_context": {
+      "host_for": [
+        "vcu_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "vcu_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "ecosystem_climate": {
+      "pests": "Same VA statewide tick profile as Charlottesville/Roanoke (lone star, American dog, blacklegged/Lyme-capable, Asian longhorned) per VA Cooperative Extension [Tier2|cross_verified:false|single-source|2026-09-14] Source: VA Cooperative Extension statewide guidance (see charlottesville-va note; not independently re-verified at Richmond level this pass).",
+      "skin_irritants": "Poison ivy/oak inferred common per broader mid-Atlantic pattern; not independently confirmed via a VA-specific source this pass [Tier3|cross_verified:false|estimated|2026-09-14] general-knowledge regional inference (see charlottesville-va note).",
+      "air_quality": "Richmond was designated a Moderate 8-hr ozone nonattainment area by EPA in June 2004, then reclassified to Marginal nonattainment in Sept 2004 after VA DEQ demonstrated early attainment (met standard by 2007, 3 yrs ahead of the 2010 deadline); current-day designation status (post-2007) not independently re-verified this pass - historical record shows the area was on track for/likely achieved attainment [Tier1|cross_verified:true|verified|2026-09-14] Source: EPA.gov archived press release + VA DEQ letter to EPA Region 3 (archive.epa.gov) - VERIFY current 2026 attainment status against EPA Green Book directly if precision matters.",
+      "daylight": "Computed (lat 37.54N): ~14.8h at summer solstice, ~9.6h at winter solstice [Tier3|cross_verified:false|estimated|2026-09-14] astronomical calculation.",
+      "seasons": "Humid subtropical, described by NWS Richmond itself as a 'modified continental' pattern; warm humid summers, generally mild winters, Blue Ridge (90mi west) providing partial cold-air barrier, Chesapeake Bay 60mi east moderating extremes, consistent with geography.seasons already on file [Tier1|cross_verified:false|single-source|2026-09-14] Source: NWS Richmond station description (carried from prior batch, not independently re-pulled this pass)."
+    }
+  },
+  {
+    "city_ref": "roanoke-va",
+    "city": "Roanoke",
+    "state_ref": "virginia",
+    "residency_context": {
+      "host_for": [
+        "carilion_vtc_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "carilion_vtc_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "ecosystem_climate": {
+      "pests": "Ticks per Virginia Cooperative Extension's Roanoke office directly: lone star tick most common (esp. east of Blue Ridge), American/brown dog ticks second-most-common, blacklegged/deer tick present and of greatest concern for Lyme disease [Tier2|cross_verified:true|verified|2026-09-14] Source: VA Cooperative Extension - Roanoke office (roanoke.ext.vt.edu), a city-specific (not just statewide) source.",
+      "skin_irritants": "Poison ivy/oak inferred common per broader mid-Atlantic/Appalachian pattern; not independently confirmed via a Roanoke-specific source this pass [Tier3|cross_verified:false|estimated|2026-09-14] general-knowledge regional inference.",
+      "air_quality": "No current or historical Roanoke-area ozone/PM nonattainment designation surfaced this pass (distinct from Richmond); Roanoke Valley's mountain-valley setting can trap winter-inversion pollution locally, but no EPA nonattainment record found [Tier3|cross_verified:false|estimated|2026-09-14] absence of a Tier1/2 EPA designation record is itself the finding here - not independently confirmed as literally zero air-quality concern, just that no nonattainment history surfaced.",
+      "daylight": "Computed (lat 37.27N): ~14.7h at summer solstice, ~9.6h at winter solstice [Tier3|cross_verified:false|estimated|2026-09-14] astronomical calculation.",
+      "seasons": "Humid subtropical (Köppen Cfa) despite mountain-valley setting; multiple climate aggregators converge: annual avg ~55-57F, Jul avg high ~86-87F, Jan avg high ~41-46F, ~41-42in annual precip, ~15-20in snow/yr, ~30 days/yr above 90F, notable fall-foliage season tied to elevation gradient, consistent with geography.seasons already on file [Tier2|cross_verified:true|verified|2026-09-14] Sources: usclimatedata.com, weather-us.com, bestplaces.net, en.climate-data.org (4 independent aggregators converging on the same normals)."
+    }
+  },
+  {
+    "city_ref": "salisbury-md",
+    "city": "Salisbury",
+    "state_ref": "maryland",
+    "residency_context": {
+      "host_for": [
+        "tidalhealth_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "tidalhealth_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "ecosystem_climate": {
+      "pests": "Same statewide MD tick profile as Columbia (6 species incl. blacklegged/Lyme, American dog, lone star) per UMD Extension; Salisbury Daily Times (2020 CDC-sourced data) reports 94+ tick-related cases in Wicomico Co. that year, among the higher Eastern Shore counts alongside Worcester (35+) and Somerset (38+) [Tier2|cross_verified:true|verified|2026-09-14] Sources: UMD Extension (statewide) + Salisbury Daily Times citing CDC county-level tick-illness data (Tier3 news, but citing a Tier1 CDC figure).",
+      "skin_irritants": "Poison ivy common in MD per general mid-Atlantic pattern; not independently confirmed via a MD-specific extension source this pass [Tier3|cross_verified:false|estimated|2026-09-14] general-knowledge regional inference.",
+      "air_quality": "Wicomico County (Eastern Shore) does not appear in the current MD ozone/PM nonattainment county list (Baltimore area, DC area, and Cecil Co./Philadelphia area are the three MD nonattainment regions) - Eastern Shore's rural, less-industrial profile is consistent with attainment status, though not independently confirmed via a direct Wicomico-specific EPA designation lookup this pass [Tier3|cross_verified:false|estimated|2026-09-14] inferred from absence in EPA Green Book nonattainment listing (www3.epa.gov/airquality/greenbook/ancl.html), which names Baltimore-area and DC-area counties but not Wicomico.",
+      "daylight": "Computed (lat 38.37N): ~14.8h at summer solstice, ~9.5h at winter solstice [Tier3|cross_verified:false|estimated|2026-09-14] astronomical calculation.",
+      "seasons": "Humid subtropical (Köppen Cfa), no dry season, maritime-moderated by Chesapeake Bay/Atlantic proximity; weather-atlas.com: Jan avg high 42.4F/low 30.4F, Jul avg high 84F/low 70.9F; noticeably milder winters than Columbia MD given Eastern Shore's lower-latitude coastal position [Tier2|cross_verified:true|verified|2026-09-14] Sources: weather-atlas.com + en.climate-data.org + usclimatedata.com (converging)."
+    }
+  },
+  {
+    "city_ref": "salt-lake-city-ut",
+    "city": "Salt Lake City",
+    "state_ref": "utah",
+    "residency_context": {
+      "host_for": [
+        "univ_utah_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "univ_utah_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "ecosystem_climate": {
+      "pests": "Rocky Mountain wood tick is by far the most commonly encountered tick in Utah per Utah State University Extension and the Utah Dept. of Health's own fact sheet - transmits Colorado tick fever (the state's most common tick-borne disease), Rocky Mountain spotted fever, and tick paralysis; western blacklegged tick (the only Lyme-capable species in UT) is present but rare and Lyme transmission in-state is 'extremely low' per USU Extension; ticks most active snowmelt through mid-July [Tier1|cross_verified:true|verified|2026-09-14] Sources: Utah State University Extension (extension.usu.edu) + Utah Dept. of Health (epi.utah.gov).",
+      "skin_irritants": "Rocky Mountain poison oak (Toxicodendron rydbergii, a western poison-oak/ivy relative) occurs in canyons throughout the Western US including Utah per patent-literature botanical background referencing established Toxicodendron distribution research; less prevalent/lower-profile than Southeast poison ivy given UT's semi-arid climate [Tier3|cross_verified:false|estimated|2026-09-14] Source: USPTO patent-application botanical background section (citing established Toxicodendron species-distribution literature) - not a dedicated USU Extension source; treat as lower-confidence regional inference.",
+      "air_quality": "Salt Lake City (Salt Lake & Davis counties) is a federally designated Serious nonattainment area for the 2006 24-hr PM2.5 NAAQS (reclassified from Moderate to Serious in May 2017, EPA proposed redesignation-to-attainment in Nov 2020 based on newer data) and has 'never met federal attainment levels for ozone or 24-hour PM2.5' historically per American Lung Association SOTA reporting (F grades both pollutants; ranked 7th-worst nationally for 24-hr particle pollution, 11th-worst for ozone in the 2019 report); the defining local mechanism is winter temperature inversions along the bowl-shaped Wasatch Front that trap PM2.5 up to 5x summer levels - USU Extension's own sustainability program explains this geography-driven inversion effect in detail [Tier1|cross_verified:true|verified|2026-09-14] Sources: Federal Register/EPA (federalregister.gov, Tier1) + Utah DEQ (deq.utah.gov, Tier1) + Utah State University Extension (extension.usu.edu, Tier2) + American Lung Association SOTA (via IQAir reporting, Tier2).",
+      "daylight": "Computed (lat 40.76N): ~15.1h at summer solstice, ~9.3h at winter solstice [Tier3|cross_verified:false|estimated|2026-09-14] astronomical calculation.",
+      "seasons": "Semi-arid steppe (Köppen BSk), borderline with hot-summer Mediterranean (Csa)/dry-summer continental (Dsa) per detailed climate analysis - hot dry summers, cold snowy winters, four distinct seasons; Great Salt Lake moderates winter temps and adds humidity/fog ('lake effect'), while the Wasatch Mountains block Pacific moisture, enhancing precipitation on the mountains but leaving the valley floor semi-arid; USU Extension rangelands report confirms most of Utah (incl. the Salt Lake Valley) falls in this steppe/semiarid Köppen classification, 5-15in average annual precip [Tier2|cross_verified:true|verified|2026-09-14] Sources: Utah State University Extension rangelands report (extension.usu.edu, Tier2) + climate analysis citing 1991-2020 NOAA normals."
+    }
+  },
+  {
+    "city_ref": "san-diego-ca",
+    "city": "San Diego",
+    "state_ref": "california",
+    "residency_context": {
+      "host_for": [
+        "ucsd_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "ucsd_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "ecosystem_climate": {
+      "pests": "Notably lower Lyme risk than the rest of coastal CA - San Diego County's own environmental health department states Lyme disease 'is rare in San Diego County' despite western blacklegged tick presence (more prevalent Oct-Apr, the rainy season, per county guidance) [Tier1|cross_verified:true|verified|2026-09-14] Source: County of San Diego, Dept. of Environmental Health (sandiegocounty.gov).",
+      "skin_irritants": "Western poison oak present per UC IPM statewide guidance and UC San Diego Master Gardener toxic-plant resource, though San Diego's more arid chaparral habitat carries somewhat less than the wetter coastal-central CA range [Tier2|cross_verified:true|verified|2026-09-14] Sources: UC IPM (ipm.ucanr.edu) + UC Master Gardeners of San Diego County (ucanr.edu).",
+      "air_quality": "San Diego Air Basin was historically classified Severe-15 ozone nonattainment (per EPA's 1988-90 and 1991-93 design-value tables); American Lung Association's 2026 State of the Air ranks San Diego tied for 5th-worst nationally for annual particle pollution - current-day ozone classification not independently re-verified against the latest EPA Green Book this pass [Tier2|cross_verified:false|single-source|2026-09-14] Sources: archive.epa.gov historical ozone tables (Tier1, historical) + American Lung Association SOTA California 2026 (Tier2, current) - VERIFY current ozone classification directly against EPA Green Book if precision matters.",
+      "daylight": "Computed (lat 32.72N): ~14.3h at summer solstice, ~10.0h at winter solstice [Tier3|cross_verified:false|estimated|2026-09-14] astronomical calculation.",
+      "seasons": "Hot-summer Mediterranean bordering semi-arid (Köppen Csa/BSh per Wikipedia's climate article, citing NWS) - more arid than the 'typical' Mediterranean climate, drier winters than other Csa zones; monthly avg range 57F (Jan) to 72F (Aug) at the airport station, widely cited (Jan Null meteorologist index) as having the most 'ideal'/mild climate of any major US city [Tier1|cross_verified:true|verified|2026-09-14] Source: en.wikipedia.org Climate of San Diego (NWS-sourced data table)."
+    }
+  },
+  {
+    "city_ref": "san-francisco-ca",
+    "city": "San Francisco",
+    "state_ref": "california",
+    "residency_context": {
+      "host_for": [
+        "ucsf_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "ucsf_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "ecosystem_climate": {
+      "pests": "Western blacklegged tick present in Bay Area open-space/park settings (Golden Gate Park, Presidio-adjacent green spaces), consistent with the statewide coastal-region Lyme-risk pattern described by UC IPM; SF's dense urban core limits exposure relative to suburban Bay Area [Tier2|cross_verified:false|single-source|2026-09-14] Source: UC IPM statewide guidance (see folsom-ca note); not independently confirmed at SF-specific level this pass.",
+      "skin_irritants": "Western poison oak present in SF's larger parks/open-space areas (e.g. Glen Canyon, McLaren Park) per UC IPM's statewide coastal-habitat description, though far less prevalent than in less-developed Bay Area open space [Tier2|cross_verified:false|single-source|2026-09-14] Source: UC IPM statewide guidance (see folsom-ca note).",
+      "air_quality": "San Francisco is part of the SF Bay Area Air Basin, currently Marginal nonattainment for the 2015 8-hr ozone NAAQS per BAAQMD's own attainment-status page (same designation as Palo Alto, both within the Bay Area basin); American Lung Association's 2026 report notes the SF Bay Area posted its lowest-ever annual particle pollution levels and fewest-ever unhealthy particle days in the most recent reporting period, while still ranking 13th-worst nationally for annual particle levels [Tier1|cross_verified:true|verified|2026-09-14] Sources: BAAQMD (baaqmd.gov, Tier1) + American Lung Association SOTA California 2026.",
+      "daylight": "Computed (lat 37.77N): ~14.8h at summer solstice, ~9.5h at winter solstice [Tier3|cross_verified:false|estimated|2026-09-14] astronomical calculation.",
+      "seasons": "Warm-summer Mediterranean (Köppen Csb) - famously cool, foggy summers (Jun-Aug often the coldest-feeling months downtown due to marine fog) and mild, wet winters, with minimal year-round temperature swing versus inland CA cities; ranked 2nd-most-'ideal' US city climate (behind San Diego) by a Bay Area meteorologist's published climate-comfort index [Tier2|cross_verified:true|verified|2026-09-14] Sources: en.climate-data.org Köppen table + SF Chronicle reporting on Null Climate Index (Tier3 news citing a named methodology, not a government source)."
+    }
+  },
+  {
+    "city_ref": "scottsdale-az",
+    "city": "Scottsdale",
+    "state_ref": "arizona",
+    "residency_context": {
+      "host_for": [
+        "mayo_scottsdale_phoenix_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "mayo_scottsdale_phoenix_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "ecosystem_climate": {
+      "pests": "Same Maricopa County/Sonoran Desert pest profile as Phoenix (Arizona bark scorpion, Africanized bees, West-Nile-vector mosquitoes); Scottsdale's more desert-preserve-adjacent geography (McDowell Sonoran Preserve) may carry somewhat higher wildlife/scorpion contact than denser central Phoenix, though not independently confirmed at Scottsdale-specific level this pass [Tier1|cross_verified:false|single-source|2026-09-14] Source: University of Arizona Cooperative Extension + Maricopa County vector-control guidance (see phoenix-az note).",
+      "skin_irritants": "Same cholla/prickly-pear cactus-spine profile as Phoenix per NPS Sonoran Desert guidance; Scottsdale's extensive desert-preserve trail network (McDowell Sonoran Preserve, one of the largest urban preserves in the US) puts hikers in especially frequent contact with cholla and other spined cacti [Tier1|cross_verified:true|verified|2026-09-14] Source: National Park Service (see phoenix-az note).",
+      "air_quality": "Scottsdale sits within the same Maricopa County Serious PM-10 nonattainment area as Phoenix - the Federal Register's own 2014 rulemaking explicitly names Scottsdale among the cities encompassed by the nonattainment boundary [Tier1|cross_verified:true|verified|2026-09-14] Source: Federal Register/EPA Region 9 (govinfo.gov, explicitly naming Scottsdale).",
+      "daylight": "Computed (lat 33.49N): ~14.4h at summer solstice, ~9.9h at winter solstice [Tier3|cross_verified:false|estimated|2026-09-14] astronomical calculation.",
+      "seasons": "Hot desert (Köppen BWh), same climate class and same basic seasonal pattern as Phoenix given its immediately-adjacent location in the Salt River Valley [Tier2|cross_verified:false|single-source|2026-09-14] general knowledge/regional inference from Phoenix-area climate data (see phoenix-az note); no independently-pulled Scottsdale-specific normals this pass."
+    }
+  },
+  {
+    "city_ref": "seattle-wa",
+    "city": "Seattle",
+    "state_ref": "washington",
+    "residency_context": {
+      "host_for": [
+        "uw_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "uw_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "ecosystem_climate": {
+      "pests": "Washington State Dept. of Health identifies four common WA tick species: western blacklegged tick (Ixodes pacificus, the state's Lyme vector, found on the west side incl. Seattle and the eastern Cascades), Rocky Mountain wood tick, American dog tick, and a fourth unnamed/regional species; ticks are a real but comparatively minor concern in WA versus much of the rest of the country per multiple pest-control industry sources corroborating WA DOH's species list [Tier1|cross_verified:true|verified|2026-09-14] Source: Washington State Dept. of Health (via Cascade Pest Control and PestWorld.org reporting, both explicitly citing WA DOH as the source).",
+      "skin_irritants": "Pacific poison-oak (Toxicodendron diversilobum) and western poison-ivy (T. rydbergii) both present in the Pacific Northwest per Oregon State University Extension's dedicated regional publication (covering OR and WA); patchier distribution than the humid Southeast [Tier2|cross_verified:false|single-source|2026-09-14] Source: Oregon State University Extension (extension.oregonstate.edu, PNW 108 - a joint OR/WA/ID extension publication; not independently re-verified at Seattle-specific level this pass).",
+      "air_quality": "King County/Seattle was historically Marginal 1-hr ozone nonattainment (Seattle-Tacoma area, redesignated attainment Nov 1996) and separately had a partial Moderate PM-10 nonattainment designation (redesignated 2001); the broader Seattle-Tacoma Puget Sound ozone maintenance plan has been in place since EPA's 1996 approval, meaning ozone is a resolved historical concern rather than a current nonattainment status (contrast with Tacoma/Pierce Co.'s current active PM2.5 nonattainment, see tacoma-wa) [Tier1|cross_verified:true|verified|2026-09-14] Sources: EPA (epa.gov ozone maintenance plan summary, Tier1) + EPA Green Book (Tier1) + BTS historical nonattainment table (Tier1).",
+      "daylight": "Computed (lat 47.61N): ~16.0h at summer solstice, ~8.4h at winter solstice [Tier3|cross_verified:false|estimated|2026-09-14] astronomical calculation - the largest seasonal daylight swing of any city in this dataset given its far-northern latitude.",
+      "seasons": "Warm-summer Mediterranean/marine west coast (Köppen Csb, some sources classify as Trewartha oceanic/Do); per a NOAA-sourced Wikipedia climate article: mean annual temp 53.7F, Jan avg high 47F/low 36F, Jul avg high 76-78F/low 56-57F, freezing temps only ~30 days/yr and 90F+ only <5 days/yr - a notably narrow annual temperature range for its latitude, driven by marine influence; Olympic Mountains create a rain-shadow effect that moderates Seattle's rainfall versus the outer coast [Tier1|cross_verified:true|verified|2026-09-14] Source: en.wikipedia.org Climate of Seattle (NOAA-sourced data)."
+    }
+  },
+  {
+    "city_ref": "tacoma-wa",
+    "city": "Tacoma",
+    "state_ref": "washington",
+    "residency_context": {
+      "host_for": [
+        "madigan_army_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "madigan_army_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "ecosystem_climate": {
+      "pests": "Same statewide WA tick profile as Seattle (western blacklegged tick, Rocky Mountain wood tick, American dog tick) per WA DOH [Tier1|cross_verified:false|single-source|2026-09-14] Source: Washington State Dept. of Health (see seattle-wa note; not independently re-verified at Pierce Co. level this pass).",
+      "skin_irritants": "Same Pacific poison-oak/western poison-ivy presence as Seattle per OSU Extension's joint OR/WA regional publication [Tier2|cross_verified:false|single-source|2026-09-14] Source: Oregon State University Extension (see seattle-wa note).",
+      "air_quality": "Tacoma (Pierce County) carries a current, active federal nonattainment designation distinct from Seattle's fully-resolved historical status: the 'Wapato Hills-Puyallup River Valley (Tacoma)' area is EPA-designated nonattainment for the 2006 24-hr PM2.5 NAAQS, the only PM2.5 nonattainment area in the entire state of Washington per EPA Region 10's own technical support document; Pierce Co. was also part of the historical Seattle-Tacoma Marginal ozone nonattainment area (whole county, redesignated attainment Nov 1996) [Tier1|cross_verified:true|verified|2026-09-14] Source: EPA Region 10 Technical Support Document (www3.epa.gov, Tier1, explicitly naming Tacoma/Pierce Co. as the sole WA PM2.5 nonattainment area).",
+      "daylight": "Computed (lat 47.25N): ~15.9h at summer solstice, ~8.5h at winter solstice [Tier3|cross_verified:false|estimated|2026-09-14] astronomical calculation.",
+      "seasons": "Warm-summer Mediterranean/marine west coast (Köppen Csb), essentially the same climate profile as Seattle given its immediately-adjacent Puget Sound location; weatherspark/climate-data aggregators show Tacoma running marginally cooler/wetter than Seattle (Jul avg high 76-77F, Dec avg low 37F, ~48.5in annual precip) [Tier2|cross_verified:true|verified|2026-09-14] Sources: en.climate-data.org + weatherspark.com (both independently converging on Csb classification and comparable normals)."
+    }
+  },
+  {
+    "city_ref": "tampa-fl",
+    "city": "Tampa",
+    "state_ref": "florida",
+    "residency_context": {
+      "host_for": [
+        "usf_morsani_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "usf_morsani_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "ecosystem_climate": {
+      "pests": "Same statewide FL pest profile as Gainesville/Jacksonville (mosquitoes, fire ants, termites, cockroaches) [Tier2|cross_verified:true|verified|2026-09-14] Source: UF/IFAS Extension statewide guidance (see gainesville-fl note; not independently re-verified at Hillsborough Co. level this pass).",
+      "skin_irritants": "Poison ivy/oak/sumac/poisonwood statewide per UF/IFAS, same as other FL cities in this dataset [Tier2|cross_verified:true|verified|2026-09-14] Source: UF/IFAS Extension (see gainesville-fl note).",
+      "air_quality": "Hillsborough and Pinellas Counties (Tampa-St. Petersburg) were designated Marginal ozone nonattainment in 1995, redesignated to attainment Feb 1996 (1-hr standard, now revoked); American Lung Association's most recent report gives the Tampa-St. Petersburg-Clearwater metro a C grade for ozone (100th-worst nationally), B grade for short-term particle pollution, and a passing grade for year-round particle pollution [Tier1|cross_verified:true|verified|2026-09-14] Sources: EPA/BTS historical nonattainment table (Tier1) + American Lung Association SOTA 2025 (via South Florida Hospital News reporting).",
+      "daylight": "Computed (lat 27.95N): ~13.9h at summer solstice, ~10.4h at winter solstice [Tier3|cross_verified:false|estimated|2026-09-14] astronomical calculation.",
+      "seasons": "Humid subtropical (Köppen Cfa), closely bordering tropical near the waterfront per Wikipedia's NOAA-sourced climate article; NOAA 1991-2020 normals: Jan avg high 71F/low 53F, Aug avg high 91F/low 77F, two basic seasons (hot wet May-Oct, mild dry Nov-Apr), freezing temps rare (~once every other year away from the water) [Tier1|cross_verified:true|verified|2026-09-14] Source: en.wikipedia.org Climate of the Tampa Bay area, explicitly citing NOAA 1991-2020 Climate Normals."
+    }
+  },
+  {
+    "city_ref": "winston-salem-nc",
+    "city": "Winston-Salem",
+    "state_ref": "north-carolina",
+    "residency_context": {
+      "host_for": [
+        "wake_forest_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "wake_forest_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "ecosystem_climate": {
+      "pests": "Same statewide NC pest profile as the Triangle cities (ticks incl. blacklegged/Lyme-capable, lone star; mosquitoes incl. Asian tiger, West Nile/EEE) [Tier2|cross_verified:false|single-source|2026-09-14] Source: NC State Extension statewide guidance.",
+      "skin_irritants": "Poison ivy/oak common statewide, same as other NC cities in this dataset [Tier3|cross_verified:false|verified|2026-09-14] NC State Extension + regional guidance (see chapel-hill-nc note).",
+      "air_quality": "Forsyth Co. is part of the Piedmont Triad (Greensboro/Winston-Salem/High Point); the Triad was a Moderate ozone nonattainment area redesignated to attainment in 1993 (1-hr standard) and was also a PM2.5 nonattainment area (2009 attainment demonstration submitted for Guilford/Davidson Cos., adjoining Forsyth); a 2026 regional aggregator source still flags the Triad, alongside the Triangle and Charlotte, as leading NC in summer ozone exceedances - not currently under a federal nonattainment designation but a recurring seasonal hotspot [Tier1|cross_verified:true|verified|2026-09-14] Sources: EPA Green Book final rule (58 FR 47391) + NC DEQ PM2.5 attainment demonstration (Tier1, historical) + filterbuy.com regional overview (Tier3, current seasonal pattern).",
+      "daylight": "Computed (lat 36.10N): ~14.6h at summer solstice, ~9.7h at winter solstice [Tier3|cross_verified:false|estimated|2026-09-14] astronomical calculation.",
+      "seasons": "Humid subtropical (Köppen Cfa) - same regional pattern as the Triangle cities (hot summers, cool winters, four distinct seasons); Piedmont Triad terrain, consistent with geography.seasons already on file [Tier3|cross_verified:false|estimated|2026-09-14] inferred from statewide/regional classification; no dedicated Winston-Salem-specific NOAA normals source retrieved this pass."
+    }
+  },
+  {
+    "city_ref": "woodbridge-ct",
+    "city": "Woodbridge",
+    "state_ref": "connecticut",
+    "residency_context": {
+      "host_for": [],
+      "suburb_for": [
+        {
+          "residency_id": "yale_neurology",
+          "host_city_ref": "new-haven-ct",
+          "distance_mi": 8,
+          "drive_time_offpeak_min": 15,
+          "drive_time_rush_min": 22
+        }
+      ],
+      "research_target_for": [
+        {
+          "residency_id": "yale_neurology",
+          "swapped_from_host": true,
+          "swapped_from_host_ref": "new-haven-ct",
+          "note": "New Haven's citywide crime rate runs well above the national average, and the Hill neighborhood around Yale-New Haven Hospital shows above-average violent crime in local data. Swapped to Woodbridge, one of the lowest-crime towns in Connecticut."
+        }
+      ]
+    },
+    "ecosystem_climate": {
+      "pests": "Same CT statewide tick profile as Farmington, but with materially higher invasive-tick pressure given Woodbridge's location in New Haven County - CAES/CT DPH identify New Haven and Fairfield counties as the epicenter of spreading lone star, Gulf Coast, and Asian longhorned tick populations, with New Haven Co. recording among the highest nymphal blacklegged-tick infection prevalence in a 2025 CAES survey [Tier1|cross_verified:true|verified|2026-09-14] Sources: CT DPH + CAES (portal.ct.gov) + CT Public/WFSB 2026 reporting on CAES tick surveillance data.",
+      "skin_irritants": "Poison ivy present per CT DEEP statewide guidance (see farmington-ct note) [Tier1|cross_verified:false|single-source|2026-09-14] Source: CT DEEP.",
+      "air_quality": "New Haven County is part of the New York-Northern New Jersey-Long Island ozone nonattainment area, officially classified Severe nonattainment for the 2008 8-hr ozone NAAQS (reclassified 11/7/2022, one of the strictest classifications short of Extreme) - materially worse designation than Farmington/Hartford Co.'s Serious classification; American Lung Association gives New Haven Co. an F grade for ozone [Tier1|cross_verified:true|verified|2026-09-14] Sources: eCFR 40 CFR 81.307 (Tier1) + American Lung Association SOTA CT 2024/2025.",
+      "daylight": "Computed (lat 41.35N): ~15.2h at summer solstice, ~9.2h at winter solstice [Tier3|cross_verified:false|estimated|2026-09-14] astronomical calculation.",
+      "seasons": "Humid continental/subtropical boundary (Köppen Dfa/Cfa) per geography.seasons already on file - milder than inland Farmington due to closer Long Island Sound proximity, but still the general hot-summer/cold-winter New England pattern; regional hurricane/tropical-storm-remnant exposure (Sandy, Irene, Ida) [Tier2|cross_verified:true|verified|2026-09-14] carried forward from prior-batch sourcing, consistent with this pass's independent CAES/DPH tick-geography findings supporting the coastal-vs-inland CT climate distinction."
+    }
+  }
+]

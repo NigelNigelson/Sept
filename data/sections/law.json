@@ -1,0 +1,972 @@
+[
+  {
+    "city_ref": "atlanta-ga",
+    "city": "Atlanta",
+    "state_ref": "georgia",
+    "residency_context": {
+      "host_for": [
+        "emory_neurology",
+        "morehouse_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "emory_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        },
+        {
+          "residency_id": "morehouse_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "law": {
+      "state_income_tax": "Flat 4.99% (2026), down from 5.19% (2025) under HB 463; no local income tax [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "alcohol_sales_off_premise": "Local-option under GA Code 3-3-7; where authorized, standard Sunday window ~11 AM-12 AM, varies by county/city referendum; weekday sales effectively unrestricted statewide [Tier 1|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "augusta-ga",
+    "city": "Augusta",
+    "state_ref": "georgia",
+    "residency_context": {
+      "host_for": [
+        "mcg_augusta_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "mcg_augusta_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "law": {
+      "state_income_tax": "Flat 4.99% (2026), down from 5.19% (2025) under HB 463; no local income tax [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "alcohol_sales_off_premise": "Local-option under GA Code 3-3-7; where authorized, standard Sunday window ~11 AM-12 AM, varies by county/city referendum; weekday sales effectively unrestricted statewide [Tier 1|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "aurora-co",
+    "city": "Aurora",
+    "state_ref": "colorado",
+    "residency_context": {
+      "host_for": [
+        "univ_colorado_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "univ_colorado_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "law": {
+      "state_income_tax": "Flat 4.40% (2026), down from 4.55% under Prop 121 (2022); no local income tax; TABOR refund mechanism may reduce effective rate in high-revenue years [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "alcohol_sales_off_premise": "8am-midnight daily including Sunday, no special Sunday restriction (grocery: full-strength beer since 2019, wine since 2023, no spirits); on-premise 7am-2am daily [Tier 2|cross_verified:true|verified|2026-09-13]. NOTE: some older web sources (pre-2023) incorrectly describe Sunday closure - superseded by law change, not a live conflict."
+    }
+  },
+  {
+    "city_ref": "austin-tx",
+    "city": "Austin",
+    "state_ref": "texas",
+    "residency_context": {
+      "host_for": [
+        "dellmed_utaustin_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "dellmed_utaustin_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "law": {
+      "state_income_tax": "No state individual income tax [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "alcohol_sales_off_premise": "Statewide (not local-option): beer/wine Mon-Sat 7am-midnight, Sun 10am-midnight (post-2021 HB 1518); liquor stores closed all Sunday statewide [Tier 1|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "chapel-hill-nc",
+    "city": "Chapel Hill",
+    "state_ref": "north-carolina",
+    "residency_context": {
+      "host_for": [
+        "unc_neurology"
+      ],
+      "suburb_for": [
+        {
+          "residency_id": "duke_neurology",
+          "host_city_ref": "durham-nc",
+          "distance_mi": 12,
+          "drive_time_offpeak_min": 18,
+          "drive_time_rush_min": 28
+        }
+      ],
+      "research_target_for": [
+        {
+          "residency_id": "unc_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "law": {
+      "state_income_tax": "Flat 3.99% (2026), down from 4.25% (2025) under phase-down schedule (SL 2023-134); no local income tax [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "alcohol_sales_off_premise": "Statewide default Mon-Sat 7am-2am, Sun 12pm-2am; local ordinances may move Sunday start to 10am; state-run ABC liquor stores closed all Sunday regardless of local option [Tier 1|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "charlottesville-va",
+    "city": "Charlottesville",
+    "state_ref": "virginia",
+    "residency_context": {
+      "host_for": [
+        "uva_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "uva_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "law": {
+      "state_income_tax": "Progressive 2%-5.75% across 4 brackets (top rate at just $17,000 taxable income); no local income tax. VERIFY: HB188 (pending, would add new 10% bracket over $1M) not yet law as of check date [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "alcohol_sales_off_premise": "Statewide, no local-option variance: beer/wine 6am-midnight daily incl. Sunday (no blue-law carve-out); state-run ABC liquor stores Mon-Sat 10am-9pm, Sun 12pm-6pm [Tier 1|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "columbia-md",
+    "city": "Columbia",
+    "state_ref": "maryland",
+    "residency_context": {
+      "host_for": [],
+      "suburb_for": [
+        {
+          "residency_id": "johns_hopkins_neurology",
+          "host_city_ref": "baltimore-md",
+          "distance_mi": 20,
+          "drive_time_offpeak_min": 28,
+          "drive_time_rush_min": 42
+        },
+        {
+          "residency_id": "univ_maryland_neurology",
+          "host_city_ref": "baltimore-md",
+          "distance_mi": 18,
+          "drive_time_offpeak_min": 25,
+          "drive_time_rush_min": 38
+        }
+      ],
+      "research_target_for": [
+        {
+          "residency_id": "johns_hopkins_neurology",
+          "swapped_from_host": true,
+          "swapped_from_host_ref": "baltimore-md",
+          "note": "Baltimore's violent crime rate runs ~3-4x the national average, and the blocks immediately around Johns Hopkins Hospital in East Baltimore have a well-documented pattern of shootings and robberies (JHU security alerts, local news). Swapped to Columbia, MD, repeatedly ranked one of the safest cities in the US (WalletHub)."
+        },
+        {
+          "residency_id": "univ_maryland_neurology",
+          "swapped_from_host": true,
+          "swapped_from_host_ref": "baltimore-md",
+          "note": "Same Baltimore host-city problem as Johns Hopkins (citywide violent crime ~3-4x national average, west-side hospital corridor affected too). Swapped to Columbia, MD, a repeat WalletHub #1 safest city."
+        }
+      ]
+    },
+    "law": {
+      "state_income_tax": "State progressive 2%-6.5% across 10 brackets, PLUS mandatory local county income tax stacked on top [Tier 1|cross_verified:true|verified|2026-09-13] HOWARD COUNTY (Columbia) local rate: 3.20% [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "alcohol_sales_off_premise": "Statewide: no alcohol of any kind sold in grocery/big-box retail chains (1 of only 3 US states with this rule) - alcohol sales entirely county-by-county through dedicated licensed stores. HOWARD COUNTY (Columbia): specific statutory hours not confirmed this batch (not named in the MD Alcoholic Beverages code sections retrieved); business-hours data suggests Sunday liquor sales commonly available in the area but this is NOT a Tier 1/2 confirmation - flagged VERIFY [Tier 3|cross_verified:false|unverified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "dallas-tx",
+    "city": "Dallas",
+    "state_ref": "texas",
+    "residency_context": {
+      "host_for": [
+        "utsw_neurology",
+        "baylor_umc_dallas_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "baylor_umc_dallas_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        },
+        {
+          "residency_id": "utsw_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "law": {
+      "state_income_tax": "No state individual income tax [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "alcohol_sales_off_premise": "Statewide (not local-option): beer/wine Mon-Sat 7am-midnight, Sun 10am-midnight (post-2021 HB 1518); liquor stores closed all Sunday statewide [Tier 1|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "durham-nc",
+    "city": "Durham",
+    "state_ref": "north-carolina",
+    "residency_context": {
+      "host_for": [
+        "duke_neurology"
+      ],
+      "suburb_for": [
+        {
+          "residency_id": "unc_neurology",
+          "host_city_ref": "chapel-hill-nc",
+          "distance_mi": 12,
+          "drive_time_offpeak_min": 18,
+          "drive_time_rush_min": 28
+        }
+      ],
+      "research_target_for": [
+        {
+          "residency_id": "duke_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "law": {
+      "state_income_tax": "Flat 3.99% (2026), down from 4.25% (2025) under phase-down schedule (SL 2023-134); no local income tax [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "alcohol_sales_off_premise": "Statewide default Mon-Sat 7am-2am, Sun 12pm-2am; local ordinances may move Sunday start to 10am; state-run ABC liquor stores closed all Sunday regardless of local option [Tier 1|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "englewood-co",
+    "city": "Englewood",
+    "state_ref": "colorado",
+    "residency_context": {
+      "host_for": [
+        "hca_healthone_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "hca_healthone_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "law": {
+      "state_income_tax": "Flat 4.40% (2026), down from 4.55% under Prop 121 (2022); no local income tax; TABOR refund mechanism may reduce effective rate in high-revenue years [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "alcohol_sales_off_premise": "8am-midnight daily including Sunday, no special Sunday restriction (grocery: full-strength beer since 2019, wine since 2023, no spirits); on-premise 7am-2am daily [Tier 2|cross_verified:true|verified|2026-09-13]. NOTE: some older web sources (pre-2023) incorrectly describe Sunday closure - superseded by law change, not a live conflict."
+    }
+  },
+  {
+    "city_ref": "farmington-ct",
+    "city": "Farmington",
+    "state_ref": "connecticut",
+    "residency_context": {
+      "host_for": [],
+      "suburb_for": [
+        {
+          "residency_id": "uconn_hartford_neurology",
+          "host_city_ref": "hartford-ct",
+          "distance_mi": 10,
+          "drive_time_offpeak_min": 15,
+          "drive_time_rush_min": 25
+        }
+      ],
+      "research_target_for": [
+        {
+          "residency_id": "uconn_hartford_neurology",
+          "swapped_from_host": true,
+          "swapped_from_host_ref": "hartford-ct",
+          "note": "Hartford's violent crime rate runs well above the national average (murder rate ~3x, FBI data). Swapped to Farmington, a low-crime suburb that is also home to UConn Health's main campus."
+        }
+      ]
+    },
+    "law": {
+      "state_income_tax": "Progressive 2%-6.99% across 7 brackets (bottom two rates cut in 2024, from 3%/5% to 2%/4.5%), top rate at $500,000 single/$1,000,000 MFJ; no local income tax [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "alcohol_sales_off_premise": "Off-premise (package stores AND grocery/beer permits): Mon-Sat 8am-10pm, SUNDAY 10am-6pm (Sunday sales legalized 2012 - some older sources incorrectly state CT is closed Sunday, this is stale/superseded). On-premise (restaurants/bars): Mon-Thu 9am-1am, Fri-Sat 9am-2am, Sun 10am-1am. Closed Thanksgiving, Christmas, New Year's Day [Tier 1|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "folsom-ca",
+    "city": "Folsom",
+    "state_ref": "california",
+    "residency_context": {
+      "host_for": [],
+      "suburb_for": [
+        {
+          "residency_id": "ucdavis_neurology",
+          "host_city_ref": "sacramento-ca",
+          "distance_mi": 22,
+          "drive_time_offpeak_min": 28,
+          "drive_time_rush_min": 40
+        }
+      ],
+      "research_target_for": [
+        {
+          "residency_id": "ucdavis_neurology",
+          "swapped_from_host": true,
+          "swapped_from_host_ref": "sacramento-ca",
+          "note": "Sacramento's violent crime rate is ~100%+ above the national average, and UC Davis Medical Center directly borders Oak Park, a neighborhood with a long-documented concentration of violent crime and drug activity. Swapped to Folsom, a low-crime Sacramento suburb (~40-48% below national average)."
+        }
+      ]
+    },
+    "law": {
+      "state_income_tax": "Progressive 1%-12.3% across 9 brackets, plus 1% Mental Health Services Tax surcharge on income over $1,000,000 (effective top rate 13.3%) [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "alcohol_sales_off_premise": "Statewide uniform 6am-2am daily, no Sunday restriction, no local-option variance; applies identically to off-premise (grocery/liquor) and on-premise (Bus. & Prof. Code Sec. 25631) [Tier 1|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "gainesville-fl",
+    "city": "Gainesville",
+    "state_ref": "florida",
+    "residency_context": {
+      "host_for": [
+        "uf_gainesville_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "uf_gainesville_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "law": {
+      "state_income_tax": "No state individual income tax [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "alcohol_sales_off_premise": "Statewide default applies (7am-midnight, no statewide Sunday restriction) but Alachua County/Gainesville-specific local ordinance not found in this batch - needs dedicated search [Tier 1|cross_verified:false|unverified|2026-09-13, state baseline only]"
+    }
+  },
+  {
+    "city_ref": "galveston-tx",
+    "city": "Galveston",
+    "state_ref": "texas",
+    "residency_context": {
+      "host_for": [
+        "utmb_galveston_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "utmb_galveston_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "law": {
+      "state_income_tax": "No state individual income tax [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "alcohol_sales_off_premise": "Statewide (not local-option): beer/wine Mon-Sat 7am-midnight, Sun 10am-midnight (post-2021 HB 1518); liquor stores closed all Sunday statewide [Tier 1|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "germantown-tn",
+    "city": "Germantown",
+    "state_ref": "tennessee",
+    "residency_context": {
+      "host_for": [],
+      "suburb_for": [
+        {
+          "residency_id": "uthsc_memphis_neurology",
+          "host_city_ref": "memphis-tn",
+          "distance_mi": 15,
+          "drive_time_offpeak_min": 22,
+          "drive_time_rush_min": 32
+        }
+      ],
+      "research_target_for": [
+        {
+          "residency_id": "uthsc_memphis_neurology",
+          "swapped_from_host": true,
+          "swapped_from_host_ref": "memphis-tn",
+          "note": "Memphis has the highest violent crime rate of any large US city per FBI data. Swapped to Germantown, an affluent Memphis suburb with violent crime roughly 85-90% below the national average."
+        }
+      ]
+    },
+    "law": {
+      "state_income_tax": "No state individual income tax of any form (Hall tax on interest/dividends fully repealed effective TY2021) [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "alcohol_sales_off_premise": "Wine + liquor (grocery/package stores): statewide TABC rule, Mon-Sat 8am-11pm, Sun 10am-11pm, closed Christmas/Thanksgiving/Easter. BEER specifically at grocery/convenience stores: NOT governed by this statewide rule - set by LOCAL city/county beer boards instead, can differ from wine/liquor hours at the same store [Tier 1|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "greenville-nc",
+    "city": "Greenville",
+    "state_ref": "north-carolina",
+    "residency_context": {
+      "host_for": [
+        "ecu_health_brody_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "ecu_health_brody_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "law": {
+      "state_income_tax": "Flat 3.99% (2026), down from 4.25% (2025) under phase-down schedule (SL 2023-134); no local income tax [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "alcohol_sales_off_premise": "Statewide default Mon-Sat 7am-2am, Sun 12pm-2am; local ordinances may move Sunday start to 10am; state-run ABC liquor stores closed all Sunday regardless of local option [Tier 1|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "honolulu-hi",
+    "city": "Honolulu",
+    "state_ref": "hawaii",
+    "residency_context": {
+      "host_for": [
+        "hawaii_jabsom_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "hawaii_jabsom_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "law": {
+      "state_income_tax": "Progressive 1.4%-11% across 12 brackets (TY2026); no local income tax. VERIFY: new 13% top bracket (over $1M) takes effect TY2027, not yet active for TY2026 [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "alcohol_sales_off_premise": "Honolulu/Oahu specifically (Honolulu Liquor Commission Sec. 3-82-38.19): off-premise retail 6am-midnight daily, no Sunday restriction; on-premise (bars/restaurants/dispensers) 6am-2am daily; cabaret-licensed venues to 4am. NOTE: set by county liquor commission under HRS 281 - other HI islands/counties may differ, not relevant since Honolulu is the only HI city in this schema [Tier 1|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "jacksonville-fl",
+    "city": "Jacksonville",
+    "state_ref": "florida",
+    "residency_context": {
+      "host_for": [
+        "mayo_jacksonville_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "mayo_jacksonville_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "law": {
+      "state_income_tax": "No state individual income tax [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "alcohol_sales_off_premise": "Statewide default off-premise 7am-midnight daily (F.S. 562.14), no statewide Sunday restriction, but local county/city ordinances routinely override Sunday start time specifically (local-option, similar to GA/NC pattern) [Tier 1|cross_verified:true|verified|2026-09-13] VERIFY: Duval County/Jacksonville Sunday off-premise start time conflicts between sources found (6am vs ~11am) - needs direct county ordinance check, not resolved this batch [Tier 3|cross_verified:false|unverified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "knoxville-tn",
+    "city": "Knoxville",
+    "state_ref": "tennessee",
+    "residency_context": {
+      "host_for": [
+        "utgsm_knoxville_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "utgsm_knoxville_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "law": {
+      "state_income_tax": "No state individual income tax of any form (Hall tax on interest/dividends fully repealed effective TY2021) [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "alcohol_sales_off_premise": "Wine + liquor (grocery/package stores): statewide TABC rule, Mon-Sat 8am-11pm, Sun 10am-11pm, closed Christmas/Thanksgiving/Easter. BEER specifically at grocery/convenience stores: NOT governed by this statewide rule - set by LOCAL city/county beer boards instead, can differ from wine/liquor hours at the same store [Tier 1|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "los-angeles-ca",
+    "city": "Los Angeles",
+    "state_ref": "california",
+    "residency_context": {
+      "host_for": [
+        "ucla_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "ucla_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "law": {
+      "state_income_tax": "Progressive 1%-12.3% across 9 brackets, plus 1% Mental Health Services Tax surcharge on income over $1,000,000 (effective top rate 13.3%) [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "alcohol_sales_off_premise": "Statewide uniform 6am-2am daily, no Sunday restriction, no local-option variance; applies identically to off-premise (grocery/liquor) and on-premise (Bus. & Prof. Code Sec. 25631) [Tier 1|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "miami-fl",
+    "city": "Miami",
+    "state_ref": "florida",
+    "residency_context": {
+      "host_for": [
+        "umiami_jackson_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "umiami_jackson_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "law": {
+      "state_income_tax": "No state individual income tax [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "alcohol_sales_off_premise": "Statewide default off-premise 7am-midnight daily (F.S. 562.14), no statewide Sunday restriction, but local county/city ordinances routinely override Sunday start time specifically (local-option, similar to GA/NC pattern) [Tier 1|cross_verified:true|verified|2026-09-13] Miami-Dade County: off-premise Sunday 7am start, consistent with statewide default (county does not restrict further for off-premise) [Tier 2|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "nashville-tn",
+    "city": "Nashville",
+    "state_ref": "tennessee",
+    "residency_context": {
+      "host_for": [
+        "vanderbilt_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "vanderbilt_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "law": {
+      "state_income_tax": "No state individual income tax of any form (Hall tax on interest/dividends fully repealed effective TY2021) [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "alcohol_sales_off_premise": "Wine + liquor (grocery/package stores): statewide TABC rule, Mon-Sat 8am-11pm, Sun 10am-11pm, closed Christmas/Thanksgiving/Easter. BEER specifically at grocery/convenience stores: NOT governed by this statewide rule - set by LOCAL city/county beer boards instead, can differ from wine/liquor hours at the same store [Tier 1|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "oklahoma-city-ok",
+    "city": "Oklahoma City",
+    "state_ref": "oklahoma",
+    "residency_context": {
+      "host_for": [
+        "ou_health_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "ou_health_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "law": {
+      "state_income_tax": "Progressive 0%/2.5%/3.5%/4.5% across 4 brackets (TY2026, post-HB 2764), top rate at just $7,200 taxable income (single) [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "alcohol_sales_off_premise": "Grocery/convenience (beer up to 8.99% ABV, wine under 15%): 6am-2am daily incl. Sunday, no restriction, statewide uniform. Liquor stores (spirits): 8am-midnight Mon-Sat, closed Sunday by default. OKLAHOMA COUNTY (where OKC sits) is one of only 7 of 77 OK counties that has approved Sunday liquor sales: noon-midnight [Tier 1|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "palo-alto-ca",
+    "city": "Palo Alto",
+    "state_ref": "california",
+    "residency_context": {
+      "host_for": [
+        "stanford_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "stanford_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "law": {
+      "state_income_tax": "Progressive 1%-12.3% across 9 brackets, plus 1% Mental Health Services Tax surcharge on income over $1,000,000 (effective top rate 13.3%) [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "alcohol_sales_off_premise": "Statewide uniform 6am-2am daily, no Sunday restriction, no local-option variance; applies identically to off-premise (grocery/liquor) and on-premise (Bus. & Prof. Code Sec. 25631) [Tier 1|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "phoenix-az",
+    "city": "Phoenix",
+    "state_ref": "arizona",
+    "residency_context": {
+      "host_for": [
+        "barrow_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "barrow_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "law": {
+      "state_income_tax": "Flat 2.5% income tax (since TY2023 via SB 1828); no local income tax [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "alcohol_sales_off_premise": "On-premise (bars/restaurants): 6am-2am daily incl. Sunday, consistent across sources. Off-premise (grocery/liquor) Sunday start time CONTESTED between sources: some say 6am (matches weekday), others specifically say 10am for Sunday off-premise only. NOT RESOLVED this batch - needs direct azliquor.gov/DLLC check before relying on either figure [Tier 3|cross_verified:false|unverified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "portland-or",
+    "city": "Portland",
+    "state_ref": "oregon",
+    "residency_context": {
+      "host_for": [
+        "ohsu_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "ohsu_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "law": {
+      "state_income_tax": "Progressive 4.75%-9.9% across 4 brackets, top rate at $125,000 taxable income (single)/$250,000 (MFJ). PORTLAND-SPECIFIC: additional local Metro Supportive Housing Services (SHS) tax and Multnomah County Preschool for All (PFA) tax stack on top of state rate for Portland-area residents specifically - not just a generic OR answer [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "alcohol_sales_off_premise": "Off-premise beer/wine 6am-2:30am daily incl. Sunday, no restriction; on-premise 7am-2:30am daily; retail liquor stores (spirits, state-licensed agents) required min. 8hrs/day Mon-Sat, but Sunday/holiday opening is OPTIONAL per-store - genuine store-by-store variance, not a fixed statewide Sunday rule for spirits [Tier 1|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "providence-ri",
+    "city": "Providence",
+    "state_ref": "rhode-island",
+    "residency_context": {
+      "host_for": [
+        "brown_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "brown_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "law": {
+      "state_income_tax": "Progressive 3.75%/4.75%/5.99% across 3 brackets, same schedule for all filing statuses (unlike most states), no local income tax. VERIFY: pending S0329 would add 3% surtax on income over ~$625K starting TY2026 - status not confirmed as passed [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "alcohol_sales_off_premise": "ALL off-premise alcohol sales (beer/wine/spirits) restricted to dedicated liquor stores (Class A license) only - NO grocery/convenience store alcohol sales, unlike most states in this dataset. Liquor stores: Mon-Sat 9am-10pm, Sun 10am-6pm. On-premise (bars/restaurants): 9am-1am Mon-Sat (PROVIDENCE SPECIFICALLY: extended to 2am Fri/Sat and before state-recognized holidays), Sun 12pm-1am [Tier 2|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "richmond-va",
+    "city": "Richmond",
+    "state_ref": "virginia",
+    "residency_context": {
+      "host_for": [
+        "vcu_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "vcu_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "law": {
+      "state_income_tax": "Progressive 2%-5.75% across 4 brackets (top rate at just $17,000 taxable income); no local income tax. VERIFY: HB188 (pending, would add new 10% bracket over $1M) not yet law as of check date [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "alcohol_sales_off_premise": "Statewide, no local-option variance: beer/wine 6am-midnight daily incl. Sunday (no blue-law carve-out); state-run ABC liquor stores Mon-Sat 10am-9pm, Sun 12pm-6pm [Tier 1|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "roanoke-va",
+    "city": "Roanoke",
+    "state_ref": "virginia",
+    "residency_context": {
+      "host_for": [
+        "carilion_vtc_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "carilion_vtc_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "law": {
+      "state_income_tax": "Progressive 2%-5.75% across 4 brackets (top rate at just $17,000 taxable income); no local income tax. VERIFY: HB188 (pending, would add new 10% bracket over $1M) not yet law as of check date [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "alcohol_sales_off_premise": "Statewide, no local-option variance: beer/wine 6am-midnight daily incl. Sunday (no blue-law carve-out); state-run ABC liquor stores Mon-Sat 10am-9pm, Sun 12pm-6pm [Tier 1|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "salisbury-md",
+    "city": "Salisbury",
+    "state_ref": "maryland",
+    "residency_context": {
+      "host_for": [
+        "tidalhealth_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "tidalhealth_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "law": {
+      "state_income_tax": "State progressive 2%-6.5% across 10 brackets, PLUS mandatory local county income tax stacked on top [Tier 1|cross_verified:true|verified|2026-09-13] WICOMICO COUNTY (Salisbury) local rate: 3.20% [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "alcohol_sales_off_premise": "Statewide: no alcohol of any kind sold in grocery/big-box retail chains (1 of only 3 US states with this rule) - alcohol sales entirely county-by-county through dedicated licensed stores. WICOMICO COUNTY (Salisbury): CONFIRMED directly from MD Alcoholic Beverages Code Sec. 11-303(6): hours are 10am-2am, Monday through Saturday [Tier 1|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "salt-lake-city-ut",
+    "city": "Salt Lake City",
+    "state_ref": "utah",
+    "residency_context": {
+      "host_for": [
+        "univ_utah_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "univ_utah_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "law": {
+      "state_income_tax": "Flat 4.55% (TY2026, per SB0085), down from 4.65% in prior years; no local income tax [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "alcohol_sales_off_premise": "Grocery/convenience: beer <=5% ABV ONLY, 7 days/week incl. Sunday. Wine, liquor, and higher-ABV beer sold EXCLUSIVELY through state-run DABS liquor stores, Mon-Sat only (hours vary by location, typically 11am-5/10pm), CLOSED SUNDAYS AND HOLIDAYS STATEWIDE - most restrictive system in this dataset [Tier 1|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "san-diego-ca",
+    "city": "San Diego",
+    "state_ref": "california",
+    "residency_context": {
+      "host_for": [
+        "ucsd_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "ucsd_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "law": {
+      "state_income_tax": "Progressive 1%-12.3% across 9 brackets, plus 1% Mental Health Services Tax surcharge on income over $1,000,000 (effective top rate 13.3%) [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "alcohol_sales_off_premise": "Statewide uniform 6am-2am daily, no Sunday restriction, no local-option variance; applies identically to off-premise (grocery/liquor) and on-premise (Bus. & Prof. Code Sec. 25631) [Tier 1|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "san-francisco-ca",
+    "city": "San Francisco",
+    "state_ref": "california",
+    "residency_context": {
+      "host_for": [
+        "ucsf_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "ucsf_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "law": {
+      "state_income_tax": "Progressive 1%-12.3% across 9 brackets, plus 1% Mental Health Services Tax surcharge on income over $1,000,000 (effective top rate 13.3%) [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "alcohol_sales_off_premise": "Statewide uniform 6am-2am daily, no Sunday restriction, no local-option variance; applies identically to off-premise (grocery/liquor) and on-premise (Bus. & Prof. Code Sec. 25631) [Tier 1|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "scottsdale-az",
+    "city": "Scottsdale",
+    "state_ref": "arizona",
+    "residency_context": {
+      "host_for": [
+        "mayo_scottsdale_phoenix_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "mayo_scottsdale_phoenix_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "law": {
+      "state_income_tax": "Flat 2.5% income tax (since TY2023 via SB 1828); no local income tax [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "alcohol_sales_off_premise": "On-premise (bars/restaurants): 6am-2am daily incl. Sunday, consistent across sources. Off-premise (grocery/liquor) Sunday start time CONTESTED between sources: some say 6am (matches weekday), others specifically say 10am for Sunday off-premise only. NOT RESOLVED this batch - needs direct azliquor.gov/DLLC check before relying on either figure [Tier 3|cross_verified:false|unverified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "seattle-wa",
+    "city": "Seattle",
+    "state_ref": "washington",
+    "residency_context": {
+      "host_for": [
+        "uw_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "uw_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "law": {
+      "state_income_tax": "Currently NO individual income tax. VERIFY/upcoming: new 9.9% tax on individuals/couples with AGI over $1M takes effect Jan 1, 2028 under SB 6346 (enacted 2026 WA Legislature) - not yet in effect, but relevant given multi-year residency timeline [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "alcohol_sales_off_premise": "Statewide uniform 6am-2am daily incl. Sunday, no blue-law carve-out (repealed 1967); spirits sold through regular licensed retail (incl. large grocery chains) since 2012 privatization (Initiative 1183) - no separate state-store Sunday closure [Tier 2|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "tacoma-wa",
+    "city": "Tacoma",
+    "state_ref": "washington",
+    "residency_context": {
+      "host_for": [
+        "madigan_army_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "madigan_army_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "law": {
+      "state_income_tax": "Currently NO individual income tax. VERIFY/upcoming: new 9.9% tax on individuals/couples with AGI over $1M takes effect Jan 1, 2028 under SB 6346 (enacted 2026 WA Legislature) - not yet in effect, but relevant given multi-year residency timeline [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "alcohol_sales_off_premise": "Statewide uniform 6am-2am daily incl. Sunday, no blue-law carve-out (repealed 1967); spirits sold through regular licensed retail (incl. large grocery chains) since 2012 privatization (Initiative 1183) - no separate state-store Sunday closure [Tier 2|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "tampa-fl",
+    "city": "Tampa",
+    "state_ref": "florida",
+    "residency_context": {
+      "host_for": [
+        "usf_morsani_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "usf_morsani_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "law": {
+      "state_income_tax": "No state individual income tax [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "alcohol_sales_off_premise": "Statewide default off-premise 7am-midnight daily (F.S. 562.14), no statewide Sunday restriction, but local county/city ordinances routinely override Sunday start time specifically (local-option, similar to GA/NC pattern) [Tier 1|cross_verified:true|verified|2026-09-13] Hillsborough County: Sunday sales 11am-3am (extended past statewide default via local ordinance), both on- and off-premise [Tier 2|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "winston-salem-nc",
+    "city": "Winston-Salem",
+    "state_ref": "north-carolina",
+    "residency_context": {
+      "host_for": [
+        "wake_forest_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "wake_forest_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "law": {
+      "state_income_tax": "Flat 3.99% (2026), down from 4.25% (2025) under phase-down schedule (SL 2023-134); no local income tax [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "alcohol_sales_off_premise": "Statewide default Mon-Sat 7am-2am, Sun 12pm-2am; local ordinances may move Sunday start to 10am; state-run ABC liquor stores closed all Sunday regardless of local option [Tier 1|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "woodbridge-ct",
+    "city": "Woodbridge",
+    "state_ref": "connecticut",
+    "residency_context": {
+      "host_for": [],
+      "suburb_for": [
+        {
+          "residency_id": "yale_neurology",
+          "host_city_ref": "new-haven-ct",
+          "distance_mi": 8,
+          "drive_time_offpeak_min": 15,
+          "drive_time_rush_min": 22
+        }
+      ],
+      "research_target_for": [
+        {
+          "residency_id": "yale_neurology",
+          "swapped_from_host": true,
+          "swapped_from_host_ref": "new-haven-ct",
+          "note": "New Haven's citywide crime rate runs well above the national average, and the Hill neighborhood around Yale-New Haven Hospital shows above-average violent crime in local data. Swapped to Woodbridge, one of the lowest-crime towns in Connecticut."
+        }
+      ]
+    },
+    "law": {
+      "state_income_tax": "Progressive 2%-6.99% across 7 brackets (bottom two rates cut in 2024, from 3%/5% to 2%/4.5%), top rate at $500,000 single/$1,000,000 MFJ; no local income tax [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "alcohol_sales_off_premise": "Off-premise (package stores AND grocery/beer permits): Mon-Sat 8am-10pm, SUNDAY 10am-6pm (Sunday sales legalized 2012 - some older sources incorrectly state CT is closed Sunday, this is stale/superseded). On-premise (restaurants/bars): Mon-Thu 9am-1am, Fri-Sat 9am-2am, Sun 10am-1am. Closed Thanksgiving, Christmas, New Year's Day [Tier 1|cross_verified:true|verified|2026-09-13]"
+    }
+  }
+]

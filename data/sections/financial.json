@@ -1,0 +1,1089 @@
+[
+  {
+    "city_ref": "atlanta-ga",
+    "city": "Atlanta",
+    "state_ref": "georgia",
+    "residency_context": {
+      "host_for": [
+        "emory_neurology",
+        "morehouse_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "emory_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        },
+        {
+          "residency_id": "morehouse_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "financial": {
+      "cost_of_living_index": "C2ER-sourced composite 95.7 (Atlanta metro, ARC Regional Snapshot Oct 2024 update, Q2 2024 C2ER data) \u2014 VERIFY: metro-level not city-specific, and ARC has not published a newer edition as of this check; a 2026 secondary source independently placed Atlanta metro in the same ~95-105 band [Tier 2|cross_verified:true|single-source|2026-09-13]",
+      "median_rent_1br": "$1,610 (RentCafe, Aug 2026); cross-verified against HUD FY2026 FMR for Atlanta-Sandy Springs-Roswell HMFA ($1,660, official govt figure, close agreement) [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "median_rent_2br": "$1,885 (RentCafe, Aug 2026); cross-verified against HUD FY2026 FMR ($1,820) \u2014 close agreement [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "state_income_tax_rate": "Flat 4.99% (2026) [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "property_tax_rate": "Effective ~1.6% of fair market value for City of Atlanta/Fulton County residents (2025 combined millage 40.909 mills \u2014 Fulton Co. 9.039 + Atlanta city + Atlanta Public Schools \u2014 applied to Georgia's statutory 40% assessment ratio under O.C.G.A. 48-5-7); computed directly from Fulton County Tax Commissioner's published millage table, not a third-party estimate [Tier 1|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "augusta-ga",
+    "city": "Augusta",
+    "state_ref": "georgia",
+    "residency_context": {
+      "host_for": [
+        "mcg_augusta_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "mcg_augusta_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "financial": {
+      "cost_of_living_index": "null \u2014 no direct C2ER city-level reporting point or comparable primary/secondary source found; only excluded-category relocation-blog figures exist (e.g. 87.4 from SoFi) [Tier 3|cross_verified:false|unverified|2026-09-13]",
+      "median_rent_1br": "$1,090 (RentCafe, Mar 2026); cross-verified against Apartment List ($1,184) and HUD FY2026 FMR for Augusta-Richmond County GA-SC HMFA ($1,114) \u2014 close agreement [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "median_rent_2br": "$1,259 (RentCafe, Mar 2026); cross-verified against Apartment List ($1,397) and HUD FY2026 FMR ($1,261) \u2014 close agreement [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "state_income_tax_rate": "Flat 4.99% (2026) [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "property_tax_rate": "Effective ~1.16% of fair market value (2025 Richmond County Tax Commissioner's Urban District net millage of 28.921 mills, applied to Georgia's statutory 40% assessment ratio under O.C.G.A. 48-5-7); cross-verified against Ownwell's independently-computed 1.25% median effective rate for Augusta (same order of magnitude, different methodology \u2014 statutory vs. actual-sales-based median) [Tier 1|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "aurora-co",
+    "city": "Aurora",
+    "state_ref": "colorado",
+    "residency_context": {
+      "host_for": [
+        "univ_colorado_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "univ_colorado_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "financial": {
+      "cost_of_living_index": "null \u2014 no direct C2ER city-level reporting point for Aurora; only excluded-category sources (relocation blogs, ERI) mention it individually. Denver metro figure exists but is not substituted per standing instruction [Tier 3|cross_verified:false|unverified|2026-09-13]",
+      "median_rent_1br": "$1,434 (RentCafe, Aug 2026); cross-verified against Zumper ($1,175-1,300 range across snapshots) [Tier 2|cross_verified:true]",
+      "median_rent_2br": "$1,824 (RentCafe, Aug 2026); cross-verified against Zumper (~$1,800) [Tier 2|cross_verified:true]",
+      "state_income_tax_rate": "Flat 4.40% [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "property_tax_rate": "Aurora spans three counties with different effective rates \u2014 VERIFY/NOTE: Adams County portion (north Aurora) ~0.67% effective; Arapahoe County portion (south Aurora) ~0.55% effective (both per Ownwell's median-effective-rate methodology, drawn from actual property records). No single rate applies city-wide; Colorado uses a low residential assessment ratio (6.25-7.05% of actual value depending on year/purpose) applied to a mill levy, structurally different from most states [Tier 2|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "austin-tx",
+    "city": "Austin",
+    "state_ref": "texas",
+    "residency_context": {
+      "host_for": [
+        "dellmed_utaustin_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "dellmed_utaustin_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "financial": {
+      "cost_of_living_index": "C2ER composite 95.7 (Q1 2025; nat'l participant avg=100); sub-indices: grocery 95.2, housing 99.6, utilities 99.1, transportation 93.1, healthcare 91.3, misc 93.1 [Tier 2|cross_verified:false|single-source|2026-09-13]",
+      "median_rent_1br": "$1,421 (RentCafe, Aug 2026); cross-verified against Apartment List ($1,176, Sept 2026 report) \u2014 RentCafe notably higher, both directionally consistent as 'moderate' [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "median_rent_2br": "$1,812 (RentCafe, Aug 2026); cross-verified against Apartment List ($1,432, Sept 2026 report) [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "state_income_tax_rate": "0% (no state individual income tax) [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "property_tax_rate": "Statutory combined rate ~2.05% of taxable value for a home inside Austin city limits/Austin ISD (Austin ISD $0.9252 + City of Austin $0.5240 + Travis County $0.3758 + Central Health $0.1180 + Austin Community College $0.1034, all per $100, 2025 rates) \u2014 VERIFY: Texas has no assessment-ratio discount like Georgia, so this is very close to the effective rate before homestead exemptions/caps, which can meaningfully lower actual bills for longtime owners [Tier 1|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "chapel-hill-nc",
+    "city": "Chapel Hill",
+    "state_ref": "north-carolina",
+    "residency_context": {
+      "host_for": [
+        "unc_neurology"
+      ],
+      "suburb_for": [
+        {
+          "residency_id": "duke_neurology",
+          "host_city_ref": "durham-nc",
+          "distance_mi": 12,
+          "drive_time_offpeak_min": 18,
+          "drive_time_rush_min": 28
+        }
+      ],
+      "research_target_for": [
+        {
+          "residency_id": "unc_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "financial": {
+      "cost_of_living_index": "C2ER composite 108.5 (Durham-Chapel Hill NC Metro, Q1 2025; nat'l avg=100); sub-indices: grocery 99.9, housing 122.4, utilities 88.9, transportation 92.9, healthcare 130.4, misc 106.7. NOTE: single C2ER reporting point covers both cities jointly - not city-specific [Tier 2|cross_verified:false|single-source|2026-09-13]",
+      "median_rent_1br": "$1,495 (RentCafe, Aug 2026); conflicting sources \u2014 Zumper reports lower ($1,451, close to RentCafe) but Apartment List reports notably higher ($1,687) \u2014 genuine spread, RentCafe/Zumper cluster taken as more reliable [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "median_rent_2br": "$1,722 (RentCafe, Aug 2026); Zumper close ($1,687), Apartment List notably higher ($2,085) \u2014 same spread as 1BR [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "state_income_tax_rate": "3.99% flat [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "property_tax_rate": "Combined statutory rate ~1.29% of assessed value for the Orange County portion of Chapel Hill (Town of Chapel Hill $0.50 + Orange County $0.6383 + Chapel Hill/Carrboro City School district $0.1479, all per $100, FY2025-26 town rate confirmed via two independent local news sources) \u2014 VERIFY/NOTE: Chapel Hill is unusual in spanning three counties (Orange, Durham, Chatham), each with a different combined rate; the Durham County portion combines to ~1.05% and the Chatham County portion to a lower effective rate per Ownwell \u2014 the Orange County figure is used here as it covers the bulk of the town [Tier 1|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "charlottesville-va",
+    "city": "Charlottesville",
+    "state_ref": "virginia",
+    "residency_context": {
+      "host_for": [
+        "uva_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "uva_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "financial": {
+      "cost_of_living_index": "C2ER composite 98.8 (Q1 2025; nat'l avg=100); sub-indices: grocery 96.3, housing 102.0, utilities 101.2, transportation 94.1, healthcare 85.6, misc 99.7 [Tier 2|cross_verified:false|single-source|2026-09-13]",
+      "median_rent_1br": "$1,825 (RentCafe, Jul 2026); cross-verified against Zumper ($1,624) and rentest.ai ($1,754) \u2014 consistent cluster, RentCafe highest but same order of magnitude [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "median_rent_2br": "$2,065 (RentCafe, Jul 2026); cross-verified against Zumper ($1,849) and rentest.ai ($1,873) [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "state_income_tax_rate": "2%-5.75% progressive, effective rate depends on income [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "property_tax_rate": "0.98% of assessed value ($0.980 per $100, TY2025, per Virginia Department of Taxation's own official Local Tax Rates Survey \u2014 Charlottesville is an independent city assessed at 100% fair market value, so no conversion needed); cross-verified against countytaxtools.com's independent citation of the same VA DOT figure [Tier 1|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "columbia-md",
+    "city": "Columbia",
+    "state_ref": "maryland",
+    "residency_context": {
+      "host_for": [],
+      "suburb_for": [
+        {
+          "residency_id": "johns_hopkins_neurology",
+          "host_city_ref": "baltimore-md",
+          "distance_mi": 20,
+          "drive_time_offpeak_min": 28,
+          "drive_time_rush_min": 42
+        },
+        {
+          "residency_id": "univ_maryland_neurology",
+          "host_city_ref": "baltimore-md",
+          "distance_mi": 18,
+          "drive_time_offpeak_min": 25,
+          "drive_time_rush_min": 38
+        }
+      ],
+      "research_target_for": [
+        {
+          "residency_id": "johns_hopkins_neurology",
+          "swapped_from_host": true,
+          "swapped_from_host_ref": "baltimore-md",
+          "note": "Baltimore's violent crime rate runs ~3-4x the national average, and the blocks immediately around Johns Hopkins Hospital in East Baltimore have a well-documented pattern of shootings and robberies (JHU security alerts, local news). Swapped to Columbia, MD, repeatedly ranked one of the safest cities in the US (WalletHub)."
+        },
+        {
+          "residency_id": "univ_maryland_neurology",
+          "swapped_from_host": true,
+          "swapped_from_host_ref": "baltimore-md",
+          "note": "Same Baltimore host-city problem as Johns Hopkins (citywide violent crime ~3-4x national average, west-side hospital corridor affected too). Swapped to Columbia, MD, a repeat WalletHub #1 safest city."
+        }
+      ]
+    },
+    "financial": {
+      "cost_of_living_index": null,
+      "median_rent_1br": "$1,944 (RentCafe, Jul 2026); cross-verified against Zillow ($1,704) \u2014 RentCafe higher, genuine spread but same order of magnitude [Tier 2|cross_verified:true]",
+      "median_rent_2br": "$2,273 (RentCafe, Jul 2026); cross-verified against Zillow ($2,100) [Tier 2|cross_verified:true]",
+      "state_income_tax_rate": "2%-6.5% state + 3.20% Howard County local = up to ~9.7% combined at top bracket; depends on income [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "property_tax_rate": "1.362% combined effective rate of assessed value (Howard County local rate $1.25/$100, FY2025-26, per Maryland Department of Legislative Services' own official county tax rate table + Maryland state rate $0.112/$100); cross-verified against an independent parcel-level breakdown citing ~$1.156-1.18/$100 for the combined state+county rate (a modestly lower figure, possibly reflecting phased-in assessment growth caps under Howard County's Homestead Tax Credit) [Tier 1|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "dallas-tx",
+    "city": "Dallas",
+    "state_ref": "texas",
+    "residency_context": {
+      "host_for": [
+        "utsw_neurology",
+        "baylor_umc_dallas_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "baylor_umc_dallas_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        },
+        {
+          "residency_id": "utsw_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "financial": {
+      "cost_of_living_index": "C2ER composite 100.8 (Q3 2024, raw C2ER quarterly data) cross-verified against Dallas Regional Chamber's own economic development guide citing C2ER at 101.7 for the same period range [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "median_rent_1br": "$1,416 (RentCafe, Aug 2026); cross-verified against HUD FY2026 official Fair Market Rent for Dallas ($1,648 per usrentprices.com transcription of HUD data) \u2014 directionally consistent, HUD figure notably higher, likely reflecting different methodology (FMR 40th percentile vs. managed-property average) [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "median_rent_2br": "$1,853 (RentCafe, Aug 2026); cross-verified against HUD FY2026 FMR ($1,931) \u2014 same directional gap as 1BR [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "state_income_tax_rate": "0% (no state individual income tax) [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "property_tax_rate": "Statutory combined rate ~2.22-2.24% of taxable value for a home inside Dallas city limits/Dallas ISD (Dallas ISD ~$0.98-0.99 + City of Dallas ~$0.70 + Dallas County $0.2155 + Parkland Hospital $0.212 + Dallas College ~$0.11, all per $100, 2025 rates), consistently cited across independent breakdowns \u2014 VERIFY: median EFFECTIVE rate (accounting for homestead exemptions and appraisal caps) is meaningfully lower, reported at 1.55-1.85% by two independent sources; both figures are real and reflect different things (statutory vs. actual-bill-after-exemptions) [Tier 1|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "durham-nc",
+    "city": "Durham",
+    "state_ref": "north-carolina",
+    "residency_context": {
+      "host_for": [
+        "duke_neurology"
+      ],
+      "suburb_for": [
+        {
+          "residency_id": "unc_neurology",
+          "host_city_ref": "chapel-hill-nc",
+          "distance_mi": 12,
+          "drive_time_offpeak_min": 18,
+          "drive_time_rush_min": 28
+        }
+      ],
+      "research_target_for": [
+        {
+          "residency_id": "duke_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "financial": {
+      "cost_of_living_index": "C2ER composite 108.5 (Durham-Chapel Hill NC Metro, Q1 2025; nat'l avg=100); sub-indices: grocery 99.9, housing 122.4, utilities 88.9, transportation 92.9, healthcare 130.4, misc 106.7. NOTE: single C2ER reporting point covers both cities jointly - not city-specific [Tier 2|cross_verified:false|single-source|2026-09-13]",
+      "median_rent_1br": "$1,381 (RentCafe, Aug 2026); consistent with RentCafe's own earlier 2026 snapshots (May: $1,388) [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "median_rent_2br": "$1,614 (RentCafe, Aug 2026); consistent with RentCafe's own earlier 2026 snapshots (May: $1,619) [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "state_income_tax_rate": "3.99% flat [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "property_tax_rate": "0.9913% of assessed value for City of Durham (Durham County $0.5542 + City of Durham $0.4371 = $0.9913 per $100, FY2025-2026, confirmed directly via Durham County's own government site dconc.gov) [Tier 1|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "englewood-co",
+    "city": "Englewood",
+    "state_ref": "colorado",
+    "residency_context": {
+      "host_for": [
+        "hca_healthone_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "hca_healthone_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "financial": {
+      "cost_of_living_index": "null \u2014 no direct C2ER city-level reporting point for Englewood; same pattern as Aurora, no Denver-region chamber/EDC source breaks it out individually [Tier 3|cross_verified:false|unverified|2026-09-13]",
+      "median_rent_1br": "$1,637 (RentCafe, Feb 2026); cross-verified against apartmentfinder.com ($1,545) [Tier 2|cross_verified:true]",
+      "median_rent_2br": "$2,109 (RentCafe, Feb 2026); cross-verified against apartmentfinder.com ($2,025) [Tier 2|cross_verified:true]",
+      "state_income_tax_rate": "Flat 4.40% [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "property_tax_rate": "Effective ~0.52% of market value (Arapahoe County, per Ownwell's median-effective-rate methodology from actual property records), close to the county-wide median of 0.55% [Tier 2|cross_verified:false|single-source|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "farmington-ct",
+    "city": "Farmington",
+    "state_ref": "connecticut",
+    "residency_context": {
+      "host_for": [],
+      "suburb_for": [
+        {
+          "residency_id": "uconn_hartford_neurology",
+          "host_city_ref": "hartford-ct",
+          "distance_mi": 10,
+          "drive_time_offpeak_min": 15,
+          "drive_time_rush_min": 25
+        }
+      ],
+      "research_target_for": [
+        {
+          "residency_id": "uconn_hartford_neurology",
+          "swapped_from_host": true,
+          "swapped_from_host_ref": "hartford-ct",
+          "note": "Hartford's violent crime rate runs well above the national average (murder rate ~3x, FBI data). Swapped to Farmington, a low-crime suburb that is also home to UConn Health's main campus."
+        }
+      ]
+    },
+    "financial": {
+      "cost_of_living_index": null,
+      "median_rent_1br": "$2,172 (RentCafe, Jul 2026); cross-verified against Apartments.com ($2,254, close on 1BR) [Tier 2|cross_verified:true]",
+      "median_rent_2br": "$2,507 (RentCafe, Jul 2026); cross-verified against Apartments.com ($2,271, notably lower \u2014 genuine spread) [Tier 2|cross_verified:true]",
+      "state_income_tax_rate": "2%-6.99% progressive; no local income tax; depends on income [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "property_tax_rate": "1.915% effective rate of market value (mill rate 27.36 for the 2025 Grand List, per the Town of Farmington's own official Mill Rate History page; Connecticut assesses real property at 70% of market value statewide, so effective rate = mill rate/1000 x 0.70) [Tier 1|cross_verified:false|single-source|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "folsom-ca",
+    "city": "Folsom",
+    "state_ref": "california",
+    "residency_context": {
+      "host_for": [],
+      "suburb_for": [
+        {
+          "residency_id": "ucdavis_neurology",
+          "host_city_ref": "sacramento-ca",
+          "distance_mi": 22,
+          "drive_time_offpeak_min": 28,
+          "drive_time_rush_min": 40
+        }
+      ],
+      "research_target_for": [
+        {
+          "residency_id": "ucdavis_neurology",
+          "swapped_from_host": true,
+          "swapped_from_host_ref": "sacramento-ca",
+          "note": "Sacramento's violent crime rate is ~100%+ above the national average, and UC Davis Medical Center directly borders Oak Park, a neighborhood with a long-documented concentration of violent crime and drug activity. Swapped to Folsom, a low-crime Sacramento suburb (~40-48% below national average)."
+        }
+      ]
+    },
+    "financial": {
+      "cost_of_living_index": null,
+      "median_rent_1br": "$2,013 (RentCafe, Feb 2026); cross-verified against Rentometer ($2,024) and Zumper ($1,825) \u2014 tight cluster [Tier 2|cross_verified:true]",
+      "median_rent_2br": "$2,457 (RentCafe, Feb 2026); cross-verified against Rentometer ($2,408) and Zumper ($2,200) [Tier 2|cross_verified:true]",
+      "state_income_tax_rate": "1%-12.3% progressive (13.3% effective top with surcharge); depends on income [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "property_tax_rate": "~1.08-1.14% combined rate for a new purchase (1% Prop 13 base + Sacramento County/Folsom bonds and Mello-Roos, varies by subdivision \u2014 newer developments run meaningfully higher, up to ~1.30%) \u2014 California's Prop 13 base is 1% of assessed value (acquisition-value based, capped at 2%/yr increases) plus voter-approved local bonds/Mello-Roos \u2014 the rate that applies to a NEW purchase differs sharply from median-effective-rate estimates that are skewed low by longtime owners' suppressed assessments; the figure below is the new-buyer combined rate, not the county-wide median effective rate often cited in aggregator tools [Tier 2|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "gainesville-fl",
+    "city": "Gainesville",
+    "state_ref": "florida",
+    "residency_context": {
+      "host_for": [
+        "uf_gainesville_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "uf_gainesville_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "financial": {
+      "cost_of_living_index": "null \u2014 Gainesville did not have a C2ER annual composite score for 2024; explicitly confirmed absent by a Tier 1 government-economic-development source (oevforbusiness.org, citing C2ER directly) rather than merely unfound [Tier 1|cross_verified:false|unverified|2026-09-13]",
+      "median_rent_1br": "$1,246 (HUD FY2026 official Fair Market Rent for Gainesville, FL HMFA, Alachua/Gilchrist counties) [Tier 1|cross_verified:false|single-source|2026-09-13]",
+      "median_rent_2br": "$1,493 (HUD FY2026 official Fair Market Rent for Gainesville, FL HMFA) [Tier 1|cross_verified:false|single-source|2026-09-13]",
+      "state_income_tax_rate": "0% (no state individual income tax) [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "property_tax_rate": "Effective ~1.12% of market value with homestead exemption applied for City of Gainesville proper (Alachua County + city millage combined, per movewithmomentum.com's parcel-level breakdown); cross-verified against Alachua County's broader effective-rate range of 0.92-1.05% cited across independent sources (county-wide figures are lower since they include lower-millage unincorporated areas) [Tier 2|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "galveston-tx",
+    "city": "Galveston",
+    "state_ref": "texas",
+    "residency_context": {
+      "host_for": [
+        "utmb_galveston_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "utmb_galveston_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "financial": {
+      "cost_of_living_index": "C2ER composite 101 (2023 data, released Jan 2024, AreaVibes, explicitly sourced to C2ER, full sub-index breakdown); directionally cross-checked against a second C2ER-attributed figure of 93.9% from Flyhomes (same 'near-average' band, values not identical) [Tier 2|cross_verified:true|single-source|2026-09-13]",
+      "median_rent_1br": "$1,323 (Galveston Housing Authority, official FY2026 HUD FMR, ghatx.org); cross-verified against RentCafe ($1,172, Dec 2025) \u2014 GHA figure is the local housing authority's own published HUD data, taken as primary [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "median_rent_2br": "$1,573 (Galveston Housing Authority, official FY2026 HUD FMR); cross-verified against RentCafe ($1,506, Dec 2025) [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "state_income_tax_rate": "0% (no state individual income tax) [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "property_tax_rate": "Combined effective rate ~1.58% of assessed value (Galveston County, per independent Texas county-by-county property tax comparison; median home value ~$335,000 basis) [Tier 2|cross_verified:false|single-source|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "germantown-tn",
+    "city": "Germantown",
+    "state_ref": "tennessee",
+    "residency_context": {
+      "host_for": [],
+      "suburb_for": [
+        {
+          "residency_id": "uthsc_memphis_neurology",
+          "host_city_ref": "memphis-tn",
+          "distance_mi": 15,
+          "drive_time_offpeak_min": 22,
+          "drive_time_rush_min": 32
+        }
+      ],
+      "research_target_for": [
+        {
+          "residency_id": "uthsc_memphis_neurology",
+          "swapped_from_host": true,
+          "swapped_from_host_ref": "memphis-tn",
+          "note": "Memphis has the highest violent crime rate of any large US city per FBI data. Swapped to Germantown, an affluent Memphis suburb with violent crime roughly 85-90% below the national average."
+        }
+      ]
+    },
+    "financial": {
+      "cost_of_living_index": null,
+      "median_rent_1br": "$1,632 (RentCafe, Nov 2025, Germantown TN/Shelby County specific \u2014 jurisdiction trap avoided: a same-named 'Germantown, Nashville, TN' neighborhood also surfaces in searches and is NOT this city); cross-verified against apartmentfinder.com ($1,748) [Tier 2|cross_verified:true]",
+      "median_rent_2br": "$2,148 (RentCafe, Nov 2025, Germantown TN/Shelby County specific); cross-verified against apartmentfinder.com ($1,980) [Tier 2|cross_verified:true]",
+      "state_income_tax_rate": "0% (no state individual income tax) [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "property_tax_rate": "1.12% effective rate of market value (Shelby County $2.702382 + City of Germantown $1.79 = $4.4924 per $100 of assessed value, applied to Tennessee's statutory 25% residential assessment ratio; both rates confirmed via a detailed local realtor guide citing the FY26 Germantown budget and current Shelby County rate) [Tier 2|cross_verified:false|single-source|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "greenville-nc",
+    "city": "Greenville",
+    "state_ref": "north-carolina",
+    "residency_context": {
+      "host_for": [
+        "ecu_health_brody_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "ecu_health_brody_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "financial": {
+      "cost_of_living_index": null,
+      "median_rent_1br": "$1,034 (RentCafe, Mar 2026); single reliable source \u2014 other aggregators (Zumper, rent.com) return noisier/inconsistent figures; jurisdiction trap avoided by requiring explicit NC tag (Greenville SC surfaces frequently in searches) [Tier 2|cross_verified:false|single-source|2026-09-13]",
+      "median_rent_2br": "$1,250 (RentCafe, Mar 2026); same single-source caveat as 1BR [Tier 2|cross_verified:false|single-source|2026-09-13]",
+      "state_income_tax_rate": "3.99% flat [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "property_tax_rate": "~0.962% of assessed value (Pitt County $0.5663 + City of Greenville $0.3954 = $0.9617 per $100, current rate confirmed directly via Pitt County's own government site pittcountync.gov) [Tier 1|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "honolulu-hi",
+    "city": "Honolulu",
+    "state_ref": "hawaii",
+    "residency_context": {
+      "host_for": [
+        "hawaii_jabsom_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "hawaii_jabsom_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "financial": {
+      "cost_of_living_index": "C2ER composite 182.3 (Urban Honolulu HI Metro, Q1 2025; nat'l avg=100) - highest in the entire 39-city dataset; sub-indices: grocery 134.6, housing 292.1, utilities 207.0, transportation 143.1, healthcare 125.9, misc 124.7 [Tier 2|cross_verified:false|single-source|2026-09-13]",
+      "median_rent_1br": "$2,340 (RentCafe, Jun 2026); single reliable source this batch [Tier 2|cross_verified:false|single-source]",
+      "median_rent_2br": "$2,563 (RentCafe, Jun 2026); single reliable source this batch [Tier 2|cross_verified:false|single-source]",
+      "state_income_tax_rate": "1.4%-11% progressive (12 brackets); depends on income [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "property_tax_rate": "0.35% of net taxable value for owner-occupied residential property with home exemption ($3.50 per $1,000, City and County of Honolulu, FY2025-26 rate schedule; confirmed directly via the City and County of Honolulu's own official real property tax rate publication, realproperty.honolulu.gov) \u2014 VERIFY: non-owner-occupied residential property over $1,000,000 is classified 'Residential A' and taxed at a much higher tiered rate (0.40% up to $1M, 1.14% above $1M); Hawaii has the lowest effective property tax rates in the US [Tier 1|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "jacksonville-fl",
+    "city": "Jacksonville",
+    "state_ref": "florida",
+    "residency_context": {
+      "host_for": [
+        "mayo_jacksonville_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "mayo_jacksonville_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "financial": {
+      "cost_of_living_index": "C2ER composite 92.9 (2024 Annual Average, Tampa Bay EDC Research Dept., direct C2ER data) cross-verified against the same organization's Q1 2024 quarterly figure of 93.1 [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "median_rent_1br": "$1,382 (HUD FY2026 official Fair Market Rent for Jacksonville, FL HMFA, Clay/Duval/Nassau/St. Johns counties) [Tier 1|cross_verified:false|single-source|2026-09-13]",
+      "median_rent_2br": "$1,658 (HUD FY2026 official Fair Market Rent for Jacksonville, FL HMFA) [Tier 1|cross_verified:false|single-source|2026-09-13]",
+      "state_income_tax_rate": "0% (no state individual income tax) [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "property_tax_rate": "Combined city millage ~17.865 mills = 1.79% (Jacksonville/Duval County is a consolidated city-county government, so this figure already includes county-equivalent and city services in one levy) \u2014 VERIFY: broader Duval County effective-rate estimates from assessed-value studies run lower (0.77-0.96%), reflecting homestead exemptions and assessed-vs-market-value gaps rather than a data conflict [Tier 2|cross_verified:false|single-source|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "knoxville-tn",
+    "city": "Knoxville",
+    "state_ref": "tennessee",
+    "residency_context": {
+      "host_for": [
+        "utgsm_knoxville_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "utgsm_knoxville_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "financial": {
+      "cost_of_living_index": "C2ER composite 85.9 (Q1 2025; nat'l avg=100); sub-indices: grocery 97.6, housing 75.8, utilities 86.0, transportation 88.1, healthcare 77.9, misc 89.5 [Tier 2|cross_verified:false|single-source|2026-09-13]",
+      "median_rent_1br": "$1,418 (RentCafe, Aug 2026); single reliable source this batch [Tier 2|cross_verified:false|single-source]",
+      "median_rent_2br": "$1,639 (RentCafe, Aug 2026); single reliable source this batch [Tier 2|cross_verified:false|single-source]",
+      "state_income_tax_rate": "0% (no state individual income tax) [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "property_tax_rate": "~1.07% effective rate of market value (City of Knoxville $2.1556 per $100, confirmed via 2025-26 budget news coverage + Knox County $2.12 per $100, applied to TN's 25% assessment ratio) \u2014 VERIFY: an older/alternate city rate of $2.4638 also appears in some sources (knoxvilledemographics.com), which would put the effective rate closer to 1.19%; the $2.1556 figure is the more recently confirmed one [Tier 2|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "los-angeles-ca",
+    "city": "Los Angeles",
+    "state_ref": "california",
+    "residency_context": {
+      "host_for": [
+        "ucla_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "ucla_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "financial": {
+      "cost_of_living_index": "C2ER composite 150.2 (Q1 2025; nat'l avg=100); sub-indices: grocery 109.0, housing 231.9, utilities 107.6, transportation 138.8, healthcare 97.8, misc 121.6 [Tier 2|cross_verified:false|single-source|2026-09-13]",
+      "median_rent_1br": "$2,547 (RentCafe, Aug 2026)",
+      "median_rent_2br": "$3,364 (RentCafe, Aug 2026)",
+      "state_income_tax_rate": "1%-12.3% progressive (13.3% effective top with surcharge); depends on income [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "property_tax_rate": "~1.16-1.25% combined rate for a new purchase (1% Prop 13 base + LA County voter-approved bonds/assessments, per multiple independent 2025-26 sources) \u2014 California's Prop 13 base is 1% of assessed value (acquisition-value based, capped at 2%/yr increases) plus voter-approved local bonds/Mello-Roos \u2014 the rate that applies to a NEW purchase differs sharply from median-effective-rate estimates that are skewed low by longtime owners' suppressed assessments; the figure below is the new-buyer combined rate, not the county-wide median effective rate often cited in aggregator tools [Tier 2|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "miami-fl",
+    "city": "Miami",
+    "state_ref": "florida",
+    "residency_context": {
+      "host_for": [
+        "umiami_jackson_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "umiami_jackson_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "financial": {
+      "cost_of_living_index": "C2ER composite 120.8 (Miami-Dade County, 2024 Annual Average, Tampa Bay EDC Research Dept., direct C2ER data) [Tier 1|cross_verified:false|single-source|2026-09-13]",
+      "median_rent_1br": "$1,995 (HUD FY2026 official Fair Market Rent for Miami-Miami Beach-Kendall, FL HMFA, Miami-Dade County) [Tier 1|cross_verified:false|single-source|2026-09-13]",
+      "median_rent_2br": "$2,436 (HUD FY2026 official Fair Market Rent for Miami-Miami Beach-Kendall, FL HMFA) [Tier 1|cross_verified:false|single-source|2026-09-13]",
+      "state_income_tax_rate": "0% (no state individual income tax) [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "property_tax_rate": "Combined City of Miami millage ~20.0-20.8 mills = ~2.0-2.1% of taxable value (city + Miami-Dade County + school board + special districts, per multiple independent 2025-26 breakdowns) \u2014 VERIFY: a direct read of the Miami-Dade Property Appraiser's own 2025 proposed millage comparison PDF summed to a higher ~23.6 mills, which likely double-counts a debt-service or voted component already folded into another line; the 20-20.8 range is used as the more consistently cross-verified figure [Tier 2|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "nashville-tn",
+    "city": "Nashville",
+    "state_ref": "tennessee",
+    "residency_context": {
+      "host_for": [
+        "vanderbilt_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "vanderbilt_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "financial": {
+      "cost_of_living_index": "C2ER composite 97.0 (Nashville-Murfreesboro TN, Q1 2025; nat'l avg=100); sub-indices: grocery 99.8, housing 99.3, utilities 94.5, transportation 91.9, healthcare 88.4, misc 96.9 [Tier 2|cross_verified:false|single-source|2026-09-13]",
+      "median_rent_1br": "$1,674 (RentCafe, Aug 2026); single reliable source this batch [Tier 2|cross_verified:false|single-source]",
+      "median_rent_2br": "$2,046 (RentCafe, Aug 2026); single reliable source this batch [Tier 2|cross_verified:false|single-source]",
+      "state_income_tax_rate": "0% (no state individual income tax) [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "property_tax_rate": "~0.82% effective rate of market value (Davidson County Urban Services District combined rate ~$3.288 per $100 of assessed value, applied to TN's 25% assessment ratio) \u2014 most Nashville residents fall in the USD; General Services District areas run slightly lower at ~0.73% effective [Tier 2|cross_verified:false|single-source|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "oklahoma-city-ok",
+    "city": "Oklahoma City",
+    "state_ref": "oklahoma",
+    "residency_context": {
+      "host_for": [
+        "ou_health_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "ou_health_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "financial": {
+      "cost_of_living_index": "C2ER composite 81.0 (Q1 2025; nat'l avg=100); sub-indices: grocery 94.7, housing 58.5, utilities 96.7, transportation 84.7, healthcare 99.9, misc 86.2 [Tier 2|cross_verified:false|single-source|2026-09-13]",
+      "median_rent_1br": "$959 (RentCafe, Aug 2026); cross-verified against Zumper ($879) and Apartment List ($901) \u2014 tight cluster [Tier 2|cross_verified:true]",
+      "median_rent_2br": "$1,132 (RentCafe, Aug 2026); cross-verified against Zumper ($1,099) and Apartment List ($1,117) [Tier 2|cross_verified:true]",
+      "state_income_tax_rate": "0%-4.5% progressive; depends on income [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "property_tax_rate": "~0.90-0.94% effective rate of market value per most independent aggregators (Ownwell, SmartAsset), based on Oklahoma's 10-15%-of-market assessment ratio \u2014 VERIFY: a parcel-level record from the Oklahoma County Assessor's own site (via PropertyShark) computed to a notably higher ~1.3% when translated to market-value terms, matching a separate independent citation of 1.31%; the discrepancy likely reflects homestead exemptions and the 5%/yr assessment growth cap suppressing the county-wide median relative to a full-stack computation on a specific parcel [Tier 2|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "palo-alto-ca",
+    "city": "Palo Alto",
+    "state_ref": "california",
+    "residency_context": {
+      "host_for": [
+        "stanford_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "stanford_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "financial": {
+      "cost_of_living_index": null,
+      "median_rent_1br": "$3,252 (RentCafe, Aug 2026); cross-verified against rent.com ($3,150) [Tier 2|cross_verified:true]",
+      "median_rent_2br": "$4,206 (RentCafe, Aug 2026); cross-verified against rent.com ($3,765) [Tier 2|cross_verified:true]",
+      "state_income_tax_rate": "1%-12.3% progressive (13.3% effective top with surcharge); depends on income [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "property_tax_rate": "1.22% median effective rate (Ownwell, drawn from actual Santa Clara County property records) \u2014 cross-verified against Santa Clara County's own official FY2025-26 Tax Rate Book confirming the 1% base levy structure for Palo Alto tax rate areas; California's Prop 13 base is 1% of assessed value (acquisition-value based, capped at 2%/yr increases) plus voter-approved local bonds/Mello-Roos \u2014 the rate that applies to a NEW purchase differs sharply from median-effective-rate estimates that are skewed low by longtime owners' suppressed assessments; the figure below is the new-buyer combined rate, not the county-wide median effective rate often cited in aggregator tools \u2014 note the wide spread in online estimators (0.50% to 1.22%) for this exact city is a real artifact of that methodology gap, not a data error [Tier 1|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "phoenix-az",
+    "city": "Phoenix",
+    "state_ref": "arizona",
+    "residency_context": {
+      "host_for": [
+        "barrow_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "barrow_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "financial": {
+      "cost_of_living_index": "C2ER composite 106.8 (Q1 2025; nat'l avg=100); sub-indices: grocery 103.4, housing 114.4, utilities 109.4, transportation 104.1, healthcare 104.9, misc 102.4 [Tier 2|cross_verified:false|single-source|2026-09-13]",
+      "median_rent_1br": "$1,349 (RentCafe, Aug 2026); cross-verified against Zumper ($1,175) and average-rent.com ($1,427) \u2014 reasonably tight cluster [Tier 2|cross_verified:true]",
+      "median_rent_2br": "$1,647 (RentCafe, Aug 2026); cross-verified against Zumper ($1,495) and average-rent.com ($1,581) [Tier 2|cross_verified:true]",
+      "state_income_tax_rate": "2.5% flat [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "property_tax_rate": "~0.48-0.52% effective rate of market value (Maricopa County; Arizona uses a 10% residential assessment ratio with a 5% annual Limited Property Value growth cap, keeping effective rates well below the national average) \u2014 cross-verified across multiple independent sources converging tightly on this range [Tier 2|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "portland-or",
+    "city": "Portland",
+    "state_ref": "oregon",
+    "residency_context": {
+      "host_for": [
+        "ohsu_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "ohsu_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "financial": {
+      "cost_of_living_index": "C2ER composite 117.0 (Q1 2025; nat'l avg=100); sub-indices: grocery 106.1, housing 140.0, utilities 96.1, transportation 124.0, healthcare 122.6, misc 105.3 [Tier 2|cross_verified:false|single-source|2026-09-13]",
+      "median_rent_1br": "$1,621 (RentCafe, Aug 2026); single reliable source this batch [Tier 2|cross_verified:false|single-source]",
+      "median_rent_2br": "$1,963 (RentCafe, Aug 2026); single reliable source this batch [Tier 2|cross_verified:false|single-source]",
+      "state_income_tax_rate": "4.75%-9.9% progressive + Portland-specific local SHS/PFA taxes; depends on income [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "property_tax_rate": "~1.10-1.25% effective rate of real market value \u2014 VERIFY/NOTE: Portland's NOMINAL combined rate is much higher (~$22 per $1,000 = 2.2%, per Multnomah County's own official FY2025-26 levy code rate table, multco.us) because Oregon's Measure 50 taxes a capped 'Maximum Assessed Value' that has grown far more slowly than real market value since 1996 \u2014 this is the same Portland-specific local tax layering (Metro SHS + Multnomah PFA taxes) already flagged in this dataset's law field; newer homes lose more of this cap benefit and can face effective rates ~40% higher than older homes at the same market value [Tier 2|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "providence-ri",
+    "city": "Providence",
+    "state_ref": "rhode-island",
+    "residency_context": {
+      "host_for": [
+        "brown_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "brown_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "financial": {
+      "cost_of_living_index": "C2ER composite 109.3 (Q1 2025; nat'l avg=100); sub-indices: grocery 99.0, housing 111.1, utilities 137.5, transportation 96.7, healthcare 100.4, misc 110.0 [Tier 2|cross_verified:false|single-source|2026-09-13]",
+      "median_rent_1br": "$2,264 (RentCafe, Jun 2026); cross-verified against Rentometer ($1,888) and Zumper ($1,800) \u2014 RentCafe notably higher but same order of magnitude, genuine spread [Tier 2|cross_verified:true]",
+      "median_rent_2br": "$2,791 (RentCafe, Jun 2026); cross-verified against Rentometer ($2,388) and Zumper ($2,200) \u2014 same spread pattern as 1BR [Tier 2|cross_verified:true]",
+      "state_income_tax_rate": "3.75%-5.99% progressive; depends on income [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "property_tax_rate": "1.046% effective rate for owner-occupied/homestead property ($10.46 per $1,000 of assessed value, per the City of Providence's own FY2025 approved municipal ordinance) \u2014 VERIFY: the non-owner-occupied rate is far higher at 1.835% ($18.35/$1,000); cross-verified against Providence County's broader effective-rate estimates of 1.09-1.25% from independent sources, which likely blend owner- and non-owner-occupied rates [Tier 1|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "richmond-va",
+    "city": "Richmond",
+    "state_ref": "virginia",
+    "residency_context": {
+      "host_for": [
+        "vcu_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "vcu_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "financial": {
+      "cost_of_living_index": "C2ER composite 94.7 (Q1 2025; nat'l avg=100); sub-indices: grocery 98.4, housing 84.1, utilities 96.3, transportation 97.0, healthcare 89.9, misc 101.6 [Tier 2|cross_verified:false|single-source|2026-09-13]",
+      "median_rent_1br": "$1,497 (RentCafe, Aug 2026); single reliable source this batch [Tier 2|cross_verified:false|single-source|2026-09-13]",
+      "median_rent_2br": "$1,687 (RentCafe, Aug 2026); single reliable source this batch [Tier 2|cross_verified:false|single-source|2026-09-13]",
+      "state_income_tax_rate": "2%-5.75% progressive, effective rate depends on income [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "property_tax_rate": "1.20% of assessed value ($1.200 per $100, TY2025, per Virginia Department of Taxation's own official Local Tax Rates Survey \u2014 Richmond is an independent city); cross-verified against propertytaxpeek.com's independently-computed effective rate of 0.89%, which is notably lower \u2014 likely reflecting actual median assessed-value-to-sale-price ratios rather than the nominal statutory rate, a real methodological gap worth flagging rather than averaging [Tier 1|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "roanoke-va",
+    "city": "Roanoke",
+    "state_ref": "virginia",
+    "residency_context": {
+      "host_for": [
+        "carilion_vtc_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "carilion_vtc_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "financial": {
+      "cost_of_living_index": "C2ER composite 92.7 (Q1 2025; nat'l avg=100); sub-indices: grocery 98.4, housing 77.6, utilities 115.8, transportation 95.5, healthcare 101.3, misc 95.0 [Tier 2|cross_verified:false|single-source|2026-09-13]",
+      "median_rent_1br": "$1,189 (RentCafe, Mar 2026, Roanoke City-specific page \u2014 VA's independent-city structure means Roanoke City \u2260 Roanoke County); cross-verified against Rentometer apartment-type data ($1,180) [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "median_rent_2br": "$1,309 (RentCafe, Mar 2026, Roanoke City-specific); cross-verified against Rentometer ($1,306) [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "state_income_tax_rate": "2%-5.75% progressive, effective rate depends on income [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "property_tax_rate": "1.22% of assessed value ($1.220 per $100, TY2025, per Virginia Department of Taxation's own official Local Tax Rates Survey \u2014 Roanoke is an independent city, distinct from the separate Roanoke County which borders it) [Tier 1|cross_verified:false|single-source|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "salisbury-md",
+    "city": "Salisbury",
+    "state_ref": "maryland",
+    "residency_context": {
+      "host_for": [
+        "tidalhealth_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "tidalhealth_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "financial": {
+      "cost_of_living_index": null,
+      "median_rent_1br": "$1,268 (Rentometer, current period \u2014 Salisbury MD specifically, not a proxy; RentCafe's own Salisbury MD page returns 'n/a' for bedroom breakdown) [Tier 2|cross_verified:false|single-source]",
+      "median_rent_2br": "$1,565 (Rentometer, current period \u2014 Salisbury MD specifically) [Tier 2|cross_verified:false|single-source]",
+      "state_income_tax_rate": "2%-6.5% state + 3.20% Wicomico County local = up to ~9.7% combined at top bracket; depends on income [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "property_tax_rate": "0.959% combined effective rate of assessed value (Wicomico County local rate $0.8468/$100, FY2025, per Maryland Department of Legislative Services' own official county tax rate table + Maryland state rate $0.112/$100); cross-verified against independent aggregator estimates of 0.76-0.85% effective (SmartAsset, propertytaxbystate.com), which are somewhat lower, likely reflecting homestead credits not captured in the nominal rate [Tier 1|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "salt-lake-city-ut",
+    "city": "Salt Lake City",
+    "state_ref": "utah",
+    "residency_context": {
+      "host_for": [
+        "univ_utah_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "univ_utah_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "financial": {
+      "cost_of_living_index": "C2ER composite 105.8 (Q1 2025; nat'l avg=100); sub-indices: grocery 98.6, housing 120.5, utilities 90.9, transportation 106.7, healthcare 91.2, misc 102.4 [Tier 2|cross_verified:false|single-source|2026-09-13]",
+      "median_rent_1br": "$1,429 (RentCafe, Jun 2026); cross-verified against Zumper ($1,200-1,210) \u2014 RentCafe somewhat higher but consistent direction [Tier 2|cross_verified:true]",
+      "median_rent_2br": "$1,786 (RentCafe, Jun 2026); cross-verified against Zumper ($1,550-1,650) [Tier 2|cross_verified:true]",
+      "state_income_tax_rate": "4.55% flat [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "property_tax_rate": "~0.89-0.98% effective rate of market value, per a detailed breakdown citing Utah State Tax Commission data \u2014 Utah assesses primary residences at 100% of fair market value but applies a 45% residential exemption, making the effective taxable base only 55% of market value before the nominal composite rate (currently ~1.62-1.78/100, i.e. 1.62%-1.78% of taxable value) is applied \u2014 VERIFY: several independent aggregators (Ownwell, SmartAsset) cite a notably lower county-wide median effective rate of 0.51-0.57%, which may already reflect additional exemptions/caps not captured in the state-commission-sourced figure; both are directionally consistent with Utah being a low-property-tax state [Tier 1|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "san-diego-ca",
+    "city": "San Diego",
+    "state_ref": "california",
+    "residency_context": {
+      "host_for": [
+        "ucsd_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "ucsd_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "financial": {
+      "cost_of_living_index": "C2ER composite 146.3 (Q1 2025; nat'l avg=100); sub-indices: grocery 111.7, housing 210.3, utilities 148.8, transportation 143.1, healthcare 99.3, misc 115.7 [Tier 2|cross_verified:false|single-source|2026-09-13]",
+      "median_rent_1br": "$2,704 (RentCafe, Aug 2026)",
+      "median_rent_2br": "$3,323 (RentCafe, Aug 2026)",
+      "state_income_tax_rate": "1%-12.3% progressive (13.3% effective top with surcharge); depends on income [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "property_tax_rate": "~1.10-1.25% combined rate for a new purchase (1% Prop 13 base + San Diego County bonds/assessments, per multiple independent sources) \u2014 California's Prop 13 base is 1% of assessed value (acquisition-value based, capped at 2%/yr increases) plus voter-approved local bonds/Mello-Roos \u2014 the rate that applies to a NEW purchase differs sharply from median-effective-rate estimates that are skewed low by longtime owners' suppressed assessments; the figure below is the new-buyer combined rate, not the county-wide median effective rate often cited in aggregator tools [Tier 2|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "san-francisco-ca",
+    "city": "San Francisco",
+    "state_ref": "california",
+    "residency_context": {
+      "host_for": [
+        "ucsf_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "ucsf_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "financial": {
+      "cost_of_living_index": "C2ER composite 160.3 (Q1 2025; nat'l avg=100); sub-indices: grocery 114.9, housing 251.4, utilities 152.7, transportation 140.9, healthcare 125.1, misc 117.2 [Tier 2|cross_verified:false|single-source|2026-09-13]",
+      "median_rent_1br": "$3,024\u2013$3,668 depending on month (RentCafe, range across 2026 snapshots) \u2014 VERIFY: genuinely volatile/noisy market, figures moved substantially month to month even within the same year; Apartment List reports much higher ($4,295) for the same period, a real methodological spread rather than a data error",
+      "median_rent_2br": "$3,703\u2013$4,808 depending on month (RentCafe, range across 2026 snapshots) \u2014 same volatility caveat as 1BR; Apartment List reports $6,500 for the same period",
+      "state_income_tax_rate": "1%-12.3% progressive (13.3% effective top with surcharge); depends on income [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "property_tax_rate": "~1.18-1.20% combined rate for a new purchase (1% Prop 13 base + San Francisco County/city voter-approved bonds, per multiple independent sources) \u2014 California's Prop 13 base is 1% of assessed value (acquisition-value based, capped at 2%/yr increases) plus voter-approved local bonds/Mello-Roos \u2014 the rate that applies to a NEW purchase differs sharply from median-effective-rate estimates that are skewed low by longtime owners' suppressed assessments; the figure below is the new-buyer combined rate, not the county-wide median effective rate often cited in aggregator tools [Tier 2|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "scottsdale-az",
+    "city": "Scottsdale",
+    "state_ref": "arizona",
+    "residency_context": {
+      "host_for": [
+        "mayo_scottsdale_phoenix_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "mayo_scottsdale_phoenix_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "financial": {
+      "cost_of_living_index": null,
+      "median_rent_1br": "$1,828 (RentCafe, Jul 2026); single reliable source this batch [Tier 2|cross_verified:false|single-source]",
+      "median_rent_2br": "$2,245 (RentCafe, Jul 2026); single reliable source this batch [Tier 2|cross_verified:false|single-source]",
+      "state_income_tax_rate": "2.5% flat [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "property_tax_rate": "~0.47-0.55% effective rate of market value; confirmed via the City of Scottsdale's own official FY2025-26 published rate schedule (combined city primary + secondary rate $0.9124/$100 of assessed value for FY2025-26, city portion is only ~15% of the total bill) \u2014 cross-verified against independent aggregator estimates in the same range [Tier 1|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "seattle-wa",
+    "city": "Seattle",
+    "state_ref": "washington",
+    "residency_context": {
+      "host_for": [
+        "uw_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "uw_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "financial": {
+      "cost_of_living_index": "C2ER composite 142.1 (Q1 2025; nat'l avg=100); sub-indices: grocery 111.9, housing 198.7, utilities 102.2, transportation 136.1, healthcare 124.7, misc 122.6 [Tier 2|cross_verified:false|single-source|2026-09-13]",
+      "median_rent_1br": "$2,217 (RentCafe, Aug 2026); consistent with RentCafe's own earlier 2026 snapshot (May: $2,194) [Tier 2|cross_verified:true]",
+      "median_rent_2br": "$2,878 (RentCafe, Aug 2026); consistent with RentCafe's own earlier 2026 snapshot (May: $2,862) [Tier 2|cross_verified:true]",
+      "state_income_tax_rate": "0% currently (see VERIFY note in law field re: 2028 SB 6346) [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "property_tax_rate": "~0.85-0.95% effective rate of assessed value (King County); a specific PropertyShark-sourced 2025 King County parcel record showed a total levy rate of 9.1942 per $1,000 = 0.919%, consistent with the broader independently-cited range [Tier 2|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "tacoma-wa",
+    "city": "Tacoma",
+    "state_ref": "washington",
+    "residency_context": {
+      "host_for": [
+        "madigan_army_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "madigan_army_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "financial": {
+      "cost_of_living_index": null,
+      "median_rent_1br": "$1,644 (RentCafe, Aug 2026); single reliable source this batch [Tier 2|cross_verified:false|single-source]",
+      "median_rent_2br": "$1,930 (RentCafe, Aug 2026); single reliable source this batch [Tier 2|cross_verified:false|single-source]",
+      "state_income_tax_rate": "0% currently (see VERIFY note in law field re: 2028 SB 6346) [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "property_tax_rate": "~1.0-1.15% effective rate of assessed value (Pierce County), converging around 1.05-1.06% across multiple independent sources \u2014 Pierce County consistently runs the highest of the three major Puget Sound counties (King, Snohomish, Pierce) [Tier 2|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "tampa-fl",
+    "city": "Tampa",
+    "state_ref": "florida",
+    "residency_context": {
+      "host_for": [
+        "usf_morsani_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "usf_morsani_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "financial": {
+      "cost_of_living_index": "C2ER composite 97.6 (2024 Annual Average, Tampa Bay EDC Research Dept., direct C2ER data) cross-verified against the same organization's Q1 2024 quarterly figure of 97.7 [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "median_rent_1br": "$1,696 (HUD FY2026 official Fair Market Rent for Tampa-St.Petersburg-Clearwater, FL MSA) [Tier 1|cross_verified:false|single-source|2026-09-13]",
+      "median_rent_2br": "$1,977 (HUD FY2026 official Fair Market Rent for Tampa-St.Petersburg-Clearwater, FL MSA) [Tier 1|cross_verified:false|single-source|2026-09-13]",
+      "state_income_tax_rate": "0% (no state individual income tax) [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "property_tax_rate": "Combined City of Tampa millage ~19.7-19.8 mills = ~1.97-1.98% of taxable value (City of Tampa 6.2076 mills confirmed via Florida Department of Revenue's own PTO Data Portal, combined with Hillsborough County + school board mills); cross-verified across three independent sources citing the same city-specific total [Tier 1|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "winston-salem-nc",
+    "city": "Winston-Salem",
+    "state_ref": "north-carolina",
+    "residency_context": {
+      "host_for": [
+        "wake_forest_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "wake_forest_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "financial": {
+      "cost_of_living_index": "C2ER composite 89.5 (Q1 2025; nat'l avg=100); sub-indices: grocery 96.6, housing 72.7, utilities 94.8, transportation 90.4, healthcare 106.7, misc 96.3 [Tier 2|cross_verified:false|single-source|2026-09-13]",
+      "median_rent_1br": "$1,162 (RentCafe, Jun 2026); single reliable source \u2014 rent.com's figure is internally inconsistent (1BR priced higher than 2BR, likely data error) and excluded [Tier 2|cross_verified:false|single-source|2026-09-13]",
+      "median_rent_2br": "$1,302 (RentCafe, Jun 2026); same single-source caveat as 1BR [Tier 2|cross_verified:false|single-source|2026-09-13]",
+      "state_income_tax_rate": "3.99% flat [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "property_tax_rate": "1.121% of assessed value (Forsyth County $0.554 + City of Winston-Salem $0.567 = $1.121 per $100, FY2025-26, confirmed via official City of Winston-Salem budget FAQ and Forsyth County government announcements) \u2014 VERIFY: cross-verified against Ownwell's independently-computed effective rate of 1.34%, which is higher, likely reflecting post-revaluation assessed-value adjustments not captured in the nominal rate alone [Tier 1|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "woodbridge-ct",
+    "city": "Woodbridge",
+    "state_ref": "connecticut",
+    "residency_context": {
+      "host_for": [],
+      "suburb_for": [
+        {
+          "residency_id": "yale_neurology",
+          "host_city_ref": "new-haven-ct",
+          "distance_mi": 8,
+          "drive_time_offpeak_min": 15,
+          "drive_time_rush_min": 22
+        }
+      ],
+      "research_target_for": [
+        {
+          "residency_id": "yale_neurology",
+          "swapped_from_host": true,
+          "swapped_from_host_ref": "new-haven-ct",
+          "note": "New Haven's citywide crime rate runs well above the national average, and the Hill neighborhood around Yale-New Haven Hospital shows above-average violent crime in local data. Swapped to Woodbridge, one of the lowest-crime towns in Connecticut."
+        }
+      ]
+    },
+    "financial": {
+      "cost_of_living_index": null,
+      "median_rent_1br": "$1,696 (apartmenthomeliving.com listings aggregator) cross-verified against a second page from the same aggregator ($1,683) \u2014 no RentCafe city-level breakdown exists (returns 'n/a'); genuinely thin small-town rental market with few listings [Tier 3|cross_verified:true|low-confidence]",
+      "median_rent_2br": "$2,082 (apartmenthomeliving.com) cross-verified against a second page from the same aggregator ($2,066) \u2014 same thin-market caveat as 1BR [Tier 3|cross_verified:true|low-confidence]",
+      "state_income_tax_rate": "2%-6.99% progressive; no local income tax; depends on income [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "property_tax_rate": "2.379% effective rate of market value (mill rate 33.99 for the 2025 Grand List, per the Town of Woodbridge's own official Assessor page; same 70% statewide assessment ratio applies) \u2014 VERIFY: this is notably higher than Farmington's rate and above the CT statewide average mill rate (~28.22), consistent with Woodbridge being a small, low-commercial-tax-base town that leans more heavily on residential property tax [Tier 1|cross_verified:false|single-source|2026-09-13]"
+    }
+  }
+]
