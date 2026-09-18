@@ -1,1 +1,972 @@
-[{"city_ref":"atlanta-ga","city":"Atlanta","state_ref":"georgia","residency_context":{"host_for":["emory_neurology","morehouse_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"emory_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null},{"residency_id":"morehouse_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"geography":{"disaster_risk":"FEMA NRI v1.20 composite 95.8, county rating 'Relatively High' (Fulton County; #2 of 159 GA counties) - top hazards flood 97.7, tornado 97.0, earthquake 96.0 [Tier 2|cross_verified:true|verified|2026-09-13]. NOTE: one uncited/undated aggregator (citydirectory.us) shows an older-looking 'Relatively Moderate' label for the same county - treated as stale/lower-confidence, not used.","terrain_summary":"Piedmont plateau, rolling hills, ~320 m (1,050 ft) avg elevation - highest major city in the SE US east of the Rockies; elevation range ~225-380 m within city limits; sits on the Eastern Continental Divide [Tier 2|cross_verified:true|verified|2026-09-13]","seasons":"Humid subtropical (Köppen Cfa); hot humid summers (Jul avg high ~89°F) moderated a few degrees by elevation vs. coastal GA, mild winters (Jan avg ~43-51°F), occasional ice/snow Dec-Mar; ~1,270mm/50in annual precip, fairly even year-round [Tier 2|cross_verified:true|verified|2026-09-13]"}},{"city_ref":"augusta-ga","city":"Augusta","state_ref":"georgia","residency_context":{"host_for":["mcg_augusta_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"mcg_augusta_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"geography":{"disaster_risk":"FEMA NRI v1.20 (hazards.fema.gov direct report) composite score 88.7, county rating 'Relatively Moderate' (Richmond County; 95th percentile within GA) - top hazards: ice storm 99.0 (Very High), strong wind 98.5 (Very High), tornado 94.9 (Relatively High) [Tier 1|cross_verified:false|verified|2026-09-13]","terrain_summary":"Fall Line city on the Savannah River, transition zone between Piedmont and Coastal Plain; downtown ~148 ft (45 m) elevation, notably lower than Atlanta (~900 ft lower); county elevation range 82-591 ft [Tier 1|cross_verified:true|verified|2026-09-13]","seasons":"Humid subtropical (Köppen Cfa); very hot humid summers (record high 108°F), short mild winters (record low -1°F), less snow than Atlanta due to lower elevation [Tier 2|cross_verified:true|verified|2026-09-13]"}},{"city_ref":"aurora-co","city":"Aurora","state_ref":"colorado","residency_context":{"host_for":["univ_colorado_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"univ_colorado_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"geography":{"disaster_risk":"FEMA NRI v1.20: Arapahoe County 93.8 'Relatively Moderate' (#4 of 64 CO counties); NOTE: Aurora also spans Adams County (91.2, Relatively Moderate) and a small Douglas County portion - both bracket the same 'Relatively Moderate' tier so the multi-county split doesn't change the practical answer this time [Tier 2|cross_verified:true|verified|2026-09-13]","terrain_summary":"High Plains/Colorado Piedmont, transition zone between the Great Plains and Front Range foothills; city elevation ~5,404-5,472 ft; relatively flat to the east, foothills visible to the west [Tier 2|cross_verified:true|verified|2026-09-13]","seasons":"Semi-arid/steppe (Köppen BSk per most sources, though one dataset tags Cfa) - high-altitude, low humidity, ~246 sunny days/yr; hot dry summers (avg high ~85°F), cold snowy winters (avg low ~16°F), ~55in snow/yr, large day-to-night temperature swings [Tier 2|cross_verified:true|verified|2026-09-13]"}},{"city_ref":"austin-tx","city":"Austin","state_ref":"texas","residency_context":{"host_for":["dellmed_utaustin_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"dellmed_utaustin_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"geography":{"disaster_risk":"FEMA NRI v1.20 composite score 97.7 (Travis County) - tabulated among Texas's higher-risk counties; VERIFY: exact county rating tier (Very High vs. Relatively High cutoff) not independently confirmed against a second source this pass, though 97.7 sits at the Very High/Relatively High boundary per riskbycounty's published percentile bands [Tier 2|cross_verified:false|single-source|2026-09-13]","terrain_summary":"Straddles the Balcones Fault - flat Blackland Prairie/clay soils to the east, rolling Hill Country limestone terrain to the west; elevation 425-1,000 ft (130-305 m) across the city; western edge is a genuine wildland-urban interface (documented wildfire exposure, though overall city wildfire risk rated Low, 8/100) [Tier 2|cross_verified:true|verified|2026-09-13]","seasons":"Humid subtropical; hot summers, mild winters; sits at the northern edge of Hill Country climate transition [Tier 2|cross_verified:false|single-source|2026-09-13]"}},{"city_ref":"chapel-hill-nc","city":"Chapel Hill","state_ref":"north-carolina","residency_context":{"host_for":["unc_neurology"],"suburb_for":[{"residency_id":"duke_neurology","host_city_ref":"durham-nc","distance_mi":12,"drive_time_offpeak_min":18,"drive_time_rush_min":28}],"research_target_for":[{"residency_id":"unc_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"geography":{"disaster_risk":"null - Chapel Hill spans Orange/Durham/Chatham counties (same multi-county issue as its property_tax_rate field); Durham County itself is confirmed 'Relatively Moderate' (90th percentile) via riskbycounty.com, but no direct Orange County composite score/rating was found this batch, and a search for it risked the Orange-County-NC-vs-CA jurisdiction trap the source instructions specifically flagged - stopped rather than guess [Tier 3|cross_verified:false|unverified|2026-09-13]","terrain_summary":"Piedmont region - rolling hills, elevation ~219 ft (67m) [Tier 2|cross_verified:true|verified|2026-09-13]","seasons":"Humid subtropical (Köppen Cfa); hot summers (Jul avg high ~89°F), cool winters with strong seasonal contrast and occasional light snow (~2in Jan/Feb normal) [Tier 2|cross_verified:true|verified|2026-09-13]"}},{"city_ref":"charlottesville-va","city":"Charlottesville","state_ref":"virginia","residency_context":{"host_for":["uva_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"uva_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"geography":{"disaster_risk":"FEMA NRI (independent city, own reporting unit): 24th percentile nationally, rating 'Very Low' - lowest-risk city profile confirmed in this batch; top individual hazard is earthquake at 70.9 (moderate), flood only 33.3, wildfire negligible 0.3 [Tier 2|cross_verified:true|verified|2026-09-13]","terrain_summary":"Western Piedmont, in the Southwest Mountains range (parallel to and ~30mi east of the Blue Ridge); avg elevation ~453ft, range 292-876ft within city [Tier 2|cross_verified:true|verified|2026-09-13]","seasons":"Humid subtropical (Köppen Cfa); climate notably moderated by nearby Blue Ridge (15mi west) - warm but not oppressive summers (mid-80s°F, lower humidity than east-coast average), milder winters than areas at equal elevation further west since the mountains blunt Arctic outbreaks; widely described as one of the most climate-amenable spots on the mid-Atlantic [Tier 2|cross_verified:false|single-source|2026-09-13]"}},{"city_ref":"columbia-md","city":"Columbia","state_ref":"maryland","residency_context":{"host_for":[],"suburb_for":[{"residency_id":"johns_hopkins_neurology","host_city_ref":"baltimore-md","distance_mi":20,"drive_time_offpeak_min":28,"drive_time_rush_min":42},{"residency_id":"univ_maryland_neurology","host_city_ref":"baltimore-md","distance_mi":18,"drive_time_offpeak_min":25,"drive_time_rush_min":38}],"research_target_for":[{"residency_id":"johns_hopkins_neurology","swapped_from_host":true,"swapped_from_host_ref":"baltimore-md","note":"Baltimore's violent crime rate runs ~3-4x the national average, and the blocks immediately around Johns Hopkins Hospital in East Baltimore have a well-documented pattern of shootings and robberies (JHU security alerts, local news). Swapped to Columbia, MD, repeatedly ranked one of the safest cities in the US (WalletHub)."},{"residency_id":"univ_maryland_neurology","swapped_from_host":true,"swapped_from_host_ref":"baltimore-md","note":"Same Baltimore host-city problem as Johns Hopkins (citywide violent crime ~3-4x national average, west-side hospital corridor affected too). Swapped to Columbia, MD, a repeat WalletHub #1 safest city."}]},"geography":{"disaster_risk":"FEMA NRI v1.20: Howard County composite score 72.4, rating 'Relatively Low' (#8 of 24 MD counties) - hurricane 81.2 is the top individual hazard, flood 78.1, earthquake 77.5, tornado/wildfire both comparatively low (42.2/15.6) [Tier 1|cross_verified:true|verified|2026-09-13]","terrain_summary":"Piedmont Plateau - rolling hills and stream valleys, elevation range ~7-702ft (avg ~361ft); Columbia is a planned community built around three artificial lakes formed by damming tributary streams, drained by the Middle/Little Patuxent rivers [Tier 2|cross_verified:true|verified|2026-09-13]","seasons":"Humid subtropical (Cfa), Piedmont climate pattern - similar regional profile to Charlottesville/Chapel Hill in this dataset (hot summers, mild-to-cool winters, four distinct seasons) [Tier 3|cross_verified:false|estimated|2026-09-13] - regional Piedmont-climate inference, not a dedicated Columbia-specific normals source"}},{"city_ref":"dallas-tx","city":"Dallas","state_ref":"texas","residency_context":{"host_for":["utsw_neurology","baylor_umc_dallas_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"baylor_umc_dallas_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null},{"residency_id":"utsw_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"geography":{"disaster_risk":"FEMA NRI v1.20 composite score 99.7, county rating 'Very High' (Dallas County; state rank #2 of 254) - top hazards hail 100.0, cold wave 99.9, heat wave 99.9, tornado 99.8, all Very High [Tier 2|cross_verified:true|verified|2026-09-13]","terrain_summary":"Blackland Prairie - flat to gently rolling dark-soil terrain, no significant hills; Trinity River cuts through at ~120m (lowest point), city center 130-145m, N suburbs rise to 190-230m; located in Tornado Alley [Tier 2|cross_verified:true|verified|2026-09-13]","seasons":"Humid subtropical (Köppen Cfa); very hot summers (18+ days/yr over 100°F, record 113°F), mild winters with occasional sharp 'Blue Norther' cold snaps from flat open terrain allowing rapid Arctic air intrusion; severe spring thunderstorm/hail/tornado season [Tier 1|cross_verified:true|verified|2026-09-13]"}},{"city_ref":"durham-nc","city":"Durham","state_ref":"north-carolina","residency_context":{"host_for":["duke_neurology"],"suburb_for":[{"residency_id":"unc_neurology","host_city_ref":"chapel-hill-nc","distance_mi":12,"drive_time_offpeak_min":18,"drive_time_rush_min":28}],"research_target_for":[{"residency_id":"duke_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"geography":{"disaster_risk":"FEMA NRI, Durham County: composite 90th percentile nationally, rating 'Relatively Moderate' (state rank #14 of 100 NC counties) - top hazards tornado 93rd pctile, flood 92nd, hurricane 89th [Tier 2|cross_verified:false|single-source|2026-09-13]","terrain_summary":"Piedmont region - rolling hills, similar terrain profile to Chapel Hill (12mi away) [Tier 2|cross_verified:true|verified|2026-09-13]","seasons":"Humid subtropical (Köppen Cfa); hot summers (Jul avg high ~89°F), cool winters, strong seasonal contrast, ~48in annual precip fairly evenly distributed [Tier 2|cross_verified:true|verified|2026-09-13]"}},{"city_ref":"englewood-co","city":"Englewood","state_ref":"colorado","residency_context":{"host_for":["hca_healthone_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"hca_healthone_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"geography":{"disaster_risk":"FEMA NRI v1.20: Arapahoe County 93.8, 'Relatively Moderate' (#4 of 64 CO counties) - Englewood is fully within Arapahoe County, no multi-county ambiguity [Tier 2|cross_verified:true|verified|2026-09-13]","terrain_summary":"Denver-metro High Plains/Piedmont, immediately south of Denver; elevation ~5,348-5,371 ft, minimal internal relief (range only ~5,249-5,531 ft) [Tier 2|cross_verified:true|verified|2026-09-13]","seasons":"Cold semi-arid (Köppen BSk); wide seasonal swing - Jan mean daily max ~43°F/min ~19°F, Jul mean daily max ~87°F/min ~59°F, record extremes 108°F to well below zero [Tier 1|cross_verified:true|verified|2026-09-13]"}},{"city_ref":"farmington-ct","city":"Farmington","state_ref":"connecticut","residency_context":{"host_for":[],"suburb_for":[{"residency_id":"uconn_hartford_neurology","host_city_ref":"hartford-ct","distance_mi":10,"drive_time_offpeak_min":15,"drive_time_rush_min":25}],"research_target_for":[{"residency_id":"uconn_hartford_neurology","swapped_from_host":true,"swapped_from_host_ref":"hartford-ct","note":"Hartford's violent crime rate runs well above the national average (murder rate ~3x, FBI data). Swapped to Farmington, a low-crime suburb that is also home to UConn Health's main campus."}]},"geography":{"disaster_risk":"Capitol Planning Region (CT's current FEMA-equivalent geographic unit, replacing Hartford County per the 2024 TIGER/Line update): disaster-risk score 2.6/100 on a third-party site's own 0-100 scale - the lowest disaster-risk score of any CT planning region, consistent with inland New England's generally low disaster exposure; VERIFY: this specific 2.6 figure comes from countyscore.com's own composite scoring methodology, not a direct FEMA NRI percentile/rating pull - a raw FEMA NRI percentile for the Capitol Planning Region specifically was not independently retrieved this pass [Tier 3|cross_verified:false|single-source|2026-09-13]","terrain_summary":"Connecticut River Valley/central CT lowland; adjacent to Farmington Mountain, a distinctive traprock ridge (502ft) that is part of the Metacomet Ridge running from Long Island Sound near New Haven north through the CT River Valley - a genuine local geological landmark distinguishing Farmington from flat lowland terrain [Tier 1|cross_verified:true|verified|2026-09-13]","seasons":"Humid continental transitioning to humid subtropical (Köppen Dfa/Cfa boundary) - hot humid summers (Bermuda High influence, occasional 100°F+ heat waves), cold winters; CT's climate splits Dfa/Dfb in the north to Cfa/Cfb in the south, with Farmington's inland central location putting it toward the colder/more continental end relative to the coastal CT cities in this dataset [Tier 2|cross_verified:true|verified|2026-09-13]"}},{"city_ref":"folsom-ca","city":"Folsom","state_ref":"california","residency_context":{"host_for":[],"suburb_for":[{"residency_id":"ucdavis_neurology","host_city_ref":"sacramento-ca","distance_mi":22,"drive_time_offpeak_min":28,"drive_time_rush_min":40}],"research_target_for":[{"residency_id":"ucdavis_neurology","swapped_from_host":true,"swapped_from_host_ref":"sacramento-ca","note":"Sacramento's violent crime rate is ~100%+ above the national average, and UC Davis Medical Center directly borders Oak Park, a neighborhood with a long-documented concentration of violent crime and drug activity. Swapped to Folsom, a low-crime Sacramento suburb (~40-48% below national average)."}]},"geography":{"disaster_risk":"FEMA NRI v1.20: Sacramento County composite 98th percentile, 'Relatively High' - flood 99.0, earthquake 98.9, wildfire 95.9; Folsom itself sits at the foothill edge of the county so wildfire exposure locally may run somewhat higher than the flatland-Sacramento average, though no city-specific breakout exists [Tier 2|cross_verified:true|verified|2026-09-13]","terrain_summary":"Sierra Nevada foothills, at the eastern edge of the Sacramento Valley; elevation ~220ft (67m), notably built around Folsom Lake; genuinely more hilly/foothill terrain than the flat Central Valley floor further west (e.g. Sacramento proper) [Tier 2|cross_verified:true|verified|2026-09-13]","seasons":"Hot-summer Mediterranean (Köppen Csa) - hot dry summers (Jul avg high ~95°F), cool wet winters (Dec avg low ~40°F), ~90% of annual precip Nov-Apr; classic Central Valley/foothill seasonal pattern [Tier 2|cross_verified:true|verified|2026-09-13]"}},{"city_ref":"gainesville-fl","city":"Gainesville","state_ref":"florida","residency_context":{"host_for":["uf_gainesville_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"uf_gainesville_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"geography":{"disaster_risk":"FEMA NRI: Alachua County 90th percentile nationally, 'Relatively Moderate' [Tier 2|cross_verified:false|single-source|2026-09-13]","terrain_summary":"Interior north-central Florida, karst topography (sinkholes, springs) atop the Floridan Aquifer; low but non-coastal elevation, distinct from the flat coastal-plain terrain of this dataset's other FL cities [Tier 2|cross_verified:false|single-source|2026-09-13]","seasons":"Humid subtropical (Cfa) but with a genuinely distinct inland microclimate vs. coastal FL: summers (mid-May-Sept) match statewide pattern (70s-90s°F, tropical humidity), but Oct-Apr sees occasional freezing nights and sustained freezes every few years - unlike peninsular coastal Florida; rare snow every 5-10 years; noticeable fall color and spring seasons, atypical for FL [Tier 2|cross_verified:true|verified|2026-09-13]"}},{"city_ref":"galveston-tx","city":"Galveston","state_ref":"texas","residency_context":{"host_for":["utmb_galveston_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"utmb_galveston_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"geography":{"disaster_risk":"FEMA NRI - Galveston County rated 'Relatively High' (~95th percentile) - driven by coastal flood, inland flood, and hurricane risk, all rated Relatively High; notably Social Vulnerability Relatively Low and Community Resilience Very High (i.e., high hazard exposure partly offset by strong recovery capacity) [Tier 2|cross_verified:true|verified|2026-09-13]","terrain_summary":"City sits on Galveston Island, a Gulf of Mexico barrier island - 27mi long x 3mi wide, max natural elevation only ~20 ft (6.1m); low-lying, storm-surge-exposed by definition of barrier-island geography [Tier 2|cross_verified:true|verified|2026-09-13]","seasons":"Humid subtropical, maritime-moderated (Gulf-adjacent); hot humid summers, mild winters milder than inland Texas due to ocean influence; peak Atlantic hurricane season (Jun-Nov) is the dominant seasonal risk driver [Tier 3|cross_verified:false|estimated|2026-09-13] - general-knowledge inference from barrier-island geography, not pulled from a dedicated NOAA normals page this pass"}},{"city_ref":"germantown-tn","city":"Germantown","state_ref":"tennessee","residency_context":{"host_for":[],"suburb_for":[{"residency_id":"uthsc_memphis_neurology","host_city_ref":"memphis-tn","distance_mi":15,"drive_time_offpeak_min":22,"drive_time_rush_min":32}],"research_target_for":[{"residency_id":"uthsc_memphis_neurology","swapped_from_host":true,"swapped_from_host_ref":"memphis-tn","note":"Memphis has the highest violent crime rate of any large US city per FBI data. Swapped to Germantown, an affluent Memphis suburb with violent crime roughly 85-90% below the national average."}]},"geography":{"disaster_risk":"FEMA NRI: Shelby County 99th percentile nationally, 'Relatively High' (#1 riskiest TN county) - flood 98.7, tornado 99.8, earthquake 99.5 (Shelby County sits closest to the New Madrid Seismic Zone of any city in this dataset, genuinely elevated seismic exposure vs. the rest of TN) [Tier 2|cross_verified:true|verified|2026-09-13]","terrain_summary":"West Tennessee/Mississippi River bluff region, eastern suburb of Memphis; elevation ~318ft (97m), gently rolling, much lower and flatter than Knoxville or Nashville [Tier 1|cross_verified:true|verified|2026-09-13]","seasons":"Humid subtropical (Cfa) - hotter, more humid summers than East/Middle TN per the west-to-east TN climate gradient, milder winters, ~52-56in annual precip [Tier 3|cross_verified:false|estimated|2026-09-13] - inferred from statewide W-to-E climate gradient description, not a dedicated Germantown-specific normals source"}},{"city_ref":"greenville-nc","city":"Greenville","state_ref":"north-carolina","residency_context":{"host_for":["ecu_health_brody_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"ecu_health_brody_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"geography":{"disaster_risk":"FEMA NRI, Pitt County: 90th percentile nationally, rating 'Relatively Moderate' - top hazards tornado 94.3, flood 87.7, earthquake 71.6 [Tier 2|cross_verified:false|single-source|2026-09-13]","terrain_summary":"Inner Coastal Plain (not Piedmont, unlike this dataset's other NC cities) - flat to gently rolling, low elevation, Tar River runs through city; more hurricane/flood-exposed than the Piedmont NC cities given eastern NC coastal-plain positioning [Tier 3|cross_verified:false|estimated|2026-09-13] - general-knowledge regional-geography inference, not pulled from a dedicated elevation source this pass","seasons":"Humid subtropical (Köppen Cfa); milder winters and more direct hurricane exposure than inland Piedmont NC, consistent with eastern NC coastal-plain climate pattern [Tier 3|cross_verified:false|estimated|2026-09-13]"}},{"city_ref":"honolulu-hi","city":"Honolulu","state_ref":"hawaii","residency_context":{"host_for":["hawaii_jabsom_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"hawaii_jabsom_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"geography":{"disaster_risk":"null - no clean current-vintage (FEMA NRI v1.20) composite percentile/rating for Honolulu County found this pass despite two targeted searches; independently well-documented that Honolulu County ranks #1 nationally for tsunami risk specifically (per FEMA's own past public releases), and Hawaii statewide has only 2 of 5 counties rated 'high-risk' overall - but the exact current composite score/tier needs a follow-up query rather than a guess [Tier 3|cross_verified:false|unverified|2026-09-13]","terrain_summary":"Leeward (south/west) coast of Oahu - Diamond Head volcanic tuff cone (232m) anchors the city's eastern edge; Koolau Range runs along the windward side of the island as a rain-shadow wall; central/urban Honolulu sits in the dry leeward zone while the Koolau slopes just a few miles away are lush rainforest [Tier 1|cross_verified:true|verified|2026-09-13]","seasons":"Tropical, heavily terrain/trade-wind-dependent (genuine 5 Köppen microzones on Oahu alone) - urban Honolulu itself is dry/sunny (leeward rain shadow, ~20-26in/yr rain), contrasting sharply with the windward Koolau slopes a few miles away (60-300in/yr); steady NE trade winds year-round moderate the tropical heat; minimal seasonal temperature swing (sea-level avg 70-75°F) [Tier 1|cross_verified:true|verified|2026-09-13]"}},{"city_ref":"jacksonville-fl","city":"Jacksonville","state_ref":"florida","residency_context":{"host_for":["mayo_jacksonville_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"mayo_jacksonville_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"geography":{"disaster_risk":"FEMA NRI: Duval County 97th percentile nationally, 'Relatively High' - notably driven by earthquake at 90.2 (unusually high for FL, likely reflecting regional seismic-hazard modeling rather than local fault activity) alongside flood 97.6 and tornado 91.5 [Tier 2|cross_verified:true|verified|2026-09-13]","terrain_summary":"Atlantic coastal plain, St. Johns River runs through city; flat, low-elevation terrain typical of NE Florida coast [Tier 3|cross_verified:false|estimated|2026-09-13] - general coastal-plain inference, not pulled from a dedicated elevation source this pass","seasons":"Humid subtropical (Köppen Cfa) - at the cooler/northern end of FL's climate range: Jan avg low ~48°F, Jul avg high ~90°F, summer-peaked rainfall (monsoon-like pattern along the Atlantic coast) [Tier 2|cross_verified:true|verified|2026-09-13]"}},{"city_ref":"knoxville-tn","city":"Knoxville","state_ref":"tennessee","residency_context":{"host_for":["utgsm_knoxville_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"utgsm_knoxville_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"geography":{"disaster_risk":"FEMA NRI: Knox County 92nd percentile nationally, 'Relatively Moderate' (#4 riskiest TN county) - flood 92.8, tornado 96.7, earthquake notably elevated at 96.8 (New Madrid seismic zone influence, similar pattern to other mid-South counties in this dataset) [Tier 2|cross_verified:true|verified|2026-09-13]","terrain_summary":"Great Appalachian/Tennessee Valley, roughly midway between the Great Smoky Mountains (east) and Cumberland Plateau (west); city elevation ~936ft avg, range ~800-1,391ft (Sharp's Ridge) [Tier 1|cross_verified:true|verified|2026-09-13]","seasons":"Humid subtropical (Cfa) - hot summers (Jul avg 85-90°F), mild-to-cool winters (Jan 30-40°F), ~50in annual precip, growing season ~180 days (shorter than western/central TN due to elevation) [Tier 2|cross_verified:true|verified|2026-09-13]"}},{"city_ref":"los-angeles-ca","city":"Los Angeles","state_ref":"california","residency_context":{"host_for":["ucla_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"ucla_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"geography":{"disaster_risk":"FEMA NRI v1.20: Los Angeles County composite 100.0/100, 'Very High' rating, #1 riskiest county in California and among the highest nationally - top hazards flood 100, wildfire 99.9, earthquake 100, all maxed; every category except hurricane is elevated [Tier 1|cross_verified:true|verified|2026-09-13]","terrain_summary":"LA Basin, a broad sedimentary coastal plain bounded by San Gabriel, Santa Monica, and Santa Ana mountains; extreme internal elevation range 0-1,548m (Mount Lukens) within city limits; genuine microclimates - coastal areas can differ from San Fernando Valley by up to 20°C on a given day [Tier 1|cross_verified:true|verified|2026-09-13]","seasons":"Mediterranean/semi-arid (Köppen Csa inland, Csb/BSk coastal per most sources) - warm dry summers, mild wet winters, nearly all rain Oct-Apr (~380mm/yr); mountain ranges block the worst Santa Ana winds and moderate summer heat via marine layer [Tier 1|cross_verified:true|verified|2026-09-13]"}},{"city_ref":"miami-fl","city":"Miami","state_ref":"florida","residency_context":{"host_for":["umiami_jackson_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"umiami_jackson_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"geography":{"disaster_risk":"FEMA NRI: Miami-Dade County 100th percentile nationally (composite ~99.6), 'Very High' rating - Florida's and one of the nation's highest-risk counties; driven by flood 99.7-100 and hurricane 100 (both maxed), tornado also elevated at 98.7 [Tier 1|cross_verified:true|verified|2026-09-13]","terrain_summary":"Built on Miami Limestone (oolitic coral bedrock, part of the Miami Rock Ridge), extremely flat and low-lying - avg elevation only ~2m (6-12ft), highest natural point in city ~7m (Coconut Grove ridge); porous bedrock means conventional flood barriers (seawalls/levees) can't fully block water intrusion from below as sea levels rise [Tier 2|cross_verified:true|verified|2026-09-13]","seasons":"Tropical monsoon (Köppen Am) - the only major city in the contiguous US with this classification, not humid subtropical like this dataset's other FL cities; hot humid wet season May-Oct (~70% of annual rain, near-daily thunderstorms), warm dry winter Nov-Apr (Jan avg ~68-69°F, rarely below 50°F, essentially never freezes/snows); peak Atlantic hurricane season risk Jun-Nov [Tier 1|cross_verified:true|verified|2026-09-13]"}},{"city_ref":"nashville-tn","city":"Nashville","state_ref":"tennessee","residency_context":{"host_for":["vanderbilt_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"vanderbilt_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"geography":{"disaster_risk":"FEMA NRI: Davidson County 97th percentile nationally, 'Relatively High' (#2 riskiest TN county) - flood 98.2, tornado 97.9 (2020 Nashville tornado outbreak is a documented real event consistent with this rating), earthquake 98.2 [Tier 2|cross_verified:true|verified|2026-09-13]","terrain_summary":"Nashville Basin (Central Basin), a limestone-karst geological depression surrounded by the Highland Rim; city elevation avg ~597ft, range 385-1,163ft (Radnor Lake); genuinely hilly despite the 'basin' name - Highland Rim rises 300-400ft above the basin floor, forming a visible ring around the horizon [Tier 1|cross_verified:true|verified|2026-09-13]","seasons":"Humid subtropical (Cfa) - hot humid summers, mild winters, Middle TN climate pattern (annual precip lowest in the Central Basin itself at ~52in vs. 55-60in in the surrounding Highland Rim) [Tier 1|cross_verified:true|verified|2026-09-13]"}},{"city_ref":"oklahoma-city-ok","city":"Oklahoma City","state_ref":"oklahoma","residency_context":{"host_for":["ou_health_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"ou_health_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"geography":{"disaster_risk":"FEMA NRI: Oklahoma County 98th percentile nationally, 'Relatively High' (#1 riskiest OK county, tied with Tulsa) - tornado maxed at 99.5, flood 97.6, earthquake notably high at 94.0 (OK's well-documented induced-seismicity increase from wastewater injection) [Tier 2|cross_verified:true|verified|2026-09-13]","terrain_summary":"Southern Great Plains, gently rolling prairie along the North Canadian River; elevation ~1,200-1,291ft, flat farmland/grassland with few trees except along riverbanks; no mountains or coast nearby [Tier 1|cross_verified:true|verified|2026-09-13]","seasons":"Humid subtropical (Cfa) with strong continental influence - hot humid summers (Jul avg high ~93°F, frequently above 100°F), cold windy winters (Jan avg low ~27°F); sits squarely in Tornado Alley, ~150 tornadoes within city limits since 1890 including 13 violent (F/EF4-5) events; spring 'dryline' collisions between Gulf moisture and dry southwestern air drive severe thunderstorm/hail/tornado season mid-April to early June [Tier 1|cross_verified:true|verified|2026-09-13]"}},{"city_ref":"palo-alto-ca","city":"Palo Alto","state_ref":"california","residency_context":{"host_for":["stanford_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"stanford_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"geography":{"disaster_risk":"FEMA NRI v1.20: Santa Clara County composite 100th percentile, 'Very High' - top hazards flood 99.8, earthquake 99.9 (San Andreas/Hayward fault proximity), tornado comparatively low at 55.8 [Tier 1|cross_verified:true|verified|2026-09-13]","terrain_summary":"San Francisco Bay/Santa Clara Valley floor - official city elevation only 30ft (9m) near the Bay, but city boundaries extend well into the Santa Cruz Mountains foothills to the west, reaching several hundred feet; genuine two-tier terrain (flat bayside vs. hilly western edge) [Tier 2|cross_verified:true|verified|2026-09-13]","seasons":"Warm-summer Mediterranean (Köppen Csb) - mild dry summers moderated by Bay proximity, cool wet winters, minimal seasonal temperature swing typical of the SF Peninsula [Tier 3|cross_verified:false|estimated|2026-09-13] - regional Bay Area climate inference, not a dedicated Palo Alto normals source"}},{"city_ref":"phoenix-az","city":"Phoenix","state_ref":"arizona","residency_context":{"host_for":["barrow_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"barrow_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"geography":{"disaster_risk":"FEMA NRI v1.20: Maricopa County composite 100th percentile, 'Very High' - #1 riskiest AZ county; flood 99.9 and extreme heat both maxed, notable since heat risk doesn't appear in this dataset's other Very High-risk cities the same way [Tier 1|cross_verified:true|verified|2026-09-13]","terrain_summary":"Salt River Valley ('Valley of the Sun'), northern Sonoran Desert; mean elevation ~1,117ft (340m), broad flat desert basin ringed by mountains (South Mountain, Camelback, McDowells to the east) [Tier 1|cross_verified:true|verified|2026-09-13]","seasons":"Hot desert (Köppen BWh) - among the sunniest and hottest major-city climates on Earth (3,800+ sunshine hours/yr, comparable to Riyadh); extremely hot summers (110+ days/yr above 100°F, Jul avg high ~104°F), mild winters (Jan avg high ~64°F); scant rainfall (~7-8in/yr) concentrated in the Jul-Sep monsoon, which brings dust storms (haboobs) and flash-flood risk [Tier 1|cross_verified:true|verified|2026-09-13]"}},{"city_ref":"portland-or","city":"Portland","state_ref":"oregon","residency_context":{"host_for":["ohsu_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"ohsu_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"geography":{"disaster_risk":"FEMA NRI: Multnomah County 98th percentile nationally, 'Relatively High' (#1 riskiest OR county) - earthquake maxed at 99.6 (Cascadia Subduction Zone exposure), flood 95.5, landslide separately flagged as 'High' by a disasteraware.com hazard breakout; wildfire/tornado comparatively low (47-67) reflecting the wet westside-Cascades setting rather than dry-interior risk [Tier 1|cross_verified:true|verified|2026-09-13]","terrain_summary":"Northern Willamette Valley at the confluence of the Willamette and Columbia rivers; Cascade Range (Mount Hood, 3,429m) visible to the east, Coast Range to the west; Portland itself sits at low elevation (~20ft/6m) in the valley floor between the two ranges [Tier 1|cross_verified:true|verified|2026-09-13]","seasons":"Marine west coast/transitional Mediterranean climate - mild year-round (summer highs ~80-82°F, winter lows upper 30s°F), famous Oct-May gray drizzle (~36-43in annual rain, mostly overcast rather than heavy rain), dry warm summers; Cascades create a genuine rain-shadow effect that keeps the Willamette Valley notably drier than the immediate coast [Tier 1|cross_verified:true|verified|2026-09-13]"}},{"city_ref":"providence-ri","city":"Providence","state_ref":"rhode-island","residency_context":{"host_for":["brown_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"brown_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"geography":{"disaster_risk":"FEMA NRI: Providence County 94th percentile nationally, 'Relatively Moderate' (#1 riskiest RI county, and RI's only county above 'Relatively Low') - flood 96.6 dominates, tornado comparatively low at 78.3, wildfire very low at 31.7 [Tier 2|cross_verified:true|verified|2026-09-13]","terrain_summary":"Head of Narragansett Bay on the Providence River; city built on three hills, elevation ~80ft (10-24m depending on source); part of RI's Narragansett/Seaboard Lowland, generally flat-to-gently-hilly coastal terrain distinct from the hillier New England Upland covering western RI [Tier 2|cross_verified:true|verified|2026-09-13]","seasons":"Humid continental (Köppen Dfa, 'hot-summer' variant) - warm rainy summers (Jul avg high ~82°F), cold winters (Jan avg high ~37°F/low ~21°F), very high annual precipitation (~46-100in depending on source/period) spread fairly evenly year-round, occasional nor'easters bringing heavy snow; genuinely wetter than most other Cfa/humid-subtropical cities in this dataset [Tier 1|cross_verified:true|verified|2026-09-13]"}},{"city_ref":"richmond-va","city":"Richmond","state_ref":"virginia","residency_context":{"host_for":["vcu_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"vcu_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"geography":{"disaster_risk":"FEMA NRI (independent city): composite ~34.5, rating 'Very Low' band (0-42.7 threshold) per riskbycounty's own published rating scale [Tier 2|cross_verified:true|verified|2026-09-13]. NOTE: a non-FEMA third-party aggregator (disastercalculator.com) separately scores Richmond 59.3/100 using its own proprietary methodology weighted toward landslide risk - not the same NRI-based scale, flagged as a different/lower-tier scoring system rather than a genuine conflict with the FEMA figure.","terrain_summary":"Fall Line city - sits exactly where the Piedmont's rolling uplands meet the Coastal Plain/Tidewater; James River drops through a 7-mile rapids zone through downtown; avg elevation ~161ft (49m), terrain varies from river-valley floodplain to upland hills to the west/southwest and flatter coastal-plain lowlands east [Tier 2|cross_verified:true|verified|2026-09-13]","seasons":"Humid subtropical/'modified continental' per NWS Richmond station description; warm humid summers, generally mild winters, Blue Ridge (90mi west) provides partial cold-air barrier; Chesapeake Bay 60mi east [Tier 1|cross_verified:false|single-source|2026-09-13]"}},{"city_ref":"roanoke-va","city":"Roanoke","state_ref":"virginia","residency_context":{"host_for":["carilion_vtc_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"carilion_vtc_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"geography":{"disaster_risk":"FEMA NRI (independent city): composite ~33.7-36.7 depending on source snapshot, rating 'Very Low' band - both figures fall well within riskbycounty's 0-42.7 Very Low threshold; the adjacent, separate Roanoke County (surrounding suburbs, different jurisdiction) scores notably higher at 52.2 'Relatively Low' - genuine and correctly-distinguished city-vs-county gradient, not a data conflict [Tier 2|cross_verified:true|verified|2026-09-13]","terrain_summary":"Roanoke Valley, within/along the Blue Ridge Mountains; avg elevation ~333m (1,093ft), range 251-680m; mountain-valley setting distinct from the other VA cities in this dataset (all Piedmont/Fall-Line) [Tier 2|cross_verified:true|verified|2026-09-13]","seasons":"Humid subtropical (Köppen Cfa) despite mountain-valley location; four distinct but generally mild seasons, ~30.5 days/yr above 90°F, ~6 days/yr at/below freezing, rarely hits 100°F or 0°F; notable fall-foliage season tied to elevation gradient [Tier 2|cross_verified:true|verified|2026-09-13]"}},{"city_ref":"salisbury-md","city":"Salisbury","state_ref":"maryland","residency_context":{"host_for":["tidalhealth_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"tidalhealth_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"geography":{"disaster_risk":"FEMA NRI v1.20: Wicomico County 61st percentile nationally, rating 'Relatively Low' - notably different hazard mix than the Piedmont MD cities: wildfire elevated at 80.9 (highest of any hazard for this county, unusual for the Eastern Shore), flood only 57.8, tornado 33.7 [Tier 2|cross_verified:true|verified|2026-09-13]","terrain_summary":"Delmarva Peninsula/Eastern Shore coastal plain - very low, flat terrain; city elevation only 17-45ft (5-14m); genuinely distinct from every other MD/mid-Atlantic city in this dataset, all of which sit on the Piedmont or Fall Line [Tier 1|cross_verified:true|verified|2026-09-13]","seasons":"Humid subtropical (Cfa), moderated by Chesapeake/Atlantic coastal proximity - milder winters and more humid summers than the Piedmont MD cities in this dataset, consistent with low-elevation Eastern Shore coastal-plain climate [Tier 3|cross_verified:false|estimated|2026-09-13] - general coastal-plain inference, not a dedicated Salisbury-specific normals source"}},{"city_ref":"salt-lake-city-ut","city":"Salt Lake City","state_ref":"utah","residency_context":{"host_for":["univ_utah_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"univ_utah_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"geography":{"disaster_risk":"null - no clean current-vintage FEMA NRI composite percentile/rating for Salt Lake County found this pass; independently well-documented that the Wasatch Fault running directly beneath the Salt Lake Valley is the region's dominant seismic hazard (multiple USGS studies of the Wasatch Front earthquake risk specifically), and Salt Lake County has the largest number of wildfire-exposed structures in Utah (138,600 per a First Street Foundation report) - but the exact current composite score/tier needs a follow-up query rather than a guess [Tier 3|cross_verified:false|unverified|2026-09-13]","terrain_summary":"Salt Lake Valley, an intermontane valley on the Wasatch Front - bounded by the Wasatch Range (east, peaks to 3,636m) and Oquirrh Mountains (west), with the Great Salt Lake to the northwest; city elevation ~4,327ft (1,319m), valley floor is broad and flat, mountains rise steeply from its edges [Tier 1|cross_verified:true|verified|2026-09-13]","seasons":"Cold semi-arid (Köppen BSk) - hot dry summers (Jul avg high ~93°F), cold snowy winters (Jan avg low ~23°F), only ~16in annual precip (rain-shadowed by the Wasatch), but the Wasatch Range itself receives heavy snowfall (500+in/yr in places) feeding the region's ski industry; Great Salt Lake proximity moderates winter temps and contributes to seasonal fog/haze; four distinct seasons with wide diurnal swings, over 222 sunny days/yr [Tier 1|cross_verified:true|verified|2026-09-13]"}},{"city_ref":"san-diego-ca","city":"San Diego","state_ref":"california","residency_context":{"host_for":["ucsd_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"ucsd_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"geography":{"disaster_risk":"FEMA NRI v1.20: San Diego County composite 100th percentile, 'Very High' - flood 99.7, wildfire maxed at 100 (well-documented wildland-urban interface risk), earthquake 99.7, tornado notably lower at 64.4 [Tier 1|cross_verified:true|verified|2026-09-13]","terrain_summary":"Distinctive mesa-and-canyon topography - flat-topped marine terraces (mesas) dissected by steep east-west canyons (Mission Valley, Rose Canyon, etc.) draining toward the coast; city elevation range -2m to 1,103m (Cowles/Cuyamaca peaks to the east), avg ~125m; creates genuine neighborhood-to-neighborhood microclimates via canyon cold-air pooling [Tier 2|cross_verified:true|verified|2026-09-13]","seasons":"Semi-arid Mediterranean (Köppen BSh/Csa) - among the mildest, most consistent climates in the continental US; minimal seasonal swing (Jan avg low ~9°C, Aug avg high ~26°C), ~262mm annual precip, ~266 sunny days/yr [Tier 2|cross_verified:true|verified|2026-09-13]"}},{"city_ref":"san-francisco-ca","city":"San Francisco","state_ref":"california","residency_context":{"host_for":["ucsf_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"ucsf_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"geography":{"disaster_risk":"FEMA NRI v1.20: San Francisco County composite 100th percentile, 'Very High' - notably different hazard profile from the rest of the CA cities in this dataset: earthquake maxed at 99.8 and flood high at 98.6, but wildfire and tornado comparatively low (28.7 and 34.9) given the dense urban, non-wildland-interface setting [Tier 1|cross_verified:true|verified|2026-09-13]","terrain_summary":"Hilly peninsula between the Pacific Ocean and SF Bay - 43 named hills, elevation range 0-282m (Mount Davidson); sits astride the Pacific/North American plate boundary near multiple fault traces (San Andreas along the peninsula, Hayward across the Bay); Marina District built on 1906-earthquake rubble fill, elevated liquefaction risk [Tier 2|cross_verified:true|verified|2026-09-13]","seasons":"Mediterranean (Köppen Csb), heavily fog-moderated - narrow year-round temperature range (avg annual ~16.9°C), dry summers/wet winters (rainy season Nov-Mar); famous persistent summer fog through the Golden Gate keeps summer highs mild despite inland CA heat at the same latitude [Tier 1|cross_verified:true|verified|2026-09-13]"}},{"city_ref":"scottsdale-az","city":"Scottsdale","state_ref":"arizona","residency_context":{"host_for":["mayo_scottsdale_phoenix_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"mayo_scottsdale_phoenix_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"geography":{"disaster_risk":"FEMA NRI v1.20: Maricopa County composite 100th percentile, 'Very High' - same county reading as Phoenix, no jurisdiction split [Tier 1|cross_verified:true|verified|2026-09-13]","terrain_summary":"Salt River Valley/Sonoran Desert, but with meaningfully more relief than Phoenix proper - city elevation ranges 1,052-4,819ft due to the McDowell Mountains foothills along the city's eastern edge (McDowell Sonoran Preserve, ~30,500 acres); southern Scottsdale near Phoenix is low desert basin, northern/eastern Scottsdale climbs into rugged high-desert terrain [Tier 2|cross_verified:true|verified|2026-09-13]","seasons":"Hot desert (Köppen BWh), same regime as Phoenix but with a genuine local twist: elevation gain toward the McDowells produces a real lapse-rate cooling effect, so northern/higher Scottsdale runs several degrees cooler on summer nights than the valley floor [Tier 2|cross_verified:true|verified|2026-09-13]"}},{"city_ref":"seattle-wa","city":"Seattle","state_ref":"washington","residency_context":{"host_for":["uw_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"uw_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"geography":{"disaster_risk":"FEMA NRI v1.20: King County composite 100th percentile, 'Very High' - #1 riskiest WA county; earthquake maxed at 99.9-100 (Seattle Fault runs directly beneath the city, plus Cascadia subduction zone exposure), flood also high at 99.5; wildfire/tornado comparatively low (73-80) [Tier 1|cross_verified:true|verified|2026-09-13]","terrain_summary":"Glacially-carved hilly isthmus between Puget Sound and Lake Washington; 'Seven Hills of Seattle' (Capitol Hill, Queen Anne, Beacon Hill, etc.), elevation range 0-158m (West Seattle); Mount Rainier (4,392m stratovolcano) visible ~87km SE; genuine landslide risk on steep glacial-till slopes [Tier 2|cross_verified:true|verified|2026-09-13]","seasons":"Marine west coast climate - VERIFY/NOTE: genuine classification split across sources between Köppen Cfb ('oceanic', the traditional/more common classification) and Csb ('warm-summer Mediterranean', used by some current climate-normal datasets); either way, cool wet winters (most of the ~940mm annual precip falls Oct-Mar) and mild dry-ish summers (Jul avg high ~24°C), narrow year-round temperature range, ~226 cloudy days/yr [Tier 2|cross_verified:true|verified|2026-09-13]"}},{"city_ref":"tacoma-wa","city":"Tacoma","state_ref":"washington","residency_context":{"host_for":["madigan_army_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"madigan_army_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"geography":{"disaster_risk":"FEMA NRI v1.20: Pierce County composite 98.7 (per direct FEMA hazards.fema.gov report)/99th percentile, 'Relatively High'/'Very High' depending on source rounding - flood 96.2, earthquake 99.6 (Tacoma Fault runs directly through the county, M7.1 scenario modeled by FEMA Region X), landslide and tsunami risk both flagged for Tacoma specifically in FEMA's own regional risk report given its bluff-and-waterfront geography [Tier 1|cross_verified:true|verified|2026-09-13]","terrain_summary":"Rolling hills, steep bluffs, and terraced flat plains rising from Puget Sound to ~440ft (134m) in the city's east; built on a series of terraces overlooking Commencement Bay [Tier 2|cross_verified:true|verified|2026-09-13]","seasons":"Marine west coast climate (Köppen Cfb) - mild wet winters, cool dry-ish summers, same general Puget Sound pattern as Seattle [Tier 2|cross_verified:true|verified|2026-09-13]"}},{"city_ref":"tampa-fl","city":"Tampa","state_ref":"florida","residency_context":{"host_for":["usf_morsani_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"usf_morsani_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"geography":{"disaster_risk":"FEMA NRI: Hillsborough County 99th percentile nationally, 'Relatively High' - top hazards tornado 99.7, flood 97.8, earthquake surprisingly high at 68.5 (regional seismic model artifact, same pattern as Duval County) [Tier 2|cross_verified:true|verified|2026-09-13]","terrain_summary":"Gulf coastal plain around Tampa Bay; flat, low-elevation, similar coastal-plain profile to Miami/Jacksonville but on the Gulf side [Tier 3|cross_verified:false|estimated|2026-09-13] - general coastal-plain inference, not pulled from a dedicated elevation source this pass","seasons":"Humid subtropical (Köppen Cfa), 'closely bordering tropical' near the waterfront - warm rainy season late May-Oct (highs low 90s°F, near-daily afternoon storms), mild dry season Nov-Apr; day-to-day summer weather notably consistent [Tier 1|cross_verified:true|verified|2026-09-13]"}},{"city_ref":"winston-salem-nc","city":"Winston-Salem","state_ref":"north-carolina","residency_context":{"host_for":["wake_forest_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"wake_forest_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"geography":{"disaster_risk":"FEMA NRI, Forsyth County: 92nd percentile nationally, rating 'Relatively Moderate' - top hazards flood 94.7, tornado 90.9, earthquake 88.1 [Tier 2|cross_verified:false|single-source|2026-09-13]","terrain_summary":"Piedmont region, Piedmont Triad area; rolling hills typical of the region [Tier 2|cross_verified:false|single-source|2026-09-13]","seasons":"Humid subtropical (Köppen Cfa) - same regional pattern as Chapel Hill/Durham (hot summers, cool winters, four distinct seasons) [Tier 3|cross_verified:false|estimated|2026-09-13] - inferred from statewide/regional climate classification, not pulled from a dedicated Winston-Salem-specific normals page this pass"}},{"city_ref":"woodbridge-ct","city":"Woodbridge","state_ref":"connecticut","residency_context":{"host_for":[],"suburb_for":[{"residency_id":"yale_neurology","host_city_ref":"new-haven-ct","distance_mi":8,"drive_time_offpeak_min":15,"drive_time_rush_min":22}],"research_target_for":[{"residency_id":"yale_neurology","swapped_from_host":true,"swapped_from_host_ref":"new-haven-ct","note":"New Haven's citywide crime rate runs well above the national average, and the Hill neighborhood around Yale-New Haven Hospital shows above-average violent crime in local data. Swapped to Woodbridge, one of the lowest-crime towns in Connecticut."}]},"geography":{"disaster_risk":"South Central Connecticut Planning Region (CT's current FEMA-equivalent unit, replacing New Haven County): disaster-risk score 4.9/100 on a third-party site's own 0-100 scale - among the lowest in CT, though the broader New Haven County/region has recorded 12 federal disaster declarations since 2000 (mostly hurricanes/tropical storms - Sandy, Irene, Ida - and winter storms), with coastal Milford flagged as the most flood-exposed municipality in the region; VERIFY: same single-source caveat as Farmington - this 4.9 figure is a third-party composite score, not a directly retrieved FEMA NRI percentile [Tier 3|cross_verified:false|single-source|2026-09-13]","terrain_summary":"Inland New Haven County, at the headwaters of the Wepawaug River; elevation ~348ft (106m), part of the same general central-CT hilly terrain as Farmington but closer to Long Island Sound; genuinely more inland/elevated than coastal New Haven itself, consistent with the safety-substitute rationale noted in this dataset's residency_context [Tier 1|cross_verified:true|verified|2026-09-13]","seasons":"Humid continental/subtropical boundary (Köppen Dfa/Cfa) - milder than inland Farmington due to closer Long Island Sound proximity, but still experiences the same general hot-summer/cold-winter New England pattern; regional hurricane/tropical-storm remnant exposure (Sandy, Irene, Ida all triggered federal declarations covering this region) [Tier 2|cross_verified:true|verified|2026-09-13]"}}]
+[
+  {
+    "city_ref": "atlanta-ga",
+    "city": "Atlanta",
+    "state_ref": "georgia",
+    "residency_context": {
+      "host_for": [
+        "emory_neurology",
+        "morehouse_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "emory_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        },
+        {
+          "residency_id": "morehouse_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography": {
+      "disaster_risk": "FEMA NRI v1.20 composite 95.8, county rating 'Relatively High' (Fulton County; #2 of 159 GA counties) - top hazards flood 97.7, tornado 97.0, earthquake 96.0 [Tier 2|cross_verified:true|verified|2026-09-13]. NOTE: one uncited/undated aggregator (citydirectory.us) shows an older-looking 'Relatively Moderate' label for the same county - treated as stale/lower-confidence, not used.",
+      "terrain_summary": "Piedmont plateau, rolling hills, ~320 m (1,050 ft) avg elevation - highest major city in the SE US east of the Rockies; elevation range ~225-380 m within city limits; sits on the Eastern Continental Divide [Tier 2|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "augusta-ga",
+    "city": "Augusta",
+    "state_ref": "georgia",
+    "residency_context": {
+      "host_for": [
+        "mcg_augusta_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "mcg_augusta_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography": {
+      "disaster_risk": "FEMA NRI v1.20 (hazards.fema.gov direct report) composite score 88.7, county rating 'Relatively Moderate' (Richmond County; 95th percentile within GA) - top hazards: ice storm 99.0 (Very High), strong wind 98.5 (Very High), tornado 94.9 (Relatively High) [Tier 1|cross_verified:false|verified|2026-09-13]",
+      "terrain_summary": "Fall Line city on the Savannah River, transition zone between Piedmont and Coastal Plain; downtown ~148 ft (45 m) elevation, notably lower than Atlanta (~900 ft lower); county elevation range 82-591 ft [Tier 1|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "aurora-co",
+    "city": "Aurora",
+    "state_ref": "colorado",
+    "residency_context": {
+      "host_for": [
+        "univ_colorado_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "univ_colorado_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography": {
+      "disaster_risk": "FEMA NRI v1.20: Arapahoe County 93.8 'Relatively Moderate' (#4 of 64 CO counties); NOTE: Aurora also spans Adams County (91.2, Relatively Moderate) and a small Douglas County portion - both bracket the same 'Relatively Moderate' tier so the multi-county split doesn't change the practical answer this time [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "terrain_summary": "High Plains/Colorado Piedmont, transition zone between the Great Plains and Front Range foothills; city elevation ~5,404-5,472 ft; relatively flat to the east, foothills visible to the west [Tier 2|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "austin-tx",
+    "city": "Austin",
+    "state_ref": "texas",
+    "residency_context": {
+      "host_for": [
+        "dellmed_utaustin_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "dellmed_utaustin_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography": {
+      "disaster_risk": "FEMA NRI v1.20 composite score 97.7 (Travis County) - tabulated among Texas's higher-risk counties; VERIFY: exact county rating tier (Very High vs. Relatively High cutoff) not independently confirmed against a second source this pass, though 97.7 sits at the Very High/Relatively High boundary per riskbycounty's published percentile bands [Tier 2|cross_verified:false|single-source|2026-09-13]",
+      "terrain_summary": "Straddles the Balcones Fault - flat Blackland Prairie/clay soils to the east, rolling Hill Country limestone terrain to the west; elevation 425-1,000 ft (130-305 m) across the city; western edge is a genuine wildland-urban interface (documented wildfire exposure, though overall city wildfire risk rated Low, 8/100) [Tier 2|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "chapel-hill-nc",
+    "city": "Chapel Hill",
+    "state_ref": "north-carolina",
+    "residency_context": {
+      "host_for": [
+        "unc_neurology"
+      ],
+      "suburb_for": [
+        {
+          "residency_id": "duke_neurology",
+          "host_city_ref": "durham-nc",
+          "distance_mi": 12,
+          "drive_time_offpeak_min": 18,
+          "drive_time_rush_min": 28
+        }
+      ],
+      "research_target_for": [
+        {
+          "residency_id": "unc_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography": {
+      "disaster_risk": "null - Chapel Hill spans Orange/Durham/Chatham counties (same multi-county issue as its property_tax_rate field); Durham County itself is confirmed 'Relatively Moderate' (90th percentile) via riskbycounty.com, but no direct Orange County composite score/rating was found this batch, and a search for it risked the Orange-County-NC-vs-CA jurisdiction trap the source instructions specifically flagged - stopped rather than guess [Tier 3|cross_verified:false|unverified|2026-09-13]",
+      "terrain_summary": "Piedmont region - rolling hills, elevation ~219 ft (67m) [Tier 2|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "charlottesville-va",
+    "city": "Charlottesville",
+    "state_ref": "virginia",
+    "residency_context": {
+      "host_for": [
+        "uva_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "uva_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography": {
+      "disaster_risk": "FEMA NRI (independent city, own reporting unit): 24th percentile nationally, rating 'Very Low' - lowest-risk city profile confirmed in this batch; top individual hazard is earthquake at 70.9 (moderate), flood only 33.3, wildfire negligible 0.3 [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "terrain_summary": "Western Piedmont, in the Southwest Mountains range (parallel to and ~30mi east of the Blue Ridge); avg elevation ~453ft, range 292-876ft within city [Tier 2|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "columbia-md",
+    "city": "Columbia",
+    "state_ref": "maryland",
+    "residency_context": {
+      "host_for": [],
+      "suburb_for": [
+        {
+          "residency_id": "johns_hopkins_neurology",
+          "host_city_ref": "baltimore-md",
+          "distance_mi": 20,
+          "drive_time_offpeak_min": 28,
+          "drive_time_rush_min": 42
+        },
+        {
+          "residency_id": "univ_maryland_neurology",
+          "host_city_ref": "baltimore-md",
+          "distance_mi": 18,
+          "drive_time_offpeak_min": 25,
+          "drive_time_rush_min": 38
+        }
+      ],
+      "research_target_for": [
+        {
+          "residency_id": "johns_hopkins_neurology",
+          "swapped_from_host": true,
+          "swapped_from_host_ref": "baltimore-md",
+          "note": "Baltimore's violent crime rate runs ~3-4x the national average, and the blocks immediately around Johns Hopkins Hospital in East Baltimore have a well-documented pattern of shootings and robberies (JHU security alerts, local news). Swapped to Columbia, MD, repeatedly ranked one of the safest cities in the US (WalletHub)."
+        },
+        {
+          "residency_id": "univ_maryland_neurology",
+          "swapped_from_host": true,
+          "swapped_from_host_ref": "baltimore-md",
+          "note": "Same Baltimore host-city problem as Johns Hopkins (citywide violent crime ~3-4x national average, west-side hospital corridor affected too). Swapped to Columbia, MD, a repeat WalletHub #1 safest city."
+        }
+      ]
+    },
+    "geography": {
+      "disaster_risk": "FEMA NRI v1.20: Howard County composite score 72.4, rating 'Relatively Low' (#8 of 24 MD counties) - hurricane 81.2 is the top individual hazard, flood 78.1, earthquake 77.5, tornado/wildfire both comparatively low (42.2/15.6) [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "terrain_summary": "Piedmont Plateau - rolling hills and stream valleys, elevation range ~7-702ft (avg ~361ft); Columbia is a planned community built around three artificial lakes formed by damming tributary streams, drained by the Middle/Little Patuxent rivers [Tier 2|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "dallas-tx",
+    "city": "Dallas",
+    "state_ref": "texas",
+    "residency_context": {
+      "host_for": [
+        "utsw_neurology",
+        "baylor_umc_dallas_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "baylor_umc_dallas_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        },
+        {
+          "residency_id": "utsw_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography": {
+      "disaster_risk": "FEMA NRI v1.20 composite score 99.7, county rating 'Very High' (Dallas County; state rank #2 of 254) - top hazards hail 100.0, cold wave 99.9, heat wave 99.9, tornado 99.8, all Very High [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "terrain_summary": "Blackland Prairie - flat to gently rolling dark-soil terrain, no significant hills; Trinity River cuts through at ~120m (lowest point), city center 130-145m, N suburbs rise to 190-230m; located in Tornado Alley [Tier 2|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "durham-nc",
+    "city": "Durham",
+    "state_ref": "north-carolina",
+    "residency_context": {
+      "host_for": [
+        "duke_neurology"
+      ],
+      "suburb_for": [
+        {
+          "residency_id": "unc_neurology",
+          "host_city_ref": "chapel-hill-nc",
+          "distance_mi": 12,
+          "drive_time_offpeak_min": 18,
+          "drive_time_rush_min": 28
+        }
+      ],
+      "research_target_for": [
+        {
+          "residency_id": "duke_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography": {
+      "disaster_risk": "FEMA NRI, Durham County: composite 90th percentile nationally, rating 'Relatively Moderate' (state rank #14 of 100 NC counties) - top hazards tornado 93rd pctile, flood 92nd, hurricane 89th [Tier 2|cross_verified:false|single-source|2026-09-13]",
+      "terrain_summary": "Piedmont region - rolling hills, similar terrain profile to Chapel Hill (12mi away) [Tier 2|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "englewood-co",
+    "city": "Englewood",
+    "state_ref": "colorado",
+    "residency_context": {
+      "host_for": [
+        "hca_healthone_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "hca_healthone_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography": {
+      "disaster_risk": "FEMA NRI v1.20: Arapahoe County 93.8, 'Relatively Moderate' (#4 of 64 CO counties) - Englewood is fully within Arapahoe County, no multi-county ambiguity [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "terrain_summary": "Denver-metro High Plains/Piedmont, immediately south of Denver; elevation ~5,348-5,371 ft, minimal internal relief (range only ~5,249-5,531 ft) [Tier 2|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "farmington-ct",
+    "city": "Farmington",
+    "state_ref": "connecticut",
+    "residency_context": {
+      "host_for": [],
+      "suburb_for": [
+        {
+          "residency_id": "uconn_hartford_neurology",
+          "host_city_ref": "hartford-ct",
+          "distance_mi": 10,
+          "drive_time_offpeak_min": 15,
+          "drive_time_rush_min": 25
+        }
+      ],
+      "research_target_for": [
+        {
+          "residency_id": "uconn_hartford_neurology",
+          "swapped_from_host": true,
+          "swapped_from_host_ref": "hartford-ct",
+          "note": "Hartford's violent crime rate runs well above the national average (murder rate ~3x, FBI data). Swapped to Farmington, a low-crime suburb that is also home to UConn Health's main campus."
+        }
+      ]
+    },
+    "geography": {
+      "disaster_risk": "Capitol Planning Region (CT's current FEMA-equivalent geographic unit, replacing Hartford County per the 2024 TIGER/Line update): disaster-risk score 2.6/100 on a third-party site's own 0-100 scale - the lowest disaster-risk score of any CT planning region, consistent with inland New England's generally low disaster exposure; VERIFY: this specific 2.6 figure comes from countyscore.com's own composite scoring methodology, not a direct FEMA NRI percentile/rating pull - a raw FEMA NRI percentile for the Capitol Planning Region specifically was not independently retrieved this pass [Tier 3|cross_verified:false|single-source|2026-09-13]",
+      "terrain_summary": "Connecticut River Valley/central CT lowland; adjacent to Farmington Mountain, a distinctive traprock ridge (502ft) that is part of the Metacomet Ridge running from Long Island Sound near New Haven north through the CT River Valley - a genuine local geological landmark distinguishing Farmington from flat lowland terrain [Tier 1|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "folsom-ca",
+    "city": "Folsom",
+    "state_ref": "california",
+    "residency_context": {
+      "host_for": [],
+      "suburb_for": [
+        {
+          "residency_id": "ucdavis_neurology",
+          "host_city_ref": "sacramento-ca",
+          "distance_mi": 22,
+          "drive_time_offpeak_min": 28,
+          "drive_time_rush_min": 40
+        }
+      ],
+      "research_target_for": [
+        {
+          "residency_id": "ucdavis_neurology",
+          "swapped_from_host": true,
+          "swapped_from_host_ref": "sacramento-ca",
+          "note": "Sacramento's violent crime rate is ~100%+ above the national average, and UC Davis Medical Center directly borders Oak Park, a neighborhood with a long-documented concentration of violent crime and drug activity. Swapped to Folsom, a low-crime Sacramento suburb (~40-48% below national average)."
+        }
+      ]
+    },
+    "geography": {
+      "disaster_risk": "FEMA NRI v1.20: Sacramento County composite 98th percentile, 'Relatively High' - flood 99.0, earthquake 98.9, wildfire 95.9; Folsom itself sits at the foothill edge of the county so wildfire exposure locally may run somewhat higher than the flatland-Sacramento average, though no city-specific breakout exists [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "terrain_summary": "Sierra Nevada foothills, at the eastern edge of the Sacramento Valley; elevation ~220ft (67m), notably built around Folsom Lake; genuinely more hilly/foothill terrain than the flat Central Valley floor further west (e.g. Sacramento proper) [Tier 2|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "gainesville-fl",
+    "city": "Gainesville",
+    "state_ref": "florida",
+    "residency_context": {
+      "host_for": [
+        "uf_gainesville_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "uf_gainesville_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography": {
+      "disaster_risk": "FEMA NRI: Alachua County 90th percentile nationally, 'Relatively Moderate' [Tier 2|cross_verified:false|single-source|2026-09-13]",
+      "terrain_summary": "Interior north-central Florida, karst topography (sinkholes, springs) atop the Floridan Aquifer; low but non-coastal elevation, distinct from the flat coastal-plain terrain of this dataset's other FL cities [Tier 2|cross_verified:false|single-source|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "galveston-tx",
+    "city": "Galveston",
+    "state_ref": "texas",
+    "residency_context": {
+      "host_for": [
+        "utmb_galveston_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "utmb_galveston_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography": {
+      "disaster_risk": "FEMA NRI - Galveston County rated 'Relatively High' (~95th percentile) - driven by coastal flood, inland flood, and hurricane risk, all rated Relatively High; notably Social Vulnerability Relatively Low and Community Resilience Very High (i.e., high hazard exposure partly offset by strong recovery capacity) [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "terrain_summary": "City sits on Galveston Island, a Gulf of Mexico barrier island - 27mi long x 3mi wide, max natural elevation only ~20 ft (6.1m); low-lying, storm-surge-exposed by definition of barrier-island geography [Tier 2|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "germantown-tn",
+    "city": "Germantown",
+    "state_ref": "tennessee",
+    "residency_context": {
+      "host_for": [],
+      "suburb_for": [
+        {
+          "residency_id": "uthsc_memphis_neurology",
+          "host_city_ref": "memphis-tn",
+          "distance_mi": 15,
+          "drive_time_offpeak_min": 22,
+          "drive_time_rush_min": 32
+        }
+      ],
+      "research_target_for": [
+        {
+          "residency_id": "uthsc_memphis_neurology",
+          "swapped_from_host": true,
+          "swapped_from_host_ref": "memphis-tn",
+          "note": "Memphis has the highest violent crime rate of any large US city per FBI data. Swapped to Germantown, an affluent Memphis suburb with violent crime roughly 85-90% below the national average."
+        }
+      ]
+    },
+    "geography": {
+      "disaster_risk": "FEMA NRI: Shelby County 99th percentile nationally, 'Relatively High' (#1 riskiest TN county) - flood 98.7, tornado 99.8, earthquake 99.5 (Shelby County sits closest to the New Madrid Seismic Zone of any city in this dataset, genuinely elevated seismic exposure vs. the rest of TN) [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "terrain_summary": "West Tennessee/Mississippi River bluff region, eastern suburb of Memphis; elevation ~318ft (97m), gently rolling, much lower and flatter than Knoxville or Nashville [Tier 1|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "greenville-nc",
+    "city": "Greenville",
+    "state_ref": "north-carolina",
+    "residency_context": {
+      "host_for": [
+        "ecu_health_brody_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "ecu_health_brody_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography": {
+      "disaster_risk": "FEMA NRI, Pitt County: 90th percentile nationally, rating 'Relatively Moderate' - top hazards tornado 94.3, flood 87.7, earthquake 71.6 [Tier 2|cross_verified:false|single-source|2026-09-13]",
+      "terrain_summary": "Inner Coastal Plain (not Piedmont, unlike this dataset's other NC cities) - flat to gently rolling, low elevation, Tar River runs through city; more hurricane/flood-exposed than the Piedmont NC cities given eastern NC coastal-plain positioning [Tier 3|cross_verified:false|estimated|2026-09-13] - general-knowledge regional-geography inference, not pulled from a dedicated elevation source this pass"
+    }
+  },
+  {
+    "city_ref": "honolulu-hi",
+    "city": "Honolulu",
+    "state_ref": "hawaii",
+    "residency_context": {
+      "host_for": [
+        "hawaii_jabsom_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "hawaii_jabsom_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography": {
+      "disaster_risk": "null - no clean current-vintage (FEMA NRI v1.20) composite percentile/rating for Honolulu County found this pass despite two targeted searches; independently well-documented that Honolulu County ranks #1 nationally for tsunami risk specifically (per FEMA's own past public releases), and Hawaii statewide has only 2 of 5 counties rated 'high-risk' overall - but the exact current composite score/tier needs a follow-up query rather than a guess [Tier 3|cross_verified:false|unverified|2026-09-13]",
+      "terrain_summary": "Leeward (south/west) coast of Oahu - Diamond Head volcanic tuff cone (232m) anchors the city's eastern edge; Koolau Range runs along the windward side of the island as a rain-shadow wall; central/urban Honolulu sits in the dry leeward zone while the Koolau slopes just a few miles away are lush rainforest [Tier 1|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "jacksonville-fl",
+    "city": "Jacksonville",
+    "state_ref": "florida",
+    "residency_context": {
+      "host_for": [
+        "mayo_jacksonville_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "mayo_jacksonville_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography": {
+      "disaster_risk": "FEMA NRI: Duval County 97th percentile nationally, 'Relatively High' - notably driven by earthquake at 90.2 (unusually high for FL, likely reflecting regional seismic-hazard modeling rather than local fault activity) alongside flood 97.6 and tornado 91.5 [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "terrain_summary": "Atlantic coastal plain, St. Johns River runs through city; flat, low-elevation terrain typical of NE Florida coast [Tier 3|cross_verified:false|estimated|2026-09-13] - general coastal-plain inference, not pulled from a dedicated elevation source this pass"
+    }
+  },
+  {
+    "city_ref": "knoxville-tn",
+    "city": "Knoxville",
+    "state_ref": "tennessee",
+    "residency_context": {
+      "host_for": [
+        "utgsm_knoxville_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "utgsm_knoxville_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography": {
+      "disaster_risk": "FEMA NRI: Knox County 92nd percentile nationally, 'Relatively Moderate' (#4 riskiest TN county) - flood 92.8, tornado 96.7, earthquake notably elevated at 96.8 (New Madrid seismic zone influence, similar pattern to other mid-South counties in this dataset) [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "terrain_summary": "Great Appalachian/Tennessee Valley, roughly midway between the Great Smoky Mountains (east) and Cumberland Plateau (west); city elevation ~936ft avg, range ~800-1,391ft (Sharp's Ridge) [Tier 1|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "los-angeles-ca",
+    "city": "Los Angeles",
+    "state_ref": "california",
+    "residency_context": {
+      "host_for": [
+        "ucla_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "ucla_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography": {
+      "disaster_risk": "FEMA NRI v1.20: Los Angeles County composite 100.0/100, 'Very High' rating, #1 riskiest county in California and among the highest nationally - top hazards flood 100, wildfire 99.9, earthquake 100, all maxed; every category except hurricane is elevated [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "terrain_summary": "LA Basin, a broad sedimentary coastal plain bounded by San Gabriel, Santa Monica, and Santa Ana mountains; extreme internal elevation range 0-1,548m (Mount Lukens) within city limits; genuine microclimates - coastal areas can differ from San Fernando Valley by up to 20°C on a given day [Tier 1|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "miami-fl",
+    "city": "Miami",
+    "state_ref": "florida",
+    "residency_context": {
+      "host_for": [
+        "umiami_jackson_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "umiami_jackson_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography": {
+      "disaster_risk": "FEMA NRI: Miami-Dade County 100th percentile nationally (composite ~99.6), 'Very High' rating - Florida's and one of the nation's highest-risk counties; driven by flood 99.7-100 and hurricane 100 (both maxed), tornado also elevated at 98.7 [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "terrain_summary": "Built on Miami Limestone (oolitic coral bedrock, part of the Miami Rock Ridge), extremely flat and low-lying - avg elevation only ~2m (6-12ft), highest natural point in city ~7m (Coconut Grove ridge); porous bedrock means conventional flood barriers (seawalls/levees) can't fully block water intrusion from below as sea levels rise [Tier 2|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "nashville-tn",
+    "city": "Nashville",
+    "state_ref": "tennessee",
+    "residency_context": {
+      "host_for": [
+        "vanderbilt_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "vanderbilt_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography": {
+      "disaster_risk": "FEMA NRI: Davidson County 97th percentile nationally, 'Relatively High' (#2 riskiest TN county) - flood 98.2, tornado 97.9 (2020 Nashville tornado outbreak is a documented real event consistent with this rating), earthquake 98.2 [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "terrain_summary": "Nashville Basin (Central Basin), a limestone-karst geological depression surrounded by the Highland Rim; city elevation avg ~597ft, range 385-1,163ft (Radnor Lake); genuinely hilly despite the 'basin' name - Highland Rim rises 300-400ft above the basin floor, forming a visible ring around the horizon [Tier 1|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "oklahoma-city-ok",
+    "city": "Oklahoma City",
+    "state_ref": "oklahoma",
+    "residency_context": {
+      "host_for": [
+        "ou_health_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "ou_health_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography": {
+      "disaster_risk": "FEMA NRI: Oklahoma County 98th percentile nationally, 'Relatively High' (#1 riskiest OK county, tied with Tulsa) - tornado maxed at 99.5, flood 97.6, earthquake notably high at 94.0 (OK's well-documented induced-seismicity increase from wastewater injection) [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "terrain_summary": "Southern Great Plains, gently rolling prairie along the North Canadian River; elevation ~1,200-1,291ft, flat farmland/grassland with few trees except along riverbanks; no mountains or coast nearby [Tier 1|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "palo-alto-ca",
+    "city": "Palo Alto",
+    "state_ref": "california",
+    "residency_context": {
+      "host_for": [
+        "stanford_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "stanford_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography": {
+      "disaster_risk": "FEMA NRI v1.20: Santa Clara County composite 100th percentile, 'Very High' - top hazards flood 99.8, earthquake 99.9 (San Andreas/Hayward fault proximity), tornado comparatively low at 55.8 [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "terrain_summary": "San Francisco Bay/Santa Clara Valley floor - official city elevation only 30ft (9m) near the Bay, but city boundaries extend well into the Santa Cruz Mountains foothills to the west, reaching several hundred feet; genuine two-tier terrain (flat bayside vs. hilly western edge) [Tier 2|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "phoenix-az",
+    "city": "Phoenix",
+    "state_ref": "arizona",
+    "residency_context": {
+      "host_for": [
+        "barrow_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "barrow_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography": {
+      "disaster_risk": "FEMA NRI v1.20: Maricopa County composite 100th percentile, 'Very High' - #1 riskiest AZ county; flood 99.9 and extreme heat both maxed, notable since heat risk doesn't appear in this dataset's other Very High-risk cities the same way [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "terrain_summary": "Salt River Valley ('Valley of the Sun'), northern Sonoran Desert; mean elevation ~1,117ft (340m), broad flat desert basin ringed by mountains (South Mountain, Camelback, McDowells to the east) [Tier 1|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "portland-or",
+    "city": "Portland",
+    "state_ref": "oregon",
+    "residency_context": {
+      "host_for": [
+        "ohsu_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "ohsu_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography": {
+      "disaster_risk": "FEMA NRI: Multnomah County 98th percentile nationally, 'Relatively High' (#1 riskiest OR county) - earthquake maxed at 99.6 (Cascadia Subduction Zone exposure), flood 95.5, landslide separately flagged as 'High' by a disasteraware.com hazard breakout; wildfire/tornado comparatively low (47-67) reflecting the wet westside-Cascades setting rather than dry-interior risk [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "terrain_summary": "Northern Willamette Valley at the confluence of the Willamette and Columbia rivers; Cascade Range (Mount Hood, 3,429m) visible to the east, Coast Range to the west; Portland itself sits at low elevation (~20ft/6m) in the valley floor between the two ranges [Tier 1|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "providence-ri",
+    "city": "Providence",
+    "state_ref": "rhode-island",
+    "residency_context": {
+      "host_for": [
+        "brown_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "brown_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography": {
+      "disaster_risk": "FEMA NRI: Providence County 94th percentile nationally, 'Relatively Moderate' (#1 riskiest RI county, and RI's only county above 'Relatively Low') - flood 96.6 dominates, tornado comparatively low at 78.3, wildfire very low at 31.7 [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "terrain_summary": "Head of Narragansett Bay on the Providence River; city built on three hills, elevation ~80ft (10-24m depending on source); part of RI's Narragansett/Seaboard Lowland, generally flat-to-gently-hilly coastal terrain distinct from the hillier New England Upland covering western RI [Tier 2|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "richmond-va",
+    "city": "Richmond",
+    "state_ref": "virginia",
+    "residency_context": {
+      "host_for": [
+        "vcu_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "vcu_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography": {
+      "disaster_risk": "FEMA NRI (independent city): composite ~34.5, rating 'Very Low' band (0-42.7 threshold) per riskbycounty's own published rating scale [Tier 2|cross_verified:true|verified|2026-09-13]. NOTE: a non-FEMA third-party aggregator (disastercalculator.com) separately scores Richmond 59.3/100 using its own proprietary methodology weighted toward landslide risk - not the same NRI-based scale, flagged as a different/lower-tier scoring system rather than a genuine conflict with the FEMA figure.",
+      "terrain_summary": "Fall Line city - sits exactly where the Piedmont's rolling uplands meet the Coastal Plain/Tidewater; James River drops through a 7-mile rapids zone through downtown; avg elevation ~161ft (49m), terrain varies from river-valley floodplain to upland hills to the west/southwest and flatter coastal-plain lowlands east [Tier 2|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "roanoke-va",
+    "city": "Roanoke",
+    "state_ref": "virginia",
+    "residency_context": {
+      "host_for": [
+        "carilion_vtc_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "carilion_vtc_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography": {
+      "disaster_risk": "FEMA NRI (independent city): composite ~33.7-36.7 depending on source snapshot, rating 'Very Low' band - both figures fall well within riskbycounty's 0-42.7 Very Low threshold; the adjacent, separate Roanoke County (surrounding suburbs, different jurisdiction) scores notably higher at 52.2 'Relatively Low' - genuine and correctly-distinguished city-vs-county gradient, not a data conflict [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "terrain_summary": "Roanoke Valley, within/along the Blue Ridge Mountains; avg elevation ~333m (1,093ft), range 251-680m; mountain-valley setting distinct from the other VA cities in this dataset (all Piedmont/Fall-Line) [Tier 2|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "salisbury-md",
+    "city": "Salisbury",
+    "state_ref": "maryland",
+    "residency_context": {
+      "host_for": [
+        "tidalhealth_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "tidalhealth_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography": {
+      "disaster_risk": "FEMA NRI v1.20: Wicomico County 61st percentile nationally, rating 'Relatively Low' - notably different hazard mix than the Piedmont MD cities: wildfire elevated at 80.9 (highest of any hazard for this county, unusual for the Eastern Shore), flood only 57.8, tornado 33.7 [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "terrain_summary": "Delmarva Peninsula/Eastern Shore coastal plain - very low, flat terrain; city elevation only 17-45ft (5-14m); genuinely distinct from every other MD/mid-Atlantic city in this dataset, all of which sit on the Piedmont or Fall Line [Tier 1|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "salt-lake-city-ut",
+    "city": "Salt Lake City",
+    "state_ref": "utah",
+    "residency_context": {
+      "host_for": [
+        "univ_utah_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "univ_utah_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography": {
+      "disaster_risk": "null - no clean current-vintage FEMA NRI composite percentile/rating for Salt Lake County found this pass; independently well-documented that the Wasatch Fault running directly beneath the Salt Lake Valley is the region's dominant seismic hazard (multiple USGS studies of the Wasatch Front earthquake risk specifically), and Salt Lake County has the largest number of wildfire-exposed structures in Utah (138,600 per a First Street Foundation report) - but the exact current composite score/tier needs a follow-up query rather than a guess [Tier 3|cross_verified:false|unverified|2026-09-13]",
+      "terrain_summary": "Salt Lake Valley, an intermontane valley on the Wasatch Front - bounded by the Wasatch Range (east, peaks to 3,636m) and Oquirrh Mountains (west), with the Great Salt Lake to the northwest; city elevation ~4,327ft (1,319m), valley floor is broad and flat, mountains rise steeply from its edges [Tier 1|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "san-diego-ca",
+    "city": "San Diego",
+    "state_ref": "california",
+    "residency_context": {
+      "host_for": [
+        "ucsd_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "ucsd_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography": {
+      "disaster_risk": "FEMA NRI v1.20: San Diego County composite 100th percentile, 'Very High' - flood 99.7, wildfire maxed at 100 (well-documented wildland-urban interface risk), earthquake 99.7, tornado notably lower at 64.4 [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "terrain_summary": "Distinctive mesa-and-canyon topography - flat-topped marine terraces (mesas) dissected by steep east-west canyons (Mission Valley, Rose Canyon, etc.) draining toward the coast; city elevation range -2m to 1,103m (Cowles/Cuyamaca peaks to the east), avg ~125m; creates genuine neighborhood-to-neighborhood microclimates via canyon cold-air pooling [Tier 2|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "san-francisco-ca",
+    "city": "San Francisco",
+    "state_ref": "california",
+    "residency_context": {
+      "host_for": [
+        "ucsf_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "ucsf_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography": {
+      "disaster_risk": "FEMA NRI v1.20: San Francisco County composite 100th percentile, 'Very High' - notably different hazard profile from the rest of the CA cities in this dataset: earthquake maxed at 99.8 and flood high at 98.6, but wildfire and tornado comparatively low (28.7 and 34.9) given the dense urban, non-wildland-interface setting [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "terrain_summary": "Hilly peninsula between the Pacific Ocean and SF Bay - 43 named hills, elevation range 0-282m (Mount Davidson); sits astride the Pacific/North American plate boundary near multiple fault traces (San Andreas along the peninsula, Hayward across the Bay); Marina District built on 1906-earthquake rubble fill, elevated liquefaction risk [Tier 2|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "scottsdale-az",
+    "city": "Scottsdale",
+    "state_ref": "arizona",
+    "residency_context": {
+      "host_for": [
+        "mayo_scottsdale_phoenix_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "mayo_scottsdale_phoenix_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography": {
+      "disaster_risk": "FEMA NRI v1.20: Maricopa County composite 100th percentile, 'Very High' - same county reading as Phoenix, no jurisdiction split [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "terrain_summary": "Salt River Valley/Sonoran Desert, but with meaningfully more relief than Phoenix proper - city elevation ranges 1,052-4,819ft due to the McDowell Mountains foothills along the city's eastern edge (McDowell Sonoran Preserve, ~30,500 acres); southern Scottsdale near Phoenix is low desert basin, northern/eastern Scottsdale climbs into rugged high-desert terrain [Tier 2|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "seattle-wa",
+    "city": "Seattle",
+    "state_ref": "washington",
+    "residency_context": {
+      "host_for": [
+        "uw_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "uw_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography": {
+      "disaster_risk": "FEMA NRI v1.20: King County composite 100th percentile, 'Very High' - #1 riskiest WA county; earthquake maxed at 99.9-100 (Seattle Fault runs directly beneath the city, plus Cascadia subduction zone exposure), flood also high at 99.5; wildfire/tornado comparatively low (73-80) [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "terrain_summary": "Glacially-carved hilly isthmus between Puget Sound and Lake Washington; 'Seven Hills of Seattle' (Capitol Hill, Queen Anne, Beacon Hill, etc.), elevation range 0-158m (West Seattle); Mount Rainier (4,392m stratovolcano) visible ~87km SE; genuine landslide risk on steep glacial-till slopes [Tier 2|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "tacoma-wa",
+    "city": "Tacoma",
+    "state_ref": "washington",
+    "residency_context": {
+      "host_for": [
+        "madigan_army_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "madigan_army_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography": {
+      "disaster_risk": "FEMA NRI v1.20: Pierce County composite 98.7 (per direct FEMA hazards.fema.gov report)/99th percentile, 'Relatively High'/'Very High' depending on source rounding - flood 96.2, earthquake 99.6 (Tacoma Fault runs directly through the county, M7.1 scenario modeled by FEMA Region X), landslide and tsunami risk both flagged for Tacoma specifically in FEMA's own regional risk report given its bluff-and-waterfront geography [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "terrain_summary": "Rolling hills, steep bluffs, and terraced flat plains rising from Puget Sound to ~440ft (134m) in the city's east; built on a series of terraces overlooking Commencement Bay [Tier 2|cross_verified:true|verified|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "tampa-fl",
+    "city": "Tampa",
+    "state_ref": "florida",
+    "residency_context": {
+      "host_for": [
+        "usf_morsani_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "usf_morsani_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography": {
+      "disaster_risk": "FEMA NRI: Hillsborough County 99th percentile nationally, 'Relatively High' - top hazards tornado 99.7, flood 97.8, earthquake surprisingly high at 68.5 (regional seismic model artifact, same pattern as Duval County) [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "terrain_summary": "Gulf coastal plain around Tampa Bay; flat, low-elevation, similar coastal-plain profile to Miami/Jacksonville but on the Gulf side [Tier 3|cross_verified:false|estimated|2026-09-13] - general coastal-plain inference, not pulled from a dedicated elevation source this pass"
+    }
+  },
+  {
+    "city_ref": "winston-salem-nc",
+    "city": "Winston-Salem",
+    "state_ref": "north-carolina",
+    "residency_context": {
+      "host_for": [
+        "wake_forest_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "wake_forest_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "geography": {
+      "disaster_risk": "FEMA NRI, Forsyth County: 92nd percentile nationally, rating 'Relatively Moderate' - top hazards flood 94.7, tornado 90.9, earthquake 88.1 [Tier 2|cross_verified:false|single-source|2026-09-13]",
+      "terrain_summary": "Piedmont region, Piedmont Triad area; rolling hills typical of the region [Tier 2|cross_verified:false|single-source|2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "woodbridge-ct",
+    "city": "Woodbridge",
+    "state_ref": "connecticut",
+    "residency_context": {
+      "host_for": [],
+      "suburb_for": [
+        {
+          "residency_id": "yale_neurology",
+          "host_city_ref": "new-haven-ct",
+          "distance_mi": 8,
+          "drive_time_offpeak_min": 15,
+          "drive_time_rush_min": 22
+        }
+      ],
+      "research_target_for": [
+        {
+          "residency_id": "yale_neurology",
+          "swapped_from_host": true,
+          "swapped_from_host_ref": "new-haven-ct",
+          "note": "New Haven's citywide crime rate runs well above the national average, and the Hill neighborhood around Yale-New Haven Hospital shows above-average violent crime in local data. Swapped to Woodbridge, one of the lowest-crime towns in Connecticut."
+        }
+      ]
+    },
+    "geography": {
+      "disaster_risk": "South Central Connecticut Planning Region (CT's current FEMA-equivalent unit, replacing New Haven County): disaster-risk score 4.9/100 on a third-party site's own 0-100 scale - among the lowest in CT, though the broader New Haven County/region has recorded 12 federal disaster declarations since 2000 (mostly hurricanes/tropical storms - Sandy, Irene, Ida - and winter storms), with coastal Milford flagged as the most flood-exposed municipality in the region; VERIFY: same single-source caveat as Farmington - this 4.9 figure is a third-party composite score, not a directly retrieved FEMA NRI percentile [Tier 3|cross_verified:false|single-source|2026-09-13]",
+      "terrain_summary": "Inland New Haven County, at the headwaters of the Wepawaug River; elevation ~348ft (106m), part of the same general central-CT hilly terrain as Farmington but closer to Long Island Sound; genuinely more inland/elevated than coastal New Haven itself, consistent with the safety-substitute rationale noted in this dataset's residency_context [Tier 1|cross_verified:true|verified|2026-09-13]"
+    }
+  }
+]

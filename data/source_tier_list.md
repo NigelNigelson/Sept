@@ -37,5 +37,8 @@ Each research agent in `.claude/agents/` has its own curated excerpt of this lis
 - `commute.ez_time_diff`: field definition ambiguous, confirm meaning before sourcing — n/a for this pipeline, `commute` is out of scope
 - `household_lifestyle.pet_logistics`: no authoritative source category exists; treat as manual/optional, out of strict-source scope — n/a for this pipeline, no issues flagged for this field
 
+## Resolved policy clarifications (added mid-pipeline, Pass 5)
+- A tier tag with no identifiable source name is not self-authenticating. When reconciling against a competing value that does name a source, treat the named source as higher-confidence regardless of the numeric tier label on the untraceable one, and retag the untraceable value accordingly (down to whatever tier it can actually support without a named source).
+
 ## Known gap (flagged during agent design, not yet resolved)
 No explicit Tier 1/2 category exists for state insurance regulators or industry bodies (e.g. a state Department of Insurance, NAIC, III.org) for `financial.insurance_exposure`. `financial-researcher`'s curated excerpt treats a state Dept. of Insurance site as Tier 1 by analogy to other regulatory boards, but this should be formally added here once confirmed.
