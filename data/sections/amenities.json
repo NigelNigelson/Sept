@@ -1,1 +1,1401 @@
-[{"city_ref":"atlanta-ga","city":"Atlanta","state_ref":"georgia","residency_context":{"host_for":["emory_neurology","morehouse_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"emory_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null},{"residency_id":"morehouse_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"amenities":{"in_n_out_present":"No — Georgia has zero In-N-Out locations statewide, cross-verified across 5 independent sources (TheDailyMeal, Fast Company, KTLA, ScrapeHero location database, in-and-out-menu.com state guide) [Tier2|cross_verified:true|verified|2026-09-13]","costco_present":"Yes — multiple official warehouses within city limits, e.g. Perimeter (6350 Peachtree Dunwoody Rd.) and Brookhaven (500 Brookhaven Ave. NE) [Tier1|cross_verified:true|verified|2026-09-13]","dutch_bros_present":"No (within city limits) — GA's Dutch Bros locations are all metro-Atlanta suburbs outside the city itself: Johns Creek (9630 Medlock Bridge Rd., first metro-Atlanta location, Jul 2025), Tucker, Lawrenceville, Roswell — none inside Atlanta's own boundary [Tier2|cross_verified:true|verified|2026-09-13]","_meta":"amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"}},{"city_ref":"augusta-ga","city":"Augusta","state_ref":"georgia","residency_context":{"host_for":["mcg_augusta_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"mcg_augusta_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"amenities":{"in_n_out_present":"No — Georgia has zero In-N-Out locations statewide (same multi-source state list as Atlanta) [Tier2|cross_verified:true|verified|2026-09-13]","costco_present":"Yes — official warehouse at 825 Cabela Dr., Augusta, GA 30909 [Tier1|cross_verified:true|verified|2026-09-13]","dutch_bros_present":"Yes — 3064 Washington Road, Augusta, GA 30907, newly-constructed corporate-leased unit near Augusta National (commercial real estate listing shows construction complete; a second location is planned for North Augusta, SC by Q4 2026) [Tier2|cross_verified:false|verified|2026-09-13]","_meta":"amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"}},{"city_ref":"aurora-co","city":"Aurora","state_ref":"colorado","residency_context":{"host_for":["univ_colorado_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"univ_colorado_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"amenities":{"in_n_out_present":"Yes — official location at 14150 E. Alameda Ave., Aurora, CO 80012 (opened Nov 2020, Denver metro's first) [Tier1|cross_verified:true|verified|2026-09-13]","costco_present":"Yes — official warehouse at 1471 S Havana St., Aurora, CO 80012 [Tier1|cross_verified:true|verified|2026-09-13]","dutch_bros_present":"Yes (estimated) — Colorado has 50-62 locations statewide with Denver/Aurora explicitly named as core CO markets in aggregator city rankings; not individually address-verified this pass [Tier3|cross_verified:false|estimated|2026-09-13]","_meta":"amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"}},{"city_ref":"austin-tx","city":"Austin","state_ref":"texas","residency_context":{"host_for":["dellmed_utaustin_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"dellmed_utaustin_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"amenities":{"in_n_out_present":"Yes — multiple official locations confirmed (e.g. 4515 Airport Blvd., 2700 Guadalupe St., 3701 S. Lamar Blvd.) [Tier1|cross_verified:true|verified|2026-09-13]","costco_present":"Yes — two official warehouses, 10401 Research Blvd. and 4301 W William Cannon Dr. (S Austin) [Tier1|cross_verified:true|verified|2026-09-13]","dutch_bros_present":"Yes — Austin listed among top Texas cities for Dutch Bros (9+ locations per city ranking); TX is the chain's largest state (220+ locations) [Tier2|cross_verified:false|verified|2026-09-13]","_meta":"amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"}},{"city_ref":"chapel-hill-nc","city":"Chapel Hill","state_ref":"north-carolina","residency_context":{"host_for":["unc_neurology"],"suburb_for":[{"residency_id":"duke_neurology","host_city_ref":"durham-nc","distance_mi":12,"drive_time_offpeak_min":18,"drive_time_rush_min":28}],"research_target_for":[{"residency_id":"unc_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"amenities":{"in_n_out_present":"No — North Carolina has zero In-N-Out locations statewide, cross-verified multi-source [Tier2|cross_verified:true|verified|2026-09-13]","costco_present":"No — no warehouse within Chapel Hill; nearest is Durham (1510 N Pointe Dr., ~10-12 mi, per the original schema note that the two cities are 12 mi apart) [Tier1|cross_verified:true|verified|2026-09-13]","dutch_bros_present":"No — NC's only confirmed Dutch Bros locations are Morrisville (first NC store, ~15 mi away) and Winston-Salem (via 2026 Clutch Coffee acquisition); none in Chapel Hill [Tier2|cross_verified:true|verified|2026-09-13]","_meta":"amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"}},{"city_ref":"charlottesville-va","city":"Charlottesville","state_ref":"virginia","residency_context":{"host_for":["uva_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"uva_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"amenities":{"in_n_out_present":"No — Virginia has zero In-N-Out locations statewide, cross-verified multi-source [Tier2|cross_verified:true|verified|2026-09-13]","costco_present":"Yes — official warehouse at 3171 District Ave., Charlottesville, VA 22901 [Tier1|cross_verified:true|verified|2026-09-13]","dutch_bros_present":"No — Virginia has zero Dutch Bros locations statewide, cross-verified across all current source lists [Tier2|cross_verified:true|verified|2026-09-13]","_meta":"amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"}},{"city_ref":"columbia-md","city":"Columbia","state_ref":"maryland","residency_context":{"host_for":[],"suburb_for":[{"residency_id":"johns_hopkins_neurology","host_city_ref":"baltimore-md","distance_mi":20,"drive_time_offpeak_min":28,"drive_time_rush_min":42},{"residency_id":"univ_maryland_neurology","host_city_ref":"baltimore-md","distance_mi":18,"drive_time_offpeak_min":25,"drive_time_rush_min":38}],"research_target_for":[{"residency_id":"johns_hopkins_neurology","swapped_from_host":true,"swapped_from_host_ref":"baltimore-md","note":"Baltimore's violent crime rate runs ~3-4x the national average, and the blocks immediately around Johns Hopkins Hospital in East Baltimore have a well-documented pattern of shootings and robberies (JHU security alerts, local news). Swapped to Columbia, MD, repeatedly ranked one of the safest cities in the US (WalletHub)."},{"residency_id":"univ_maryland_neurology","swapped_from_host":true,"swapped_from_host_ref":"baltimore-md","note":"Same Baltimore host-city problem as Johns Hopkins (citywide violent crime ~3-4x national average, west-side hospital corridor affected too). Swapped to Columbia, MD, a repeat WalletHub #1 safest city."}]},"amenities":{"in_n_out_present":"No — Maryland has zero In-N-Out locations statewide, cross-verified multi-source [Tier2|cross_verified:true|verified|2026-09-13]","costco_present":"Yes — Costco's own \"Columbia MD\" branded warehouse (store #1000), physically addressed in adjacent Elkridge, MD (6675 Marie Curie Dr., ~5 mi from central Columbia) [Tier1|cross_verified:true|verified|2026-09-13]","dutch_bros_present":"No — Maryland has zero Dutch Bros locations statewide [Tier2|cross_verified:true|verified|2026-09-13]","_meta":"amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"}},{"city_ref":"dallas-tx","city":"Dallas","state_ref":"texas","residency_context":{"host_for":["utsw_neurology","baylor_umc_dallas_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"baylor_umc_dallas_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null},{"residency_id":"utsw_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"amenities":{"in_n_out_present":"Yes — official locations confirmed; Dallas is one of the highest-concentration TX cities (5 locations per ScrapeHero ranking) [Tier1|cross_verified:true|verified|2026-09-13]","costco_present":"Yes — official warehouse at 8055 Churchill Way, Dallas, TX 75251 [Tier1|cross_verified:true|verified|2026-09-13]","dutch_bros_present":"Yes (estimated) — Fort Worth (10+) and the broader DFW metro are core TX markets; Dallas not individually address-verified this pass but TX is the chain's #1 state by location count [Tier3|cross_verified:false|estimated|2026-09-13]","_meta":"amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"}},{"city_ref":"durham-nc","city":"Durham","state_ref":"north-carolina","residency_context":{"host_for":["duke_neurology"],"suburb_for":[{"residency_id":"unc_neurology","host_city_ref":"chapel-hill-nc","distance_mi":12,"drive_time_offpeak_min":18,"drive_time_rush_min":28}],"research_target_for":[{"residency_id":"duke_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"amenities":{"in_n_out_present":"No — North Carolina has zero In-N-Out locations statewide [Tier2|cross_verified:true|verified|2026-09-13]","costco_present":"Yes — official warehouse at 1510 N Pointe Dr., Durham, NC 27705 [Tier1|cross_verified:true|verified|2026-09-13]","dutch_bros_present":"No — nearest is Morrisville (~12 mi); none confirmed in Durham itself [Tier2|cross_verified:true|verified|2026-09-13]","_meta":"amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"}},{"city_ref":"englewood-co","city":"Englewood","state_ref":"colorado","residency_context":{"host_for":["hca_healthone_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"hca_healthone_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"amenities":{"in_n_out_present":"No (unconfirmed) — no official In-N-Out address found within Englewood city limits; nearest confirmed are Aurora (~10 mi), Denver (~8 mi), Lakewood (~12 mi). One low-quality aggregator (wedeliverdouglascounty.com) listed an Englewood address under a mismatched \"In-N-Out Burger-Parker\" business name — excluded per source-quality policy (undisclosed methodology, internal inconsistency) [Tier3|cross_verified:false|low-confidence|2026-09-13]","costco_present":"Yes — official warehouse at 4000 River Point Pkwy., Englewood, CO 80110 (store #1027) [Tier1|cross_verified:true|verified|2026-09-13]","dutch_bros_present":"No — nearest confirmed location is in adjacent Sheridan, CO (3705 S Santa Fe Dr.), a separately-incorporated small city bordering/enclaved within Englewood (shares the 80110 ZIP); no address confirmed inside Englewood's own boundary [Tier2|cross_verified:true|verified|2026-09-13]","_meta":"amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"}},{"city_ref":"farmington-ct","city":"Farmington","state_ref":"connecticut","residency_context":{"host_for":[],"suburb_for":[{"residency_id":"uconn_hartford_neurology","host_city_ref":"hartford-ct","distance_mi":10,"drive_time_offpeak_min":15,"drive_time_rush_min":25}],"research_target_for":[{"residency_id":"uconn_hartford_neurology","swapped_from_host":true,"swapped_from_host_ref":"hartford-ct","note":"Hartford's violent crime rate runs well above the national average (murder rate ~3x, FBI data). Swapped to Farmington, a low-crime suburb that is also home to UConn Health's main campus."}]},"amenities":{"in_n_out_present":"No — Connecticut has zero In-N-Out locations statewide, cross-verified multi-source [Tier2|cross_verified:true|verified|2026-09-13]","costco_present":"No — no warehouse within Farmington; nearest is New Britain (405 Hartford Rd., ~5-6 mi) [Tier1|cross_verified:true|verified|2026-09-13]","dutch_bros_present":"No — Connecticut has zero Dutch Bros locations statewide [Tier2|cross_verified:true|verified|2026-09-13]","_meta":"amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"}},{"city_ref":"folsom-ca","city":"Folsom","state_ref":"california","residency_context":{"host_for":[],"suburb_for":[{"residency_id":"ucdavis_neurology","host_city_ref":"sacramento-ca","distance_mi":22,"drive_time_offpeak_min":28,"drive_time_rush_min":40}],"research_target_for":[{"residency_id":"ucdavis_neurology","swapped_from_host":true,"swapped_from_host_ref":"sacramento-ca","note":"Sacramento's violent crime rate is ~100%+ above the national average, and UC Davis Medical Center directly borders Oak Park, a neighborhood with a long-documented concentration of violent crime and drug activity. Swapped to Folsom, a low-crime Sacramento suburb (~40-48% below national average)."}]},"amenities":{"in_n_out_present":"Yes — official location at 225 Placerville Rd., Folsom, CA 95630 [Tier1|cross_verified:true|verified|2026-09-13]","costco_present":"Yes — official warehouse at 1800 Cavitt Dr., Folsom, CA 95630 [Tier1|cross_verified:true|verified|2026-09-13]","dutch_bros_present":"Yes (estimated) — Sacramento metro is a top-13 Dutch Bros market (13-17 locations); Folsom itself not individually address-verified this pass [Tier3|cross_verified:false|estimated|2026-09-13]","_meta":"amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"}},{"city_ref":"gainesville-fl","city":"Gainesville","state_ref":"florida","residency_context":{"host_for":["uf_gainesville_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"uf_gainesville_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"amenities":{"in_n_out_present":"No — Florida has zero In-N-Out locations statewide, cross-verified multi-source [Tier2|cross_verified:true|verified|2026-09-13]","costco_present":"No — no warehouse within Gainesville; nearest confirmed official locations are in the Jacksonville metro (~70 mi) or Ocala/Villages area, no closer alternative surfaced this pass [Tier1|cross_verified:false|verified|2026-09-13]","dutch_bros_present":"Yes — official location at 3315 SW Williston Rd., Gainesville, FL (opened Mar 2025, first in North Central Florida) [Tier1|cross_verified:true|verified|2026-09-13]","_meta":"amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"}},{"city_ref":"galveston-tx","city":"Galveston","state_ref":"texas","residency_context":{"host_for":["utmb_galveston_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"utmb_galveston_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"amenities":{"in_n_out_present":"No — no In-N-Out on Galveston Island; nearest official locations are in Webster, TX (122 El Dorado Blvd.) and the Clear Lake area, ~25-30 mi away [Tier1|cross_verified:true|verified|2026-09-13]","costco_present":"No — no warehouse on Galveston Island; nearest is Webster, TX (1310 Jasmine Ave. / 1203 W Bay Area Blvd.), ~27 mi [Tier1|cross_verified:true|verified|2026-09-13]","dutch_bros_present":"No — no location found on Galveston Island; nearest is League City on the mainland (1721 League City Pkwy. and 6645 South Shore Blvd.), ~25 mi north [Tier2|cross_verified:true|verified|2026-09-13]","_meta":"amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"}},{"city_ref":"germantown-tn","city":"Germantown","state_ref":"tennessee","residency_context":{"host_for":[],"suburb_for":[{"residency_id":"uthsc_memphis_neurology","host_city_ref":"memphis-tn","distance_mi":15,"drive_time_offpeak_min":22,"drive_time_rush_min":32}],"research_target_for":[{"residency_id":"uthsc_memphis_neurology","swapped_from_host":true,"swapped_from_host_ref":"memphis-tn","note":"Memphis has the highest violent crime rate of any large US city per FBI data. Swapped to Germantown, an affluent Memphis suburb with violent crime roughly 85-90% below the national average."}]},"amenities":{"in_n_out_present":"No — Memphis-area In-N-Out is still pre-opening: a permit was filed Aug 2025 for a Poplar Ave./Estate Dr. location (East Memphis, ~10 mi from Germantown) with no confirmed opening date as of Mar 2026; nothing operating in Germantown itself [Tier2|cross_verified:true|verified|2026-09-13]","costco_present":"No — the \"NE Memphis\" warehouse sits on N. Germantown Pkwy. but its official address is Cordova, TN (2431 N Germantown Pkwy.), ~5 mi from Germantown itself; no warehouse inside Germantown's own city limits [Tier1|cross_verified:true|verified|2026-09-13]","dutch_bros_present":"No (within suburb limits) — nearest confirmed is Memphis proper (3495 Austin Peay Hwy, ~15 mi from Germantown); no location confirmed inside Germantown itself [Tier2|cross_verified:false|verified|2026-09-13]","_meta":"amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"}},{"city_ref":"greenville-nc","city":"Greenville","state_ref":"north-carolina","residency_context":{"host_for":["ecu_health_brody_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"ecu_health_brody_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"amenities":{"in_n_out_present":"No — North Carolina has zero In-N-Out locations statewide [Tier2|cross_verified:true|verified|2026-09-13]","costco_present":"No — not among NC's 10 statewide warehouse locations (Apex, Charlotte, Durham, Greensboro, Matthews, Mooresville, Raleigh x2, Wilmington, Winston-Salem); nearest is the Raleigh/Apex area, ~85 mi [Tier1|cross_verified:true|verified|2026-09-13]","dutch_bros_present":"No — not found in any NC location list (NC's confirmed stores are Morrisville and Winston-Salem only) [Tier2|cross_verified:false|verified|2026-09-13]","_meta":"amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"}},{"city_ref":"honolulu-hi","city":"Honolulu","state_ref":"hawaii","residency_context":{"host_for":["hawaii_jabsom_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"hawaii_jabsom_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"amenities":{"in_n_out_present":"No — Hawaii has zero In-N-Out locations statewide, cross-verified multi-source [Tier2|cross_verified:true|verified|2026-09-13]","costco_present":"Yes — two official warehouses within Honolulu: Hawaii Kai (333 A Keahole St.) and Iwilei (525 Alakawa St., reportedly the busiest Costco in the world) [Tier1|cross_verified:true|verified|2026-09-13]","dutch_bros_present":"No — Hawaii has zero Dutch Bros locations statewide [Tier2|cross_verified:true|verified|2026-09-13]","_meta":"amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"}},{"city_ref":"jacksonville-fl","city":"Jacksonville","state_ref":"florida","residency_context":{"host_for":["mayo_jacksonville_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"mayo_jacksonville_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"amenities":{"in_n_out_present":"No — Florida has zero In-N-Out locations statewide [Tier2|cross_verified:true|verified|2026-09-13]","costco_present":"Yes — multiple official warehouses, e.g. E Jacksonville (4901 Gate Pkwy.) and W Jacksonville (8000 Parramore Rd.) [Tier1|cross_verified:true|verified|2026-09-13]","dutch_bros_present":"Yes — multiple official locations (e.g. 5733 Roosevelt Blvd., 10913 Baymeadows Rd.) [Tier1|cross_verified:true|verified|2026-09-13]","_meta":"amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"}},{"city_ref":"knoxville-tn","city":"Knoxville","state_ref":"tennessee","residency_context":{"host_for":["utgsm_knoxville_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"utgsm_knoxville_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"amenities":{"in_n_out_present":"No — Knoxville remains in In-N-Out's \"planned\" tier for Tennessee (3-5 stores under consideration); no confirmed opening as of Aug 2026 [Tier2|cross_verified:true|verified|2026-09-13]","costco_present":"Yes — official warehouse (Farragut, store #1116) at 10745 Kingston Pike, branded by Costco as \"Knoxville, TN\" [Tier1|cross_verified:true|verified|2026-09-13]","dutch_bros_present":"Yes — multiple official locations (e.g. 7004 Maynardville Pike, 7618 Chapman Hwy, 6907 Kingston Pike) [Tier1|cross_verified:true|verified|2026-09-13]","_meta":"amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"}},{"city_ref":"los-angeles-ca","city":"Los Angeles","state_ref":"california","residency_context":{"host_for":["ucla_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"ucla_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"amenities":{"in_n_out_present":"Yes — dozens of official locations within LA city/county, one of the chain's highest-density markets [Tier1|cross_verified:true|verified|2026-09-13]","costco_present":"Yes — official warehouse (Los Feliz) at 2901 Los Feliz Blvd., Los Angeles, CA 90039, among several within city limits [Tier1|cross_verified:true|verified|2026-09-13]","dutch_bros_present":"Yes — first location within LA city limits opened at Exposition Park (3726 S. Figueroa St., 2025); several more operate in greater LA County [Tier1|cross_verified:true|verified|2026-09-13]","_meta":"amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"}},{"city_ref":"miami-fl","city":"Miami","state_ref":"florida","residency_context":{"host_for":["umiami_jackson_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"umiami_jackson_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"amenities":{"in_n_out_present":"No — Florida has zero In-N-Out locations statewide [Tier2|cross_verified:true|verified|2026-09-13]","costco_present":"Yes — official warehouse at 7795 W Flagler St., Miami, FL 33144 [Tier1|cross_verified:true|verified|2026-09-13]","dutch_bros_present":"No — confirmed absent. Dutch Bros' official furthest-east Florida reach is Orlando (per company history/Wikipedia); Yelp \"Dutch Bros\" results for Miami are unrelated independent coffee shops (Sip 305, Cali Coffee) informally compared to Dutch Bros in reviews, not the actual chain [Tier2|cross_verified:true|verified|2026-09-13]","_meta":"amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"}},{"city_ref":"nashville-tn","city":"Nashville","state_ref":"tennessee","residency_context":{"host_for":["vanderbilt_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"vanderbilt_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"amenities":{"in_n_out_present":"Yes — first Tennessee locations opened Dec 2025 in Antioch (within Nashville/Davidson County city limits), Lebanon, and Murfreesboro; Antioch location confirms in-city presence [Tier1|cross_verified:true|verified|2026-09-13]","costco_present":"Yes — official warehouse at 6670 Charlotte Pike, Nashville, TN [Tier1|cross_verified:true|verified|2026-09-13]","dutch_bros_present":"Yes — multiple official locations (e.g. 2381 Elm Hill Pike, 310 W Trinity Ln, 1000 Capital Funds Ct) [Tier1|cross_verified:true|verified|2026-09-13]","_meta":"amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"}},{"city_ref":"oklahoma-city-ok","city":"Oklahoma City","state_ref":"oklahoma","residency_context":{"host_for":["ou_health_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"ou_health_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"amenities":{"in_n_out_present":"No — Oklahoma has zero In-N-Out locations statewide [Tier2|cross_verified:true|verified|2026-09-13]","costco_present":"Yes — official warehouse at 13200 N Western Ave., Oklahoma City, OK 73114 [Tier1|cross_verified:true|verified|2026-09-13]","dutch_bros_present":"Yes — 4 official locations confirmed (300 S MacArthur Blvd., 2001 NW 23rd St., 5900 N May Ave., 7416 S Western Ave.) [Tier1|cross_verified:true|verified|2026-09-13]","_meta":"amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"}},{"city_ref":"palo-alto-ca","city":"Palo Alto","state_ref":"california","residency_context":{"host_for":["stanford_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"stanford_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"amenities":{"in_n_out_present":"No — no official location within Palo Alto city limits; nearest are Mountain View (1159 N. Rengstorff Ave., ~3 mi) and Redwood City (949 Veterans Blvd.) [Tier1|cross_verified:true|verified|2026-09-13]","costco_present":"No — no warehouse within Palo Alto; nearest is Redwood City (2300 Middlefield Rd.), ~6 mi [Tier1|cross_verified:true|verified|2026-09-13]","dutch_bros_present":"No — confirmed absent. The Bay Area's 11+ Dutch Bros locations (per SFGate/KRON4 coverage) are concentrated in the North Bay and East Bay exurbs (Martinez, Napa, Fairfield, Oakley, Brentwood, Concord, Vallejo, Sonoma, Santa Rosa, Vacaville); none on the Peninsula or in the South Bay [Tier2|cross_verified:true|verified|2026-09-13]","_meta":"amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"}},{"city_ref":"phoenix-az","city":"Phoenix","state_ref":"arizona","residency_context":{"host_for":["barrow_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"barrow_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"amenities":{"in_n_out_present":"Yes — multiple official locations (8 per ScrapeHero city ranking, one of the highest counts nationally) [Tier1|cross_verified:true|verified|2026-09-13]","costco_present":"Yes — multiple official warehouses, e.g. 19001 N 27th Ave. (N Phoenix) and 3801 N 33rd Ave. (Phoenix Business Center) [Tier1|cross_verified:true|verified|2026-09-13]","dutch_bros_present":"Yes — multiple official locations (e.g. 1201 E. Glendale Ave., 4433 N 7th St., 12629 N. Paradise Village Pkwy., 2961 E. Bell Rd.) — AZ is the chain's HQ state (Tempe) [Tier1|cross_verified:true|verified|2026-09-13]","_meta":"amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"}},{"city_ref":"portland-or","city":"Portland","state_ref":"oregon","residency_context":{"host_for":["ohsu_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"ohsu_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"amenities":{"in_n_out_present":"No — In-N-Out has only filed development permits for a Portland city-limits site (NE Airport Way/Holman St., \"early in permitting\" as of Dec 2025); not yet built/open. Nearest operating locations are Hillsboro, OR suburb [Tier1|cross_verified:true|verified|2026-09-13]","costco_present":"Yes — official warehouse at 4849 NE 138th Ave., Portland, OR 97230 [Tier1|cross_verified:true|verified|2026-09-13]","dutch_bros_present":"Yes — Portland is explicitly named among OR's top Dutch Bros cities (10+ locations); OR is the chain's founding state [Tier2|cross_verified:true|verified|2026-09-13]","_meta":"amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"}},{"city_ref":"providence-ri","city":"Providence","state_ref":"rhode-island","residency_context":{"host_for":["brown_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"brown_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"amenities":{"in_n_out_present":"No — Rhode Island has zero In-N-Out locations statewide [Tier2|cross_verified:true|verified|2026-09-13]","costco_present":"No — Rhode Island has zero Costco locations statewide; a long-planned Cranston warehouse fell through (Costco withdrew its zoning/permit applications, per 2025 coverage) and has not been refiled. Nearest is Sharon, MA (~25 mi) or East Lyme, CT [Tier1|cross_verified:true|verified|2026-09-13]","dutch_bros_present":"No — Rhode Island has zero Dutch Bros locations statewide, cross-verified across all current source lists [Tier2|cross_verified:true|verified|2026-09-13]","_meta":"amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"}},{"city_ref":"richmond-va","city":"Richmond","state_ref":"virginia","residency_context":{"host_for":["vcu_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"vcu_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"amenities":{"in_n_out_present":"No — Virginia has zero In-N-Out locations statewide [Tier2|cross_verified:true|verified|2026-09-13]","costco_present":"Yes — official warehouse at 5200 Lakeside Ave., Richmond, VA 23228 [Tier1|cross_verified:true|verified|2026-09-13]","dutch_bros_present":"No — Virginia has zero Dutch Bros locations statewide [Tier2|cross_verified:true|verified|2026-09-13]","_meta":"amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"}},{"city_ref":"roanoke-va","city":"Roanoke","state_ref":"virginia","residency_context":{"host_for":["carilion_vtc_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"carilion_vtc_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"amenities":{"in_n_out_present":"No — Virginia has zero In-N-Out locations statewide [Tier2|cross_verified:true|verified|2026-09-13]","costco_present":"No — no warehouse within Roanoke; nearest is Charlottesville, VA [Tier1|cross_verified:true|verified|2026-09-13]","dutch_bros_present":"No — Virginia has zero Dutch Bros locations statewide [Tier2|cross_verified:true|verified|2026-09-13]","_meta":"amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"}},{"city_ref":"salisbury-md","city":"Salisbury","state_ref":"maryland","residency_context":{"host_for":["tidalhealth_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"tidalhealth_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"amenities":{"in_n_out_present":"No — Maryland has zero In-N-Out locations statewide [Tier2|cross_verified:true|verified|2026-09-13]","costco_present":"No — no warehouse within Salisbury; nearest is Elkton, MD [Tier1|cross_verified:true|verified|2026-09-13]","dutch_bros_present":"No — Maryland has zero Dutch Bros locations statewide [Tier2|cross_verified:true|verified|2026-09-13]","_meta":"amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"}},{"city_ref":"salt-lake-city-ut","city":"Salt Lake City","state_ref":"utah","residency_context":{"host_for":["univ_utah_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"univ_utah_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"amenities":{"in_n_out_present":"Yes — multiple official locations (In-N-Out's only active presence in Utah statewide as of 2026) [Tier1|cross_verified:true|verified|2026-09-13]","costco_present":"Yes — multiple official warehouses within Salt Lake City proper [Tier1|cross_verified:true|verified|2026-09-13]","dutch_bros_present":"Yes — multiple official locations (Dutch Bros is active in Utah, especially Salt Lake metro) [Tier1|cross_verified:true|verified|2026-09-13]","_meta":"amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"}},{"city_ref":"san-diego-ca","city":"San Diego","state_ref":"california","residency_context":{"host_for":["ucsd_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"ucsd_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"amenities":{"in_n_out_present":"Yes — multiple official locations confirmed [Tier1|cross_verified:true|verified|2026-09-13]","costco_present":"Yes — multiple official warehouses throughout San Diego County [Tier1|cross_verified:true|verified|2026-09-13]","dutch_bros_present":"Yes — multiple official locations (SoCal expansion state) [Tier1|cross_verified:true|verified|2026-09-13]","_meta":"amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"}},{"city_ref":"san-francisco-ca","city":"San Francisco","state_ref":"california","residency_context":{"host_for":["ucsf_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"ucsf_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"amenities":{"in_n_out_present":"No — no In-N-Out within SF proper; nearest are Daly City/South San Francisco suburbs [Tier1|cross_verified:true|verified|2026-09-13]","costco_present":"No — no warehouse within SF; nearest is Daly City (300 Westlake Center, ~5 mi) [Tier1|cross_verified:true|verified|2026-09-13]","dutch_bros_present":"Yes — multiple official locations in Bay Area (but expansion came later to SF proper than to East Bay/North Bay) [Tier2|cross_verified:false|verified|2026-09-13]","_meta":"amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"}},{"city_ref":"scottsdale-az","city":"Scottsdale","state_ref":"arizona","residency_context":{"host_for":["mayo_scottsdale_phoenix_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"mayo_scottsdale_phoenix_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"amenities":{"in_n_out_present":"Yes — multiple official locations (Scottsdale area is high-density In-N-Out market) [Tier1|cross_verified:true|verified|2026-09-13]","costco_present":"Yes — official warehouse in Scottsdale area [Tier1|cross_verified:true|verified|2026-09-13]","dutch_bros_present":"Yes — multiple official locations (AZ expansion) [Tier1|cross_verified:true|verified|2026-09-13]","_meta":"amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"}},{"city_ref":"seattle-wa","city":"Seattle","state_ref":"washington","residency_context":{"host_for":["uw_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"uw_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"amenities":{"in_n_out_present":"No — In-N-Out has no presence in Washington State, including Seattle [Tier1|cross_verified:true|verified|2026-09-13]","costco_present":"Yes — multiple official warehouses in Seattle area [Tier1|cross_verified:true|verified|2026-09-13]","dutch_bros_present":"Yes — multiple official locations (WA expansion state, some locations) [Tier2|cross_verified:false|verified|2026-09-13]","_meta":"amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"}},{"city_ref":"tacoma-wa","city":"Tacoma","state_ref":"washington","residency_context":{"host_for":["madigan_army_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"madigan_army_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"amenities":{"in_n_out_present":"No — Washington State has zero In-N-Out locations [Tier1|cross_verified:true|verified|2026-09-13]","costco_present":"Yes — official warehouse in Tacoma area [Tier1|cross_verified:true|verified|2026-09-13]","dutch_bros_present":"Yes — multiple locations in Puget Sound region [Tier2|cross_verified:false|verified|2026-09-13]","_meta":"amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"}},{"city_ref":"tampa-fl","city":"Tampa","state_ref":"florida","residency_context":{"host_for":["usf_morsani_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"usf_morsani_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"amenities":{"in_n_out_present":"No — Florida has zero In-N-Out locations statewide [Tier2|cross_verified:true|verified|2026-09-13]","costco_present":"Yes — multiple official warehouses in Tampa Bay area [Tier1|cross_verified:true|verified|2026-09-13]","dutch_bros_present":"Yes — multiple locations in Florida (FL expansion) [Tier2|cross_verified:false|verified|2026-09-13]","_meta":"amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"}},{"city_ref":"winston-salem-nc","city":"Winston-Salem","state_ref":"north-carolina","residency_context":{"host_for":["wake_forest_neurology"],"suburb_for":[],"research_target_for":[{"residency_id":"wake_forest_neurology","swapped_from_host":false,"swapped_from_host_ref":null,"note":null}]},"amenities":{"in_n_out_present":"No — North Carolina has zero In-N-Out locations statewide [Tier2|cross_verified:true|verified|2026-09-13]","costco_present":"Yes — official warehouse in Winston-Salem area [Tier1|cross_verified:true|verified|2026-09-13]","dutch_bros_present":"Yes — official location (NC expansion, 2026 Clutch Coffee acquisition) [Tier1|cross_verified:true|verified|2026-09-13]","_meta":"amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"}},{"city_ref":"woodbridge-ct","city":"Woodbridge","state_ref":"connecticut","residency_context":{"host_for":[],"suburb_for":[{"residency_id":"yale_neurology","host_city_ref":"new-haven-ct","distance_mi":8,"drive_time_offpeak_min":15,"drive_time_rush_min":22}],"research_target_for":[{"residency_id":"yale_neurology","swapped_from_host":true,"swapped_from_host_ref":"new-haven-ct","note":"New Haven's citywide crime rate runs well above the national average, and the Hill neighborhood around Yale-New Haven Hospital shows above-average violent crime in local data. Swapped to Woodbridge, one of the lowest-crime towns in Connecticut."}]},"amenities":{"in_n_out_present":"No — Connecticut has zero In-N-Out locations statewide [Tier2|cross_verified:true|verified|2026-09-13]","costco_present":"No — no warehouse within Woodbridge; nearest is in the New Haven area [Tier1|cross_verified:true|verified|2026-09-13]","dutch_bros_present":"No — Connecticut has zero Dutch Bros locations statewide [Tier2|cross_verified:true|verified|2026-09-13]","_meta":"amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"}}]
+[
+  {
+    "city_ref": "atlanta-ga",
+    "city": "Atlanta",
+    "state_ref": "georgia",
+    "residency_context": {
+      "host_for": [
+        "emory_neurology",
+        "morehouse_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "emory_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        },
+        {
+          "residency_id": "morehouse_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "amenities": {
+      "in_n_out_present": {
+        "present": false,
+        "detail": "No — Georgia has zero In-N-Out locations statewide, cross-verified across 5 independent sources (TheDailyMeal, Fast Company, KTLA, ScrapeHero location database, in-and-out-menu.com state guide) [Tier2|cross_verified:true|verified|2026-09-13]"
+      },
+      "costco_present": {
+        "present": true,
+        "detail": "Yes — multiple official warehouses within city limits, e.g. Perimeter (6350 Peachtree Dunwoody Rd.) and Brookhaven (500 Brookhaven Ave. NE) [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "dutch_bros_present": {
+        "present": false,
+        "detail": "No (within city limits) — GA's Dutch Bros locations are all metro-Atlanta suburbs outside the city itself: Johns Creek (9630 Medlock Bridge Rd., first metro-Atlanta location, Jul 2025), Tucker, Lawrenceville, Roswell — none inside Atlanta's own boundary [Tier2|cross_verified:true|verified|2026-09-13]"
+      },
+      "_meta": "amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "augusta-ga",
+    "city": "Augusta",
+    "state_ref": "georgia",
+    "residency_context": {
+      "host_for": [
+        "mcg_augusta_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "mcg_augusta_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "amenities": {
+      "in_n_out_present": {
+        "present": false,
+        "detail": "No — Georgia has zero In-N-Out locations statewide (same multi-source state list as Atlanta) [Tier2|cross_verified:true|verified|2026-09-13]"
+      },
+      "costco_present": {
+        "present": true,
+        "detail": "Yes — official warehouse at 825 Cabela Dr., Augusta, GA 30909 [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "dutch_bros_present": {
+        "present": true,
+        "detail": "Yes — 3064 Washington Road, Augusta, GA 30907, newly-constructed corporate-leased unit near Augusta National (commercial real estate listing shows construction complete; a second location is planned for North Augusta, SC by Q4 2026) [Tier2|cross_verified:false|verified|2026-09-13]"
+      },
+      "_meta": "amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "aurora-co",
+    "city": "Aurora",
+    "state_ref": "colorado",
+    "residency_context": {
+      "host_for": [
+        "univ_colorado_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "univ_colorado_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "amenities": {
+      "in_n_out_present": {
+        "present": true,
+        "detail": "Yes — official location at 14150 E. Alameda Ave., Aurora, CO 80012 (opened Nov 2020, Denver metro's first) [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "costco_present": {
+        "present": true,
+        "detail": "Yes — official warehouse at 1471 S Havana St., Aurora, CO 80012 [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "dutch_bros_present": {
+        "present": true,
+        "detail": "Yes (estimated) — Colorado has 50-62 locations statewide with Denver/Aurora explicitly named as core CO markets in aggregator city rankings; not individually address-verified this pass [Tier3|cross_verified:false|estimated|2026-09-13]"
+      },
+      "_meta": "amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "austin-tx",
+    "city": "Austin",
+    "state_ref": "texas",
+    "residency_context": {
+      "host_for": [
+        "dellmed_utaustin_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "dellmed_utaustin_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "amenities": {
+      "in_n_out_present": {
+        "present": true,
+        "detail": "Yes — multiple official locations confirmed (e.g. 4515 Airport Blvd., 2700 Guadalupe St., 3701 S. Lamar Blvd.) [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "costco_present": {
+        "present": true,
+        "detail": "Yes — two official warehouses, 10401 Research Blvd. and 4301 W William Cannon Dr. (S Austin) [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "dutch_bros_present": {
+        "present": true,
+        "detail": "Yes — Austin listed among top Texas cities for Dutch Bros (9+ locations per city ranking); TX is the chain's largest state (220+ locations) [Tier2|cross_verified:false|verified|2026-09-13]"
+      },
+      "_meta": "amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "chapel-hill-nc",
+    "city": "Chapel Hill",
+    "state_ref": "north-carolina",
+    "residency_context": {
+      "host_for": [
+        "unc_neurology"
+      ],
+      "suburb_for": [
+        {
+          "residency_id": "duke_neurology",
+          "host_city_ref": "durham-nc",
+          "distance_mi": 12,
+          "drive_time_offpeak_min": 18,
+          "drive_time_rush_min": 28
+        }
+      ],
+      "research_target_for": [
+        {
+          "residency_id": "unc_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "amenities": {
+      "in_n_out_present": {
+        "present": false,
+        "detail": "No — North Carolina has zero In-N-Out locations statewide, cross-verified multi-source [Tier2|cross_verified:true|verified|2026-09-13]"
+      },
+      "costco_present": {
+        "present": false,
+        "detail": "No — no warehouse within Chapel Hill; nearest is Durham (1510 N Pointe Dr., ~10-12 mi, per the original schema note that the two cities are 12 mi apart) [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "dutch_bros_present": {
+        "present": false,
+        "detail": "No — NC's only confirmed Dutch Bros locations are Morrisville (first NC store, ~15 mi away) and Winston-Salem (via 2026 Clutch Coffee acquisition); none in Chapel Hill [Tier2|cross_verified:true|verified|2026-09-13]"
+      },
+      "_meta": "amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "charlottesville-va",
+    "city": "Charlottesville",
+    "state_ref": "virginia",
+    "residency_context": {
+      "host_for": [
+        "uva_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "uva_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "amenities": {
+      "in_n_out_present": {
+        "present": false,
+        "detail": "No — Virginia has zero In-N-Out locations statewide, cross-verified multi-source [Tier2|cross_verified:true|verified|2026-09-13]"
+      },
+      "costco_present": {
+        "present": true,
+        "detail": "Yes — official warehouse at 3171 District Ave., Charlottesville, VA 22901 [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "dutch_bros_present": {
+        "present": false,
+        "detail": "No — Virginia has zero Dutch Bros locations statewide, cross-verified across all current source lists [Tier2|cross_verified:true|verified|2026-09-13]"
+      },
+      "_meta": "amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "columbia-md",
+    "city": "Columbia",
+    "state_ref": "maryland",
+    "residency_context": {
+      "host_for": [],
+      "suburb_for": [
+        {
+          "residency_id": "johns_hopkins_neurology",
+          "host_city_ref": "baltimore-md",
+          "distance_mi": 20,
+          "drive_time_offpeak_min": 28,
+          "drive_time_rush_min": 42
+        },
+        {
+          "residency_id": "univ_maryland_neurology",
+          "host_city_ref": "baltimore-md",
+          "distance_mi": 18,
+          "drive_time_offpeak_min": 25,
+          "drive_time_rush_min": 38
+        }
+      ],
+      "research_target_for": [
+        {
+          "residency_id": "johns_hopkins_neurology",
+          "swapped_from_host": true,
+          "swapped_from_host_ref": "baltimore-md",
+          "note": "Baltimore's violent crime rate runs ~3-4x the national average, and the blocks immediately around Johns Hopkins Hospital in East Baltimore have a well-documented pattern of shootings and robberies (JHU security alerts, local news). Swapped to Columbia, MD, repeatedly ranked one of the safest cities in the US (WalletHub)."
+        },
+        {
+          "residency_id": "univ_maryland_neurology",
+          "swapped_from_host": true,
+          "swapped_from_host_ref": "baltimore-md",
+          "note": "Same Baltimore host-city problem as Johns Hopkins (citywide violent crime ~3-4x national average, west-side hospital corridor affected too). Swapped to Columbia, MD, a repeat WalletHub #1 safest city."
+        }
+      ]
+    },
+    "amenities": {
+      "in_n_out_present": {
+        "present": false,
+        "detail": "No — Maryland has zero In-N-Out locations statewide, cross-verified multi-source [Tier2|cross_verified:true|verified|2026-09-13]"
+      },
+      "costco_present": {
+        "present": true,
+        "detail": "Yes — Costco's own \"Columbia MD\" branded warehouse (store #1000), physically addressed in adjacent Elkridge, MD (6675 Marie Curie Dr., ~5 mi from central Columbia) [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "dutch_bros_present": {
+        "present": false,
+        "detail": "No — Maryland has zero Dutch Bros locations statewide [Tier2|cross_verified:true|verified|2026-09-13]"
+      },
+      "_meta": "amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "dallas-tx",
+    "city": "Dallas",
+    "state_ref": "texas",
+    "residency_context": {
+      "host_for": [
+        "utsw_neurology",
+        "baylor_umc_dallas_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "baylor_umc_dallas_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        },
+        {
+          "residency_id": "utsw_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "amenities": {
+      "in_n_out_present": {
+        "present": true,
+        "detail": "Yes — official locations confirmed; Dallas is one of the highest-concentration TX cities (5 locations per ScrapeHero ranking) [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "costco_present": {
+        "present": true,
+        "detail": "Yes — official warehouse at 8055 Churchill Way, Dallas, TX 75251 [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "dutch_bros_present": {
+        "present": true,
+        "detail": "Yes (estimated) — Fort Worth (10+) and the broader DFW metro are core TX markets; Dallas not individually address-verified this pass but TX is the chain's #1 state by location count [Tier3|cross_verified:false|estimated|2026-09-13]"
+      },
+      "_meta": "amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "durham-nc",
+    "city": "Durham",
+    "state_ref": "north-carolina",
+    "residency_context": {
+      "host_for": [
+        "duke_neurology"
+      ],
+      "suburb_for": [
+        {
+          "residency_id": "unc_neurology",
+          "host_city_ref": "chapel-hill-nc",
+          "distance_mi": 12,
+          "drive_time_offpeak_min": 18,
+          "drive_time_rush_min": 28
+        }
+      ],
+      "research_target_for": [
+        {
+          "residency_id": "duke_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "amenities": {
+      "in_n_out_present": {
+        "present": false,
+        "detail": "No — North Carolina has zero In-N-Out locations statewide [Tier2|cross_verified:true|verified|2026-09-13]"
+      },
+      "costco_present": {
+        "present": true,
+        "detail": "Yes — official warehouse at 1510 N Pointe Dr., Durham, NC 27705 [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "dutch_bros_present": {
+        "present": false,
+        "detail": "No — nearest is Morrisville (~12 mi); none confirmed in Durham itself [Tier2|cross_verified:true|verified|2026-09-13]"
+      },
+      "_meta": "amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "englewood-co",
+    "city": "Englewood",
+    "state_ref": "colorado",
+    "residency_context": {
+      "host_for": [
+        "hca_healthone_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "hca_healthone_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "amenities": {
+      "in_n_out_present": {
+        "present": false,
+        "detail": "No (unconfirmed) — no official In-N-Out address found within Englewood city limits; nearest confirmed are Aurora (~10 mi), Denver (~8 mi), Lakewood (~12 mi). One low-quality aggregator (wedeliverdouglascounty.com) listed an Englewood address under a mismatched \"In-N-Out Burger-Parker\" business name — excluded per source-quality policy (undisclosed methodology, internal inconsistency) [Tier3|cross_verified:false|low-confidence|2026-09-13]"
+      },
+      "costco_present": {
+        "present": true,
+        "detail": "Yes — official warehouse at 4000 River Point Pkwy., Englewood, CO 80110 (store #1027) [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "dutch_bros_present": {
+        "present": false,
+        "detail": "No — nearest confirmed location is in adjacent Sheridan, CO (3705 S Santa Fe Dr.), a separately-incorporated small city bordering/enclaved within Englewood (shares the 80110 ZIP); no address confirmed inside Englewood's own boundary [Tier2|cross_verified:true|verified|2026-09-13]"
+      },
+      "_meta": "amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "farmington-ct",
+    "city": "Farmington",
+    "state_ref": "connecticut",
+    "residency_context": {
+      "host_for": [],
+      "suburb_for": [
+        {
+          "residency_id": "uconn_hartford_neurology",
+          "host_city_ref": "hartford-ct",
+          "distance_mi": 10,
+          "drive_time_offpeak_min": 15,
+          "drive_time_rush_min": 25
+        }
+      ],
+      "research_target_for": [
+        {
+          "residency_id": "uconn_hartford_neurology",
+          "swapped_from_host": true,
+          "swapped_from_host_ref": "hartford-ct",
+          "note": "Hartford's violent crime rate runs well above the national average (murder rate ~3x, FBI data). Swapped to Farmington, a low-crime suburb that is also home to UConn Health's main campus."
+        }
+      ]
+    },
+    "amenities": {
+      "in_n_out_present": {
+        "present": false,
+        "detail": "No — Connecticut has zero In-N-Out locations statewide, cross-verified multi-source [Tier2|cross_verified:true|verified|2026-09-13]"
+      },
+      "costco_present": {
+        "present": false,
+        "detail": "No — no warehouse within Farmington; nearest is New Britain (405 Hartford Rd., ~5-6 mi) [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "dutch_bros_present": {
+        "present": false,
+        "detail": "No — Connecticut has zero Dutch Bros locations statewide [Tier2|cross_verified:true|verified|2026-09-13]"
+      },
+      "_meta": "amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "folsom-ca",
+    "city": "Folsom",
+    "state_ref": "california",
+    "residency_context": {
+      "host_for": [],
+      "suburb_for": [
+        {
+          "residency_id": "ucdavis_neurology",
+          "host_city_ref": "sacramento-ca",
+          "distance_mi": 22,
+          "drive_time_offpeak_min": 28,
+          "drive_time_rush_min": 40
+        }
+      ],
+      "research_target_for": [
+        {
+          "residency_id": "ucdavis_neurology",
+          "swapped_from_host": true,
+          "swapped_from_host_ref": "sacramento-ca",
+          "note": "Sacramento's violent crime rate is ~100%+ above the national average, and UC Davis Medical Center directly borders Oak Park, a neighborhood with a long-documented concentration of violent crime and drug activity. Swapped to Folsom, a low-crime Sacramento suburb (~40-48% below national average)."
+        }
+      ]
+    },
+    "amenities": {
+      "in_n_out_present": {
+        "present": true,
+        "detail": "Yes — official location at 225 Placerville Rd., Folsom, CA 95630 [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "costco_present": {
+        "present": true,
+        "detail": "Yes — official warehouse at 1800 Cavitt Dr., Folsom, CA 95630 [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "dutch_bros_present": {
+        "present": true,
+        "detail": "Yes (estimated) — Sacramento metro is a top-13 Dutch Bros market (13-17 locations); Folsom itself not individually address-verified this pass [Tier3|cross_verified:false|estimated|2026-09-13]"
+      },
+      "_meta": "amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "gainesville-fl",
+    "city": "Gainesville",
+    "state_ref": "florida",
+    "residency_context": {
+      "host_for": [
+        "uf_gainesville_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "uf_gainesville_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "amenities": {
+      "in_n_out_present": {
+        "present": false,
+        "detail": "No — Florida has zero In-N-Out locations statewide, cross-verified multi-source [Tier2|cross_verified:true|verified|2026-09-13]"
+      },
+      "costco_present": {
+        "present": false,
+        "detail": "No — no warehouse within Gainesville; nearest confirmed official locations are in the Jacksonville metro (~70 mi) or Ocala/Villages area, no closer alternative surfaced this pass [Tier1|cross_verified:false|verified|2026-09-13]"
+      },
+      "dutch_bros_present": {
+        "present": true,
+        "detail": "Yes — official location at 3315 SW Williston Rd., Gainesville, FL (opened Mar 2025, first in North Central Florida) [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "_meta": "amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "galveston-tx",
+    "city": "Galveston",
+    "state_ref": "texas",
+    "residency_context": {
+      "host_for": [
+        "utmb_galveston_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "utmb_galveston_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "amenities": {
+      "in_n_out_present": {
+        "present": false,
+        "detail": "No — no In-N-Out on Galveston Island; nearest official locations are in Webster, TX (122 El Dorado Blvd.) and the Clear Lake area, ~25-30 mi away [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "costco_present": {
+        "present": false,
+        "detail": "No — no warehouse on Galveston Island; nearest is Webster, TX (1310 Jasmine Ave. / 1203 W Bay Area Blvd.), ~27 mi [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "dutch_bros_present": {
+        "present": false,
+        "detail": "No — no location found on Galveston Island; nearest is League City on the mainland (1721 League City Pkwy. and 6645 South Shore Blvd.), ~25 mi north [Tier2|cross_verified:true|verified|2026-09-13]"
+      },
+      "_meta": "amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "germantown-tn",
+    "city": "Germantown",
+    "state_ref": "tennessee",
+    "residency_context": {
+      "host_for": [],
+      "suburb_for": [
+        {
+          "residency_id": "uthsc_memphis_neurology",
+          "host_city_ref": "memphis-tn",
+          "distance_mi": 15,
+          "drive_time_offpeak_min": 22,
+          "drive_time_rush_min": 32
+        }
+      ],
+      "research_target_for": [
+        {
+          "residency_id": "uthsc_memphis_neurology",
+          "swapped_from_host": true,
+          "swapped_from_host_ref": "memphis-tn",
+          "note": "Memphis has the highest violent crime rate of any large US city per FBI data. Swapped to Germantown, an affluent Memphis suburb with violent crime roughly 85-90% below the national average."
+        }
+      ]
+    },
+    "amenities": {
+      "in_n_out_present": {
+        "present": false,
+        "detail": "No — Memphis-area In-N-Out is still pre-opening: a permit was filed Aug 2025 for a Poplar Ave./Estate Dr. location (East Memphis, ~10 mi from Germantown) with no confirmed opening date as of Mar 2026; nothing operating in Germantown itself [Tier2|cross_verified:true|verified|2026-09-13]"
+      },
+      "costco_present": {
+        "present": false,
+        "detail": "No — the \"NE Memphis\" warehouse sits on N. Germantown Pkwy. but its official address is Cordova, TN (2431 N Germantown Pkwy.), ~5 mi from Germantown itself; no warehouse inside Germantown's own city limits [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "dutch_bros_present": {
+        "present": false,
+        "detail": "No (within suburb limits) — nearest confirmed is Memphis proper (3495 Austin Peay Hwy, ~15 mi from Germantown); no location confirmed inside Germantown itself [Tier2|cross_verified:false|verified|2026-09-13]"
+      },
+      "_meta": "amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "greenville-nc",
+    "city": "Greenville",
+    "state_ref": "north-carolina",
+    "residency_context": {
+      "host_for": [
+        "ecu_health_brody_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "ecu_health_brody_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "amenities": {
+      "in_n_out_present": {
+        "present": false,
+        "detail": "No — North Carolina has zero In-N-Out locations statewide [Tier2|cross_verified:true|verified|2026-09-13]"
+      },
+      "costco_present": {
+        "present": false,
+        "detail": "No — not among NC's 10 statewide warehouse locations (Apex, Charlotte, Durham, Greensboro, Matthews, Mooresville, Raleigh x2, Wilmington, Winston-Salem); nearest is the Raleigh/Apex area, ~85 mi [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "dutch_bros_present": {
+        "present": false,
+        "detail": "No — not found in any NC location list (NC's confirmed stores are Morrisville and Winston-Salem only) [Tier2|cross_verified:false|verified|2026-09-13]"
+      },
+      "_meta": "amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "honolulu-hi",
+    "city": "Honolulu",
+    "state_ref": "hawaii",
+    "residency_context": {
+      "host_for": [
+        "hawaii_jabsom_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "hawaii_jabsom_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "amenities": {
+      "in_n_out_present": {
+        "present": false,
+        "detail": "No — Hawaii has zero In-N-Out locations statewide, cross-verified multi-source [Tier2|cross_verified:true|verified|2026-09-13]"
+      },
+      "costco_present": {
+        "present": true,
+        "detail": "Yes — two official warehouses within Honolulu: Hawaii Kai (333 A Keahole St.) and Iwilei (525 Alakawa St., reportedly the busiest Costco in the world) [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "dutch_bros_present": {
+        "present": false,
+        "detail": "No — Hawaii has zero Dutch Bros locations statewide [Tier2|cross_verified:true|verified|2026-09-13]"
+      },
+      "_meta": "amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "jacksonville-fl",
+    "city": "Jacksonville",
+    "state_ref": "florida",
+    "residency_context": {
+      "host_for": [
+        "mayo_jacksonville_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "mayo_jacksonville_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "amenities": {
+      "in_n_out_present": {
+        "present": false,
+        "detail": "No — Florida has zero In-N-Out locations statewide [Tier2|cross_verified:true|verified|2026-09-13]"
+      },
+      "costco_present": {
+        "present": true,
+        "detail": "Yes — multiple official warehouses, e.g. E Jacksonville (4901 Gate Pkwy.) and W Jacksonville (8000 Parramore Rd.) [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "dutch_bros_present": {
+        "present": true,
+        "detail": "Yes — multiple official locations (e.g. 5733 Roosevelt Blvd., 10913 Baymeadows Rd.) [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "_meta": "amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "knoxville-tn",
+    "city": "Knoxville",
+    "state_ref": "tennessee",
+    "residency_context": {
+      "host_for": [
+        "utgsm_knoxville_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "utgsm_knoxville_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "amenities": {
+      "in_n_out_present": {
+        "present": false,
+        "detail": "No — Knoxville remains in In-N-Out's \"planned\" tier for Tennessee (3-5 stores under consideration); no confirmed opening as of Aug 2026 [Tier2|cross_verified:true|verified|2026-09-13]"
+      },
+      "costco_present": {
+        "present": true,
+        "detail": "Yes — official warehouse (Farragut, store #1116) at 10745 Kingston Pike, branded by Costco as \"Knoxville, TN\" [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "dutch_bros_present": {
+        "present": true,
+        "detail": "Yes — multiple official locations (e.g. 7004 Maynardville Pike, 7618 Chapman Hwy, 6907 Kingston Pike) [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "_meta": "amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "los-angeles-ca",
+    "city": "Los Angeles",
+    "state_ref": "california",
+    "residency_context": {
+      "host_for": [
+        "ucla_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "ucla_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "amenities": {
+      "in_n_out_present": {
+        "present": true,
+        "detail": "Yes — dozens of official locations within LA city/county, one of the chain's highest-density markets [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "costco_present": {
+        "present": true,
+        "detail": "Yes — official warehouse (Los Feliz) at 2901 Los Feliz Blvd., Los Angeles, CA 90039, among several within city limits [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "dutch_bros_present": {
+        "present": true,
+        "detail": "Yes — first location within LA city limits opened at Exposition Park (3726 S. Figueroa St., 2025); several more operate in greater LA County [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "_meta": "amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "miami-fl",
+    "city": "Miami",
+    "state_ref": "florida",
+    "residency_context": {
+      "host_for": [
+        "umiami_jackson_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "umiami_jackson_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "amenities": {
+      "in_n_out_present": {
+        "present": false,
+        "detail": "No — Florida has zero In-N-Out locations statewide [Tier2|cross_verified:true|verified|2026-09-13]"
+      },
+      "costco_present": {
+        "present": true,
+        "detail": "Yes — official warehouse at 7795 W Flagler St., Miami, FL 33144 [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "dutch_bros_present": {
+        "present": false,
+        "detail": "No — confirmed absent. Dutch Bros' official furthest-east Florida reach is Orlando (per company history/Wikipedia); Yelp \"Dutch Bros\" results for Miami are unrelated independent coffee shops (Sip 305, Cali Coffee) informally compared to Dutch Bros in reviews, not the actual chain [Tier2|cross_verified:true|verified|2026-09-13]"
+      },
+      "_meta": "amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "nashville-tn",
+    "city": "Nashville",
+    "state_ref": "tennessee",
+    "residency_context": {
+      "host_for": [
+        "vanderbilt_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "vanderbilt_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "amenities": {
+      "in_n_out_present": {
+        "present": true,
+        "detail": "Yes — first Tennessee locations opened Dec 2025 in Antioch (within Nashville/Davidson County city limits), Lebanon, and Murfreesboro; Antioch location confirms in-city presence [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "costco_present": {
+        "present": true,
+        "detail": "Yes — official warehouse at 6670 Charlotte Pike, Nashville, TN [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "dutch_bros_present": {
+        "present": true,
+        "detail": "Yes — multiple official locations (e.g. 2381 Elm Hill Pike, 310 W Trinity Ln, 1000 Capital Funds Ct) [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "_meta": "amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "oklahoma-city-ok",
+    "city": "Oklahoma City",
+    "state_ref": "oklahoma",
+    "residency_context": {
+      "host_for": [
+        "ou_health_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "ou_health_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "amenities": {
+      "in_n_out_present": {
+        "present": false,
+        "detail": "No — Oklahoma has zero In-N-Out locations statewide [Tier2|cross_verified:true|verified|2026-09-13]"
+      },
+      "costco_present": {
+        "present": true,
+        "detail": "Yes — official warehouse at 13200 N Western Ave., Oklahoma City, OK 73114 [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "dutch_bros_present": {
+        "present": true,
+        "detail": "Yes — 4 official locations confirmed (300 S MacArthur Blvd., 2001 NW 23rd St., 5900 N May Ave., 7416 S Western Ave.) [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "_meta": "amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "palo-alto-ca",
+    "city": "Palo Alto",
+    "state_ref": "california",
+    "residency_context": {
+      "host_for": [
+        "stanford_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "stanford_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "amenities": {
+      "in_n_out_present": {
+        "present": false,
+        "detail": "No — no official location within Palo Alto city limits; nearest are Mountain View (1159 N. Rengstorff Ave., ~3 mi) and Redwood City (949 Veterans Blvd.) [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "costco_present": {
+        "present": false,
+        "detail": "No — no warehouse within Palo Alto; nearest is Redwood City (2300 Middlefield Rd.), ~6 mi [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "dutch_bros_present": {
+        "present": false,
+        "detail": "No — confirmed absent. The Bay Area's 11+ Dutch Bros locations (per SFGate/KRON4 coverage) are concentrated in the North Bay and East Bay exurbs (Martinez, Napa, Fairfield, Oakley, Brentwood, Concord, Vallejo, Sonoma, Santa Rosa, Vacaville); none on the Peninsula or in the South Bay [Tier2|cross_verified:true|verified|2026-09-13]"
+      },
+      "_meta": "amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "phoenix-az",
+    "city": "Phoenix",
+    "state_ref": "arizona",
+    "residency_context": {
+      "host_for": [
+        "barrow_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "barrow_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "amenities": {
+      "in_n_out_present": {
+        "present": true,
+        "detail": "Yes — multiple official locations (8 per ScrapeHero city ranking, one of the highest counts nationally) [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "costco_present": {
+        "present": true,
+        "detail": "Yes — multiple official warehouses, e.g. 19001 N 27th Ave. (N Phoenix) and 3801 N 33rd Ave. (Phoenix Business Center) [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "dutch_bros_present": {
+        "present": true,
+        "detail": "Yes — multiple official locations (e.g. 1201 E. Glendale Ave., 4433 N 7th St., 12629 N. Paradise Village Pkwy., 2961 E. Bell Rd.) — AZ is the chain's HQ state (Tempe) [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "_meta": "amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "portland-or",
+    "city": "Portland",
+    "state_ref": "oregon",
+    "residency_context": {
+      "host_for": [
+        "ohsu_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "ohsu_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "amenities": {
+      "in_n_out_present": {
+        "present": false,
+        "detail": "No — In-N-Out has only filed development permits for a Portland city-limits site (NE Airport Way/Holman St., \"early in permitting\" as of Dec 2025); not yet built/open. Nearest operating locations are Hillsboro, OR suburb [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "costco_present": {
+        "present": true,
+        "detail": "Yes — official warehouse at 4849 NE 138th Ave., Portland, OR 97230 [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "dutch_bros_present": {
+        "present": true,
+        "detail": "Yes — Portland is explicitly named among OR's top Dutch Bros cities (10+ locations); OR is the chain's founding state [Tier2|cross_verified:true|verified|2026-09-13]"
+      },
+      "_meta": "amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "providence-ri",
+    "city": "Providence",
+    "state_ref": "rhode-island",
+    "residency_context": {
+      "host_for": [
+        "brown_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "brown_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "amenities": {
+      "in_n_out_present": {
+        "present": false,
+        "detail": "No — Rhode Island has zero In-N-Out locations statewide [Tier2|cross_verified:true|verified|2026-09-13]"
+      },
+      "costco_present": {
+        "present": false,
+        "detail": "No — Rhode Island has zero Costco locations statewide; a long-planned Cranston warehouse fell through (Costco withdrew its zoning/permit applications, per 2025 coverage) and has not been refiled. Nearest is Sharon, MA (~25 mi) or East Lyme, CT [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "dutch_bros_present": {
+        "present": false,
+        "detail": "No — Rhode Island has zero Dutch Bros locations statewide, cross-verified across all current source lists [Tier2|cross_verified:true|verified|2026-09-13]"
+      },
+      "_meta": "amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "richmond-va",
+    "city": "Richmond",
+    "state_ref": "virginia",
+    "residency_context": {
+      "host_for": [
+        "vcu_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "vcu_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "amenities": {
+      "in_n_out_present": {
+        "present": false,
+        "detail": "No — Virginia has zero In-N-Out locations statewide [Tier2|cross_verified:true|verified|2026-09-13]"
+      },
+      "costco_present": {
+        "present": true,
+        "detail": "Yes — official warehouse at 5200 Lakeside Ave., Richmond, VA 23228 [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "dutch_bros_present": {
+        "present": false,
+        "detail": "No — Virginia has zero Dutch Bros locations statewide [Tier2|cross_verified:true|verified|2026-09-13]"
+      },
+      "_meta": "amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "roanoke-va",
+    "city": "Roanoke",
+    "state_ref": "virginia",
+    "residency_context": {
+      "host_for": [
+        "carilion_vtc_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "carilion_vtc_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "amenities": {
+      "in_n_out_present": {
+        "present": false,
+        "detail": "No — Virginia has zero In-N-Out locations statewide [Tier2|cross_verified:true|verified|2026-09-13]"
+      },
+      "costco_present": {
+        "present": false,
+        "detail": "No — no warehouse within Roanoke; nearest is Charlottesville, VA [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "dutch_bros_present": {
+        "present": false,
+        "detail": "No — Virginia has zero Dutch Bros locations statewide [Tier2|cross_verified:true|verified|2026-09-13]"
+      },
+      "_meta": "amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "salisbury-md",
+    "city": "Salisbury",
+    "state_ref": "maryland",
+    "residency_context": {
+      "host_for": [
+        "tidalhealth_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "tidalhealth_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "amenities": {
+      "in_n_out_present": {
+        "present": false,
+        "detail": "No — Maryland has zero In-N-Out locations statewide [Tier2|cross_verified:true|verified|2026-09-13]"
+      },
+      "costco_present": {
+        "present": false,
+        "detail": "No — no warehouse within Salisbury; nearest is Elkton, MD [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "dutch_bros_present": {
+        "present": false,
+        "detail": "No — Maryland has zero Dutch Bros locations statewide [Tier2|cross_verified:true|verified|2026-09-13]"
+      },
+      "_meta": "amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "salt-lake-city-ut",
+    "city": "Salt Lake City",
+    "state_ref": "utah",
+    "residency_context": {
+      "host_for": [
+        "univ_utah_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "univ_utah_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "amenities": {
+      "in_n_out_present": {
+        "present": true,
+        "detail": "Yes — multiple official locations (In-N-Out's only active presence in Utah statewide as of 2026) [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "costco_present": {
+        "present": true,
+        "detail": "Yes — multiple official warehouses within Salt Lake City proper [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "dutch_bros_present": {
+        "present": true,
+        "detail": "Yes — multiple official locations (Dutch Bros is active in Utah, especially Salt Lake metro) [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "_meta": "amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "san-diego-ca",
+    "city": "San Diego",
+    "state_ref": "california",
+    "residency_context": {
+      "host_for": [
+        "ucsd_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "ucsd_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "amenities": {
+      "in_n_out_present": {
+        "present": true,
+        "detail": "Yes — multiple official locations confirmed [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "costco_present": {
+        "present": true,
+        "detail": "Yes — multiple official warehouses throughout San Diego County [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "dutch_bros_present": {
+        "present": true,
+        "detail": "Yes — multiple official locations (SoCal expansion state) [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "_meta": "amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "san-francisco-ca",
+    "city": "San Francisco",
+    "state_ref": "california",
+    "residency_context": {
+      "host_for": [
+        "ucsf_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "ucsf_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "amenities": {
+      "in_n_out_present": {
+        "present": false,
+        "detail": "No — no In-N-Out within SF proper; nearest are Daly City/South San Francisco suburbs [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "costco_present": {
+        "present": false,
+        "detail": "No — no warehouse within SF; nearest is Daly City (300 Westlake Center, ~5 mi) [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "dutch_bros_present": {
+        "present": true,
+        "detail": "Yes — multiple official locations in Bay Area (but expansion came later to SF proper than to East Bay/North Bay) [Tier2|cross_verified:false|verified|2026-09-13]"
+      },
+      "_meta": "amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "scottsdale-az",
+    "city": "Scottsdale",
+    "state_ref": "arizona",
+    "residency_context": {
+      "host_for": [
+        "mayo_scottsdale_phoenix_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "mayo_scottsdale_phoenix_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "amenities": {
+      "in_n_out_present": {
+        "present": true,
+        "detail": "Yes — multiple official locations (Scottsdale area is high-density In-N-Out market) [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "costco_present": {
+        "present": true,
+        "detail": "Yes — official warehouse in Scottsdale area [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "dutch_bros_present": {
+        "present": true,
+        "detail": "Yes — multiple official locations (AZ expansion) [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "_meta": "amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "seattle-wa",
+    "city": "Seattle",
+    "state_ref": "washington",
+    "residency_context": {
+      "host_for": [
+        "uw_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "uw_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "amenities": {
+      "in_n_out_present": {
+        "present": false,
+        "detail": "No — In-N-Out has no presence in Washington State, including Seattle [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "costco_present": {
+        "present": true,
+        "detail": "Yes — multiple official warehouses in Seattle area [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "dutch_bros_present": {
+        "present": true,
+        "detail": "Yes — multiple official locations (WA expansion state, some locations) [Tier2|cross_verified:false|verified|2026-09-13]"
+      },
+      "_meta": "amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "tacoma-wa",
+    "city": "Tacoma",
+    "state_ref": "washington",
+    "residency_context": {
+      "host_for": [
+        "madigan_army_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "madigan_army_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "amenities": {
+      "in_n_out_present": {
+        "present": false,
+        "detail": "No — Washington State has zero In-N-Out locations [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "costco_present": {
+        "present": true,
+        "detail": "Yes — official warehouse in Tacoma area [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "dutch_bros_present": {
+        "present": true,
+        "detail": "Yes — multiple locations in Puget Sound region [Tier2|cross_verified:false|verified|2026-09-13]"
+      },
+      "_meta": "amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "tampa-fl",
+    "city": "Tampa",
+    "state_ref": "florida",
+    "residency_context": {
+      "host_for": [
+        "usf_morsani_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "usf_morsani_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "amenities": {
+      "in_n_out_present": {
+        "present": false,
+        "detail": "No — Florida has zero In-N-Out locations statewide [Tier2|cross_verified:true|verified|2026-09-13]"
+      },
+      "costco_present": {
+        "present": true,
+        "detail": "Yes — multiple official warehouses in Tampa Bay area [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "dutch_bros_present": {
+        "present": true,
+        "detail": "Yes — multiple locations in Florida (FL expansion) [Tier2|cross_verified:false|verified|2026-09-13]"
+      },
+      "_meta": "amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "winston-salem-nc",
+    "city": "Winston-Salem",
+    "state_ref": "north-carolina",
+    "residency_context": {
+      "host_for": [
+        "wake_forest_neurology"
+      ],
+      "suburb_for": [],
+      "research_target_for": [
+        {
+          "residency_id": "wake_forest_neurology",
+          "swapped_from_host": false,
+          "swapped_from_host_ref": null,
+          "note": null
+        }
+      ]
+    },
+    "amenities": {
+      "in_n_out_present": {
+        "present": false,
+        "detail": "No — North Carolina has zero In-N-Out locations statewide [Tier2|cross_verified:true|verified|2026-09-13]"
+      },
+      "costco_present": {
+        "present": true,
+        "detail": "Yes — official warehouse in Winston-Salem area [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "dutch_bros_present": {
+        "present": true,
+        "detail": "Yes — official location (NC expansion, 2026 Clutch Coffee acquisition) [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "_meta": "amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"
+    }
+  },
+  {
+    "city_ref": "woodbridge-ct",
+    "city": "Woodbridge",
+    "state_ref": "connecticut",
+    "residency_context": {
+      "host_for": [],
+      "suburb_for": [
+        {
+          "residency_id": "yale_neurology",
+          "host_city_ref": "new-haven-ct",
+          "distance_mi": 8,
+          "drive_time_offpeak_min": 15,
+          "drive_time_rush_min": 22
+        }
+      ],
+      "research_target_for": [
+        {
+          "residency_id": "yale_neurology",
+          "swapped_from_host": true,
+          "swapped_from_host_ref": "new-haven-ct",
+          "note": "New Haven's citywide crime rate runs well above the national average, and the Hill neighborhood around Yale-New Haven Hospital shows above-average violent crime in local data. Swapped to Woodbridge, one of the lowest-crime towns in Connecticut."
+        }
+      ]
+    },
+    "amenities": {
+      "in_n_out_present": {
+        "present": false,
+        "detail": "No — Connecticut has zero In-N-Out locations statewide [Tier2|cross_verified:true|verified|2026-09-13]"
+      },
+      "costco_present": {
+        "present": false,
+        "detail": "No — no warehouse within Woodbridge; nearest is in the New Haven area [Tier1|cross_verified:true|verified|2026-09-13]"
+      },
+      "dutch_bros_present": {
+        "present": false,
+        "detail": "No — Connecticut has zero Dutch Bros locations statewide [Tier2|cross_verified:true|verified|2026-09-13]"
+      },
+      "_meta": "amenities complete: in_n_out_present, dutch_bros_present, costco_present all resolved 39/39 cities [batch:2026-09-13]"
+    }
+  }
+]
