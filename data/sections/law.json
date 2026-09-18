@@ -25,8 +25,7 @@
       ]
     },
     "law": {
-      "state_income_tax": "Flat 4.99% (2026), down from 5.19% (2025) under HB 463; no local income tax [Tier 1|cross_verified:true|verified|2026-09-13]",
-      "alcohol_sales_off_premise": "Local-option under GA Code 3-3-7; where authorized, standard Sunday window ~11 AM-12 AM, varies by county/city referendum; weekday sales effectively unrestricted statewide [Tier 1|cross_verified:true|verified|2026-09-13]"
+      "alcohol_sales": "Local-option under GA Code 3-3-7; where authorized, standard Sunday window ~11 AM-12 AM, varies by county/city referendum; weekday sales effectively unrestricted statewide [Tier 1|cross_verified:true|verified|2026-09-13]"
     }
   },
   {
@@ -48,8 +47,7 @@
       ]
     },
     "law": {
-      "state_income_tax": "Flat 4.99% (2026), down from 5.19% (2025) under HB 463; no local income tax [Tier 1|cross_verified:true|verified|2026-09-13]",
-      "alcohol_sales_off_premise": "Local-option under GA Code 3-3-7; where authorized, standard Sunday window ~11 AM-12 AM, varies by county/city referendum; weekday sales effectively unrestricted statewide [Tier 1|cross_verified:true|verified|2026-09-13]"
+      "alcohol_sales": "Local-option under GA Code 3-3-7; where authorized, standard Sunday window ~11 AM-12 AM, varies by county/city referendum; weekday sales effectively unrestricted statewide [Tier 1|cross_verified:true|verified|2026-09-13]"
     }
   },
   {
@@ -71,8 +69,7 @@
       ]
     },
     "law": {
-      "state_income_tax": "Flat 4.40% (2026), down from 4.55% under Prop 121 (2022); no local income tax; TABOR refund mechanism may reduce effective rate in high-revenue years [Tier 1|cross_verified:true|verified|2026-09-13]",
-      "alcohol_sales_off_premise": "8am-midnight daily including Sunday, no special Sunday restriction (grocery: full-strength beer since 2019, wine since 2023, no spirits); on-premise 7am-2am daily [Tier 2|cross_verified:true|verified|2026-09-13]. NOTE: some older web sources (pre-2023) incorrectly describe Sunday closure - superseded by law change, not a live conflict."
+      "alcohol_sales": "8am-midnight daily including Sunday, no special Sunday restriction (grocery: full-strength beer since 2019, wine since 2023, no spirits); on-premise 7am-2am daily [Tier 2|cross_verified:true|verified|2026-09-13]. NOTE: some older web sources (pre-2023) incorrectly describe Sunday closure - superseded by law change, not a live conflict."
     }
   },
   {
@@ -94,8 +91,7 @@
       ]
     },
     "law": {
-      "state_income_tax": "No state individual income tax [Tier 1|cross_verified:true|verified|2026-09-13]",
-      "alcohol_sales_off_premise": "Statewide (not local-option): beer/wine Mon-Sat 7am-midnight, Sun 10am-midnight (post-2021 HB 1518); liquor stores closed all Sunday statewide [Tier 1|cross_verified:true|verified|2026-09-13]"
+      "alcohol_sales": "Statewide (not local-option): beer/wine Mon-Sat 7am-midnight, Sun 10am-midnight (post-2021 HB 1518); liquor stores closed all Sunday statewide [Tier 1|cross_verified:true|verified|2026-09-13]"
     }
   },
   {
@@ -125,8 +121,7 @@
       ]
     },
     "law": {
-      "state_income_tax": "Flat 3.99% (2026), down from 4.25% (2025) under phase-down schedule (SL 2023-134); no local income tax [Tier 2|cross_verified:true|verified|2026-09-13]",
-      "alcohol_sales_off_premise": "Statewide default Mon-Sat 7am-2am, Sun 12pm-2am; local ordinances may move Sunday start to 10am; state-run ABC liquor stores closed all Sunday regardless of local option [Tier 1|cross_verified:true|verified|2026-09-13]"
+      "alcohol_sales": "Statewide default Mon-Sat 7am-2am, Sun 12pm-2am; local ordinances may move Sunday start to 10am; state-run ABC liquor stores closed all Sunday regardless of local option [Tier 1|cross_verified:true|verified|2026-09-13]"
     }
   },
   {
@@ -148,8 +143,7 @@
       ]
     },
     "law": {
-      "state_income_tax": "Progressive 2%-5.75% across 4 brackets (top rate at just $17,000 taxable income); no local income tax. VERIFY: HB188 (pending, would add new 10% bracket over $1M) not yet law as of check date [Tier 1|cross_verified:true|verified|2026-09-13]",
-      "alcohol_sales_off_premise": "Statewide, no local-option variance: beer/wine 6am-midnight daily incl. Sunday (no blue-law carve-out); state-run ABC liquor stores Mon-Sat 10am-9pm, Sun 12pm-6pm [Tier 1|cross_verified:true|verified|2026-09-13]"
+      "alcohol_sales": "Statewide, no local-option variance: beer/wine 6am-midnight daily incl. Sunday (no blue-law carve-out); state-run ABC liquor stores Mon-Sat 10am-9pm, Sun 12pm-6pm [Tier 1|cross_verified:true|verified|2026-09-13]"
     }
   },
   {
@@ -190,8 +184,7 @@
       ]
     },
     "law": {
-      "state_income_tax": "State progressive 2%-6.5% across 10 brackets, PLUS mandatory local county income tax stacked on top [Tier 1|cross_verified:true|verified|2026-09-13] HOWARD COUNTY (Columbia) local rate: 3.20% [Tier 1|cross_verified:true|verified|2026-09-13]",
-      "alcohol_sales_off_premise": "Statewide: no alcohol of any kind sold in grocery/big-box retail chains (1 of only 3 US states with this rule) - alcohol sales entirely county-by-county through dedicated licensed stores. HOWARD COUNTY (Columbia): specific statutory hours not confirmed this batch (not named in the MD Alcoholic Beverages code sections retrieved); business-hours data suggests Sunday liquor sales commonly available in the area but this is NOT a Tier 1/2 confirmation - flagged VERIFY [Tier 3|cross_verified:false|unverified|2026-09-13]"
+      "alcohol_sales": "Statewide: no alcohol of any kind sold in grocery/big-box retail chains (1 of only 3 US states with this rule) - alcohol sales entirely county-by-county through dedicated licensed stores. HOWARD COUNTY (Columbia): specific statutory hours not confirmed this batch (not named in the MD Alcoholic Beverages code sections retrieved); business-hours data suggests Sunday liquor sales commonly available in the area but this is NOT a Tier 1/2 confirmation - flagged VERIFY [Tier 3|cross_verified:false|unverified|2026-09-13]"
     }
   },
   {
@@ -220,8 +213,7 @@
       ]
     },
     "law": {
-      "state_income_tax": "No state individual income tax [Tier 1|cross_verified:true|verified|2026-09-13]",
-      "alcohol_sales_off_premise": "Statewide (not local-option): beer/wine Mon-Sat 7am-midnight, Sun 10am-midnight (post-2021 HB 1518); liquor stores closed all Sunday statewide [Tier 1|cross_verified:true|verified|2026-09-13]"
+      "alcohol_sales": "Statewide (not local-option): beer/wine Mon-Sat 7am-midnight, Sun 10am-midnight (post-2021 HB 1518); liquor stores closed all Sunday statewide [Tier 1|cross_verified:true|verified|2026-09-13]"
     }
   },
   {
@@ -251,8 +243,7 @@
       ]
     },
     "law": {
-      "state_income_tax": "Flat 3.99% (2026), down from 4.25% (2025) under phase-down schedule (SL 2023-134); no local income tax [Tier 2|cross_verified:true|verified|2026-09-13]",
-      "alcohol_sales_off_premise": "Statewide default Mon-Sat 7am-2am, Sun 12pm-2am; local ordinances may move Sunday start to 10am; state-run ABC liquor stores closed all Sunday regardless of local option [Tier 1|cross_verified:true|verified|2026-09-13]"
+      "alcohol_sales": "Statewide default Mon-Sat 7am-2am, Sun 12pm-2am; local ordinances may move Sunday start to 10am; state-run ABC liquor stores closed all Sunday regardless of local option [Tier 1|cross_verified:true|verified|2026-09-13]"
     }
   },
   {
@@ -274,8 +265,7 @@
       ]
     },
     "law": {
-      "state_income_tax": "Flat 4.40% (2026), down from 4.55% under Prop 121 (2022); no local income tax; TABOR refund mechanism may reduce effective rate in high-revenue years [Tier 1|cross_verified:true|verified|2026-09-13]",
-      "alcohol_sales_off_premise": "8am-midnight daily including Sunday, no special Sunday restriction (grocery: full-strength beer since 2019, wine since 2023, no spirits); on-premise 7am-2am daily [Tier 2|cross_verified:true|verified|2026-09-13]. NOTE: some older web sources (pre-2023) incorrectly describe Sunday closure - superseded by law change, not a live conflict."
+      "alcohol_sales": "8am-midnight daily including Sunday, no special Sunday restriction (grocery: full-strength beer since 2019, wine since 2023, no spirits); on-premise 7am-2am daily [Tier 2|cross_verified:true|verified|2026-09-13]. NOTE: some older web sources (pre-2023) incorrectly describe Sunday closure - superseded by law change, not a live conflict."
     }
   },
   {
@@ -303,8 +293,7 @@
       ]
     },
     "law": {
-      "state_income_tax": "Progressive 2%-6.99% across 7 brackets (bottom two rates cut in 2024, from 3%/5% to 2%/4.5%), top rate at $500,000 single/$1,000,000 MFJ; no local income tax [Tier 1|cross_verified:true|verified|2026-09-13]",
-      "alcohol_sales_off_premise": "Off-premise (package stores AND grocery/beer permits): Mon-Sat 8am-10pm, SUNDAY 10am-6pm (Sunday sales legalized 2012 - some older sources incorrectly state CT is closed Sunday, this is stale/superseded). On-premise (restaurants/bars): Mon-Thu 9am-1am, Fri-Sat 9am-2am, Sun 10am-1am. Closed Thanksgiving, Christmas, New Year's Day [Tier 1|cross_verified:true|verified|2026-09-13]"
+      "alcohol_sales": "Off-premise (package stores AND grocery/beer permits): Mon-Sat 8am-10pm, SUNDAY 10am-6pm (Sunday sales legalized 2012 - some older sources incorrectly state CT is closed Sunday, this is stale/superseded). On-premise (restaurants/bars): Mon-Thu 9am-1am, Fri-Sat 9am-2am, Sun 10am-1am. Closed Thanksgiving, Christmas, New Year's Day [Tier 1|cross_verified:true|verified|2026-09-13]"
     }
   },
   {
@@ -332,8 +321,7 @@
       ]
     },
     "law": {
-      "state_income_tax": "Progressive 1%-12.3% across 9 brackets, plus 1% Mental Health Services Tax surcharge on income over $1,000,000 (effective top rate 13.3%) [Tier 1|cross_verified:true|verified|2026-09-13]",
-      "alcohol_sales_off_premise": "Statewide uniform 6am-2am daily, no Sunday restriction, no local-option variance; applies identically to off-premise (grocery/liquor) and on-premise (Bus. & Prof. Code Sec. 25631) [Tier 1|cross_verified:true|verified|2026-09-13]"
+      "alcohol_sales": "Statewide uniform 6am-2am daily, no Sunday restriction, no local-option variance; applies identically to off-premise (grocery/liquor) and on-premise (Bus. & Prof. Code Sec. 25631) [Tier 1|cross_verified:true|verified|2026-09-13]"
     }
   },
   {
@@ -355,8 +343,7 @@
       ]
     },
     "law": {
-      "state_income_tax": "No state individual income tax [Tier 1|cross_verified:true|verified|2026-09-13]",
-      "alcohol_sales_off_premise": "Statewide default applies (7am-midnight, no statewide Sunday restriction) but Alachua County/Gainesville-specific local ordinance not found in this batch - needs dedicated search [Tier 1|cross_verified:false|unverified|2026-09-13, state baseline only]"
+      "alcohol_sales": "Statewide default applies (7am-midnight, no statewide Sunday restriction) but Alachua County/Gainesville-specific local ordinance not found in this batch - needs dedicated search [Tier 1|cross_verified:false|unverified|2026-09-13, state baseline only]"
     }
   },
   {
@@ -378,8 +365,7 @@
       ]
     },
     "law": {
-      "state_income_tax": "No state individual income tax [Tier 1|cross_verified:true|verified|2026-09-13]",
-      "alcohol_sales_off_premise": "Statewide (not local-option): beer/wine Mon-Sat 7am-midnight, Sun 10am-midnight (post-2021 HB 1518); liquor stores closed all Sunday statewide [Tier 1|cross_verified:true|verified|2026-09-13]"
+      "alcohol_sales": "Statewide (not local-option): beer/wine Mon-Sat 7am-midnight, Sun 10am-midnight (post-2021 HB 1518); liquor stores closed all Sunday statewide [Tier 1|cross_verified:true|verified|2026-09-13]"
     }
   },
   {
@@ -407,8 +393,7 @@
       ]
     },
     "law": {
-      "state_income_tax": "No state individual income tax of any form (Hall tax on interest/dividends fully repealed effective TY2021) [Tier 1|cross_verified:true|verified|2026-09-13]",
-      "alcohol_sales_off_premise": "Wine + liquor (grocery/package stores): statewide TABC rule, Mon-Sat 8am-11pm, Sun 10am-11pm, closed Christmas/Thanksgiving/Easter. BEER specifically at grocery/convenience stores: NOT governed by this statewide rule - set by LOCAL city/county beer boards instead, can differ from wine/liquor hours at the same store [Tier 1|cross_verified:true|verified|2026-09-13]"
+      "alcohol_sales": "Wine + liquor (grocery/package stores): statewide TABC rule, Mon-Sat 8am-11pm, Sun 10am-11pm, closed Christmas/Thanksgiving/Easter. BEER specifically at grocery/convenience stores: NOT governed by this statewide rule - set by LOCAL city/county beer boards instead, can differ from wine/liquor hours at the same store [Tier 1|cross_verified:true|verified|2026-09-13]"
     }
   },
   {
@@ -430,8 +415,7 @@
       ]
     },
     "law": {
-      "state_income_tax": "Flat 3.99% (2026), down from 4.25% (2025) under phase-down schedule (SL 2023-134); no local income tax [Tier 2|cross_verified:true|verified|2026-09-13]",
-      "alcohol_sales_off_premise": "Statewide default Mon-Sat 7am-2am, Sun 12pm-2am; local ordinances may move Sunday start to 10am; state-run ABC liquor stores closed all Sunday regardless of local option [Tier 1|cross_verified:true|verified|2026-09-13]"
+      "alcohol_sales": "Statewide default Mon-Sat 7am-2am, Sun 12pm-2am; local ordinances may move Sunday start to 10am; state-run ABC liquor stores closed all Sunday regardless of local option [Tier 1|cross_verified:true|verified|2026-09-13]"
     }
   },
   {
@@ -453,8 +437,7 @@
       ]
     },
     "law": {
-      "state_income_tax": "Progressive 1.4%-11% across 12 brackets (TY2026); no local income tax. VERIFY: new 13% top bracket (over $1M) takes effect TY2027, not yet active for TY2026 [Tier 1|cross_verified:true|verified|2026-09-13]",
-      "alcohol_sales_off_premise": "Honolulu/Oahu specifically (Honolulu Liquor Commission Sec. 3-82-38.19): off-premise retail 6am-midnight daily, no Sunday restriction; on-premise (bars/restaurants/dispensers) 6am-2am daily; cabaret-licensed venues to 4am. NOTE: set by county liquor commission under HRS 281 - other HI islands/counties may differ, not relevant since Honolulu is the only HI city in this schema [Tier 1|cross_verified:true|verified|2026-09-13]"
+      "alcohol_sales": "Honolulu/Oahu specifically (Honolulu Liquor Commission Sec. 3-82-38.19): off-premise retail 6am-midnight daily, no Sunday restriction; on-premise (bars/restaurants/dispensers) 6am-2am daily; cabaret-licensed venues to 4am. NOTE: set by county liquor commission under HRS 281 - other HI islands/counties may differ, not relevant since Honolulu is the only HI city in this schema [Tier 1|cross_verified:true|verified|2026-09-13]"
     }
   },
   {
@@ -476,8 +459,7 @@
       ]
     },
     "law": {
-      "state_income_tax": "No state individual income tax [Tier 1|cross_verified:true|verified|2026-09-13]",
-      "alcohol_sales_off_premise": "Statewide default off-premise 7am-midnight daily (F.S. 562.14), no statewide Sunday restriction, but local county/city ordinances routinely override Sunday start time specifically (local-option, similar to GA/NC pattern) [Tier 1|cross_verified:true|verified|2026-09-13] VERIFY: Duval County/Jacksonville Sunday off-premise start time conflicts between sources found (6am vs ~11am) - needs direct county ordinance check, not resolved this batch [Tier 3|cross_verified:false|unverified|2026-09-13]"
+      "alcohol_sales": "Statewide default off-premise 7am-midnight daily (F.S. 562.14), no statewide Sunday restriction, but local county/city ordinances routinely override Sunday start time specifically (local-option, similar to GA/NC pattern) [Tier 1|cross_verified:true|verified|2026-09-13] VERIFY: Duval County/Jacksonville Sunday off-premise start time conflicts between sources found (6am vs ~11am) - needs direct county ordinance check, not resolved this batch [Tier 3|cross_verified:false|unverified|2026-09-13]"
     }
   },
   {
@@ -499,8 +481,7 @@
       ]
     },
     "law": {
-      "state_income_tax": "No state individual income tax of any form (Hall tax on interest/dividends fully repealed effective TY2021) [Tier 1|cross_verified:true|verified|2026-09-13]",
-      "alcohol_sales_off_premise": "Wine + liquor (grocery/package stores): statewide TABC rule, Mon-Sat 8am-11pm, Sun 10am-11pm, closed Christmas/Thanksgiving/Easter. BEER specifically at grocery/convenience stores: NOT governed by this statewide rule - set by LOCAL city/county beer boards instead, can differ from wine/liquor hours at the same store [Tier 1|cross_verified:true|verified|2026-09-13]"
+      "alcohol_sales": "Wine + liquor (grocery/package stores): statewide TABC rule, Mon-Sat 8am-11pm, Sun 10am-11pm, closed Christmas/Thanksgiving/Easter. BEER specifically at grocery/convenience stores: NOT governed by this statewide rule - set by LOCAL city/county beer boards instead, can differ from wine/liquor hours at the same store [Tier 1|cross_verified:true|verified|2026-09-13]"
     }
   },
   {
@@ -522,8 +503,7 @@
       ]
     },
     "law": {
-      "state_income_tax": "Progressive 1%-12.3% across 9 brackets, plus 1% Mental Health Services Tax surcharge on income over $1,000,000 (effective top rate 13.3%) [Tier 1|cross_verified:true|verified|2026-09-13]",
-      "alcohol_sales_off_premise": "Statewide uniform 6am-2am daily, no Sunday restriction, no local-option variance; applies identically to off-premise (grocery/liquor) and on-premise (Bus. & Prof. Code Sec. 25631) [Tier 1|cross_verified:true|verified|2026-09-13]"
+      "alcohol_sales": "Statewide uniform 6am-2am daily, no Sunday restriction, no local-option variance; applies identically to off-premise (grocery/liquor) and on-premise (Bus. & Prof. Code Sec. 25631) [Tier 1|cross_verified:true|verified|2026-09-13]"
     }
   },
   {
@@ -545,8 +525,7 @@
       ]
     },
     "law": {
-      "state_income_tax": "No state individual income tax [Tier 1|cross_verified:true|verified|2026-09-13]",
-      "alcohol_sales_off_premise": "Statewide default off-premise 7am-midnight daily (F.S. 562.14), no statewide Sunday restriction, but local county/city ordinances routinely override Sunday start time specifically (local-option, similar to GA/NC pattern) [Tier 1|cross_verified:true|verified|2026-09-13] Miami-Dade County: off-premise Sunday 7am start, consistent with statewide default (county does not restrict further for off-premise) [Tier 2|cross_verified:true|verified|2026-09-13]"
+      "alcohol_sales": "Statewide default off-premise 7am-midnight daily (F.S. 562.14), no statewide Sunday restriction, but local county/city ordinances routinely override Sunday start time specifically (local-option, similar to GA/NC pattern) [Tier 1|cross_verified:true|verified|2026-09-13] Miami-Dade County: off-premise Sunday 7am start, consistent with statewide default (county does not restrict further for off-premise) [Tier 2|cross_verified:true|verified|2026-09-13]"
     }
   },
   {
@@ -568,8 +547,7 @@
       ]
     },
     "law": {
-      "state_income_tax": "No state individual income tax of any form (Hall tax on interest/dividends fully repealed effective TY2021) [Tier 1|cross_verified:true|verified|2026-09-13]",
-      "alcohol_sales_off_premise": "Wine + liquor (grocery/package stores): statewide TABC rule, Mon-Sat 8am-11pm, Sun 10am-11pm, closed Christmas/Thanksgiving/Easter. BEER specifically at grocery/convenience stores: NOT governed by this statewide rule - set by LOCAL city/county beer boards instead, can differ from wine/liquor hours at the same store [Tier 1|cross_verified:true|verified|2026-09-13]"
+      "alcohol_sales": "Wine + liquor (grocery/package stores): statewide TABC rule, Mon-Sat 8am-11pm, Sun 10am-11pm, closed Christmas/Thanksgiving/Easter. BEER specifically at grocery/convenience stores: NOT governed by this statewide rule - set by LOCAL city/county beer boards instead, can differ from wine/liquor hours at the same store [Tier 1|cross_verified:true|verified|2026-09-13]"
     }
   },
   {
@@ -591,8 +569,7 @@
       ]
     },
     "law": {
-      "state_income_tax": "Progressive 0%/2.5%/3.5%/4.5% across 4 brackets (TY2026, post-HB 2764), top rate at just $7,200 taxable income (single) [Tier 1|cross_verified:true|verified|2026-09-13]",
-      "alcohol_sales_off_premise": "Grocery/convenience (beer up to 8.99% ABV, wine under 15%): 6am-2am daily incl. Sunday, no restriction, statewide uniform. Liquor stores (spirits): 8am-midnight Mon-Sat, closed Sunday by default. OKLAHOMA COUNTY (where OKC sits) is one of only 7 of 77 OK counties that has approved Sunday liquor sales: noon-midnight [Tier 1|cross_verified:true|verified|2026-09-13]"
+      "alcohol_sales": "Grocery/convenience (beer up to 8.99% ABV, wine under 15%): 6am-2am daily incl. Sunday, no restriction, statewide uniform. Liquor stores (spirits): 8am-midnight Mon-Sat, closed Sunday by default. OKLAHOMA COUNTY (where OKC sits) is one of only 7 of 77 OK counties that has approved Sunday liquor sales: noon-midnight [Tier 1|cross_verified:true|verified|2026-09-13]"
     }
   },
   {
@@ -614,8 +591,7 @@
       ]
     },
     "law": {
-      "state_income_tax": "Progressive 1%-12.3% across 9 brackets, plus 1% Mental Health Services Tax surcharge on income over $1,000,000 (effective top rate 13.3%) [Tier 1|cross_verified:true|verified|2026-09-13]",
-      "alcohol_sales_off_premise": "Statewide uniform 6am-2am daily, no Sunday restriction, no local-option variance; applies identically to off-premise (grocery/liquor) and on-premise (Bus. & Prof. Code Sec. 25631) [Tier 1|cross_verified:true|verified|2026-09-13]"
+      "alcohol_sales": "Statewide uniform 6am-2am daily, no Sunday restriction, no local-option variance; applies identically to off-premise (grocery/liquor) and on-premise (Bus. & Prof. Code Sec. 25631) [Tier 1|cross_verified:true|verified|2026-09-13]"
     }
   },
   {
@@ -637,8 +613,7 @@
       ]
     },
     "law": {
-      "state_income_tax": "Flat 2.5% income tax (since TY2023 via SB 1828); no local income tax [Tier 1|cross_verified:true|verified|2026-09-13]",
-      "alcohol_sales_off_premise": "On-premise (bars/restaurants): 6am-2am daily incl. Sunday, consistent across sources. Off-premise (grocery/liquor) Sunday start time CONTESTED between sources: some say 6am (matches weekday), others specifically say 10am for Sunday off-premise only. NOT RESOLVED this batch - needs direct azliquor.gov/DLLC check before relying on either figure [Tier 3|cross_verified:false|unverified|2026-09-13]"
+      "alcohol_sales": "On-premise (bars/restaurants): 6am-2am daily incl. Sunday, consistent across sources. Off-premise (grocery/liquor) Sunday start time CONTESTED between sources: some say 6am (matches weekday), others specifically say 10am for Sunday off-premise only. NOT RESOLVED this batch - needs direct azliquor.gov/DLLC check before relying on either figure [Tier 3|cross_verified:false|unverified|2026-09-13]"
     }
   },
   {
@@ -660,8 +635,7 @@
       ]
     },
     "law": {
-      "state_income_tax": "Progressive 4.75%-9.9% across 4 brackets, top rate at $125,000 taxable income (single)/$250,000 (MFJ). PORTLAND-SPECIFIC: additional local Metro Supportive Housing Services (SHS) tax and Multnomah County Preschool for All (PFA) tax stack on top of state rate for Portland-area residents specifically - not just a generic OR answer [Tier 1|cross_verified:true|verified|2026-09-13]",
-      "alcohol_sales_off_premise": "Off-premise beer/wine 6am-2:30am daily incl. Sunday, no restriction; on-premise 7am-2:30am daily; retail liquor stores (spirits, state-licensed agents) required min. 8hrs/day Mon-Sat, but Sunday/holiday opening is OPTIONAL per-store - genuine store-by-store variance, not a fixed statewide Sunday rule for spirits [Tier 1|cross_verified:true|verified|2026-09-13]"
+      "alcohol_sales": "Off-premise beer/wine 6am-2:30am daily incl. Sunday, no restriction; on-premise 7am-2:30am daily; retail liquor stores (spirits, state-licensed agents) required min. 8hrs/day Mon-Sat, but Sunday/holiday opening is OPTIONAL per-store - genuine store-by-store variance, not a fixed statewide Sunday rule for spirits [Tier 1|cross_verified:true|verified|2026-09-13]"
     }
   },
   {
@@ -683,8 +657,7 @@
       ]
     },
     "law": {
-      "state_income_tax": "Progressive 3.75%/4.75%/5.99% across 3 brackets, same schedule for all filing statuses (unlike most states), no local income tax. VERIFY: pending S0329 would add 3% surtax on income over ~$625K starting TY2026 - status not confirmed as passed [Tier 1|cross_verified:true|verified|2026-09-13]",
-      "alcohol_sales_off_premise": "ALL off-premise alcohol sales (beer/wine/spirits) restricted to dedicated liquor stores (Class A license) only - NO grocery/convenience store alcohol sales, unlike most states in this dataset. Liquor stores: Mon-Sat 9am-10pm, Sun 10am-6pm. On-premise (bars/restaurants): 9am-1am Mon-Sat (PROVIDENCE SPECIFICALLY: extended to 2am Fri/Sat and before state-recognized holidays), Sun 12pm-1am [Tier 2|cross_verified:true|verified|2026-09-13]"
+      "alcohol_sales": "ALL off-premise alcohol sales (beer/wine/spirits) restricted to dedicated liquor stores (Class A license) only - NO grocery/convenience store alcohol sales, unlike most states in this dataset. Liquor stores: Mon-Sat 9am-10pm, Sun 10am-6pm. On-premise (bars/restaurants): 9am-1am Mon-Sat (PROVIDENCE SPECIFICALLY: extended to 2am Fri/Sat and before state-recognized holidays), Sun 12pm-1am [Tier 2|cross_verified:true|verified|2026-09-13]"
     }
   },
   {
@@ -706,8 +679,7 @@
       ]
     },
     "law": {
-      "state_income_tax": "Progressive 2%-5.75% across 4 brackets (top rate at just $17,000 taxable income); no local income tax. VERIFY: HB188 (pending, would add new 10% bracket over $1M) not yet law as of check date [Tier 1|cross_verified:true|verified|2026-09-13]",
-      "alcohol_sales_off_premise": "Statewide, no local-option variance: beer/wine 6am-midnight daily incl. Sunday (no blue-law carve-out); state-run ABC liquor stores Mon-Sat 10am-9pm, Sun 12pm-6pm [Tier 1|cross_verified:true|verified|2026-09-13]"
+      "alcohol_sales": "Statewide, no local-option variance: beer/wine 6am-midnight daily incl. Sunday (no blue-law carve-out); state-run ABC liquor stores Mon-Sat 10am-9pm, Sun 12pm-6pm [Tier 1|cross_verified:true|verified|2026-09-13]"
     }
   },
   {
@@ -729,8 +701,7 @@
       ]
     },
     "law": {
-      "state_income_tax": "Progressive 2%-5.75% across 4 brackets (top rate at just $17,000 taxable income); no local income tax. VERIFY: HB188 (pending, would add new 10% bracket over $1M) not yet law as of check date [Tier 1|cross_verified:true|verified|2026-09-13]",
-      "alcohol_sales_off_premise": "Statewide, no local-option variance: beer/wine 6am-midnight daily incl. Sunday (no blue-law carve-out); state-run ABC liquor stores Mon-Sat 10am-9pm, Sun 12pm-6pm [Tier 1|cross_verified:true|verified|2026-09-13]"
+      "alcohol_sales": "Statewide, no local-option variance: beer/wine 6am-midnight daily incl. Sunday (no blue-law carve-out); state-run ABC liquor stores Mon-Sat 10am-9pm, Sun 12pm-6pm [Tier 1|cross_verified:true|verified|2026-09-13]"
     }
   },
   {
@@ -752,8 +723,7 @@
       ]
     },
     "law": {
-      "state_income_tax": "State progressive 2%-6.5% across 10 brackets, PLUS mandatory local county income tax stacked on top [Tier 1|cross_verified:true|verified|2026-09-13] WICOMICO COUNTY (Salisbury) local rate: 3.20% [Tier 1|cross_verified:true|verified|2026-09-13]",
-      "alcohol_sales_off_premise": "Statewide: no alcohol of any kind sold in grocery/big-box retail chains (1 of only 3 US states with this rule) - alcohol sales entirely county-by-county through dedicated licensed stores. WICOMICO COUNTY (Salisbury): CONFIRMED directly from MD Alcoholic Beverages Code Sec. 11-303(6): hours are 10am-2am, Monday through Saturday [Tier 1|cross_verified:true|verified|2026-09-13]"
+      "alcohol_sales": "Statewide: no alcohol of any kind sold in grocery/big-box retail chains (1 of only 3 US states with this rule) - alcohol sales entirely county-by-county through dedicated licensed stores. WICOMICO COUNTY (Salisbury): CONFIRMED directly from MD Alcoholic Beverages Code Sec. 11-303(6): hours are 10am-2am, Monday through Saturday [Tier 1|cross_verified:true|verified|2026-09-13]"
     }
   },
   {
@@ -775,8 +745,7 @@
       ]
     },
     "law": {
-      "state_income_tax": "Flat 4.55% (TY2026, per SB0085), down from 4.65% in prior years; no local income tax [Tier 2|cross_verified:true|verified|2026-09-13]",
-      "alcohol_sales_off_premise": "Grocery/convenience: beer <=5% ABV ONLY, 7 days/week incl. Sunday. Wine, liquor, and higher-ABV beer sold EXCLUSIVELY through state-run DABS liquor stores, Mon-Sat only (hours vary by location, typically 11am-5/10pm), CLOSED SUNDAYS AND HOLIDAYS STATEWIDE - most restrictive system in this dataset [Tier 1|cross_verified:true|verified|2026-09-13]"
+      "alcohol_sales": "Grocery/convenience: beer <=5% ABV ONLY, 7 days/week incl. Sunday. Wine, liquor, and higher-ABV beer sold EXCLUSIVELY through state-run DABS liquor stores, Mon-Sat only (hours vary by location, typically 11am-5/10pm), CLOSED SUNDAYS AND HOLIDAYS STATEWIDE - most restrictive system in this dataset [Tier 1|cross_verified:true|verified|2026-09-13]"
     }
   },
   {
@@ -798,8 +767,7 @@
       ]
     },
     "law": {
-      "state_income_tax": "Progressive 1%-12.3% across 9 brackets, plus 1% Mental Health Services Tax surcharge on income over $1,000,000 (effective top rate 13.3%) [Tier 1|cross_verified:true|verified|2026-09-13]",
-      "alcohol_sales_off_premise": "Statewide uniform 6am-2am daily, no Sunday restriction, no local-option variance; applies identically to off-premise (grocery/liquor) and on-premise (Bus. & Prof. Code Sec. 25631) [Tier 1|cross_verified:true|verified|2026-09-13]"
+      "alcohol_sales": "Statewide uniform 6am-2am daily, no Sunday restriction, no local-option variance; applies identically to off-premise (grocery/liquor) and on-premise (Bus. & Prof. Code Sec. 25631) [Tier 1|cross_verified:true|verified|2026-09-13]"
     }
   },
   {
@@ -821,8 +789,7 @@
       ]
     },
     "law": {
-      "state_income_tax": "Progressive 1%-12.3% across 9 brackets, plus 1% Mental Health Services Tax surcharge on income over $1,000,000 (effective top rate 13.3%) [Tier 1|cross_verified:true|verified|2026-09-13]",
-      "alcohol_sales_off_premise": "Statewide uniform 6am-2am daily, no Sunday restriction, no local-option variance; applies identically to off-premise (grocery/liquor) and on-premise (Bus. & Prof. Code Sec. 25631) [Tier 1|cross_verified:true|verified|2026-09-13]"
+      "alcohol_sales": "Statewide uniform 6am-2am daily, no Sunday restriction, no local-option variance; applies identically to off-premise (grocery/liquor) and on-premise (Bus. & Prof. Code Sec. 25631) [Tier 1|cross_verified:true|verified|2026-09-13]"
     }
   },
   {
@@ -844,8 +811,7 @@
       ]
     },
     "law": {
-      "state_income_tax": "Flat 2.5% income tax (since TY2023 via SB 1828); no local income tax [Tier 1|cross_verified:true|verified|2026-09-13]",
-      "alcohol_sales_off_premise": "On-premise (bars/restaurants): 6am-2am daily incl. Sunday, consistent across sources. Off-premise (grocery/liquor) Sunday start time CONTESTED between sources: some say 6am (matches weekday), others specifically say 10am for Sunday off-premise only. NOT RESOLVED this batch - needs direct azliquor.gov/DLLC check before relying on either figure [Tier 3|cross_verified:false|unverified|2026-09-13]"
+      "alcohol_sales": "On-premise (bars/restaurants): 6am-2am daily incl. Sunday, consistent across sources. Off-premise (grocery/liquor) Sunday start time CONTESTED between sources: some say 6am (matches weekday), others specifically say 10am for Sunday off-premise only. NOT RESOLVED this batch - needs direct azliquor.gov/DLLC check before relying on either figure [Tier 3|cross_verified:false|unverified|2026-09-13]"
     }
   },
   {
@@ -867,8 +833,7 @@
       ]
     },
     "law": {
-      "state_income_tax": "Currently NO individual income tax. VERIFY/upcoming: new 9.9% tax on individuals/couples with AGI over $1M takes effect Jan 1, 2028 under SB 6346 (enacted 2026 WA Legislature) - not yet in effect, but relevant given multi-year residency timeline [Tier 1|cross_verified:true|verified|2026-09-13]",
-      "alcohol_sales_off_premise": "Statewide uniform 6am-2am daily incl. Sunday, no blue-law carve-out (repealed 1967); spirits sold through regular licensed retail (incl. large grocery chains) since 2012 privatization (Initiative 1183) - no separate state-store Sunday closure [Tier 2|cross_verified:true|verified|2026-09-13]"
+      "alcohol_sales": "Statewide uniform 6am-2am daily incl. Sunday, no blue-law carve-out (repealed 1967); spirits sold through regular licensed retail (incl. large grocery chains) since 2012 privatization (Initiative 1183) - no separate state-store Sunday closure [Tier 2|cross_verified:true|verified|2026-09-13]"
     }
   },
   {
@@ -890,8 +855,7 @@
       ]
     },
     "law": {
-      "state_income_tax": "Currently NO individual income tax. VERIFY/upcoming: new 9.9% tax on individuals/couples with AGI over $1M takes effect Jan 1, 2028 under SB 6346 (enacted 2026 WA Legislature) - not yet in effect, but relevant given multi-year residency timeline [Tier 1|cross_verified:true|verified|2026-09-13]",
-      "alcohol_sales_off_premise": "Statewide uniform 6am-2am daily incl. Sunday, no blue-law carve-out (repealed 1967); spirits sold through regular licensed retail (incl. large grocery chains) since 2012 privatization (Initiative 1183) - no separate state-store Sunday closure [Tier 2|cross_verified:true|verified|2026-09-13]"
+      "alcohol_sales": "Statewide uniform 6am-2am daily incl. Sunday, no blue-law carve-out (repealed 1967); spirits sold through regular licensed retail (incl. large grocery chains) since 2012 privatization (Initiative 1183) - no separate state-store Sunday closure [Tier 2|cross_verified:true|verified|2026-09-13]"
     }
   },
   {
@@ -913,8 +877,7 @@
       ]
     },
     "law": {
-      "state_income_tax": "No state individual income tax [Tier 1|cross_verified:true|verified|2026-09-13]",
-      "alcohol_sales_off_premise": "Statewide default off-premise 7am-midnight daily (F.S. 562.14), no statewide Sunday restriction, but local county/city ordinances routinely override Sunday start time specifically (local-option, similar to GA/NC pattern) [Tier 1|cross_verified:true|verified|2026-09-13] Hillsborough County: Sunday sales 11am-3am (extended past statewide default via local ordinance), both on- and off-premise [Tier 2|cross_verified:true|verified|2026-09-13]"
+      "alcohol_sales": "Statewide default off-premise 7am-midnight daily (F.S. 562.14), no statewide Sunday restriction, but local county/city ordinances routinely override Sunday start time specifically (local-option, similar to GA/NC pattern) [Tier 1|cross_verified:true|verified|2026-09-13] Hillsborough County: Sunday sales 11am-3am (extended past statewide default via local ordinance), both on- and off-premise [Tier 2|cross_verified:true|verified|2026-09-13]"
     }
   },
   {
@@ -936,8 +899,7 @@
       ]
     },
     "law": {
-      "state_income_tax": "Flat 3.99% (2026), down from 4.25% (2025) under phase-down schedule (SL 2023-134); no local income tax [Tier 2|cross_verified:true|verified|2026-09-13]",
-      "alcohol_sales_off_premise": "Statewide default Mon-Sat 7am-2am, Sun 12pm-2am; local ordinances may move Sunday start to 10am; state-run ABC liquor stores closed all Sunday regardless of local option [Tier 1|cross_verified:true|verified|2026-09-13]"
+      "alcohol_sales": "Statewide default Mon-Sat 7am-2am, Sun 12pm-2am; local ordinances may move Sunday start to 10am; state-run ABC liquor stores closed all Sunday regardless of local option [Tier 1|cross_verified:true|verified|2026-09-13]"
     }
   },
   {
@@ -965,8 +927,7 @@
       ]
     },
     "law": {
-      "state_income_tax": "Progressive 2%-6.99% across 7 brackets (bottom two rates cut in 2024, from 3%/5% to 2%/4.5%), top rate at $500,000 single/$1,000,000 MFJ; no local income tax [Tier 1|cross_verified:true|verified|2026-09-13]",
-      "alcohol_sales_off_premise": "Off-premise (package stores AND grocery/beer permits): Mon-Sat 8am-10pm, SUNDAY 10am-6pm (Sunday sales legalized 2012 - some older sources incorrectly state CT is closed Sunday, this is stale/superseded). On-premise (restaurants/bars): Mon-Thu 9am-1am, Fri-Sat 9am-2am, Sun 10am-1am. Closed Thanksgiving, Christmas, New Year's Day [Tier 1|cross_verified:true|verified|2026-09-13]"
+      "alcohol_sales": "Off-premise (package stores AND grocery/beer permits): Mon-Sat 8am-10pm, SUNDAY 10am-6pm (Sunday sales legalized 2012 - some older sources incorrectly state CT is closed Sunday, this is stale/superseded). On-premise (restaurants/bars): Mon-Thu 9am-1am, Fri-Sat 9am-2am, Sun 10am-1am. Closed Thanksgiving, Christmas, New Year's Day [Tier 1|cross_verified:true|verified|2026-09-13]"
     }
   }
 ]
