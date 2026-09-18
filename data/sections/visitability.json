@@ -36,22 +36,22 @@
             "anchor_label": "SF",
             "anchor_airport_code": "SFO",
             "distance_mi": 2134,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 38.8,
+            "flight_time_hr": 5.0
           },
           {
             "anchor_label": "VA",
             "anchor_airport_code": "IAD",
             "distance_mi": 534,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 9.7,
+            "flight_time_hr": 2.5
           },
           {
             "anchor_label": "AZ",
             "anchor_airport_code": "PHX",
             "distance_mi": 1584,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 28.8,
+            "flight_time_hr": 4.4
           }
         ],
       "nearby_pois": [
@@ -93,22 +93,22 @@
             "anchor_label": "SF",
             "anchor_airport_code": "SFO",
             "distance_mi": 2275,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 41.4,
+            "flight_time_hr": 6.7
           },
           {
             "anchor_label": "VA",
             "anchor_airport_code": "IAD",
             "distance_mi": 460,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 8.4,
+            "flight_time_hr": 3.7
           },
           {
             "anchor_label": "AZ",
             "anchor_airport_code": "PHX",
             "distance_mi": 1727,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 31.4,
+            "flight_time_hr": 6.8
           }
         ],
       "nearby_pois": [
@@ -148,22 +148,22 @@
             "anchor_label": "SF",
             "anchor_airport_code": "SFO",
             "distance_mi": 965,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 17.5,
+            "flight_time_hr": 2.8
           },
           {
             "anchor_label": "VA",
             "anchor_airport_code": "IAD",
             "distance_mi": 1449,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 26.3,
+            "flight_time_hr": 3.3
           },
           {
             "anchor_label": "AZ",
             "anchor_airport_code": "PHX",
             "distance_mi": 602,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 10.9,
+            "flight_time_hr": 2.0
           }
         ],
       "nearby_pois": [
@@ -204,22 +204,22 @@
             "anchor_label": "SF",
             "anchor_airport_code": "SFO",
             "distance_mi": 1502,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 27.3,
+            "flight_time_hr": 3.8
           },
           {
             "anchor_label": "VA",
             "anchor_airport_code": "IAD",
             "distance_mi": 1295,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 23.5,
+            "flight_time_hr": 3.4
           },
           {
             "anchor_label": "AZ",
             "anchor_airport_code": "PHX",
             "distance_mi": 870,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 15.8,
+            "flight_time_hr": 2.4
           }
         ],
       "nearby_pois": [
@@ -269,22 +269,22 @@
             "anchor_label": "SF",
             "anchor_airport_code": "SFO",
             "distance_mi": 2395,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 43.5,
+            "flight_time_hr": 5.8
           },
           {
             "anchor_label": "VA",
             "anchor_airport_code": "IAD",
             "distance_mi": 225,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 4.1,
+            "flight_time_hr": 1.0
           },
           {
             "anchor_label": "AZ",
             "anchor_airport_code": "PHX",
             "distance_mi": 1887,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 34.3,
+            "flight_time_hr": 4.7
           }
         ],
       "nearby_pois": [
@@ -323,22 +323,22 @@
             "anchor_label": "SF",
             "anchor_airport_code": "SFO",
             "distance_mi": 2373,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 43.1,
+            "flight_time_hr": 6.8
           },
           {
             "anchor_label": "VA",
             "anchor_airport_code": "IAD",
             "distance_mi": 78,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 1.4,
+            "flight_time_hr": 1.7
           },
           {
             "anchor_label": "AZ",
             "anchor_airport_code": "PHX",
             "distance_mi": 1898,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 34.5,
+            "flight_time_hr": 5.7
           }
         ],
       "nearby_pois": [
@@ -397,22 +397,22 @@
             "anchor_label": "SF",
             "anchor_airport_code": "SFO",
             "distance_mi": 2451,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 44.6,
+            "flight_time_hr": 6.0
           },
           {
             "anchor_label": "VA",
             "anchor_airport_code": "IAD",
             "distance_mi": 45,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 0.8,
+            "flight_time_hr": 0.6
           },
           {
             "anchor_label": "AZ",
             "anchor_airport_code": "PHX",
             "distance_mi": 1994,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 36.3,
+            "flight_time_hr": 4.9
           }
         ],
       "nearby_pois": [
@@ -459,22 +459,22 @@
             "anchor_label": "SF",
             "anchor_airport_code": "SFO",
             "distance_mi": 1473,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 26.8,
+            "flight_time_hr": 3.8
           },
           {
             "anchor_label": "VA",
             "anchor_airport_code": "IAD",
             "distance_mi": 1162,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 21.1,
+            "flight_time_hr": 3.1
           },
           {
             "anchor_label": "AZ",
             "anchor_airport_code": "PHX",
             "distance_mi": 877,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 15.9,
+            "flight_time_hr": 2.5
           }
         ],
       "nearby_pois": [
@@ -522,22 +522,22 @@
             "anchor_label": "SF",
             "anchor_airport_code": "SFO",
             "distance_mi": 2395,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 43.5,
+            "flight_time_hr": 5.8
           },
           {
             "anchor_label": "VA",
             "anchor_airport_code": "IAD",
             "distance_mi": 225,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 4.1,
+            "flight_time_hr": 1.0
           },
           {
             "anchor_label": "AZ",
             "anchor_airport_code": "PHX",
             "distance_mi": 1887,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 34.3,
+            "flight_time_hr": 4.7
           }
         ],
       "nearby_pois": [
@@ -577,22 +577,22 @@
             "anchor_label": "SF",
             "anchor_airport_code": "SFO",
             "distance_mi": 965,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 17.5,
+            "flight_time_hr": 2.6
           },
           {
             "anchor_label": "VA",
             "anchor_airport_code": "IAD",
             "distance_mi": 1449,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 26.3,
+            "flight_time_hr": 3.7
           },
           {
             "anchor_label": "AZ",
             "anchor_airport_code": "PHX",
             "distance_mi": 602,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 10.9,
+            "flight_time_hr": 1.8
           }
         ],
       "nearby_pois": [
@@ -638,22 +638,22 @@
             "anchor_label": "SF",
             "anchor_airport_code": "SFO",
             "distance_mi": 2619,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 47.6,
+            "flight_time_hr": 6.3
           },
           {
             "anchor_label": "VA",
             "anchor_airport_code": "IAD",
             "distance_mi": 325,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 5.9,
+            "flight_time_hr": 1.2
           },
           {
             "anchor_label": "AZ",
             "anchor_airport_code": "PHX",
             "distance_mi": 2208,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 40.1,
+            "flight_time_hr": 5.4
           }
         ],
       "nearby_pois": [
@@ -698,22 +698,22 @@
             "anchor_label": "SF",
             "anchor_airport_code": "SFO",
             "distance_mi": 86,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 1.6,
+            "flight_time_hr": 0.7
           },
           {
             "anchor_label": "VA",
             "anchor_airport_code": "IAD",
             "distance_mi": 2352,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 42.8,
+            "flight_time_hr": 5.7
           },
           {
             "anchor_label": "AZ",
             "anchor_airport_code": "PHX",
             "distance_mi": 646,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 11.7,
+            "flight_time_hr": 1.9
           }
         ],
       "nearby_pois": [
@@ -754,22 +754,22 @@
             "anchor_label": "SF",
             "anchor_airport_code": "SFO",
             "distance_mi": 2352,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 42.8,
+            "flight_time_hr": 6.7
           },
           {
             "anchor_label": "VA",
             "anchor_airport_code": "IAD",
             "distance_mi": 696,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 12.7,
+            "flight_time_hr": 3.1
           },
           {
             "anchor_label": "AZ",
             "anchor_airport_code": "PHX",
             "distance_mi": 1764,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 32.1,
+            "flight_time_hr": 5.4
           }
         ],
       "nearby_pois": [
@@ -808,22 +808,22 @@
             "anchor_label": "SF",
             "anchor_airport_code": "SFO",
             "distance_mi": 1646,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 29.9,
+            "flight_time_hr": 4.2
           },
           {
             "anchor_label": "VA",
             "anchor_airport_code": "IAD",
             "distance_mi": 1200,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 21.8,
+            "flight_time_hr": 3.2
           },
           {
             "anchor_label": "AZ",
             "anchor_airport_code": "PHX",
             "distance_mi": 1018,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 18.5,
+            "flight_time_hr": 2.8
           }
         ],
       "nearby_pois": [
@@ -870,22 +870,22 @@
             "anchor_label": "SF",
             "anchor_airport_code": "SFO",
             "distance_mi": 1803,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 32.8,
+            "flight_time_hr": 4.5
           },
           {
             "anchor_label": "VA",
             "anchor_airport_code": "IAD",
             "distance_mi": 741,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 13.5,
+            "flight_time_hr": 2.1
           },
           {
             "anchor_label": "AZ",
             "anchor_airport_code": "PHX",
             "distance_mi": 1261,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 22.9,
+            "flight_time_hr": 3.3
           }
         ],
       "nearby_pois": [
@@ -926,22 +926,22 @@
             "anchor_label": "SF",
             "anchor_airport_code": "SFO",
             "distance_mi": 2475,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 45.0,
+            "flight_time_hr": 7.0
           },
           {
             "anchor_label": "VA",
             "anchor_airport_code": "IAD",
             "distance_mi": 229,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 4.2,
+            "flight_time_hr": 2.0
           },
           {
             "anchor_label": "AZ",
             "anchor_airport_code": "PHX",
             "distance_mi": 1967,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 35.8,
+            "flight_time_hr": 5.9
           }
         ],
       "nearby_pois": [
@@ -981,21 +981,21 @@
             "anchor_airport_code": "SFO",
             "distance_mi": 2396,
             "drive_time_hr": null,
-            "flight_time_hr": null
+            "flight_time_hr": 5.8
           },
           {
             "anchor_label": "VA",
             "anchor_airport_code": "IAD",
             "distance_mi": 4809,
             "drive_time_hr": null,
-            "flight_time_hr": null
+            "flight_time_hr": 12.7
           },
           {
             "anchor_label": "AZ",
             "anchor_airport_code": "PHX",
             "distance_mi": 2913,
             "drive_time_hr": null,
-            "flight_time_hr": null
+            "flight_time_hr": 7.0
           }
         ],
       "nearby_pois": [
@@ -1036,22 +1036,22 @@
             "anchor_label": "SF",
             "anchor_airport_code": "SFO",
             "distance_mi": 2362,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 42.9,
+            "flight_time_hr": 5.8
           },
           {
             "anchor_label": "VA",
             "anchor_airport_code": "IAD",
             "distance_mi": 632,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 11.5,
+            "flight_time_hr": 1.9
           },
           {
             "anchor_label": "AZ",
             "anchor_airport_code": "PHX",
             "distance_mi": 1783,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 32.4,
+            "flight_time_hr": 4.5
           }
         ],
       "nearby_pois": [
@@ -1091,22 +1091,22 @@
             "anchor_label": "SF",
             "anchor_airport_code": "SFO",
             "distance_mi": 2115,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 38.5,
+            "flight_time_hr": 6.2
           },
           {
             "anchor_label": "VA",
             "anchor_airport_code": "IAD",
             "distance_mi": 419,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 7.6,
+            "flight_time_hr": 2.4
           },
           {
             "anchor_label": "AZ",
             "anchor_airport_code": "PHX",
             "distance_mi": 1596,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 29.0,
+            "flight_time_hr": 5.1
           }
         ],
       "nearby_pois": [
@@ -1147,22 +1147,22 @@
             "anchor_label": "SF",
             "anchor_airport_code": "SFO",
             "distance_mi": 338,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 6.1,
+            "flight_time_hr": 1.3
           },
           {
             "anchor_label": "VA",
             "anchor_airport_code": "IAD",
             "distance_mi": 2283,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 41.5,
+            "flight_time_hr": 5.6
           },
           {
             "anchor_label": "AZ",
             "anchor_airport_code": "PHX",
             "distance_mi": 369,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 6.7,
+            "flight_time_hr": 1.3
           }
         ],
       "nearby_pois": [
@@ -1203,22 +1203,22 @@
             "anchor_label": "SF",
             "anchor_airport_code": "SFO",
             "distance_mi": 2581,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 46.9,
+            "flight_time_hr": 6.2
           },
           {
             "anchor_label": "VA",
             "anchor_airport_code": "IAD",
             "distance_mi": 924,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 16.8,
+            "flight_time_hr": 2.6
           },
           {
             "anchor_label": "AZ",
             "anchor_airport_code": "PHX",
             "distance_mi": 1969,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 35.8,
+            "flight_time_hr": 4.9
           }
         ],
       "nearby_pois": [
@@ -1258,22 +1258,22 @@
             "anchor_label": "SF",
             "anchor_airport_code": "SFO",
             "distance_mi": 1964,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 35.7,
+            "flight_time_hr": 4.9
           },
           {
             "anchor_label": "VA",
             "anchor_airport_code": "IAD",
             "distance_mi": 541,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 9.8,
+            "flight_time_hr": 1.7
           },
           {
             "anchor_label": "AZ",
             "anchor_airport_code": "PHX",
             "distance_mi": 1446,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 26.3,
+            "flight_time_hr": 3.7
           }
         ],
       "nearby_pois": [
@@ -1313,22 +1313,22 @@
             "anchor_label": "SF",
             "anchor_airport_code": "SFO",
             "distance_mi": 1381,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 25.1,
+            "flight_time_hr": 3.6
           },
           {
             "anchor_label": "VA",
             "anchor_airport_code": "IAD",
             "distance_mi": 1133,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 20.6,
+            "flight_time_hr": 3.0
           },
           {
             "anchor_label": "AZ",
             "anchor_airport_code": "PHX",
             "distance_mi": 832,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 15.1,
+            "flight_time_hr": 2.4
           }
         ],
       "nearby_pois": [
@@ -1368,22 +1368,22 @@
             "anchor_label": "SF",
             "anchor_airport_code": "SFO",
             "distance_mi": 30,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 0.5,
+            "flight_time_hr": 0.6
           },
           {
             "anchor_label": "VA",
             "anchor_airport_code": "IAD",
             "distance_mi": 2395,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 43.5,
+            "flight_time_hr": 5.8
           },
           {
             "anchor_label": "AZ",
             "anchor_airport_code": "PHX",
             "distance_mi": 621,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 11.3,
+            "flight_time_hr": 1.9
           }
         ],
       "nearby_pois": [
@@ -1422,22 +1422,22 @@
             "anchor_label": "SF",
             "anchor_airport_code": "SFO",
             "distance_mi": 650,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 11.8,
+            "flight_time_hr": 1.9
           },
           {
             "anchor_label": "VA",
             "anchor_airport_code": "IAD",
             "distance_mi": 1952,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 35.5,
+            "flight_time_hr": 4.8
           },
           {
             "anchor_label": "AZ",
             "anchor_airport_code": "PHX",
             "distance_mi": 0,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 0.0,
+            "flight_time_hr": 0.0
           }
         ],
       "nearby_pois": [
@@ -1477,22 +1477,22 @@
             "anchor_label": "SF",
             "anchor_airport_code": "SFO",
             "distance_mi": 551,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 10.0,
+            "flight_time_hr": 1.7
           },
           {
             "anchor_label": "VA",
             "anchor_airport_code": "IAD",
             "distance_mi": 2321,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 42.2,
+            "flight_time_hr": 5.7
           },
           {
             "anchor_label": "AZ",
             "anchor_airport_code": "PHX",
             "distance_mi": 1010,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 18.4,
+            "flight_time_hr": 2.7
           }
         ],
       "nearby_pois": [
@@ -1533,22 +1533,22 @@
             "anchor_label": "SF",
             "anchor_airport_code": "SFO",
             "distance_mi": 2685,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 48.8,
+            "flight_time_hr": 6.5
           },
           {
             "anchor_label": "VA",
             "anchor_airport_code": "IAD",
             "distance_mi": 371,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 6.7,
+            "flight_time_hr": 1.3
           },
           {
             "anchor_label": "AZ",
             "anchor_airport_code": "PHX",
             "distance_mi": 2272,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 41.3,
+            "flight_time_hr": 5.6
           }
         ],
       "nearby_pois": [
@@ -1588,22 +1588,22 @@
             "anchor_label": "SF",
             "anchor_airport_code": "SFO",
             "distance_mi": 2443,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 44.4,
+            "flight_time_hr": 5.9
           },
           {
             "anchor_label": "VA",
             "anchor_airport_code": "IAD",
             "distance_mi": 100,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 1.8,
+            "flight_time_hr": 0.7
           },
           {
             "anchor_label": "AZ",
             "anchor_airport_code": "PHX",
             "distance_mi": 1961,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 35.7,
+            "flight_time_hr": 4.9
           }
         ],
       "nearby_pois": [
@@ -1644,22 +1644,22 @@
             "anchor_label": "SF",
             "anchor_airport_code": "SFO",
             "distance_mi": 2305,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 41.9,
+            "flight_time_hr": 6.6
           },
           {
             "anchor_label": "VA",
             "anchor_airport_code": "IAD",
             "distance_mi": 177,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 3.2,
+            "flight_time_hr": 1.9
           },
           {
             "anchor_label": "AZ",
             "anchor_airport_code": "PHX",
             "distance_mi": 1816,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 33.0,
+            "flight_time_hr": 5.5
           }
         ],
       "nearby_pois": [
@@ -1698,22 +1698,22 @@
             "anchor_label": "SF",
             "anchor_airport_code": "SFO",
             "distance_mi": 2525,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 45.9,
+            "flight_time_hr": 7.1
           },
           {
             "anchor_label": "VA",
             "anchor_airport_code": "IAD",
             "distance_mi": 113,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 2.1,
+            "flight_time_hr": 1.8
           },
           {
             "anchor_label": "AZ",
             "anchor_airport_code": "PHX",
             "distance_mi": 2058,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 37.4,
+            "flight_time_hr": 6.1
           }
         ],
       "nearby_pois": [
@@ -1752,22 +1752,22 @@
             "anchor_label": "SF",
             "anchor_airport_code": "SFO",
             "distance_mi": 598,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 10.9,
+            "flight_time_hr": 1.8
           },
           {
             "anchor_label": "VA",
             "anchor_airport_code": "IAD",
             "distance_mi": 1823,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 33.1,
+            "flight_time_hr": 4.6
           },
           {
             "anchor_label": "AZ",
             "anchor_airport_code": "PHX",
             "distance_mi": 508,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 9.2,
+            "flight_time_hr": 1.6
           }
         ],
       "nearby_pois": [
@@ -1807,22 +1807,22 @@
             "anchor_label": "SF",
             "anchor_airport_code": "SFO",
             "distance_mi": 447,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 8.1,
+            "flight_time_hr": 1.5
           },
           {
             "anchor_label": "VA",
             "anchor_airport_code": "IAD",
             "distance_mi": 2248,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 40.9,
+            "flight_time_hr": 5.5
           },
           {
             "anchor_label": "AZ",
             "anchor_airport_code": "PHX",
             "distance_mi": 304,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 5.5,
+            "flight_time_hr": 1.2
           }
         ],
       "nearby_pois": [
@@ -1862,22 +1862,22 @@
             "anchor_label": "SF",
             "anchor_airport_code": "SFO",
             "distance_mi": 0,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 0.0,
+            "flight_time_hr": 0.0
           },
           {
             "anchor_label": "VA",
             "anchor_airport_code": "IAD",
             "distance_mi": 2413,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 43.9,
+            "flight_time_hr": 5.9
           },
           {
             "anchor_label": "AZ",
             "anchor_airport_code": "PHX",
             "distance_mi": 650,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 11.8,
+            "flight_time_hr": 1.9
           }
         ],
       "nearby_pois": [
@@ -1918,22 +1918,22 @@
             "anchor_label": "SF",
             "anchor_airport_code": "SFO",
             "distance_mi": 650,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 11.8,
+            "flight_time_hr": 1.9
           },
           {
             "anchor_label": "VA",
             "anchor_airport_code": "IAD",
             "distance_mi": 1952,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 35.5,
+            "flight_time_hr": 4.8
           },
           {
             "anchor_label": "AZ",
             "anchor_airport_code": "PHX",
             "distance_mi": 15,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 0.3,
+            "flight_time_hr": 0.5
           }
         ],
       "nearby_pois": [
@@ -1973,22 +1973,22 @@
             "anchor_label": "SF",
             "anchor_airport_code": "SFO",
             "distance_mi": 679,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 12.3,
+            "flight_time_hr": 2.0
           },
           {
             "anchor_label": "VA",
             "anchor_airport_code": "IAD",
             "distance_mi": 2300,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 41.8,
+            "flight_time_hr": 5.6
           },
           {
             "anchor_label": "AZ",
             "anchor_airport_code": "PHX",
             "distance_mi": 1107,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 20.1,
+            "flight_time_hr": 3.0
           }
         ],
       "nearby_pois": [
@@ -2028,22 +2028,22 @@
             "anchor_label": "SF",
             "anchor_airport_code": "SFO",
             "distance_mi": 679,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 12.3,
+            "flight_time_hr": 2.0
           },
           {
             "anchor_label": "VA",
             "anchor_airport_code": "IAD",
             "distance_mi": 2300,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 41.8,
+            "flight_time_hr": 5.6
           },
           {
             "anchor_label": "AZ",
             "anchor_airport_code": "PHX",
             "distance_mi": 1107,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 20.1,
+            "flight_time_hr": 3.0
           }
         ],
       "nearby_pois": [
@@ -2082,22 +2082,22 @@
             "anchor_label": "SF",
             "anchor_airport_code": "SFO",
             "distance_mi": 2389,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 43.4,
+            "flight_time_hr": 5.8
           },
           {
             "anchor_label": "VA",
             "anchor_airport_code": "IAD",
             "distance_mi": 813,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 14.8,
+            "flight_time_hr": 2.3
           },
           {
             "anchor_label": "AZ",
             "anchor_airport_code": "PHX",
             "distance_mi": 1785,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 32.5,
+            "flight_time_hr": 4.5
           }
         ],
       "nearby_pois": [
@@ -2137,22 +2137,22 @@
             "anchor_label": "SF",
             "anchor_airport_code": "SFO",
             "distance_mi": 2329,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 42.3,
+            "flight_time_hr": 5.7
           },
           {
             "anchor_label": "VA",
             "anchor_airport_code": "IAD",
             "distance_mi": 240,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 4.4,
+            "flight_time_hr": 1.0
           },
           {
             "anchor_label": "AZ",
             "anchor_airport_code": "PHX",
             "distance_mi": 1822,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 33.1,
+            "flight_time_hr": 4.6
           }
         ],
       "nearby_pois": [
@@ -2197,22 +2197,22 @@
             "anchor_label": "SF",
             "anchor_airport_code": "SFO",
             "distance_mi": 2617,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 47.6,
+            "flight_time_hr": 7.3
           },
           {
             "anchor_label": "VA",
             "anchor_airport_code": "IAD",
             "distance_mi": 289,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 5.3,
+            "flight_time_hr": 2.1
           },
           {
             "anchor_label": "AZ",
             "anchor_airport_code": "PHX",
             "distance_mi": 2196,
-            "drive_time_hr": null,
-            "flight_time_hr": null
+            "drive_time_hr": 39.9,
+            "flight_time_hr": 6.4
           }
         ],
       "nearby_pois": [
