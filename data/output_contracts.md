@@ -4,6 +4,8 @@ Every assertion here is checkable by a script — no judgment calls. If you find
 
 Applies to all 39 records unless stated otherwise. `commute`, `connectivity`, `_meta` are out of scope for every pass below — no assertion here should ever touch them.
 
+**Tag format note (found Pass 6):** the pre-existing baseline data mixes `[TierN|...]` and `[Tier N|...]` (with/without a space) throughout — this predates the pipeline and isn't something any pass should try to normalize (would mean touching hundreds of unrelated fields, out of scope). Every `[TierN|...]` pattern referenced below should be read as accepting either form. Flagged as a Pass 8 schema note: whether `city_schema_final.md` should mandate one canonical format for a future cleanup pass, separate from this pipeline's scope.
+
 ---
 
 ## Pass 1 — field-remover

@@ -26,7 +26,8 @@
     },
     "geography": {
       "disaster_risk": "FEMA NRI v1.20 composite 95.8, county rating 'Relatively High' (Fulton County; #2 of 159 GA counties) - top hazards flood 97.7, tornado 97.0, earthquake 96.0 [Tier 2|cross_verified:true|verified|2026-09-13]. NOTE: one uncited/undated aggregator (citydirectory.us) shows an older-looking 'Relatively Moderate' label for the same county - treated as stale/lower-confidence, not used.",
-      "terrain_summary": "Piedmont plateau, rolling hills, ~320 m (1,050 ft) avg elevation - highest major city in the SE US east of the Rockies; elevation range ~225-380 m within city limits; sits on the Eastern Continental Divide [Tier 2|cross_verified:true|verified|2026-09-13]"
+      "terrain_summary": "Piedmont plateau, rolling hills, ~320 m (1,050 ft) avg elevation - highest major city in the SE US east of the Rockies; elevation range ~225-380 m within city limits; sits on the Eastern Continental Divide [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "unique_facts": "Known as the 'City in a Forest' for its unusually high urban tree canopy - per Georgia Tech canopy assessments reported by the Atlanta Journal-Constitution, coverage has declined from 47.9% (2008) to 45.5% (2023) against a long-standing city goal of 50%, still among the highest canopy coverage of any major US city [Tier 3|cross_verified:false|estimated|2026-09-18]"
     }
   },
   {
@@ -49,7 +50,8 @@
     },
     "geography": {
       "disaster_risk": "FEMA NRI v1.20 (hazards.fema.gov direct report) composite score 88.7, county rating 'Relatively Moderate' (Richmond County; 95th percentile within GA) - top hazards: ice storm 99.0 (Very High), strong wind 98.5 (Very High), tornado 94.9 (Relatively High) [Tier 1|cross_verified:false|verified|2026-09-13]",
-      "terrain_summary": "Fall Line city on the Savannah River, transition zone between Piedmont and Coastal Plain; downtown ~148 ft (45 m) elevation, notably lower than Atlanta (~900 ft lower); county elevation range 82-591 ft [Tier 1|cross_verified:true|verified|2026-09-13]"
+      "terrain_summary": "Fall Line city on the Savannah River, transition zone between Piedmont and Coastal Plain; downtown ~148 ft (45 m) elevation, notably lower than Atlanta (~900 ft lower); county elevation range 82-591 ft [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "unique_facts": "Home of Augusta National Golf Club (host of the Masters since 1934), built on the former grounds of Fruitland Nurseries, a mid-1800s horticultural nursery founded by Belgian immigrant Baron Louis Berckmans - the famous Magnolia Lane trees were planted by the Berckmans family in the 1850s, decades before the golf course existed [Tier 3|cross_verified:true|estimated|2026-09-18]"
     }
   },
   {
@@ -72,7 +74,8 @@
     },
     "geography": {
       "disaster_risk": "FEMA NRI v1.20: Arapahoe County 93.8 'Relatively Moderate' (#4 of 64 CO counties); NOTE: Aurora also spans Adams County (91.2, Relatively Moderate) and a small Douglas County portion - both bracket the same 'Relatively Moderate' tier so the multi-county split doesn't change the practical answer this time [Tier 2|cross_verified:true|verified|2026-09-13]",
-      "terrain_summary": "High Plains/Colorado Piedmont, transition zone between the Great Plains and Front Range foothills; city elevation ~5,404-5,472 ft; relatively flat to the east, foothills visible to the west [Tier 2|cross_verified:true|verified|2026-09-13]"
+      "terrain_summary": "High Plains/Colorado Piedmont, transition zone between the Great Plains and Front Range foothills; city elevation ~5,404-5,472 ft; relatively flat to the east, foothills visible to the west [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "unique_facts": "In 1966 Norma O. Walker was elected mayor of Aurora, making her the first woman to serve as mayor of an American city with a population over 60,000, per Denver alt-weekly Westword's retrospective on Aurora history [Tier 3|cross_verified:false|estimated|2026-09-18]"
     }
   },
   {
@@ -95,7 +98,8 @@
     },
     "geography": {
       "disaster_risk": "FEMA NRI v1.20 composite score 97.7 (Travis County) - tabulated among Texas's higher-risk counties; VERIFY: exact county rating tier (Very High vs. Relatively High cutoff) not independently confirmed against a second source this pass, though 97.7 sits at the Very High/Relatively High boundary per riskbycounty's published percentile bands [Tier 2|cross_verified:false|single-source|2026-09-13]",
-      "terrain_summary": "Straddles the Balcones Fault - flat Blackland Prairie/clay soils to the east, rolling Hill Country limestone terrain to the west; elevation 425-1,000 ft (130-305 m) across the city; western edge is a genuine wildland-urban interface (documented wildfire exposure, though overall city wildfire risk rated Low, 8/100) [Tier 2|cross_verified:true|verified|2026-09-13]"
+      "terrain_summary": "Straddles the Balcones Fault - flat Blackland Prairie/clay soils to the east, rolling Hill Country limestone terrain to the west; elevation 425-1,000 ft (130-305 m) across the city; western edge is a genuine wildland-urban interface (documented wildfire exposure, though overall city wildfire risk rated Low, 8/100) [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "unique_facts": "The Congress Avenue Bridge downtown hosts the largest urban bat colony in North America - roughly 1.5 million Mexican free-tailed bats roost beneath it from spring through early fall, per Austin Bats/Merlin Tuttle's Bat Conservation resources; the nightly emergence draws over 100,000 visitors and an estimated $10 million/year to the city [Tier 3|cross_verified:false|estimated|2026-09-18]"
     }
   },
   {
@@ -126,7 +130,8 @@
     },
     "geography": {
       "disaster_risk": "null - Chapel Hill spans Orange/Durham/Chatham counties (same multi-county issue as its property_tax_rate field); Durham County itself is confirmed 'Relatively Moderate' (90th percentile) via riskbycounty.com, but no direct Orange County composite score/rating was found this batch, and a search for it risked the Orange-County-NC-vs-CA jurisdiction trap the source instructions specifically flagged - stopped rather than guess [Tier 3|cross_verified:false|unverified|2026-09-13]",
-      "terrain_summary": "Piedmont region - rolling hills, elevation ~219 ft (67m) [Tier 2|cross_verified:true|verified|2026-09-13]"
+      "terrain_summary": "Piedmont region - rolling hills, elevation ~219 ft (67m) [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "unique_facts": "UNC-Chapel Hill, chartered 1789 and opening to its first (and for a month, only) student in 1795, is recognized as the nation's oldest public university by date of instruction, per Our State magazine's history of the university [Tier 3|cross_verified:false|estimated|2026-09-18]"
     }
   },
   {
@@ -149,7 +154,8 @@
     },
     "geography": {
       "disaster_risk": "FEMA NRI (independent city, own reporting unit): 24th percentile nationally, rating 'Very Low' - lowest-risk city profile confirmed in this batch; top individual hazard is earthquake at 70.9 (moderate), flood only 33.3, wildfire negligible 0.3 [Tier 2|cross_verified:true|verified|2026-09-13]",
-      "terrain_summary": "Western Piedmont, in the Southwest Mountains range (parallel to and ~30mi east of the Blue Ridge); avg elevation ~453ft, range 292-876ft within city [Tier 2|cross_verified:true|verified|2026-09-13]"
+      "terrain_summary": "Western Piedmont, in the Southwest Mountains range (parallel to and ~30mi east of the Blue Ridge); avg elevation ~453ft, range 292-876ft within city [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "unique_facts": "Jefferson's Monticello, just outside Charlottesville, was the first American home to feature a dome (now depicted on the US nickel); Monticello and UVA's Academical Village together became a UNESCO World Heritage Site in 1987, per the National Park Service [Tier 3|cross_verified:false|estimated|2026-09-18]"
     }
   },
   {
@@ -191,7 +197,8 @@
     },
     "geography": {
       "disaster_risk": "FEMA NRI v1.20: Howard County composite score 72.4, rating 'Relatively Low' (#8 of 24 MD counties) - hurricane 81.2 is the top individual hazard, flood 78.1, earthquake 77.5, tornado/wildfire both comparatively low (42.2/15.6) [Tier 1|cross_verified:true|verified|2026-09-13]",
-      "terrain_summary": "Piedmont Plateau - rolling hills and stream valleys, elevation range ~7-702ft (avg ~361ft); Columbia is a planned community built around three artificial lakes formed by damming tributary streams, drained by the Middle/Little Patuxent rivers [Tier 2|cross_verified:true|verified|2026-09-13]"
+      "terrain_summary": "Piedmont Plateau - rolling hills and stream valleys, elevation range ~7-702ft (avg ~361ft); Columbia is a planned community built around three artificial lakes formed by damming tributary streams, drained by the Middle/Little Patuxent rivers [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "unique_facts": "Developed from 1967 by James Rouse as a deliberately racially- and economically-integrated 'new town' - explicitly conceived as a self-sustaining city rather than a conventional suburb, per Rouse's own framing as a 'garden for growing people' (Smithsonian Magazine profile of Rouse's planning legacy) [Tier 3|cross_verified:false|estimated|2026-09-18]"
     }
   },
   {
@@ -221,7 +228,8 @@
     },
     "geography": {
       "disaster_risk": "FEMA NRI v1.20 composite score 99.7, county rating 'Very High' (Dallas County; state rank #2 of 254) - top hazards hail 100.0, cold wave 99.9, heat wave 99.9, tornado 99.8, all Very High [Tier 2|cross_verified:true|verified|2026-09-13]",
-      "terrain_summary": "Blackland Prairie - flat to gently rolling dark-soil terrain, no significant hills; Trinity River cuts through at ~120m (lowest point), city center 130-145m, N suburbs rise to 190-230m; located in Tornado Alley [Tier 2|cross_verified:true|verified|2026-09-13]"
+      "terrain_summary": "Blackland Prairie - flat to gently rolling dark-soil terrain, no significant hills; Trinity River cuts through at ~120m (lowest point), city center 130-145m, N suburbs rise to 190-230m; located in Tornado Alley [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "unique_facts": "The frozen margarita machine was invented in Dallas in 1971 by restaurateur Mariano Martinez; the original machine is now held in the Smithsonian's National Museum of American History collection [Tier 3|cross_verified:false|estimated|2026-09-18]"
     }
   },
   {
@@ -252,7 +260,8 @@
     },
     "geography": {
       "disaster_risk": "FEMA NRI, Durham County: composite 90th percentile nationally, rating 'Relatively Moderate' (state rank #14 of 100 NC counties) - top hazards tornado 93rd pctile, flood 92nd, hurricane 89th [Tier 2|cross_verified:false|single-source|2026-09-13]",
-      "terrain_summary": "Piedmont region - rolling hills, similar terrain profile to Chapel Hill (12mi away) [Tier 2|cross_verified:true|verified|2026-09-13]"
+      "terrain_summary": "Piedmont region - rolling hills, similar terrain profile to Chapel Hill (12mi away) [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "unique_facts": "Durham's 'Bull City' nickname traces to Blackwell Tobacco Company's 19th-century 'Bull Durham' brand, whose shorthorn-bull logo (itself borrowed from an English mustard company) became one of the most successful early American advertising icons, per Our State magazine's history of the nickname [Tier 3|cross_verified:false|estimated|2026-09-18]"
     }
   },
   {
@@ -275,7 +284,8 @@
     },
     "geography": {
       "disaster_risk": "FEMA NRI v1.20: Arapahoe County 93.8, 'Relatively Moderate' (#4 of 64 CO counties) - Englewood is fully within Arapahoe County, no multi-county ambiguity [Tier 2|cross_verified:true|verified|2026-09-13]",
-      "terrain_summary": "Denver-metro High Plains/Piedmont, immediately south of Denver; elevation ~5,348-5,371 ft, minimal internal relief (range only ~5,249-5,531 ft) [Tier 2|cross_verified:true|verified|2026-09-13]"
+      "terrain_summary": "Denver-metro High Plains/Piedmont, immediately south of Denver; elevation ~5,348-5,371 ft, minimal internal relief (range only ~5,249-5,531 ft) [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "unique_facts": "Englewood's Cinderella City, opened 1968 on the site of the city's only park, was once the largest covered shopping center west of the Mississippi River before its 1999 demolition, per Colorado Community Media's local retrospective [Tier 3|cross_verified:false|estimated|2026-09-18]"
     }
   },
   {
@@ -304,7 +314,8 @@
     },
     "geography": {
       "disaster_risk": "Capitol Planning Region (CT's current FEMA-equivalent geographic unit, replacing Hartford County per the 2024 TIGER/Line update): disaster-risk score 2.6/100 on a third-party site's own 0-100 scale - the lowest disaster-risk score of any CT planning region, consistent with inland New England's generally low disaster exposure; VERIFY: this specific 2.6 figure comes from countyscore.com's own composite scoring methodology, not a direct FEMA NRI percentile/rating pull - a raw FEMA NRI percentile for the Capitol Planning Region specifically was not independently retrieved this pass [Tier 3|cross_verified:false|single-source|2026-09-13]",
-      "terrain_summary": "Connecticut River Valley/central CT lowland; adjacent to Farmington Mountain, a distinctive traprock ridge (502ft) that is part of the Metacomet Ridge running from Long Island Sound near New Haven north through the CT River Valley - a genuine local geological landmark distinguishing Farmington from flat lowland terrain [Tier 1|cross_verified:true|verified|2026-09-13]"
+      "terrain_summary": "Connecticut River Valley/central CT lowland; adjacent to Farmington Mountain, a distinctive traprock ridge (502ft) that is part of the Metacomet Ridge running from Long Island Sound near New Haven north through the CT River Valley - a genuine local geological landmark distinguishing Farmington from flat lowland terrain [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "unique_facts": "In the 1800s Farmington became known as the 'Grand Central Station' of Connecticut's Underground Railroad, with several sites tied to the abolitionist movement and the 1841 Amistad trial still present today, per the CTHumanities-run Connecticut History project [Tier 3|cross_verified:false|estimated|2026-09-18]"
     }
   },
   {
@@ -333,7 +344,8 @@
     },
     "geography": {
       "disaster_risk": "FEMA NRI v1.20: Sacramento County composite 98th percentile, 'Relatively High' - flood 99.0, earthquake 98.9, wildfire 95.9; Folsom itself sits at the foothill edge of the county so wildfire exposure locally may run somewhat higher than the flatland-Sacramento average, though no city-specific breakout exists [Tier 2|cross_verified:true|verified|2026-09-13]",
-      "terrain_summary": "Sierra Nevada foothills, at the eastern edge of the Sacramento Valley; elevation ~220ft (67m), notably built around Folsom Lake; genuinely more hilly/foothill terrain than the flat Central Valley floor further west (e.g. Sacramento proper) [Tier 2|cross_verified:true|verified|2026-09-13]"
+      "terrain_summary": "Sierra Nevada foothills, at the eastern edge of the Sacramento Valley; elevation ~220ft (67m), notably built around Folsom Lake; genuinely more hilly/foothill terrain than the flat Central Valley floor further west (e.g. Sacramento proper) [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "unique_facts": "Johnny Cash recorded his career-defining live album 'At Folsom Prison' at Folsom State Prison on January 13, 1968; despite his outlaw image Cash himself was never incarcerated there - the earlier song 'Folsom Prison Blues' (1953) was instead inspired by a prison film he'd seen, per History.com [Tier 3|cross_verified:false|estimated|2026-09-18]"
     }
   },
   {
@@ -356,7 +368,8 @@
     },
     "geography": {
       "disaster_risk": "FEMA NRI: Alachua County 90th percentile nationally, 'Relatively Moderate' [Tier 2|cross_verified:false|single-source|2026-09-13]",
-      "terrain_summary": "Interior north-central Florida, karst topography (sinkholes, springs) atop the Floridan Aquifer; low but non-coastal elevation, distinct from the flat coastal-plain terrain of this dataset's other FL cities [Tier 2|cross_verified:false|single-source|2026-09-13]"
+      "terrain_summary": "Interior north-central Florida, karst topography (sinkholes, springs) atop the Floridan Aquifer; low but non-coastal elevation, distinct from the flat coastal-plain terrain of this dataset's other FL cities [Tier 2|cross_verified:false|single-source|2026-09-13]",
+      "unique_facts": "University of Florida's Ben Hill Griffin Stadium was rebranded 'The Swamp' in 1992 by then-head coach Steve Spurrier, who reasoned 'a swamp is where Gators live... we hope our opponents feel tentative,' per Florida Gators' own team history site [Tier 3|cross_verified:false|estimated|2026-09-18]"
     }
   },
   {
@@ -379,7 +392,8 @@
     },
     "geography": {
       "disaster_risk": "FEMA NRI - Galveston County rated 'Relatively High' (~95th percentile) - driven by coastal flood, inland flood, and hurricane risk, all rated Relatively High; notably Social Vulnerability Relatively Low and Community Resilience Very High (i.e., high hazard exposure partly offset by strong recovery capacity) [Tier 2|cross_verified:true|verified|2026-09-13]",
-      "terrain_summary": "City sits on Galveston Island, a Gulf of Mexico barrier island - 27mi long x 3mi wide, max natural elevation only ~20 ft (6.1m); low-lying, storm-surge-exposed by definition of barrier-island geography [Tier 2|cross_verified:true|verified|2026-09-13]"
+      "terrain_summary": "City sits on Galveston Island, a Gulf of Mexico barrier island - 27mi long x 3mi wide, max natural elevation only ~20 ft (6.1m); low-lying, storm-surge-exposed by definition of barrier-island geography [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "unique_facts": "Galveston is the birthplace of Juneteenth: on June 19, 1865, Union General Gordon Granger issued General Order No. 3 there, informing over 250,000 enslaved Texans they were free - more than two years after the Emancipation Proclamation was signed, per NPR's reporting on the holiday's origins [Tier 3|cross_verified:false|estimated|2026-09-18]"
     }
   },
   {
@@ -408,7 +422,8 @@
     },
     "geography": {
       "disaster_risk": "FEMA NRI: Shelby County 99th percentile nationally, 'Relatively High' (#1 riskiest TN county) - flood 98.7, tornado 99.8, earthquake 99.5 (Shelby County sits closest to the New Madrid Seismic Zone of any city in this dataset, genuinely elevated seismic exposure vs. the rest of TN) [Tier 2|cross_verified:true|verified|2026-09-13]",
-      "terrain_summary": "West Tennessee/Mississippi River bluff region, eastern suburb of Memphis; elevation ~318ft (97m), gently rolling, much lower and flatter than Knoxville or Nashville [Tier 1|cross_verified:true|verified|2026-09-13]"
+      "terrain_summary": "West Tennessee/Mississippi River bluff region, eastern suburb of Memphis; elevation ~318ft (97m), gently rolling, much lower and flatter than Knoxville or Nashville [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "unique_facts": "Reformer Frances Wright purchased land near present-day Germantown in 1825 to found Nashoba, a utopian community intended to educate enslaved people toward self-supporting emancipation - one of the earliest gradual-abolition experiments in the US - per the city of Germantown's own official history page [Tier 3|cross_verified:false|estimated|2026-09-18]"
     }
   },
   {
@@ -431,7 +446,8 @@
     },
     "geography": {
       "disaster_risk": "FEMA NRI, Pitt County: 90th percentile nationally, rating 'Relatively Moderate' - top hazards tornado 94.3, flood 87.7, earthquake 71.6 [Tier 2|cross_verified:false|single-source|2026-09-13]",
-      "terrain_summary": "Inner Coastal Plain (not Piedmont, unlike this dataset's other NC cities) - flat to gently rolling, low elevation, Tar River runs through city; more hurricane/flood-exposed than the Piedmont NC cities given eastern NC coastal-plain positioning [Tier 3|cross_verified:false|estimated|2026-09-13] - general-knowledge regional-geography inference, not pulled from a dedicated elevation source this pass"
+      "terrain_summary": "Inner Coastal Plain (not Piedmont, unlike this dataset's other NC cities) - flat to gently rolling, low elevation, Tar River runs through city; more hurricane/flood-exposed than the Piedmont NC cities given eastern NC coastal-plain positioning [Tier 3|cross_verified:false|estimated|2026-09-13] - general-knowledge regional-geography inference, not pulled from a dedicated elevation source this pass",
+      "unique_facts": "East Carolina University in Greenville is unique among UNC-system schools for hosting schools of medicine, dentistry, and engineering all at the same institution, per NCpedia (the North Carolina Government & Heritage Library's state encyclopedia project) [Tier 3|cross_verified:false|estimated|2026-09-18]"
     }
   },
   {
@@ -454,7 +470,8 @@
     },
     "geography": {
       "disaster_risk": "null - no clean current-vintage (FEMA NRI v1.20) composite percentile/rating for Honolulu County found this pass despite two targeted searches; independently well-documented that Honolulu County ranks #1 nationally for tsunami risk specifically (per FEMA's own past public releases), and Hawaii statewide has only 2 of 5 counties rated 'high-risk' overall - but the exact current composite score/tier needs a follow-up query rather than a guess [Tier 3|cross_verified:false|unverified|2026-09-13]",
-      "terrain_summary": "Leeward (south/west) coast of Oahu - Diamond Head volcanic tuff cone (232m) anchors the city's eastern edge; Koolau Range runs along the windward side of the island as a rain-shadow wall; central/urban Honolulu sits in the dry leeward zone while the Koolau slopes just a few miles away are lush rainforest [Tier 1|cross_verified:true|verified|2026-09-13]"
+      "terrain_summary": "Leeward (south/west) coast of Oahu - Diamond Head volcanic tuff cone (232m) anchors the city's eastern edge; Koolau Range runs along the windward side of the island as a rain-shadow wall; central/urban Honolulu sits in the dry leeward zone while the Koolau slopes just a few miles away are lush rainforest [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "unique_facts": "Downtown Honolulu's Iolani Palace, home to King Kalakaua and Queen Lili'uokalani before the 1893 overthrow of the Hawaiian monarchy, is the only royal palace on US soil, per Encyclopaedia Britannica [Tier 3|cross_verified:false|estimated|2026-09-18]"
     }
   },
   {
@@ -477,7 +494,8 @@
     },
     "geography": {
       "disaster_risk": "FEMA NRI: Duval County 97th percentile nationally, 'Relatively High' - notably driven by earthquake at 90.2 (unusually high for FL, likely reflecting regional seismic-hazard modeling rather than local fault activity) alongside flood 97.6 and tornado 91.5 [Tier 2|cross_verified:true|verified|2026-09-13]",
-      "terrain_summary": "Atlantic coastal plain, St. Johns River runs through city; flat, low-elevation terrain typical of NE Florida coast [Tier 3|cross_verified:false|estimated|2026-09-13] - general coastal-plain inference, not pulled from a dedicated elevation source this pass"
+      "terrain_summary": "Atlantic coastal plain, St. Johns River runs through city; flat, low-elevation terrain typical of NE Florida coast [Tier 3|cross_verified:false|estimated|2026-09-13] - general coastal-plain inference, not pulled from a dedicated elevation source this pass",
+      "unique_facts": "Jacksonville's 1968 city-county consolidation with Duval County made it the largest city by land area in the continental US (874 sq mi), giving it an unusually large urban park system (~80,000 acres) spanning beaches, forests, and wetlands, per EBSCO's Research Starters reference entry [Tier 3|cross_verified:false|estimated|2026-09-18]"
     }
   },
   {
@@ -500,7 +518,8 @@
     },
     "geography": {
       "disaster_risk": "FEMA NRI: Knox County 92nd percentile nationally, 'Relatively Moderate' (#4 riskiest TN county) - flood 92.8, tornado 96.7, earthquake notably elevated at 96.8 (New Madrid seismic zone influence, similar pattern to other mid-South counties in this dataset) [Tier 2|cross_verified:true|verified|2026-09-13]",
-      "terrain_summary": "Great Appalachian/Tennessee Valley, roughly midway between the Great Smoky Mountains (east) and Cumberland Plateau (west); city elevation ~936ft avg, range ~800-1,391ft (Sharp's Ridge) [Tier 1|cross_verified:true|verified|2026-09-13]"
+      "terrain_summary": "Great Appalachian/Tennessee Valley, roughly midway between the Great Smoky Mountains (east) and Cumberland Plateau (west); city elevation ~936ft avg, range ~800-1,391ft (Sharp's Ridge) [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "unique_facts": "Knoxville hosted the 1982 World's Fair, generally regarded as the last World's Fair held in the US to turn a profit and draw over 11 million visitors; fair organizers famously turned an earlier Wall Street Journal dig calling Knoxville a 'scruffy little city' into celebratory buttons reading 'The Scruffy Little City Did It,' per the nonprofit Knoxville History Project [Tier 3|cross_verified:false|estimated|2026-09-18]"
     }
   },
   {
@@ -523,7 +542,8 @@
     },
     "geography": {
       "disaster_risk": "FEMA NRI v1.20: Los Angeles County composite 100.0/100, 'Very High' rating, #1 riskiest county in California and among the highest nationally - top hazards flood 100, wildfire 99.9, earthquake 100, all maxed; every category except hurricane is elevated [Tier 1|cross_verified:true|verified|2026-09-13]",
-      "terrain_summary": "LA Basin, a broad sedimentary coastal plain bounded by San Gabriel, Santa Monica, and Santa Ana mountains; extreme internal elevation range 0-1,548m (Mount Lukens) within city limits; genuine microclimates - coastal areas can differ from San Fernando Valley by up to 20°C on a given day [Tier 1|cross_verified:true|verified|2026-09-13]"
+      "terrain_summary": "LA Basin, a broad sedimentary coastal plain bounded by San Gabriel, Santa Monica, and Santa Ana mountains; extreme internal elevation range 0-1,548m (Mount Lukens) within city limits; genuine microclimates - coastal areas can differ from San Fernando Valley by up to 20°C on a given day [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "unique_facts": "The La Brea Tar Pits, in the middle of the city near the Natural History Museum, are the world's only active, urban Ice Age fossil excavation site, with researchers still recovering specimens (over 2 million to date) from the same tar seeps today, per the operating Natural History Museum of LA County [Tier 3|cross_verified:false|estimated|2026-09-18]"
     }
   },
   {
@@ -546,7 +566,8 @@
     },
     "geography": {
       "disaster_risk": "FEMA NRI: Miami-Dade County 100th percentile nationally (composite ~99.6), 'Very High' rating - Florida's and one of the nation's highest-risk counties; driven by flood 99.7-100 and hurricane 100 (both maxed), tornado also elevated at 98.7 [Tier 1|cross_verified:true|verified|2026-09-13]",
-      "terrain_summary": "Built on Miami Limestone (oolitic coral bedrock, part of the Miami Rock Ridge), extremely flat and low-lying - avg elevation only ~2m (6-12ft), highest natural point in city ~7m (Coconut Grove ridge); porous bedrock means conventional flood barriers (seawalls/levees) can't fully block water intrusion from below as sea levels rise [Tier 2|cross_verified:true|verified|2026-09-13]"
+      "terrain_summary": "Built on Miami Limestone (oolitic coral bedrock, part of the Miami Rock Ridge), extremely flat and low-lying - avg elevation only ~2m (6-12ft), highest natural point in city ~7m (Coconut Grove ridge); porous bedrock means conventional flood barriers (seawalls/levees) can't fully block water intrusion from below as sea levels rise [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "unique_facts": "Miami is the only major US city founded by a woman - Julia Tuttle, a Cleveland-born citrus grower, persuaded railroad baron Henry Flagler to extend his line south after the 1894 freeze by sending him fresh orange blossoms as proof Miami stayed frost-free; the first train arrived April 13, 1896, per CBS Miami [Tier 3|cross_verified:false|estimated|2026-09-18]"
     }
   },
   {
@@ -569,7 +590,8 @@
     },
     "geography": {
       "disaster_risk": "FEMA NRI: Davidson County 97th percentile nationally, 'Relatively High' (#2 riskiest TN county) - flood 98.2, tornado 97.9 (2020 Nashville tornado outbreak is a documented real event consistent with this rating), earthquake 98.2 [Tier 2|cross_verified:true|verified|2026-09-13]",
-      "terrain_summary": "Nashville Basin (Central Basin), a limestone-karst geological depression surrounded by the Highland Rim; city elevation avg ~597ft, range 385-1,163ft (Radnor Lake); genuinely hilly despite the 'basin' name - Highland Rim rises 300-400ft above the basin floor, forming a visible ring around the horizon [Tier 1|cross_verified:true|verified|2026-09-13]"
+      "terrain_summary": "Nashville Basin (Central Basin), a limestone-karst geological depression surrounded by the Highland Rim; city elevation avg ~597ft, range 385-1,163ft (Radnor Lake); genuinely hilly despite the 'basin' name - Highland Rim rises 300-400ft above the basin floor, forming a visible ring around the horizon [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "unique_facts": "Nashville earned the 19th-century nickname 'Athens of the South' for its concentration of colleges; the city leaned into it by building a full-scale, exact-detail replica of the Athens Parthenon for the 1897 Tennessee Centennial Exposition - the only such replica in the world, later rebuilt permanently in concrete by 1931, per the Tennessee Encyclopedia [Tier 3|cross_verified:false|estimated|2026-09-18]"
     }
   },
   {
@@ -592,7 +614,8 @@
     },
     "geography": {
       "disaster_risk": "FEMA NRI: Oklahoma County 98th percentile nationally, 'Relatively High' (#1 riskiest OK county, tied with Tulsa) - tornado maxed at 99.5, flood 97.6, earthquake notably high at 94.0 (OK's well-documented induced-seismicity increase from wastewater injection) [Tier 2|cross_verified:true|verified|2026-09-13]",
-      "terrain_summary": "Southern Great Plains, gently rolling prairie along the North Canadian River; elevation ~1,200-1,291ft, flat farmland/grassland with few trees except along riverbanks; no mountains or coast nearby [Tier 1|cross_verified:true|verified|2026-09-13]"
+      "terrain_summary": "Southern Great Plains, gently rolling prairie along the North Canadian River; elevation ~1,200-1,291ft, flat farmland/grassland with few trees except along riverbanks; no mountains or coast nearby [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "unique_facts": "Present-day Oklahoma City was established in a single day during the Land Run of April 22, 1889, when roughly 50,000 settlers raced to claim land at noon; unusually for the era, single women and African Americans were permitted to stake claims alongside men, per the Oklahoma Historical Society's Encyclopedia of Oklahoma History [Tier 3|cross_verified:false|estimated|2026-09-18]"
     }
   },
   {
@@ -615,7 +638,8 @@
     },
     "geography": {
       "disaster_risk": "FEMA NRI v1.20: Santa Clara County composite 100th percentile, 'Very High' - top hazards flood 99.8, earthquake 99.9 (San Andreas/Hayward fault proximity), tornado comparatively low at 55.8 [Tier 1|cross_verified:true|verified|2026-09-13]",
-      "terrain_summary": "San Francisco Bay/Santa Clara Valley floor - official city elevation only 30ft (9m) near the Bay, but city boundaries extend well into the Santa Cruz Mountains foothills to the west, reaching several hundred feet; genuine two-tier terrain (flat bayside vs. hilly western edge) [Tier 2|cross_verified:true|verified|2026-09-13]"
+      "terrain_summary": "San Francisco Bay/Santa Clara Valley floor - official city elevation only 30ft (9m) near the Bay, but city boundaries extend well into the Santa Cruz Mountains foothills to the west, reaching several hundred feet; genuine two-tier terrain (flat bayside vs. hilly western edge) [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "unique_facts": "The city is named for 'El Palo Alto,' a giant redwood a 1769 Spanish expedition camped beside and named (the tree still stands today); when Leland and Jane Stanford founded Stanford University nearby in 1885, they deliberately sought an alcohol-free 'temperance town' setting, per Stanford's own alumni magazine [Tier 3|cross_verified:false|estimated|2026-09-18]"
     }
   },
   {
@@ -638,7 +662,8 @@
     },
     "geography": {
       "disaster_risk": "FEMA NRI v1.20: Maricopa County composite 100th percentile, 'Very High' - #1 riskiest AZ county; flood 99.9 and extreme heat both maxed, notable since heat risk doesn't appear in this dataset's other Very High-risk cities the same way [Tier 1|cross_verified:true|verified|2026-09-13]",
-      "terrain_summary": "Salt River Valley ('Valley of the Sun'), northern Sonoran Desert; mean elevation ~1,117ft (340m), broad flat desert basin ringed by mountains (South Mountain, Camelback, McDowells to the east) [Tier 1|cross_verified:true|verified|2026-09-13]"
+      "terrain_summary": "Salt River Valley ('Valley of the Sun'), northern Sonoran Desert; mean elevation ~1,117ft (340m), broad flat desert basin ringed by mountains (South Mountain, Camelback, McDowells to the east) [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "unique_facts": "Phoenix was named by English-educated founder Darrell Duppa for the mythical bird reborn from ashes, deliberately evoking the new settlement rising atop the ruins of the Hohokam civilization's abandoned 135-mile canal network, per the Arizona Historical Society [Tier 3|cross_verified:false|estimated|2026-09-18]"
     }
   },
   {
@@ -661,7 +686,8 @@
     },
     "geography": {
       "disaster_risk": "FEMA NRI: Multnomah County 98th percentile nationally, 'Relatively High' (#1 riskiest OR county) - earthquake maxed at 99.6 (Cascadia Subduction Zone exposure), flood 95.5, landslide separately flagged as 'High' by a disasteraware.com hazard breakout; wildfire/tornado comparatively low (47-67) reflecting the wet westside-Cascades setting rather than dry-interior risk [Tier 1|cross_verified:true|verified|2026-09-13]",
-      "terrain_summary": "Northern Willamette Valley at the confluence of the Willamette and Columbia rivers; Cascade Range (Mount Hood, 3,429m) visible to the east, Coast Range to the west; Portland itself sits at low elevation (~20ft/6m) in the valley floor between the two ranges [Tier 1|cross_verified:true|verified|2026-09-13]"
+      "terrain_summary": "Northern Willamette Valley at the confluence of the Willamette and Columbia rivers; Cascade Range (Mount Hood, 3,429m) visible to the east, Coast Range to the west; Portland itself sits at low elevation (~20ft/6m) in the valley floor between the two ranges [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "unique_facts": "The city's name was decided by a coin toss in 1845 between founders Asa Lovejoy (of Boston) and Francis Pettygrove (of Portland, Maine); Pettygrove won two of three tosses with an 1835 penny, now displayed at the Oregon Historical Society Museum, per the Oregon Encyclopedia [Tier 3|cross_verified:false|estimated|2026-09-18]"
     }
   },
   {
@@ -684,7 +710,8 @@
     },
     "geography": {
       "disaster_risk": "FEMA NRI: Providence County 94th percentile nationally, 'Relatively Moderate' (#1 riskiest RI county, and RI's only county above 'Relatively Low') - flood 96.6 dominates, tornado comparatively low at 78.3, wildfire very low at 31.7 [Tier 2|cross_verified:true|verified|2026-09-13]",
-      "terrain_summary": "Head of Narragansett Bay on the Providence River; city built on three hills, elevation ~80ft (10-24m depending on source); part of RI's Narragansett/Seaboard Lowland, generally flat-to-gently-hilly coastal terrain distinct from the hillier New England Upland covering western RI [Tier 2|cross_verified:true|verified|2026-09-13]"
+      "terrain_summary": "Head of Narragansett Bay on the Providence River; city built on three hills, elevation ~80ft (10-24m depending on source); part of RI's Narragansett/Seaboard Lowland, generally flat-to-gently-hilly coastal terrain distinct from the hillier New England Upland covering western RI [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "unique_facts": "Roger Williams founded Providence in 1636 on land purchased from the Narragansett after being banished from Massachusetts Bay Colony for his religious views; the settlement became a haven for Quakers, Jews, Catholics, and other dissenters, and Rhode Island's 1663 royal charter formally codified liberty of conscience, per the National Park Service [Tier 3|cross_verified:false|estimated|2026-09-18]"
     }
   },
   {
@@ -707,7 +734,8 @@
     },
     "geography": {
       "disaster_risk": "FEMA NRI (independent city): composite ~34.5, rating 'Very Low' band (0-42.7 threshold) per riskbycounty's own published rating scale [Tier 2|cross_verified:true|verified|2026-09-13]. NOTE: a non-FEMA third-party aggregator (disastercalculator.com) separately scores Richmond 59.3/100 using its own proprietary methodology weighted toward landslide risk - not the same NRI-based scale, flagged as a different/lower-tier scoring system rather than a genuine conflict with the FEMA figure.",
-      "terrain_summary": "Fall Line city - sits exactly where the Piedmont's rolling uplands meet the Coastal Plain/Tidewater; James River drops through a 7-mile rapids zone through downtown; avg elevation ~161ft (49m), terrain varies from river-valley floodplain to upland hills to the west/southwest and flatter coastal-plain lowlands east [Tier 2|cross_verified:true|verified|2026-09-13]"
+      "terrain_summary": "Fall Line city - sits exactly where the Piedmont's rolling uplands meet the Coastal Plain/Tidewater; James River drops through a 7-mile rapids zone through downtown; avg elevation ~161ft (49m), terrain varies from river-valley floodplain to upland hills to the west/southwest and flatter coastal-plain lowlands east [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "unique_facts": "Richmond was Virginia's Revolutionary War-era capital under Governor Thomas Jefferson starting in 1780, and later became the Confederacy's second (and better-known) capital in May 1861 after the seat moved from Montgomery, Alabama, per the American Battlefield Trust [Tier 3|cross_verified:false|estimated|2026-09-18]"
     }
   },
   {
@@ -730,7 +758,8 @@
     },
     "geography": {
       "disaster_risk": "FEMA NRI (independent city): composite ~33.7-36.7 depending on source snapshot, rating 'Very Low' band - both figures fall well within riskbycounty's 0-42.7 Very Low threshold; the adjacent, separate Roanoke County (surrounding suburbs, different jurisdiction) scores notably higher at 52.2 'Relatively Low' - genuine and correctly-distinguished city-vs-county gradient, not a data conflict [Tier 2|cross_verified:true|verified|2026-09-13]",
-      "terrain_summary": "Roanoke Valley, within/along the Blue Ridge Mountains; avg elevation ~333m (1,093ft), range 251-680m; mountain-valley setting distinct from the other VA cities in this dataset (all Piedmont/Fall-Line) [Tier 2|cross_verified:true|verified|2026-09-13]"
+      "terrain_summary": "Roanoke Valley, within/along the Blue Ridge Mountains; avg elevation ~333m (1,093ft), range 251-680m; mountain-valley setting distinct from the other VA cities in this dataset (all Piedmont/Fall-Line) [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "unique_facts": "The Roanoke Star atop Mill Mountain, built in 1949 as a Christmas-shopping marketing stunt, is the world's largest freestanding illuminated man-made star (88.5 ft tall, ~2,000 ft of neon tubing) and is now lit year-round, visible up to 60 miles away on clear nights; it gave Roanoke its 'Star City' nickname, per regional broadcaster WJLA's history coverage [Tier 3|cross_verified:false|estimated|2026-09-18]"
     }
   },
   {
@@ -753,7 +782,8 @@
     },
     "geography": {
       "disaster_risk": "FEMA NRI v1.20: Wicomico County 61st percentile nationally, rating 'Relatively Low' - notably different hazard mix than the Piedmont MD cities: wildfire elevated at 80.9 (highest of any hazard for this county, unusual for the Eastern Shore), flood only 57.8, tornado 33.7 [Tier 2|cross_verified:true|verified|2026-09-13]",
-      "terrain_summary": "Delmarva Peninsula/Eastern Shore coastal plain - very low, flat terrain; city elevation only 17-45ft (5-14m); genuinely distinct from every other MD/mid-Atlantic city in this dataset, all of which sit on the Piedmont or Fall Line [Tier 1|cross_verified:true|verified|2026-09-13]"
+      "terrain_summary": "Delmarva Peninsula/Eastern Shore coastal plain - very low, flat terrain; city elevation only 17-45ft (5-14m); genuinely distinct from every other MD/mid-Atlantic city in this dataset, all of which sit on the Piedmont or Fall Line [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "unique_facts": "Despite its inland-feeling location on the Wicomico River, Salisbury is home to the second-largest port in Maryland by tonnage, handling mostly fuel and grain, per Encyclopaedia Britannica's entry on the city [Tier 3|cross_verified:false|estimated|2026-09-18]"
     }
   },
   {
@@ -776,7 +806,8 @@
     },
     "geography": {
       "disaster_risk": "null - no clean current-vintage FEMA NRI composite percentile/rating for Salt Lake County found this pass; independently well-documented that the Wasatch Fault running directly beneath the Salt Lake Valley is the region's dominant seismic hazard (multiple USGS studies of the Wasatch Front earthquake risk specifically), and Salt Lake County has the largest number of wildfire-exposed structures in Utah (138,600 per a First Street Foundation report) - but the exact current composite score/tier needs a follow-up query rather than a guess [Tier 3|cross_verified:false|unverified|2026-09-13]",
-      "terrain_summary": "Salt Lake Valley, an intermontane valley on the Wasatch Front - bounded by the Wasatch Range (east, peaks to 3,636m) and Oquirrh Mountains (west), with the Great Salt Lake to the northwest; city elevation ~4,327ft (1,319m), valley floor is broad and flat, mountains rise steeply from its edges [Tier 1|cross_verified:true|verified|2026-09-13]"
+      "terrain_summary": "Salt Lake Valley, an intermontane valley on the Wasatch Front - bounded by the Wasatch Range (east, peaks to 3,636m) and Oquirrh Mountains (west), with the Great Salt Lake to the northwest; city elevation ~4,327ft (1,319m), valley floor is broad and flat, mountains rise steeply from its edges [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "unique_facts": "In 1848 flocks of California gulls reportedly saved Mormon pioneers' second harvest by devouring a crop-destroying infestation of Mormon crickets, an event remembered as the 'Miracle of the Gulls'; the Seagull Monument erected on Temple Square in 1913 is believed to be the first monument dedicated to birds in the US, per the Deseret News [Tier 3|cross_verified:false|estimated|2026-09-18]"
     }
   },
   {
@@ -799,7 +830,8 @@
     },
     "geography": {
       "disaster_risk": "FEMA NRI v1.20: San Diego County composite 100th percentile, 'Very High' - flood 99.7, wildfire maxed at 100 (well-documented wildland-urban interface risk), earthquake 99.7, tornado notably lower at 64.4 [Tier 1|cross_verified:true|verified|2026-09-13]",
-      "terrain_summary": "Distinctive mesa-and-canyon topography - flat-topped marine terraces (mesas) dissected by steep east-west canyons (Mission Valley, Rose Canyon, etc.) draining toward the coast; city elevation range -2m to 1,103m (Cowles/Cuyamaca peaks to the east), avg ~125m; creates genuine neighborhood-to-neighborhood microclimates via canyon cold-air pooling [Tier 2|cross_verified:true|verified|2026-09-13]"
+      "terrain_summary": "Distinctive mesa-and-canyon topography - flat-topped marine terraces (mesas) dissected by steep east-west canyons (Mission Valley, Rose Canyon, etc.) draining toward the coast; city elevation range -2m to 1,103m (Cowles/Cuyamaca peaks to the east), avg ~125m; creates genuine neighborhood-to-neighborhood microclimates via canyon cold-air pooling [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "unique_facts": "San Diego is regarded as the 'birthplace of California': Father Junipero Serra's Mission San Diego de Alcala, dedicated July 16, 1769, was the first of 21 Spanish missions in California and, together with the adjacent Presidio, formed the first permanent European settlement on the US Pacific coast, per the American Historical Association's overview of Spanish California [Tier 3|cross_verified:false|estimated|2026-09-18]"
     }
   },
   {
@@ -822,7 +854,8 @@
     },
     "geography": {
       "disaster_risk": "FEMA NRI v1.20: San Francisco County composite 100th percentile, 'Very High' - notably different hazard profile from the rest of the CA cities in this dataset: earthquake maxed at 99.8 and flood high at 98.6, but wildfire and tornado comparatively low (28.7 and 34.9) given the dense urban, non-wildland-interface setting [Tier 1|cross_verified:true|verified|2026-09-13]",
-      "terrain_summary": "Hilly peninsula between the Pacific Ocean and SF Bay - 43 named hills, elevation range 0-282m (Mount Davidson); sits astride the Pacific/North American plate boundary near multiple fault traces (San Andreas along the peninsula, Hayward across the Bay); Marina District built on 1906-earthquake rubble fill, elevated liquefaction risk [Tier 2|cross_verified:true|verified|2026-09-13]"
+      "terrain_summary": "Hilly peninsula between the Pacific Ocean and SF Bay - 43 named hills, elevation range 0-282m (Mount Davidson); sits astride the Pacific/North American plate boundary near multiple fault traces (San Andreas along the peninsula, Hayward across the Bay); Marina District built on 1906-earthquake rubble fill, elevated liquefaction risk [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "unique_facts": "San Francisco's cable cars, invented by Andrew Smith Hallidie in 1873 after he watched horses struggle on wet, steep cobblestones, survived the 1906 earthquake and fire and were designated the first moving National Historic Landmark in 1964, per the SFMTA and the nonprofit Market Street Railway [Tier 3|cross_verified:true|estimated|2026-09-18]"
     }
   },
   {
@@ -845,7 +878,8 @@
     },
     "geography": {
       "disaster_risk": "FEMA NRI v1.20: Maricopa County composite 100th percentile, 'Very High' - same county reading as Phoenix, no jurisdiction split [Tier 1|cross_verified:true|verified|2026-09-13]",
-      "terrain_summary": "Salt River Valley/Sonoran Desert, but with meaningfully more relief than Phoenix proper - city elevation ranges 1,052-4,819ft due to the McDowell Mountains foothills along the city's eastern edge (McDowell Sonoran Preserve, ~30,500 acres); southern Scottsdale near Phoenix is low desert basin, northern/eastern Scottsdale climbs into rugged high-desert terrain [Tier 2|cross_verified:true|verified|2026-09-13]"
+      "terrain_summary": "Salt River Valley/Sonoran Desert, but with meaningfully more relief than Phoenix proper - city elevation ranges 1,052-4,819ft due to the McDowell Mountains foothills along the city's eastern edge (McDowell Sonoran Preserve, ~30,500 acres); southern Scottsdale near Phoenix is low desert basin, northern/eastern Scottsdale climbs into rugged high-desert terrain [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "unique_facts": "Scottsdale adopted 'The West's Most Western Town' as its official motto upon incorporating in 1951, an identity the Chamber of Commerce deliberately cultivated starting in 1947 by giving downtown a Western architectural theme rooted in the area's earlier cattle-ranching history, per the Scottsdale Historical Society [Tier 3|cross_verified:false|estimated|2026-09-18]"
     }
   },
   {
@@ -868,7 +902,8 @@
     },
     "geography": {
       "disaster_risk": "FEMA NRI v1.20: King County composite 100th percentile, 'Very High' - #1 riskiest WA county; earthquake maxed at 99.9-100 (Seattle Fault runs directly beneath the city, plus Cascadia subduction zone exposure), flood also high at 99.5; wildfire/tornado comparatively low (73-80) [Tier 1|cross_verified:true|verified|2026-09-13]",
-      "terrain_summary": "Glacially-carved hilly isthmus between Puget Sound and Lake Washington; 'Seven Hills of Seattle' (Capitol Hill, Queen Anne, Beacon Hill, etc.), elevation range 0-158m (West Seattle); Mount Rainier (4,392m stratovolcano) visible ~87km SE; genuine landslide risk on steep glacial-till slopes [Tier 2|cross_verified:true|verified|2026-09-13]"
+      "terrain_summary": "Glacially-carved hilly isthmus between Puget Sound and Lake Washington; 'Seven Hills of Seattle' (Capitol Hill, Queen Anne, Beacon Hill, etc.), elevation range 0-158m (West Seattle); Mount Rainier (4,392m stratovolcano) visible ~87km SE; genuine landslide risk on steep glacial-till slopes [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "unique_facts": "The Great Seattle Fire of June 6, 1889 (started by an overheated glue pot) destroyed roughly 64 acres of the city's timber core; the post-fire rebuild raised street grades on retaining walls over the old sidewalks, creating the 'Seattle Underground' still toured today, per HistoryLink.org, the state-affiliated online encyclopedia of Washington history [Tier 3|cross_verified:true|estimated|2026-09-18]"
     }
   },
   {
@@ -891,7 +926,8 @@
     },
     "geography": {
       "disaster_risk": "FEMA NRI v1.20: Pierce County composite 98.7 (per direct FEMA hazards.fema.gov report)/99th percentile, 'Relatively High'/'Very High' depending on source rounding - flood 96.2, earthquake 99.6 (Tacoma Fault runs directly through the county, M7.1 scenario modeled by FEMA Region X), landslide and tsunami risk both flagged for Tacoma specifically in FEMA's own regional risk report given its bluff-and-waterfront geography [Tier 1|cross_verified:true|verified|2026-09-13]",
-      "terrain_summary": "Rolling hills, steep bluffs, and terraced flat plains rising from Puget Sound to ~440ft (134m) in the city's east; built on a series of terraces overlooking Commencement Bay [Tier 2|cross_verified:true|verified|2026-09-13]"
+      "terrain_summary": "Rolling hills, steep bluffs, and terraced flat plains rising from Puget Sound to ~440ft (134m) in the city's east; built on a series of terraces overlooking Commencement Bay [Tier 2|cross_verified:true|verified|2026-09-13]",
+      "unique_facts": "Tacoma's 'Grit City' nickname began in the late 1990s/early 2000s as an outsider's insult about the city's rough edges, but was reclaimed as a badge of local pride after a 2003 newspaper column reframed 'grit' as authenticity - it's now one of Tacoma's two official nicknames alongside 'City of Destiny,' per locally-founded Grit City Magazine [Tier 3|cross_verified:false|estimated|2026-09-18]"
     }
   },
   {
@@ -914,7 +950,8 @@
     },
     "geography": {
       "disaster_risk": "FEMA NRI: Hillsborough County 99th percentile nationally, 'Relatively High' - top hazards tornado 99.7, flood 97.8, earthquake surprisingly high at 68.5 (regional seismic model artifact, same pattern as Duval County) [Tier 2|cross_verified:true|verified|2026-09-13]",
-      "terrain_summary": "Gulf coastal plain around Tampa Bay; flat, low-elevation, similar coastal-plain profile to Miami/Jacksonville but on the Gulf side [Tier 3|cross_verified:false|estimated|2026-09-13] - general coastal-plain inference, not pulled from a dedicated elevation source this pass"
+      "terrain_summary": "Gulf coastal plain around Tampa Bay; flat, low-elevation, similar coastal-plain profile to Miami/Jacksonville but on the Gulf side [Tier 3|cross_verified:false|estimated|2026-09-13] - general coastal-plain inference, not pulled from a dedicated elevation source this pass",
+      "unique_facts": "Tampa's Gasparilla Pirate Festival, invented in 1904 by a Tampa Tribune editor and local businessman George Hardee for a May Day promotion, is built around the legend of pirate Jose Gaspar - a figure historians say has no documented record in any fleet log or wanted poster - and has since grown into one of the largest parades in the US, per Tampa TV station WFLA [Tier 3|cross_verified:false|estimated|2026-09-18]"
     }
   },
   {
@@ -937,7 +974,8 @@
     },
     "geography": {
       "disaster_risk": "FEMA NRI, Forsyth County: 92nd percentile nationally, rating 'Relatively Moderate' - top hazards flood 94.7, tornado 90.9, earthquake 88.1 [Tier 2|cross_verified:false|single-source|2026-09-13]",
-      "terrain_summary": "Piedmont region, Piedmont Triad area; rolling hills typical of the region [Tier 2|cross_verified:false|single-source|2026-09-13]"
+      "terrain_summary": "Piedmont region, Piedmont Triad area; rolling hills typical of the region [Tier 2|cross_verified:false|single-source|2026-09-13]",
+      "unique_facts": "Winston-Salem is a 1913 merger of two adjacent towns - Salem, a Moravian settlement founded in 1766, and Winston, the industrial center R.J. Reynolds built his tobacco empire from starting in 1874 (10,000 workers across 121 buildings by his 1918 death) - joined by a single hyphen, per Our State magazine's history of the city [Tier 3|cross_verified:false|estimated|2026-09-18]"
     }
   },
   {
@@ -966,7 +1004,8 @@
     },
     "geography": {
       "disaster_risk": "South Central Connecticut Planning Region (CT's current FEMA-equivalent unit, replacing New Haven County): disaster-risk score 4.9/100 on a third-party site's own 0-100 scale - among the lowest in CT, though the broader New Haven County/region has recorded 12 federal disaster declarations since 2000 (mostly hurricanes/tropical storms - Sandy, Irene, Ida - and winter storms), with coastal Milford flagged as the most flood-exposed municipality in the region; VERIFY: same single-source caveat as Farmington - this 4.9 figure is a third-party composite score, not a directly retrieved FEMA NRI percentile [Tier 3|cross_verified:false|single-source|2026-09-13]",
-      "terrain_summary": "Inland New Haven County, at the headwaters of the Wepawaug River; elevation ~348ft (106m), part of the same general central-CT hilly terrain as Farmington but closer to Long Island Sound; genuinely more inland/elevated than coastal New Haven itself, consistent with the safety-substitute rationale noted in this dataset's residency_context [Tier 1|cross_verified:true|verified|2026-09-13]"
+      "terrain_summary": "Inland New Haven County, at the headwaters of the Wepawaug River; elevation ~348ft (106m), part of the same general central-CT hilly terrain as Farmington but closer to Long Island Sound; genuinely more inland/elevated than coastal New Haven itself, consistent with the safety-substitute rationale noted in this dataset's residency_context [Tier 1|cross_verified:true|verified|2026-09-13]",
+      "unique_facts": "In 1661 Woodbridge secretly sheltered three of the 'regicide judges' who had signed the death warrant of England's King Charles I and fled the restored monarchy's pursuit, per the CTHumanities-run Connecticut History project [Tier 3|cross_verified:false|estimated|2026-09-18]"
     }
   }
 ]

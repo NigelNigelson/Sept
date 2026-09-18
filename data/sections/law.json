@@ -25,7 +25,8 @@
       ]
     },
     "law": {
-      "alcohol_sales": "Local-option under GA Code 3-3-7; where authorized, standard Sunday window ~11 AM-12 AM, varies by county/city referendum; weekday sales effectively unrestricted statewide [Tier 1|cross_verified:true|verified|2026-09-13]. On-premise (bars/restaurants), per City of Atlanta Code of Ordinances Ch. 10: Mon-Sat 9am-2:30am, Sun 12:30pm-12am (Brunch Bill allows earlier Sunday start for qualifying restaurants); establishments in designated Special Entertainment Districts may serve until 4am Sun-Fri and 2:55am Sat [Tier 1|cross_verified:true|verified|2026-09-18]. Not a dry jurisdiction: Fulton and DeKalb Counties both permit alcohol sales; GA's ~6 remaining dry counties (Taliaferro, Wilkes, Jasper, Madison, Dade, Lee) do not include either [Tier 2|cross_verified:true|verified|2026-09-18]."
+      "alcohol_sales": "Local-option under GA Code 3-3-7; where authorized, standard Sunday window ~11 AM-12 AM, varies by county/city referendum; weekday sales effectively unrestricted statewide [Tier 1|cross_verified:true|verified|2026-09-13]. On-premise (bars/restaurants), per City of Atlanta Code of Ordinances Ch. 10: Mon-Sat 9am-2:30am, Sun 12:30pm-12am (Brunch Bill allows earlier Sunday start for qualifying restaurants); establishments in designated Special Entertainment Districts may serve until 4am Sun-Fri and 2:55am Sat [Tier 1|cross_verified:true|verified|2026-09-18]. Not a dry jurisdiction: Fulton and DeKalb Counties both permit alcohol sales; GA's ~6 remaining dry counties (Taliaferro, Wilkes, Jasper, Madison, Dade, Lee) do not include either [Tier 2|cross_verified:true|verified|2026-09-18].",
+      "other_notable": "City of Atlanta municipal ordinance (17-O-1152, signed 2017) reduces the penalty for possession of one ounce or less of marijuana within city limits to a $75 fine with no arrest or jail time — notably more lenient than Georgia state law, which still classifies any possession as a misdemeanor/felony offense; enforcement discretion (city ordinance vs. state law) rests with the arresting officer, so the practical protection is narrower than 'decriminalized' framing suggests [Tier 1|cross_verified:true|verified|2026-09-18] (City of Atlanta mayor's office release, cross-verified against NORML and Atlanta Magazine coverage)."
     }
   },
   {
@@ -47,7 +48,8 @@
       ]
     },
     "law": {
-      "alcohol_sales": "Local-option under GA Code 3-3-7; where authorized, standard Sunday window ~11 AM-12 AM, varies by county/city referendum; weekday sales effectively unrestricted statewide [Tier 1|cross_verified:true|verified|2026-09-13]. On-premise (bars/restaurants), Richmond County: Mon-Fri 8am-2:30am, Sat 8am-1:55am, Sun 12:30pm-2am — consistent with the GA local-option on-premise pattern seen elsewhere in this dataset, but sourced from a secondary compilation site rather than the Augusta-Richmond County code text directly (the official PDF ordinance was not machine-readable this pass); flagged for a follow-up Tier 1 confirmation [Tier 3|cross_verified:false|single-source|2026-09-18]. Not a dry jurisdiction: Richmond County is not among GA's ~6 remaining dry counties (Taliaferro, Wilkes, Jasper, Madison, Dade, Lee) [Tier 2|cross_verified:true|verified|2026-09-18]."
+      "alcohol_sales": "Local-option under GA Code 3-3-7; where authorized, standard Sunday window ~11 AM-12 AM, varies by county/city referendum; weekday sales effectively unrestricted statewide [Tier 1|cross_verified:true|verified|2026-09-13]. On-premise (bars/restaurants), Richmond County: Mon-Fri 8am-2:30am, Sat 8am-1:55am, Sun 12:30pm-2am — consistent with the GA local-option on-premise pattern seen elsewhere in this dataset, but sourced from a secondary compilation site rather than the Augusta-Richmond County code text directly (the official PDF ordinance was not machine-readable this pass); flagged for a follow-up Tier 1 confirmation [Tier 3|cross_verified:false|single-source|2026-09-18]. Not a dry jurisdiction: Richmond County is not among GA's ~6 remaining dry counties (Taliaferro, Wilkes, Jasper, Madison, Dade, Lee) [Tier 2|cross_verified:true|verified|2026-09-18].",
+      "other_notable": null
     }
   },
   {
@@ -69,7 +71,8 @@
       ]
     },
     "law": {
-      "alcohol_sales": "8am-midnight daily including Sunday, no special Sunday restriction (grocery: full-strength beer since 2019, wine since 2023, no spirits); on-premise 7am-2am daily [Tier 2|cross_verified:true|verified|2026-09-13]. NOTE: some older web sources (pre-2023) incorrectly describe Sunday closure - superseded by law change, not a live conflict. Not a dry jurisdiction: Colorado ended statewide prohibition in 1933, allows city/county local-option dry votes under state law, but no current dry counties, cities, or towns were identified in Colorado (unlike neighboring Kansas, which retains dry counties near the CO border); Aurora itself has no local prohibition [Tier 2|cross_verified:true|verified|2026-09-18]."
+      "alcohol_sales": "8am-midnight daily including Sunday, no special Sunday restriction (grocery: full-strength beer since 2019, wine since 2023, no spirits); on-premise 7am-2am daily [Tier 2|cross_verified:true|verified|2026-09-13]. NOTE: some older web sources (pre-2023) incorrectly describe Sunday closure - superseded by law change, not a live conflict. Not a dry jurisdiction: Colorado ended statewide prohibition in 1933, allows city/county local-option dry votes under state law, but no current dry counties, cities, or towns were identified in Colorado (unlike neighboring Kansas, which retains dry counties near the CO border); Aurora itself has no local prohibition [Tier 2|cross_verified:true|verified|2026-09-18].",
+      "other_notable": null
     }
   },
   {
@@ -91,7 +94,8 @@
       ]
     },
     "law": {
-      "alcohol_sales": "Statewide (not local-option): beer/wine Mon-Sat 7am-midnight, Sun 10am-midnight (post-2021 HB 1518); liquor stores closed all Sunday statewide [Tier 1|cross_verified:true|verified|2026-09-13]. On-premise (mixed beverage/bars): standard permit Mon-Sat 7am-midnight, Sun 10am-midnight; establishments holding a Late Hours Certificate may serve until 2am [Tier 1|cross_verified:true|verified|2026-09-18]. Not a dry jurisdiction: Travis County is 'wet' under TABC local-option status; Texas retains only 3 fully dry counties statewide (Borden, Kent, Roberts), none near Austin [Tier 1|cross_verified:true|verified|2026-09-18]."
+      "alcohol_sales": "Statewide (not local-option): beer/wine Mon-Sat 7am-midnight, Sun 10am-midnight (post-2021 HB 1518); liquor stores closed all Sunday statewide [Tier 1|cross_verified:true|verified|2026-09-13]. On-premise (mixed beverage/bars): standard permit Mon-Sat 7am-midnight, Sun 10am-midnight; establishments holding a Late Hours Certificate may serve until 2am [Tier 1|cross_verified:true|verified|2026-09-18]. Not a dry jurisdiction: Travis County is 'wet' under TABC local-option status; Texas retains only 3 fully dry counties statewide (Borden, Kent, Roberts), none near Austin [Tier 1|cross_verified:true|verified|2026-09-18].",
+      "other_notable": "Texas has one of the strictest abortion laws in the US: a near-total ban with no exceptions for rape, incest, or fatal fetal anomaly, the only exception being to save the pregnant patient's life or a major bodily function (Texas' 2025 'Life of the Mother Act' clarified — but did not expand — this medical exception). Relevant statewide, including Austin/Travis County [Tier 1|cross_verified:true|verified|2026-09-18]."
     }
   },
   {
@@ -121,7 +125,8 @@
       ]
     },
     "law": {
-      "alcohol_sales": "Statewide default Mon-Sat 7am-2am, Sun 12pm-2am; local ordinances may move Sunday start to 10am; state-run ABC liquor stores closed all Sunday regardless of local option [Tier 1|cross_verified:true|verified|2026-09-13]. On-premise (mixed beverage permit/bars, NC ABCC quick guide): same Mon-Sat 7am-2am, Sun 12pm-2am window applies to consumption-on-premises sales [Tier 1|cross_verified:true|verified|2026-09-18]. Not a dry jurisdiction: NC ABCC currently lists only 4 fully dry counties statewide (Clay, Graham, Mitchell, Yancey); Orange County is not among them [Tier 1|cross_verified:true|verified|2026-09-18]."
+      "alcohol_sales": "Statewide default Mon-Sat 7am-2am, Sun 12pm-2am; local ordinances may move Sunday start to 10am; state-run ABC liquor stores closed all Sunday regardless of local option [Tier 1|cross_verified:true|verified|2026-09-13]. On-premise (mixed beverage permit/bars, NC ABCC quick guide): same Mon-Sat 7am-2am, Sun 12pm-2am window applies to consumption-on-premises sales [Tier 1|cross_verified:true|verified|2026-09-18]. Not a dry jurisdiction: NC ABCC currently lists only 4 fully dry counties statewide (Clay, Graham, Mitchell, Yancey); Orange County is not among them [Tier 1|cross_verified:true|verified|2026-09-18].",
+      "other_notable": null
     }
   },
   {
@@ -143,7 +148,8 @@
       ]
     },
     "law": {
-      "alcohol_sales": "Statewide, no local-option variance: beer/wine 6am-midnight daily incl. Sunday (no blue-law carve-out); state-run ABC liquor stores Mon-Sat 10am-9pm, Sun 12pm-6pm [Tier 1|cross_verified:true|verified|2026-09-13]. On-premise (bars/restaurants, mixed-beverage localities statewide incl. Charlottesville/Albemarle): 6am-2am daily per Virginia ABC, with mandatory table clearance by 2:30am [Tier 1|cross_verified:true|verified|2026-09-18]. Not a dry jurisdiction: Virginia's 10 dry counties are Bland, Buchanan, Charlotte, Craig, Floyd, Grayson, Highland, Lee, Patrick, and Russell — Albemarle County/Charlottesville (an independent city) is not among them [Tier 2|cross_verified:true|verified|2026-09-18]."
+      "alcohol_sales": "Statewide, no local-option variance: beer/wine 6am-midnight daily incl. Sunday (no blue-law carve-out); state-run ABC liquor stores Mon-Sat 10am-9pm, Sun 12pm-6pm [Tier 1|cross_verified:true|verified|2026-09-13]. On-premise (bars/restaurants, mixed-beverage localities statewide incl. Charlottesville/Albemarle): 6am-2am daily per Virginia ABC, with mandatory table clearance by 2:30am [Tier 1|cross_verified:true|verified|2026-09-18]. Not a dry jurisdiction: Virginia's 10 dry counties are Bland, Buchanan, Charlotte, Craig, Floyd, Grayson, Highland, Lee, Patrick, and Russell — Albemarle County/Charlottesville (an independent city) is not among them [Tier 2|cross_verified:true|verified|2026-09-18].",
+      "other_notable": "Following the armed 'Unite the Right' rally of Aug. 12, 2017, Charlottesville City Council unanimously passed an ordinance (effective Sept. 2020, enabled by a 2020 VA General Assembly law allowing localities to regulate firearms on public property) banning firearms on public streets/rights-of-way used for or adjacent to a permitted event, plus in city government buildings, parks, and rec/community centers — a notably stricter local firearms posture than most Virginia localities [Tier 2|cross_verified:true|verified|2026-09-18]."
     }
   },
   {
@@ -184,7 +190,8 @@
       ]
     },
     "law": {
-      "alcohol_sales": "Statewide: no alcohol of any kind sold in grocery/big-box retail chains (1 of only 3 US states with this rule) - alcohol sales entirely county-by-county through dedicated licensed stores. HOWARD COUNTY (Columbia): specific statutory hours not confirmed this batch (not named in the MD Alcoholic Beverages code sections retrieved); business-hours data suggests Sunday liquor sales commonly available in the area but this is NOT a Tier 1/2 confirmation - flagged VERIFY [Tier 3|cross_verified:false|unverified|2026-09-13]. On-premise (bars/restaurants), Howard County: 6am-2am any day, no mandatory early closing on New Year's Eve [Tier 2|cross_verified:false|single-source|2026-09-18]. Not a dry jurisdiction: Maryland law bars counties from passing alcohol restrictions stricter than the state baseline, and Maryland has no county-level dry jurisdictions today (Montgomery County's historical dry period, 1880-1933, is long since repealed); Howard County permits alcohol sales [Tier 2|cross_verified:true|verified|2026-09-18]."
+      "alcohol_sales": "Statewide: no alcohol of any kind sold in grocery/big-box retail chains (1 of only 3 US states with this rule) - alcohol sales entirely county-by-county through dedicated licensed stores. HOWARD COUNTY (Columbia): specific statutory hours not confirmed this batch (not named in the MD Alcoholic Beverages code sections retrieved); business-hours data suggests Sunday liquor sales commonly available in the area but this is NOT a Tier 1/2 confirmation - flagged VERIFY [Tier 3|cross_verified:false|unverified|2026-09-13]. On-premise (bars/restaurants), Howard County: 6am-2am any day, no mandatory early closing on New Year's Eve [Tier 2|cross_verified:false|single-source|2026-09-18]. Not a dry jurisdiction: Maryland law bars counties from passing alcohol restrictions stricter than the state baseline, and Maryland has no county-level dry jurisdictions today (Montgomery County's historical dry period, 1880-1933, is long since repealed); Howard County permits alcohol sales [Tier 2|cross_verified:true|verified|2026-09-18].",
+      "other_notable": null
     }
   },
   {
@@ -213,7 +220,8 @@
       ]
     },
     "law": {
-      "alcohol_sales": "Statewide (not local-option): beer/wine Mon-Sat 7am-midnight, Sun 10am-midnight (post-2021 HB 1518); liquor stores closed all Sunday statewide [Tier 1|cross_verified:true|verified|2026-09-13]. On-premise (mixed beverage/bars): standard permit Mon-Sat 7am-midnight, Sun 10am-midnight; a Late Hours Certificate extends service to 2am [Tier 1|cross_verified:true|verified|2026-09-18]. Not a dry jurisdiction: Dallas County is 'wet' under TABC local-option status; Texas retains only 3 fully dry counties statewide (Borden, Kent, Roberts) [Tier 1|cross_verified:true|verified|2026-09-18]."
+      "alcohol_sales": "Statewide (not local-option): beer/wine Mon-Sat 7am-midnight, Sun 10am-midnight (post-2021 HB 1518); liquor stores closed all Sunday statewide [Tier 1|cross_verified:true|verified|2026-09-13]. On-premise (mixed beverage/bars): standard permit Mon-Sat 7am-midnight, Sun 10am-midnight; a Late Hours Certificate extends service to 2am [Tier 1|cross_verified:true|verified|2026-09-18]. Not a dry jurisdiction: Dallas County is 'wet' under TABC local-option status; Texas retains only 3 fully dry counties statewide (Borden, Kent, Roberts) [Tier 1|cross_verified:true|verified|2026-09-18].",
+      "other_notable": "Texas has one of the strictest abortion laws in the US: a near-total ban with no exceptions for rape, incest, or fatal fetal anomaly, the only exception being to save the pregnant patient's life or a major bodily function (Texas' 2025 'Life of the Mother Act' clarified — but did not expand — this medical exception). Relevant statewide, including Dallas County [Tier 1|cross_verified:true|verified|2026-09-18]."
     }
   },
   {
@@ -243,7 +251,8 @@
       ]
     },
     "law": {
-      "alcohol_sales": "Statewide default Mon-Sat 7am-2am, Sun 12pm-2am; local ordinances may move Sunday start to 10am; state-run ABC liquor stores closed all Sunday regardless of local option [Tier 1|cross_verified:true|verified|2026-09-13]. On-premise (mixed beverage permit/bars, NC ABCC quick guide): same Mon-Sat 7am-2am, Sun 12pm-2am window governs consumption-on-premises sales [Tier 1|cross_verified:true|verified|2026-09-18]. Not a dry jurisdiction: NC ABCC currently lists only 4 fully dry counties statewide (Clay, Graham, Mitchell, Yancey); Durham County is not among them [Tier 1|cross_verified:true|verified|2026-09-18]."
+      "alcohol_sales": "Statewide default Mon-Sat 7am-2am, Sun 12pm-2am; local ordinances may move Sunday start to 10am; state-run ABC liquor stores closed all Sunday regardless of local option [Tier 1|cross_verified:true|verified|2026-09-13]. On-premise (mixed beverage permit/bars, NC ABCC quick guide): same Mon-Sat 7am-2am, Sun 12pm-2am window governs consumption-on-premises sales [Tier 1|cross_verified:true|verified|2026-09-18]. Not a dry jurisdiction: NC ABCC currently lists only 4 fully dry counties statewide (Clay, Graham, Mitchell, Yancey); Durham County is not among them [Tier 1|cross_verified:true|verified|2026-09-18].",
+      "other_notable": null
     }
   },
   {
@@ -265,7 +274,8 @@
       ]
     },
     "law": {
-      "alcohol_sales": "8am-midnight daily including Sunday, no special Sunday restriction (grocery: full-strength beer since 2019, wine since 2023, no spirits); on-premise 7am-2am daily [Tier 2|cross_verified:true|verified|2026-09-13]. NOTE: some older web sources (pre-2023) incorrectly describe Sunday closure - superseded by law change, not a live conflict. Not a dry jurisdiction: Colorado ended statewide prohibition in 1933 and allows city/county local-option dry votes, but no current dry counties, cities, or towns were identified in Colorado; Englewood has no local prohibition [Tier 2|cross_verified:true|verified|2026-09-18]."
+      "alcohol_sales": "8am-midnight daily including Sunday, no special Sunday restriction (grocery: full-strength beer since 2019, wine since 2023, no spirits); on-premise 7am-2am daily [Tier 2|cross_verified:true|verified|2026-09-13]. NOTE: some older web sources (pre-2023) incorrectly describe Sunday closure - superseded by law change, not a live conflict. Not a dry jurisdiction: Colorado ended statewide prohibition in 1933 and allows city/county local-option dry votes, but no current dry counties, cities, or towns were identified in Colorado; Englewood has no local prohibition [Tier 2|cross_verified:true|verified|2026-09-18].",
+      "other_notable": null
     }
   },
   {
@@ -293,7 +303,8 @@
       ]
     },
     "law": {
-      "alcohol_sales": "Off-premise (package stores AND grocery/beer permits): Mon-Sat 8am-10pm, SUNDAY 10am-6pm (Sunday sales legalized 2012 - some older sources incorrectly state CT is closed Sunday, this is stale/superseded). On-premise (restaurants/bars): Mon-Thu 9am-1am, Fri-Sat 9am-2am, Sun 10am-1am. Closed Thanksgiving, Christmas, New Year's Day [Tier 1|cross_verified:true|verified|2026-09-13]. Not a dry jurisdiction: Connecticut permits towns to go dry via local referendum, but no current dry towns were identified statewide; Farmington has no local prohibition [Tier 3|cross_verified:false|estimated|2026-09-18]."
+      "alcohol_sales": "Off-premise (package stores AND grocery/beer permits): Mon-Sat 8am-10pm, SUNDAY 10am-6pm (Sunday sales legalized 2012 - some older sources incorrectly state CT is closed Sunday, this is stale/superseded). On-premise (restaurants/bars): Mon-Thu 9am-1am, Fri-Sat 9am-2am, Sun 10am-1am. Closed Thanksgiving, Christmas, New Year's Day [Tier 1|cross_verified:true|verified|2026-09-13]. Not a dry jurisdiction: Connecticut permits towns to go dry via local referendum, but no current dry towns were identified statewide; Farmington has no local prohibition [Tier 3|cross_verified:false|estimated|2026-09-18].",
+      "other_notable": null
     }
   },
   {
@@ -321,7 +332,8 @@
       ]
     },
     "law": {
-      "alcohol_sales": "Statewide uniform 6am-2am daily, no Sunday restriction, no local-option variance; applies identically to off-premise (grocery/liquor) and on-premise (Bus. & Prof. Code Sec. 25631) [Tier 1|cross_verified:true|verified|2026-09-13]. Not a dry jurisdiction: California has no dry counties; Sacramento County (incl. Folsom) is fully wet [Tier 2|cross_verified:true|verified|2026-09-18]."
+      "alcohol_sales": "Statewide uniform 6am-2am daily, no Sunday restriction, no local-option variance; applies identically to off-premise (grocery/liquor) and on-premise (Bus. & Prof. Code Sec. 25631) [Tier 1|cross_verified:true|verified|2026-09-13]. Not a dry jurisdiction: California has no dry counties; Sacramento County (incl. Folsom) is fully wet [Tier 2|cross_verified:true|verified|2026-09-18].",
+      "other_notable": null
     }
   },
   {
@@ -343,7 +355,8 @@
       ]
     },
     "law": {
-      "alcohol_sales": "Statewide default applies (7am-midnight, no statewide Sunday restriction) but Alachua County/Gainesville-specific local ordinance not found in this batch - needs dedicated search [Tier 1|cross_verified:false|unverified|2026-09-13, state baseline only]. On-premise (bars/restaurants): F.S. 562.14 statewide default midnight-7am closure applies absent a local ordinance extending hours; many FL municipalities extend on-premise to 2am via local ordinance, but no Gainesville-specific extension was confirmed this batch - treat as state default only [Tier 1|cross_verified:false|unverified|2026-09-18]. Not a dry jurisdiction: Florida's only meaningfully dry/restricted counties are Liberty (fully dry) and Lafayette (bars prohibited, retail beer allowed); Alachua County is not among them [Tier 2|cross_verified:true|verified|2026-09-18]."
+      "alcohol_sales": "Statewide default applies (7am-midnight, no statewide Sunday restriction) but Alachua County/Gainesville-specific local ordinance not found in this batch - needs dedicated search [Tier 1|cross_verified:false|unverified|2026-09-13, state baseline only]. On-premise (bars/restaurants): F.S. 562.14 statewide default midnight-7am closure applies absent a local ordinance extending hours; many FL municipalities extend on-premise to 2am via local ordinance, but no Gainesville-specific extension was confirmed this batch - treat as state default only [Tier 1|cross_verified:false|unverified|2026-09-18]. Not a dry jurisdiction: Florida's only meaningfully dry/restricted counties are Liberty (fully dry) and Lafayette (bars prohibited, retail beer allowed); Alachua County is not among them [Tier 2|cross_verified:true|verified|2026-09-18].",
+      "other_notable": "Florida's abortion law is a near-total ban after 6 weeks of pregnancy (effective May 1, 2024), well before most patients know they're pregnant; narrow exceptions exist for rape/incest/trafficking (up to 15 weeks, with documentation) and fatal fetal abnormality. A November 2024 ballot measure (Amendment 4) to enshrine broader abortion access in the state constitution got majority support but fell short of Florida's 60% supermajority threshold, so the 6-week ban remains in effect [Tier 1|cross_verified:true|verified|2026-09-18]."
     }
   },
   {
@@ -365,7 +378,8 @@
       ]
     },
     "law": {
-      "alcohol_sales": "Statewide (not local-option): beer/wine Mon-Sat 7am-midnight, Sun 10am-midnight (post-2021 HB 1518); liquor stores closed all Sunday statewide [Tier 1|cross_verified:true|verified|2026-09-13]. On-premise (mixed beverage/bars): standard permit Mon-Sat 7am-midnight, Sun 10am-midnight; Late Hours Certificate extends service to 2am [Tier 1|cross_verified:true|verified|2026-09-18]. Not a dry jurisdiction: Galveston County is 'wet' under TABC local-option status; Texas retains only 3 fully dry counties statewide (Borden, Kent, Roberts) [Tier 1|cross_verified:true|verified|2026-09-18]."
+      "alcohol_sales": "Statewide (not local-option): beer/wine Mon-Sat 7am-midnight, Sun 10am-midnight (post-2021 HB 1518); liquor stores closed all Sunday statewide [Tier 1|cross_verified:true|verified|2026-09-13]. On-premise (mixed beverage/bars): standard permit Mon-Sat 7am-midnight, Sun 10am-midnight; Late Hours Certificate extends service to 2am [Tier 1|cross_verified:true|verified|2026-09-18]. Not a dry jurisdiction: Galveston County is 'wet' under TABC local-option status; Texas retains only 3 fully dry counties statewide (Borden, Kent, Roberts) [Tier 1|cross_verified:true|verified|2026-09-18].",
+      "other_notable": "Texas has one of the strictest abortion laws in the US: a near-total ban with no exceptions for rape, incest, or fatal fetal anomaly, the only exception being to save the pregnant patient's life or a major bodily function (Texas' 2025 'Life of the Mother Act' clarified — but did not expand — this medical exception). Relevant statewide, including Galveston County [Tier 1|cross_verified:true|verified|2026-09-18]."
     }
   },
   {
@@ -393,7 +407,8 @@
       ]
     },
     "law": {
-      "alcohol_sales": "Wine + liquor (grocery/package stores): statewide TABC rule, Mon-Sat 8am-11pm, Sun 10am-11pm, closed Christmas/Thanksgiving/Easter. BEER specifically at grocery/convenience stores: NOT governed by this statewide rule - set by LOCAL city/county beer boards instead, can differ from wine/liquor hours at the same store [Tier 1|cross_verified:true|verified|2026-09-13]. On-premise (liquor-by-the-drink/bars): statewide ceiling prohibits sale/service 3am-8am weekdays and 3am-10am (or 3am-noon where county has opted for the stricter Sunday rule); local governments may set an earlier cutoff, so actual last call varies by city ordinance [Tier 1|cross_verified:true|verified|2026-09-18]. Not a dry jurisdiction: Shelby County is one of Tennessee's wet counties; only Hancock County is fully dry statewide (Moore County is near-dry with narrow exceptions) [Tier 2|cross_verified:true|verified|2026-09-18]."
+      "alcohol_sales": "Wine + liquor (grocery/package stores): statewide TABC rule, Mon-Sat 8am-11pm, Sun 10am-11pm, closed Christmas/Thanksgiving/Easter. BEER specifically at grocery/convenience stores: NOT governed by this statewide rule - set by LOCAL city/county beer boards instead, can differ from wine/liquor hours at the same store [Tier 1|cross_verified:true|verified|2026-09-13]. On-premise (liquor-by-the-drink/bars): statewide ceiling prohibits sale/service 3am-8am weekdays and 3am-10am (or 3am-noon where county has opted for the stricter Sunday rule); local governments may set an earlier cutoff, so actual last call varies by city ordinance [Tier 1|cross_verified:true|verified|2026-09-18]. Not a dry jurisdiction: Shelby County is one of Tennessee's wet counties; only Hancock County is fully dry statewide (Moore County is near-dry with narrow exceptions) [Tier 2|cross_verified:true|verified|2026-09-18].",
+      "other_notable": "Tennessee has a near-total abortion ban with no exceptions for rape or incest; a narrow 2023 'Medical Necessity Exception' permits abortion only when a physician determines it's necessary to prevent the patient's death or serious/irreversible impairment of a major bodily function, and litigation continues over whether that exception is workably clear for physicians. Relevant statewide, including Shelby County/Germantown [Tier 1|cross_verified:true|verified|2026-09-18]."
     }
   },
   {
@@ -415,7 +430,8 @@
       ]
     },
     "law": {
-      "alcohol_sales": "Statewide default Mon-Sat 7am-2am, Sun 12pm-2am; local ordinances may move Sunday start to 10am; state-run ABC liquor stores closed all Sunday regardless of local option [Tier 1|cross_verified:true|verified|2026-09-13]. On-premise (mixed beverage permit/bars, NC ABCC quick guide): same Mon-Sat 7am-2am, Sun 12pm-2am window governs consumption-on-premises sales [Tier 1|cross_verified:true|verified|2026-09-18]. Not a dry jurisdiction: NC ABCC currently lists only 4 fully dry counties statewide (Clay, Graham, Mitchell, Yancey); Pitt County is not among them [Tier 1|cross_verified:true|verified|2026-09-18]."
+      "alcohol_sales": "Statewide default Mon-Sat 7am-2am, Sun 12pm-2am; local ordinances may move Sunday start to 10am; state-run ABC liquor stores closed all Sunday regardless of local option [Tier 1|cross_verified:true|verified|2026-09-13]. On-premise (mixed beverage permit/bars, NC ABCC quick guide): same Mon-Sat 7am-2am, Sun 12pm-2am window governs consumption-on-premises sales [Tier 1|cross_verified:true|verified|2026-09-18]. Not a dry jurisdiction: NC ABCC currently lists only 4 fully dry counties statewide (Clay, Graham, Mitchell, Yancey); Pitt County is not among them [Tier 1|cross_verified:true|verified|2026-09-18].",
+      "other_notable": null
     }
   },
   {
@@ -437,7 +453,8 @@
       ]
     },
     "law": {
-      "alcohol_sales": "Honolulu/Oahu specifically (Honolulu Liquor Commission Sec. 3-82-38.19): off-premise retail 6am-midnight daily, no Sunday restriction; on-premise (bars/restaurants/dispensers) 6am-2am daily; cabaret-licensed venues to 4am. NOTE: set by county liquor commission under HRS 281 - other HI islands/counties may differ, not relevant since Honolulu is the only HI city in this schema [Tier 1|cross_verified:true|verified|2026-09-13]. Not a dry jurisdiction: Hawaii does not permit local governments to ban alcohol sales and has no dry counties/islands [Tier 2|cross_verified:true|verified|2026-09-18]."
+      "alcohol_sales": "Honolulu/Oahu specifically (Honolulu Liquor Commission Sec. 3-82-38.19): off-premise retail 6am-midnight daily, no Sunday restriction; on-premise (bars/restaurants/dispensers) 6am-2am daily; cabaret-licensed venues to 4am. NOTE: set by county liquor commission under HRS 281 - other HI islands/counties may differ, not relevant since Honolulu is the only HI city in this schema [Tier 1|cross_verified:true|verified|2026-09-13]. Not a dry jurisdiction: Hawaii does not permit local governments to ban alcohol sales and has no dry counties/islands [Tier 2|cross_verified:true|verified|2026-09-18].",
+      "other_notable": "Hawaii has among the strictest firearm regimes in the country: a state permit-to-acquire is required for both handguns and long guns (14-day minimum processing, fingerprinting, background check), all firearms must be registered with county police within 5 days of acquisition/arrival in-state, the purchase age floor for firearms and ammunition is 21, and handgun magazines are capped at 10 rounds [Tier 2|cross_verified:true|verified|2026-09-18]."
     }
   },
   {
@@ -459,7 +476,8 @@
       ]
     },
     "law": {
-      "alcohol_sales": "Statewide default off-premise 7am-midnight daily (F.S. 562.14), no statewide Sunday restriction, but local county/city ordinances routinely override Sunday start time specifically (local-option, similar to GA/NC pattern) [Tier 1|cross_verified:true|verified|2026-09-13] VERIFY: Duval County/Jacksonville Sunday off-premise start time conflicts between sources found (6am vs ~11am) - needs direct county ordinance check, not resolved this batch [Tier 3|cross_verified:false|unverified|2026-09-13]. On-premise (bars/restaurants): F.S. 562.14 statewide default midnight-7am closure absent a local extension; consistent with the statewide pattern seen in other FL cities in this dataset where downtown/entertainment-district ordinances commonly extend on-premise service to 2am, but a Jacksonville-specific extension was not confirmed this batch [Tier 1|cross_verified:false|unverified|2026-09-18]. Not a dry jurisdiction: Florida's only meaningfully dry/restricted counties are Liberty (fully dry) and Lafayette (bars prohibited); Duval County is not among them [Tier 2|cross_verified:true|verified|2026-09-18]."
+      "alcohol_sales": "Statewide default off-premise 7am-midnight daily (F.S. 562.14), no statewide Sunday restriction, but local county/city ordinances routinely override Sunday start time specifically (local-option, similar to GA/NC pattern) [Tier 1|cross_verified:true|verified|2026-09-13] VERIFY: Duval County/Jacksonville Sunday off-premise start time conflicts between sources found (6am vs ~11am) - needs direct county ordinance check, not resolved this batch [Tier 3|cross_verified:false|unverified|2026-09-13]. On-premise (bars/restaurants): F.S. 562.14 statewide default midnight-7am closure absent a local extension; consistent with the statewide pattern seen in other FL cities in this dataset where downtown/entertainment-district ordinances commonly extend on-premise service to 2am, but a Jacksonville-specific extension was not confirmed this batch [Tier 1|cross_verified:false|unverified|2026-09-18]. Not a dry jurisdiction: Florida's only meaningfully dry/restricted counties are Liberty (fully dry) and Lafayette (bars prohibited); Duval County is not among them [Tier 2|cross_verified:true|verified|2026-09-18].",
+      "other_notable": "Florida's abortion law is a near-total ban after 6 weeks of pregnancy (effective May 1, 2024), well before most patients know they're pregnant; narrow exceptions exist for rape/incest/trafficking (up to 15 weeks, with documentation) and fatal fetal abnormality. A November 2024 ballot measure to enshrine broader abortion access got majority support but fell short of Florida's 60% supermajority threshold, so the 6-week ban remains in effect [Tier 1|cross_verified:true|verified|2026-09-18]."
     }
   },
   {
@@ -481,7 +499,8 @@
       ]
     },
     "law": {
-      "alcohol_sales": "Wine + liquor (grocery/package stores): statewide TABC rule, Mon-Sat 8am-11pm, Sun 10am-11pm, closed Christmas/Thanksgiving/Easter. BEER specifically at grocery/convenience stores: NOT governed by this statewide rule - set by LOCAL city/county beer boards instead, can differ from wine/liquor hours at the same store [Tier 1|cross_verified:true|verified|2026-09-13]. On-premise (liquor-by-the-drink/bars): statewide ceiling prohibits sale/service 3am-8am weekdays and 3am-10am (or 3am-noon where the county opted for the stricter Sunday rule); local governments may set an earlier cutoff [Tier 1|cross_verified:true|verified|2026-09-18]. Not a dry jurisdiction: Knox County is one of Tennessee's wet counties; only Hancock County is fully dry statewide [Tier 2|cross_verified:true|verified|2026-09-18]."
+      "alcohol_sales": "Wine + liquor (grocery/package stores): statewide TABC rule, Mon-Sat 8am-11pm, Sun 10am-11pm, closed Christmas/Thanksgiving/Easter. BEER specifically at grocery/convenience stores: NOT governed by this statewide rule - set by LOCAL city/county beer boards instead, can differ from wine/liquor hours at the same store [Tier 1|cross_verified:true|verified|2026-09-13]. On-premise (liquor-by-the-drink/bars): statewide ceiling prohibits sale/service 3am-8am weekdays and 3am-10am (or 3am-noon where the county opted for the stricter Sunday rule); local governments may set an earlier cutoff [Tier 1|cross_verified:true|verified|2026-09-18]. Not a dry jurisdiction: Knox County is one of Tennessee's wet counties; only Hancock County is fully dry statewide [Tier 2|cross_verified:true|verified|2026-09-18].",
+      "other_notable": "Tennessee has a near-total abortion ban with no exceptions for rape or incest; a narrow 2023 'Medical Necessity Exception' permits abortion only when a physician determines it's necessary to prevent the patient's death or serious/irreversible impairment of a major bodily function, and litigation continues over whether that exception is workably clear for physicians. Relevant statewide, including Knox County [Tier 1|cross_verified:true|verified|2026-09-18]."
     }
   },
   {
@@ -503,7 +522,8 @@
       ]
     },
     "law": {
-      "alcohol_sales": "Statewide uniform 6am-2am daily, no Sunday restriction, no local-option variance; applies identically to off-premise (grocery/liquor) and on-premise (Bus. & Prof. Code Sec. 25631) [Tier 1|cross_verified:true|verified|2026-09-13]. Not a dry jurisdiction: California has no dry counties; Los Angeles County is fully wet [Tier 2|cross_verified:true|verified|2026-09-18]."
+      "alcohol_sales": "Statewide uniform 6am-2am daily, no Sunday restriction, no local-option variance; applies identically to off-premise (grocery/liquor) and on-premise (Bus. & Prof. Code Sec. 25631) [Tier 1|cross_verified:true|verified|2026-09-13]. Not a dry jurisdiction: California has no dry counties; Los Angeles County is fully wet [Tier 2|cross_verified:true|verified|2026-09-18].",
+      "other_notable": null
     }
   },
   {
@@ -525,7 +545,8 @@
       ]
     },
     "law": {
-      "alcohol_sales": "Statewide default off-premise 7am-midnight daily (F.S. 562.14), no statewide Sunday restriction, but local county/city ordinances routinely override Sunday start time specifically (local-option, similar to GA/NC pattern) [Tier 1|cross_verified:true|verified|2026-09-13] Miami-Dade County: off-premise Sunday 7am start, consistent with statewide default (county does not restrict further for off-premise) [Tier 2|cross_verified:true|verified|2026-09-13]. On-premise (bars/restaurants): most Miami-Dade bars operate to ~2am under the statewide default, but designated nightlife districts (Brickell, Wynwood, South Beach) hold local extensions to 5am, and some Miami Entertainment District venues are licensed 24 hours [Tier 2|cross_verified:true|verified|2026-09-18]. Not a dry jurisdiction: Florida's only meaningfully dry/restricted counties are Liberty (fully dry) and Lafayette (bars prohibited); Miami-Dade is not among them [Tier 2|cross_verified:true|verified|2026-09-18]."
+      "alcohol_sales": "Statewide default off-premise 7am-midnight daily (F.S. 562.14), no statewide Sunday restriction, but local county/city ordinances routinely override Sunday start time specifically (local-option, similar to GA/NC pattern) [Tier 1|cross_verified:true|verified|2026-09-13] Miami-Dade County: off-premise Sunday 7am start, consistent with statewide default (county does not restrict further for off-premise) [Tier 2|cross_verified:true|verified|2026-09-13]. On-premise (bars/restaurants): most Miami-Dade bars operate to ~2am under the statewide default, but designated nightlife districts (Brickell, Wynwood, South Beach) hold local extensions to 5am, and some Miami Entertainment District venues are licensed 24 hours [Tier 2|cross_verified:true|verified|2026-09-18]. Not a dry jurisdiction: Florida's only meaningfully dry/restricted counties are Liberty (fully dry) and Lafayette (bars prohibited); Miami-Dade is not among them [Tier 2|cross_verified:true|verified|2026-09-18].",
+      "other_notable": "Florida's abortion law is a near-total ban after 6 weeks of pregnancy (effective May 1, 2024), well before most patients know they're pregnant; narrow exceptions exist for rape/incest/trafficking (up to 15 weeks, with documentation) and fatal fetal abnormality. A November 2024 ballot measure to enshrine broader abortion access got majority support but fell short of Florida's 60% supermajority threshold, so the 6-week ban remains in effect [Tier 1|cross_verified:true|verified|2026-09-18]."
     }
   },
   {
@@ -547,7 +568,8 @@
       ]
     },
     "law": {
-      "alcohol_sales": "Wine + liquor (grocery/package stores): statewide TABC rule, Mon-Sat 8am-11pm, Sun 10am-11pm, closed Christmas/Thanksgiving/Easter. BEER specifically at grocery/convenience stores: NOT governed by this statewide rule - set by LOCAL city/county beer boards instead, can differ from wine/liquor hours at the same store [Tier 1|cross_verified:true|verified|2026-09-13]. On-premise (liquor-by-the-drink/bars): statewide ceiling prohibits sale/service 3am-8am weekdays and 3am-10am (or 3am-noon where the county opted for the stricter Sunday rule); Nashville/Davidson Co. bars are a well-known exception in practice via extended local permitting on lower Broadway, but the underlying statewide ceiling is unchanged [Tier 1|cross_verified:true|verified|2026-09-18]. Not a dry jurisdiction: Davidson County is one of Tennessee's wet counties; only Hancock County is fully dry statewide [Tier 2|cross_verified:true|verified|2026-09-18]."
+      "alcohol_sales": "Wine + liquor (grocery/package stores): statewide TABC rule, Mon-Sat 8am-11pm, Sun 10am-11pm, closed Christmas/Thanksgiving/Easter. BEER specifically at grocery/convenience stores: NOT governed by this statewide rule - set by LOCAL city/county beer boards instead, can differ from wine/liquor hours at the same store [Tier 1|cross_verified:true|verified|2026-09-13]. On-premise (liquor-by-the-drink/bars): statewide ceiling prohibits sale/service 3am-8am weekdays and 3am-10am (or 3am-noon where the county opted for the stricter Sunday rule); Nashville/Davidson Co. bars are a well-known exception in practice via extended local permitting on lower Broadway, but the underlying statewide ceiling is unchanged [Tier 1|cross_verified:true|verified|2026-09-18]. Not a dry jurisdiction: Davidson County is one of Tennessee's wet counties; only Hancock County is fully dry statewide [Tier 2|cross_verified:true|verified|2026-09-18].",
+      "other_notable": "Tennessee has a near-total abortion ban with no exceptions for rape or incest; a narrow 2023 'Medical Necessity Exception' permits abortion only when a physician determines it's necessary to prevent the patient's death or serious/irreversible impairment of a major bodily function, and litigation continues over whether that exception is workably clear for physicians. Relevant statewide, including Davidson County/Nashville [Tier 1|cross_verified:true|verified|2026-09-18]."
     }
   },
   {
@@ -569,7 +591,8 @@
       ]
     },
     "law": {
-      "alcohol_sales": "Grocery/convenience (beer up to 8.99% ABV, wine under 15%): 6am-2am daily incl. Sunday, no restriction, statewide uniform. Liquor stores (spirits): 8am-midnight Mon-Sat, closed Sunday by default. OKLAHOMA COUNTY (where OKC sits) is one of only 7 of 77 OK counties that has approved Sunday liquor sales: noon-midnight [Tier 1|cross_verified:true|verified|2026-09-13]. On-premise (mixed beverage/bars): 8am-2am daily statewide ceiling per ABLE Commission; Sunday on-premise sales are a county-by-county local option and Oklahoma County has approved them (consistent with its Sunday liquor-store approval above), though exact Sunday on-premise start time not separately confirmed this batch [Tier 2|cross_verified:false|single-source|2026-09-18]. Not a dry jurisdiction: Oklahoma law does not allow counties to prohibit alcohol sales outright; the state's former 14 dry counties (Adair, Alfalfa, Beaver, Caddo, Cimarron, Coal, Cotton, Dewey, Harmon, Harper, Haskell, Hughes, Roger Mills, Washita) all went wet via 2018 referenda, and no OK county is currently dry [Tier 2|cross_verified:true|verified|2026-09-18]."
+      "alcohol_sales": "Grocery/convenience (beer up to 8.99% ABV, wine under 15%): 6am-2am daily incl. Sunday, no restriction, statewide uniform. Liquor stores (spirits): 8am-midnight Mon-Sat, closed Sunday by default. OKLAHOMA COUNTY (where OKC sits) is one of only 7 of 77 OK counties that has approved Sunday liquor sales: noon-midnight [Tier 1|cross_verified:true|verified|2026-09-13]. On-premise (mixed beverage/bars): 8am-2am daily statewide ceiling per ABLE Commission; Sunday on-premise sales are a county-by-county local option and Oklahoma County has approved them (consistent with its Sunday liquor-store approval above), though exact Sunday on-premise start time not separately confirmed this batch [Tier 2|cross_verified:false|single-source|2026-09-18]. Not a dry jurisdiction: Oklahoma law does not allow counties to prohibit alcohol sales outright; the state's former 14 dry counties (Adair, Alfalfa, Beaver, Caddo, Cimarron, Coal, Cotton, Dewey, Harmon, Harper, Haskell, Hughes, Roger Mills, Washita) all went wet via 2018 referenda, and no OK county is currently dry [Tier 2|cross_verified:true|verified|2026-09-18].",
+      "other_notable": "Oklahoma has a near-total abortion ban with the only exception being to save the pregnant patient's life — no exceptions for rape or incest. In 2025 the state further criminalized distribution of abortion-inducing medication (up to 10 years/$100,000 fine), and the governor has directed state agencies to cut off funding for any organization affiliated with abortion providers [Tier 1|cross_verified:true|verified|2026-09-18]."
     }
   },
   {
@@ -591,7 +614,8 @@
       ]
     },
     "law": {
-      "alcohol_sales": "Statewide uniform 6am-2am daily, no Sunday restriction, no local-option variance; applies identically to off-premise (grocery/liquor) and on-premise (Bus. & Prof. Code Sec. 25631) [Tier 1|cross_verified:true|verified|2026-09-13]. Not a dry jurisdiction: California has no dry counties; Santa Clara County (incl. Palo Alto) is fully wet [Tier 2|cross_verified:true|verified|2026-09-18]."
+      "alcohol_sales": "Statewide uniform 6am-2am daily, no Sunday restriction, no local-option variance; applies identically to off-premise (grocery/liquor) and on-premise (Bus. & Prof. Code Sec. 25631) [Tier 1|cross_verified:true|verified|2026-09-13]. Not a dry jurisdiction: California has no dry counties; Santa Clara County (incl. Palo Alto) is fully wet [Tier 2|cross_verified:true|verified|2026-09-18].",
+      "other_notable": null
     }
   },
   {
@@ -613,7 +637,8 @@
       ]
     },
     "law": {
-      "alcohol_sales": "On-premise (bars/restaurants): 6am-2am daily incl. Sunday, consistent across sources. Off-premise (grocery/liquor) Sunday start time CONTESTED between sources: some say 6am (matches weekday), others specifically say 10am for Sunday off-premise only. Attempted Tier 1 resolution this batch via azleg.gov's own hosted text of A.R.S. 4-244(15): two separate automated fetches of the identical official statute page returned mutually contradictory extracted text (one rendering '2am-6am uniform, no Sunday carve-out'; the other rendering '1am-6am weekdays / 1am-10am Sunday') - still NOT RESOLVED, flagged as a sourcing-tool reliability issue rather than a source-availability issue (see schema-gap note) [Tier 3|cross_verified:false|unverified|2026-09-18]. Not a dry jurisdiction: Arizona does not allow local governments to ban alcohol sales and has no dry counties; Maricopa County (Phoenix) is fully wet [Tier 2|cross_verified:true|verified|2026-09-18]."
+      "alcohol_sales": "On-premise (bars/restaurants): 6am-2am daily incl. Sunday, consistent across sources. Off-premise (grocery/liquor) Sunday start time CONTESTED between sources: some say 6am (matches weekday), others specifically say 10am for Sunday off-premise only. Attempted Tier 1 resolution this batch via azleg.gov's own hosted text of A.R.S. 4-244(15): two separate automated fetches of the identical official statute page returned mutually contradictory extracted text (one rendering '2am-6am uniform, no Sunday carve-out'; the other rendering '1am-6am weekdays / 1am-10am Sunday') - still NOT RESOLVED, flagged as a sourcing-tool reliability issue rather than a source-availability issue (see schema-gap note) [Tier 3|cross_verified:false|unverified|2026-09-18]. Not a dry jurisdiction: Arizona does not allow local governments to ban alcohol sales and has no dry counties; Maricopa County (Phoenix) is fully wet [Tier 2|cross_verified:true|verified|2026-09-18].",
+      "other_notable": "Arizona's abortion law whiplashed after Dobbs: courts briefly allowed an 1864 near-total ban to take effect in 2024 before the legislature repealed it, and then voters approved Proposition 139 in Nov. 2024, amending the state constitution to guarantee abortion access up to fetal viability (~24 weeks) — a notable swing from near-total ban to constitutionally protected access within the same year [Tier 1|cross_verified:true|verified|2026-09-18]."
     }
   },
   {
@@ -635,7 +660,8 @@
       ]
     },
     "law": {
-      "alcohol_sales": "Off-premise beer/wine 6am-2:30am daily incl. Sunday, no restriction; on-premise 7am-2:30am daily; retail liquor stores (spirits, state-licensed agents) required min. 8hrs/day Mon-Sat, but Sunday/holiday opening is OPTIONAL per-store - genuine store-by-store variance, not a fixed statewide Sunday rule for spirits [Tier 1|cross_verified:true|verified|2026-09-13]. Not a dry jurisdiction: Oregon does not allow local governments to ban alcohol sales and has no dry counties; Multnomah County (Portland) is fully wet [Tier 2|cross_verified:true|verified|2026-09-18]."
+      "alcohol_sales": "Off-premise beer/wine 6am-2:30am daily incl. Sunday, no restriction; on-premise 7am-2:30am daily; retail liquor stores (spirits, state-licensed agents) required min. 8hrs/day Mon-Sat, but Sunday/holiday opening is OPTIONAL per-store - genuine store-by-store variance, not a fixed statewide Sunday rule for spirits [Tier 1|cross_verified:true|verified|2026-09-13]. Not a dry jurisdiction: Oregon does not allow local governments to ban alcohol sales and has no dry counties; Multnomah County (Portland) is fully wet [Tier 2|cross_verified:true|verified|2026-09-18].",
+      "other_notable": "Oregon's drug policy has swung twice: Measure 110 (2020) decriminalized personal possession of small amounts of hard drugs statewide, then HB 4002 (signed 2024, effective Sept. 1, 2024) recriminalized simple possession as a new 'drug enforcement misdemeanor' (up to 30-180 days jail on probation violation) after widespread public-disorder backlash concentrated in Portland; the treatment/diversion infrastructure funded under Measure 110 remains largely intact [Tier 1|cross_verified:true|verified|2026-09-18]."
     }
   },
   {
@@ -657,7 +683,8 @@
       ]
     },
     "law": {
-      "alcohol_sales": "ALL off-premise alcohol sales (beer/wine/spirits) restricted to dedicated liquor stores (Class A license) only - NO grocery/convenience store alcohol sales, unlike most states in this dataset. Liquor stores: Mon-Sat 9am-10pm, Sun 10am-6pm. On-premise (bars/restaurants): 9am-1am Mon-Sat (PROVIDENCE SPECIFICALLY: extended to 2am Fri/Sat and before state-recognized holidays), Sun 12pm-1am [Tier 2|cross_verified:true|verified|2026-09-13]. Not a dry jurisdiction: Rhode Island permits towns to go dry via local referendum, but no current dry municipalities were identified statewide; Providence has no local prohibition [Tier 3|cross_verified:false|estimated|2026-09-18]."
+      "alcohol_sales": "ALL off-premise alcohol sales (beer/wine/spirits) restricted to dedicated liquor stores (Class A license) only - NO grocery/convenience store alcohol sales, unlike most states in this dataset. Liquor stores: Mon-Sat 9am-10pm, Sun 10am-6pm. On-premise (bars/restaurants): 9am-1am Mon-Sat (PROVIDENCE SPECIFICALLY: extended to 2am Fri/Sat and before state-recognized holidays), Sun 12pm-1am [Tier 2|cross_verified:true|verified|2026-09-13]. Not a dry jurisdiction: Rhode Island permits towns to go dry via local referendum, but no current dry municipalities were identified statewide; Providence has no local prohibition [Tier 3|cross_verified:false|estimated|2026-09-18].",
+      "other_notable": null
     }
   },
   {
@@ -679,7 +706,8 @@
       ]
     },
     "law": {
-      "alcohol_sales": "Statewide, no local-option variance: beer/wine 6am-midnight daily incl. Sunday (no blue-law carve-out); state-run ABC liquor stores Mon-Sat 10am-9pm, Sun 12pm-6pm [Tier 1|cross_verified:true|verified|2026-09-13]. On-premise (bars/restaurants, mixed-beverage localities statewide, incl. City of Richmond): 6am-2am daily per Virginia ABC, with mandatory table clearance by 2:30am [Tier 1|cross_verified:true|verified|2026-09-18]. Not a dry jurisdiction: Virginia's 10 dry counties are Bland, Buchanan, Charlotte, Craig, Floyd, Grayson, Highland, Lee, Patrick, and Russell — the City of Richmond (an independent city, not a county) is not among them [Tier 2|cross_verified:true|verified|2026-09-18]."
+      "alcohol_sales": "Statewide, no local-option variance: beer/wine 6am-midnight daily incl. Sunday (no blue-law carve-out); state-run ABC liquor stores Mon-Sat 10am-9pm, Sun 12pm-6pm [Tier 1|cross_verified:true|verified|2026-09-13]. On-premise (bars/restaurants, mixed-beverage localities statewide, incl. City of Richmond): 6am-2am daily per Virginia ABC, with mandatory table clearance by 2:30am [Tier 1|cross_verified:true|verified|2026-09-18]. Not a dry jurisdiction: Virginia's 10 dry counties are Bland, Buchanan, Charlotte, Craig, Floyd, Grayson, Highland, Lee, Patrick, and Russell — the City of Richmond (an independent city, not a county) is not among them [Tier 2|cross_verified:true|verified|2026-09-18].",
+      "other_notable": "Following the armed 'Unite the Right' rally in nearby Charlottesville (Aug. 2017) and subsequent armed protests at the Virginia State Capitol, Richmond City Council enacted an ordinance (enabled by a 2020 VA General Assembly law allowing localities to regulate firearms on public property) restricting firearms at permitted public events and on city property — a notably stricter local firearms posture than most Virginia localities [Tier 2|cross_verified:true|verified|2026-09-18]."
     }
   },
   {
@@ -701,7 +729,8 @@
       ]
     },
     "law": {
-      "alcohol_sales": "Statewide, no local-option variance: beer/wine 6am-midnight daily incl. Sunday (no blue-law carve-out); state-run ABC liquor stores Mon-Sat 10am-9pm, Sun 12pm-6pm [Tier 1|cross_verified:true|verified|2026-09-13]. On-premise (bars/restaurants, mixed-beverage localities statewide, incl. City of Roanoke): 6am-2am daily per Virginia ABC, with mandatory table clearance by 2:30am [Tier 1|cross_verified:true|verified|2026-09-18]. Not a dry jurisdiction: Virginia's 10 dry counties are Bland, Buchanan, Charlotte, Craig, Floyd, Grayson, Highland, Lee, Patrick, and Russell — the City of Roanoke (an independent city, not a county) is not among them, though neighboring Craig County is dry [Tier 2|cross_verified:true|verified|2026-09-18]."
+      "alcohol_sales": "Statewide, no local-option variance: beer/wine 6am-midnight daily incl. Sunday (no blue-law carve-out); state-run ABC liquor stores Mon-Sat 10am-9pm, Sun 12pm-6pm [Tier 1|cross_verified:true|verified|2026-09-13]. On-premise (bars/restaurants, mixed-beverage localities statewide, incl. City of Roanoke): 6am-2am daily per Virginia ABC, with mandatory table clearance by 2:30am [Tier 1|cross_verified:true|verified|2026-09-18]. Not a dry jurisdiction: Virginia's 10 dry counties are Bland, Buchanan, Charlotte, Craig, Floyd, Grayson, Highland, Lee, Patrick, and Russell — the City of Roanoke (an independent city, not a county) is not among them, though neighboring Craig County is dry [Tier 2|cross_verified:true|verified|2026-09-18].",
+      "other_notable": null
     }
   },
   {
@@ -723,7 +752,8 @@
       ]
     },
     "law": {
-      "alcohol_sales": "Statewide: no alcohol of any kind sold in grocery/big-box retail chains (1 of only 3 US states with this rule) - alcohol sales entirely county-by-county through dedicated licensed stores. WICOMICO COUNTY (Salisbury): CONFIRMED directly from MD Alcoholic Beverages Code Sec. 11-303(6): hours are 10am-2am, Monday through Saturday [Tier 1|cross_verified:true|verified|2026-09-13]. On-premise (bars/restaurants), Wicomico County: same 10am-2am Mon-Sat window per MD Alcoholic Beverages Code Sec. 11-303(6) governs on-premise consumption; Sunday on-premise hours not separately itemized in the retrieved code section, flagged for follow-up [Tier 1|cross_verified:false|single-source|2026-09-18]. Not a dry jurisdiction: Maryland law bars counties from passing alcohol restrictions stricter than the state baseline, and Maryland has no county-level dry jurisdictions today; Wicomico County permits alcohol sales [Tier 2|cross_verified:true|verified|2026-09-18]."
+      "alcohol_sales": "Statewide: no alcohol of any kind sold in grocery/big-box retail chains (1 of only 3 US states with this rule) - alcohol sales entirely county-by-county through dedicated licensed stores. WICOMICO COUNTY (Salisbury): CONFIRMED directly from MD Alcoholic Beverages Code Sec. 11-303(6): hours are 10am-2am, Monday through Saturday [Tier 1|cross_verified:true|verified|2026-09-13]. On-premise (bars/restaurants), Wicomico County: same 10am-2am Mon-Sat window per MD Alcoholic Beverages Code Sec. 11-303(6) governs on-premise consumption; Sunday on-premise hours not separately itemized in the retrieved code section, flagged for follow-up [Tier 1|cross_verified:false|single-source|2026-09-18]. Not a dry jurisdiction: Maryland law bars counties from passing alcohol restrictions stricter than the state baseline, and Maryland has no county-level dry jurisdictions today; Wicomico County permits alcohol sales [Tier 2|cross_verified:true|verified|2026-09-18].",
+      "other_notable": null
     }
   },
   {
@@ -745,7 +775,8 @@
       ]
     },
     "law": {
-      "alcohol_sales": "Grocery/convenience: beer <=5% ABV ONLY, 7 days/week incl. Sunday. Wine, liquor, and higher-ABV beer sold EXCLUSIVELY through state-run DABS liquor stores, Mon-Sat only (hours vary by location, typically 11am-5/10pm), CLOSED SUNDAYS AND HOLIDAYS STATEWIDE - most restrictive system in this dataset [Tier 1|cross_verified:true|verified|2026-09-13]. On-premise (bars): may open 7 days/week and serve 10am-1am (patrons must vacate by 2am); full-service restaurants may serve all beverage types 11:30am-1am, beer-only restaurant licenses 11:30am-1am (with an earlier weekend/holiday 10:30am start for private parties) [Tier 2|cross_verified:true|verified|2026-09-18]. Not a dry jurisdiction (in the traditional sense): Utah bars counties from adopting their own local-option dry votes, and no Utah county is dry, though a handful of small individual municipalities (e.g. Highland, Utah County) maintain city-level alcohol prohibition; Salt Lake City itself is not dry [Tier 3|cross_verified:false|estimated|2026-09-18]."
+      "alcohol_sales": "Grocery/convenience: beer <=5% ABV ONLY, 7 days/week incl. Sunday. Wine, liquor, and higher-ABV beer sold EXCLUSIVELY through state-run DABS liquor stores, Mon-Sat only (hours vary by location, typically 11am-5/10pm), CLOSED SUNDAYS AND HOLIDAYS STATEWIDE - most restrictive system in this dataset [Tier 1|cross_verified:true|verified|2026-09-13]. On-premise (bars): may open 7 days/week and serve 10am-1am (patrons must vacate by 2am); full-service restaurants may serve all beverage types 11:30am-1am, beer-only restaurant licenses 11:30am-1am (with an earlier weekend/holiday 10:30am start for private parties) [Tier 2|cross_verified:true|verified|2026-09-18]. Not a dry jurisdiction (in the traditional sense): Utah bars counties from adopting their own local-option dry votes, and no Utah county is dry, though a handful of small individual municipalities (e.g. Highland, Utah County) maintain city-level alcohol prohibition; Salt Lake City itself is not dry [Tier 3|cross_verified:false|estimated|2026-09-18].",
+      "other_notable": "Utah's 2020 near-total abortion trigger ban took effect briefly post-Dobbs (2022) before being blocked by a court injunction that remains in place; abortion has stayed legal in Utah up to 18 weeks throughout the injunction, with litigation ongoing (a first procedural hearing on the merits is scheduled for April 2026) and Republican lawmakers separately attempting to change court-rule burdens of proof to make the ban easier to reinstate. Notable because Utah's 'on paper' law is a near-total ban but the 'on the ground' law is materially more permissive due to unresolved litigation [Tier 1|cross_verified:true|verified|2026-09-18]."
     }
   },
   {
@@ -767,7 +798,8 @@
       ]
     },
     "law": {
-      "alcohol_sales": "Statewide uniform 6am-2am daily, no Sunday restriction, no local-option variance; applies identically to off-premise (grocery/liquor) and on-premise (Bus. & Prof. Code Sec. 25631) [Tier 1|cross_verified:true|verified|2026-09-13]. Not a dry jurisdiction: California has no dry counties; San Diego County is fully wet [Tier 2|cross_verified:true|verified|2026-09-18]."
+      "alcohol_sales": "Statewide uniform 6am-2am daily, no Sunday restriction, no local-option variance; applies identically to off-premise (grocery/liquor) and on-premise (Bus. & Prof. Code Sec. 25631) [Tier 1|cross_verified:true|verified|2026-09-13]. Not a dry jurisdiction: California has no dry counties; San Diego County is fully wet [Tier 2|cross_verified:true|verified|2026-09-18].",
+      "other_notable": null
     }
   },
   {
@@ -789,7 +821,8 @@
       ]
     },
     "law": {
-      "alcohol_sales": "Statewide uniform 6am-2am daily, no Sunday restriction, no local-option variance; applies identically to off-premise (grocery/liquor) and on-premise (Bus. & Prof. Code Sec. 25631) [Tier 1|cross_verified:true|verified|2026-09-13]. Not a dry jurisdiction: California has no dry counties; San Francisco City/County is fully wet [Tier 2|cross_verified:true|verified|2026-09-18]. NOTE: the task brief for this batch described this record as carrying a prior contested/unresolved off-premise Sunday start-time flag; the record as found this pass already reads as a clean statewide-uniform Tier1 claim with no such flag present, so nothing needed re-resolving here - flagging the discrepancy for the coordinator in case an earlier version was overwritten."
+      "alcohol_sales": "Statewide uniform 6am-2am daily, no Sunday restriction, no local-option variance; applies identically to off-premise (grocery/liquor) and on-premise (Bus. & Prof. Code Sec. 25631) [Tier 1|cross_verified:true|verified|2026-09-13]. Not a dry jurisdiction: California has no dry counties; San Francisco City/County is fully wet [Tier 2|cross_verified:true|verified|2026-09-18]. NOTE: the task brief for this batch described this record as carrying a prior contested/unresolved off-premise Sunday start-time flag; the record as found this pass already reads as a clean statewide-uniform Tier1 claim with no such flag present, so nothing needed re-resolving here - flagging the discrepancy for the coordinator in case an earlier version was overwritten.",
+      "other_notable": null
     }
   },
   {
@@ -811,7 +844,8 @@
       ]
     },
     "law": {
-      "alcohol_sales": "On-premise (bars/restaurants): 6am-2am daily incl. Sunday, consistent across sources. Off-premise (grocery/liquor) Sunday start time CONTESTED between sources: some say 6am (matches weekday), others specifically say 10am for Sunday off-premise only. Attempted Tier 1 resolution this batch via azleg.gov's own hosted text of A.R.S. 4-244(15): two separate automated fetches of the identical official statute page returned mutually contradictory extracted text - still NOT RESOLVED, flagged as a sourcing-tool reliability issue (see schema-gap note in report) [Tier 3|cross_verified:false|unverified|2026-09-18]. Not a dry jurisdiction: Arizona does not allow local governments to ban alcohol sales and has no dry counties; Maricopa County (Scottsdale) is fully wet [Tier 2|cross_verified:true|verified|2026-09-18]."
+      "alcohol_sales": "On-premise (bars/restaurants): 6am-2am daily incl. Sunday, consistent across sources. Off-premise (grocery/liquor) Sunday start time CONTESTED between sources: some say 6am (matches weekday), others specifically say 10am for Sunday off-premise only. Attempted Tier 1 resolution this batch via azleg.gov's own hosted text of A.R.S. 4-244(15): two separate automated fetches of the identical official statute page returned mutually contradictory extracted text - still NOT RESOLVED, flagged as a sourcing-tool reliability issue (see schema-gap note in report) [Tier 3|cross_verified:false|unverified|2026-09-18]. Not a dry jurisdiction: Arizona does not allow local governments to ban alcohol sales and has no dry counties; Maricopa County (Scottsdale) is fully wet [Tier 2|cross_verified:true|verified|2026-09-18].",
+      "other_notable": "Arizona's abortion law whiplashed after Dobbs: courts briefly allowed an 1864 near-total ban to take effect in 2024 before the legislature repealed it, and then voters approved Proposition 139 in Nov. 2024, amending the state constitution to guarantee abortion access up to fetal viability (~24 weeks) — a notable swing from near-total ban to constitutionally protected access within the same year [Tier 1|cross_verified:true|verified|2026-09-18]."
     }
   },
   {
@@ -833,7 +867,8 @@
       ]
     },
     "law": {
-      "alcohol_sales": "Statewide uniform 6am-2am daily incl. Sunday, no blue-law carve-out (repealed 1967); spirits sold through regular licensed retail (incl. large grocery chains) since 2012 privatization (Initiative 1183) - no separate state-store Sunday closure [Tier 2|cross_verified:true|verified|2026-09-13]. On-premise (bars/restaurants): same statewide 6am-2am daily window applies, no separate on-premise Sunday restriction [Tier 2|cross_verified:true|verified|2026-09-18]. Not a dry jurisdiction: Washington allows cities/towns (not counties) a local-option dry vote, but King County/Seattle is fully wet with no current dry-status vote pending [Tier 2|cross_verified:true|verified|2026-09-18]."
+      "alcohol_sales": "Statewide uniform 6am-2am daily incl. Sunday, no blue-law carve-out (repealed 1967); spirits sold through regular licensed retail (incl. large grocery chains) since 2012 privatization (Initiative 1183) - no separate state-store Sunday closure [Tier 2|cross_verified:true|verified|2026-09-13]. On-premise (bars/restaurants): same statewide 6am-2am daily window applies, no separate on-premise Sunday restriction [Tier 2|cross_verified:true|verified|2026-09-18]. Not a dry jurisdiction: Washington allows cities/towns (not counties) a local-option dry vote, but King County/Seattle is fully wet with no current dry-status vote pending [Tier 2|cross_verified:true|verified|2026-09-18].",
+      "other_notable": "Washington's drug possession law has been unsettled since the state Supreme Court's Feb. 2021 State v. Blake ruling struck down the felony drug-possession statute as unconstitutional, effectively decriminalizing simple possession statewide overnight; a 2023 'Blake fix' (permanent as of May 2023) re-established possession as a gross misdemeanor (not a felony) and added a 'knowingly' intent requirement, with mandated diversion for early offenses [Tier 1|cross_verified:true|verified|2026-09-18]."
     }
   },
   {
@@ -855,7 +890,8 @@
       ]
     },
     "law": {
-      "alcohol_sales": "Statewide uniform 6am-2am daily incl. Sunday, no blue-law carve-out (repealed 1967); spirits sold through regular licensed retail (incl. large grocery chains) since 2012 privatization (Initiative 1183) - no separate state-store Sunday closure [Tier 2|cross_verified:true|verified|2026-09-13]. On-premise (bars/restaurants): same statewide 6am-2am daily window applies, no separate on-premise Sunday restriction [Tier 2|cross_verified:true|verified|2026-09-18]. Not a dry jurisdiction: Washington allows cities/towns (not counties) a local-option dry vote, but Pierce County/Tacoma is fully wet with no current dry-status vote pending; nearby Fircrest (Pierce Co.) was historically dry but reversed by referendum in 2015 [Tier 2|cross_verified:true|verified|2026-09-18]."
+      "alcohol_sales": "Statewide uniform 6am-2am daily incl. Sunday, no blue-law carve-out (repealed 1967); spirits sold through regular licensed retail (incl. large grocery chains) since 2012 privatization (Initiative 1183) - no separate state-store Sunday closure [Tier 2|cross_verified:true|verified|2026-09-13]. On-premise (bars/restaurants): same statewide 6am-2am daily window applies, no separate on-premise Sunday restriction [Tier 2|cross_verified:true|verified|2026-09-18]. Not a dry jurisdiction: Washington allows cities/towns (not counties) a local-option dry vote, but Pierce County/Tacoma is fully wet with no current dry-status vote pending; nearby Fircrest (Pierce Co.) was historically dry but reversed by referendum in 2015 [Tier 2|cross_verified:true|verified|2026-09-18].",
+      "other_notable": "Washington's drug possession law has been unsettled since the state Supreme Court's Feb. 2021 State v. Blake ruling struck down the felony drug-possession statute as unconstitutional, effectively decriminalizing simple possession statewide overnight; a 2023 'Blake fix' (permanent as of May 2023) re-established possession as a gross misdemeanor (not a felony) and added a 'knowingly' intent requirement, with mandated diversion for early offenses [Tier 1|cross_verified:true|verified|2026-09-18]."
     }
   },
   {
@@ -877,7 +913,8 @@
       ]
     },
     "law": {
-      "alcohol_sales": "Statewide default off-premise 7am-midnight daily (F.S. 562.14), no statewide Sunday restriction, but local county/city ordinances routinely override Sunday start time specifically (local-option, similar to GA/NC pattern) [Tier 1|cross_verified:true|verified|2026-09-13] Hillsborough County: Sunday sales 11am-3am (extended past statewide default via local ordinance), both on- and off-premise [Tier 2|cross_verified:true|verified|2026-09-13]. On-premise (bars/restaurants), rest of week: statewide default 7am-midnight applies absent further local extension beyond the Sunday-specific 3am figure already noted above [Tier 1|cross_verified:true|verified|2026-09-18]. Not a dry jurisdiction: Florida's only meaningfully dry/restricted counties are Liberty (fully dry) and Lafayette (bars prohibited); Hillsborough County is not among them [Tier 2|cross_verified:true|verified|2026-09-18]."
+      "alcohol_sales": "Statewide default off-premise 7am-midnight daily (F.S. 562.14), no statewide Sunday restriction, but local county/city ordinances routinely override Sunday start time specifically (local-option, similar to GA/NC pattern) [Tier 1|cross_verified:true|verified|2026-09-13] Hillsborough County: Sunday sales 11am-3am (extended past statewide default via local ordinance), both on- and off-premise [Tier 2|cross_verified:true|verified|2026-09-13]. On-premise (bars/restaurants), rest of week: statewide default 7am-midnight applies absent further local extension beyond the Sunday-specific 3am figure already noted above [Tier 1|cross_verified:true|verified|2026-09-18]. Not a dry jurisdiction: Florida's only meaningfully dry/restricted counties are Liberty (fully dry) and Lafayette (bars prohibited); Hillsborough County is not among them [Tier 2|cross_verified:true|verified|2026-09-18].",
+      "other_notable": "Florida's abortion law is a near-total ban after 6 weeks of pregnancy (effective May 1, 2024), well before most patients know they're pregnant; narrow exceptions exist for rape/incest/trafficking (up to 15 weeks, with documentation) and fatal fetal abnormality. A November 2024 ballot measure to enshrine broader abortion access got majority support but fell short of Florida's 60% supermajority threshold, so the 6-week ban remains in effect [Tier 1|cross_verified:true|verified|2026-09-18]."
     }
   },
   {
@@ -899,7 +936,8 @@
       ]
     },
     "law": {
-      "alcohol_sales": "Statewide default Mon-Sat 7am-2am, Sun 12pm-2am; local ordinances may move Sunday start to 10am; state-run ABC liquor stores closed all Sunday regardless of local option [Tier 1|cross_verified:true|verified|2026-09-13]. On-premise (mixed beverage permit/bars, NC ABCC quick guide): same Mon-Sat 7am-2am, Sun 12pm-2am window governs consumption-on-premises sales [Tier 1|cross_verified:true|verified|2026-09-18]. Not a dry jurisdiction: NC ABCC currently lists only 4 fully dry counties statewide (Clay, Graham, Mitchell, Yancey); Forsyth County is not among them [Tier 1|cross_verified:true|verified|2026-09-18]."
+      "alcohol_sales": "Statewide default Mon-Sat 7am-2am, Sun 12pm-2am; local ordinances may move Sunday start to 10am; state-run ABC liquor stores closed all Sunday regardless of local option [Tier 1|cross_verified:true|verified|2026-09-13]. On-premise (mixed beverage permit/bars, NC ABCC quick guide): same Mon-Sat 7am-2am, Sun 12pm-2am window governs consumption-on-premises sales [Tier 1|cross_verified:true|verified|2026-09-18]. Not a dry jurisdiction: NC ABCC currently lists only 4 fully dry counties statewide (Clay, Graham, Mitchell, Yancey); Forsyth County is not among them [Tier 1|cross_verified:true|verified|2026-09-18].",
+      "other_notable": null
     }
   },
   {
@@ -927,7 +965,8 @@
       ]
     },
     "law": {
-      "alcohol_sales": "Off-premise (package stores AND grocery/beer permits): Mon-Sat 8am-10pm, SUNDAY 10am-6pm (Sunday sales legalized 2012 - some older sources incorrectly state CT is closed Sunday, this is stale/superseded). On-premise (restaurants/bars): Mon-Thu 9am-1am, Fri-Sat 9am-2am, Sun 10am-1am. Closed Thanksgiving, Christmas, New Year's Day [Tier 1|cross_verified:true|verified|2026-09-13]. Not a dry jurisdiction: Connecticut permits towns to go dry via local referendum, but no current dry towns were identified statewide; Woodbridge has no local prohibition [Tier 3|cross_verified:false|estimated|2026-09-18]."
+      "alcohol_sales": "Off-premise (package stores AND grocery/beer permits): Mon-Sat 8am-10pm, SUNDAY 10am-6pm (Sunday sales legalized 2012 - some older sources incorrectly state CT is closed Sunday, this is stale/superseded). On-premise (restaurants/bars): Mon-Thu 9am-1am, Fri-Sat 9am-2am, Sun 10am-1am. Closed Thanksgiving, Christmas, New Year's Day [Tier 1|cross_verified:true|verified|2026-09-13]. Not a dry jurisdiction: Connecticut permits towns to go dry via local referendum, but no current dry towns were identified statewide; Woodbridge has no local prohibition [Tier 3|cross_verified:false|estimated|2026-09-18].",
+      "other_notable": null
     }
   }
 ]
