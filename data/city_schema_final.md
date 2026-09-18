@@ -75,7 +75,7 @@ Airport identity is defined in Section 9 (`visitability`); seasonal climate deta
 
 General spatial orientation: where this city sits relative to things people actually care about.
 
-- `proximity_highlights` — array of `{place: string, distance_mi: number | null, note: string}` (beaches, national parks, ski areas, etc.). Must be a structured array, not prose. `distance_mi` is `null` when a place is named without an explicit distance in the source material — still include the entry rather than dropping it. **(Pass 8 patch — see log)**
+- `proximity_highlights` — array of `{place: string, distance_mi: number | null, note: string | null}` (beaches, national parks, ski areas, etc.). Must be a structured array, not prose. `distance_mi` is `null` when a place is named without an explicit distance in the source material — still include the entry rather than dropping it. `note` is `null` when a place+distance entry has nothing further worth saying — don't invent filler narrative just to satisfy the type. **(Pass 8 patch, `note` nullability added Pass 9 — see log)**
 - `regional_centrality` — freeform, e.g. `"central to the LA/San Diego/Las Vegas triangle"`
 
 ## 9. visitability
@@ -115,3 +115,10 @@ Three items approved out of the ten schema-gap flags collected across Passes 1�
    The agent file instructed "never overwrite the working copy in place; write to a new pass-output file," directly contradicting this project's `CLAUDE.md`, which requires in-place edits so the diff-pane/git-commit checkpoint workflow functions. This had to be manually overridden in the delegation message on every Pass 3 dispatch. Fixed directly in `.claude/agents/field-reshaper.md` (see that file's own history) so future runs of this pipeline don't need the override.
 
 **Not approved / left open** (from the full ten-item list presented at Pass 8): `visitability.nearest_airport` optional `airport_selection_note` field; `distance_from_anchors[].flight_time_hr` same-metro-anchor floor-value guidance; `financial.cost_of_living_index` aggregator-cluster-fallback acknowledgment; `financial.utilities_note` formal method definition; `_meta`'s `"null - <reason> [tier]"` string convention; connectivity-framing-facts field question; `source_tier_list.md`'s TWIA-as-Tier1-equivalent addendum.
+
+## Pass 9 patch log
+
+`schema-validator`'s full-dataset validation surfaced one genuine discrepancy not caught by Pass 8: `geography_context.proximity_highlights[].note` was `null` in 9 of 85 entries across 7 city records (charlottesville-va, durham-nc, palo-alto-ca ×2, salisbury-md, san-francisco-ca, winston-salem-nc ×2, woodbridge-ct) — schema required `note: string`, but Pass 8 only patched `distance_mi`'s nullability, not `note`'s.
+
+4. **`geography_context.proximity_highlights[].note` — `string` → `string | null`.**
+   Same underlying reasoning as patch 1 above, on the sibling field: a place+distance entry sometimes genuinely has nothing further worth saying, and inventing filler narrative to satisfy the type would violate the "no filler" principle held throughout this pipeline (`other_notable`, `unique_facts`, etc. all default to omission/null rather than padding). Applied to Section 8 above. No data changes were needed — the 9 existing `null` values are now schema-compliant as written.
