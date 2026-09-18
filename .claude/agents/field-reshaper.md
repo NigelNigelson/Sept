@@ -36,13 +36,13 @@ Split the comma/and-joined string into an array of short strings, one per attrac
 **6. `geography_context.proximity_highlights`**
 Parse the prose into an array of `{place: string, distance_mi: number, note: string}`. If a place is named without an explicit distance, still include it with `distance_mi: null` rather than dropping it.
 
-Note: the schema currently declares `distance_mi` as `number`, not nullable — writing `null` here is a deliberate deviation, not an oversight. Flag it per the "If you hit a schema gap" section below rather than silently treating `null` as already-valid.
+Note: `distance_mi` is `number | null` per `city_schema_final.md` §8 (Pass 8 patch — this was flagged as a deviation during this pipeline's own run and has since been formalized; no need to re-flag it).
 
 Not everything in the source prose is a place with a distance — some records open with general connectivity framing (e.g. "Hartsfield-Jackson is the world's busiest passenger airport, giving Atlanta outsized air connectivity") that doesn't name a nearby place at all. Don't force that into a `{place, distance_mi, note}` entry just to preserve every sentence — if it's redundant with something already covered elsewhere (often `visitability.nearest_airport`), drop it from this field and note the drop in your report rather than inventing a place name to hang it on.
 
 ## Method
 - Source phrasing varies city to city, so a script alone won't parse every record confidently. Use a script for the clearly-structured majority, then manually review and hand-fix the records the script couldn't parse well — don't force a bad parse just to avoid touching a record by hand.
-- Never overwrite the working copy in place; write to a new pass-output file.
+- Edit the working copy (`data/sections/*.json`) directly, in place — this project's coordinator instructions require it so the diff-pane/git-commit checkpoint workflow can review what changed. Do not write output to a separate file.
 - Report: which records needed manual fixing and why (so the coordinator can sanity-check those specifically), plus any content gaps you noticed while parsing.
 
 ## If you hit a schema gap
