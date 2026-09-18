@@ -24,6 +24,7 @@ Each research agent in `.claude/agents/` has its own curated excerpt of this lis
 - Major news orgs with a correction/editorial policy (not press-release mirrors)
 - University or professional-association publications (.edu, bar journals)
 - Insurance-rate aggregators (Bankrate, ValuePenguin, or equivalent county/state-level premium averages) — named fallback for `financial.insurance_exposure` specifically, when a state Dept. of Insurance site doesn't publish granular geographic premium/availability data (see resolved note below)
+- Tax/property-assessment aggregators (Avalara, Ownwell, SmartAsset, Tax-Rates.org, or equivalent recognized rate/assessment aggregators) — named fallback for `financial.local_hidden_fees` and `financial.property_tax_rate` when a state revenue department or county fee schedule doesn't publish the specific combined/local figure needed (see resolved note below)
 
 **TIER 3 — general web (only if Tier 1/2 are silent, and always flagged)**
 - Everything else — must be labeled lower-confidence in the output
@@ -41,3 +42,4 @@ Each research agent in `.claude/agents/` has its own curated excerpt of this lis
 ## Resolved policy clarifications (added mid-pipeline)
 - (Pass 5) A tier tag with no identifiable source name is not self-authenticating. When reconciling against a competing value that does name a source, treat the named source as higher-confidence regardless of the numeric tier label on the untraceable one, and retag the untraceable value accordingly (down to whatever tier it can actually support without a named source).
 - (Pass 6) `financial.insurance_exposure` sourcing: a state Department of Insurance site is Tier 1 by analogy to other regulatory boards (as already used), but in practice most DOI sites publish only statewide market-conduct data, not city/county-level premium or availability figures. When that's the case, a Tier 2 insurance-rate aggregator (Bankrate, ValuePenguin, or equivalent) is now a named acceptable fallback — don't drop straight to Tier 3 general web just because the DOI site itself is silent at the geographic granularity needed.
+- (Pass 7) `financial.local_hidden_fees` / `property_tax_rate` sourcing: same pattern as the insurance-aggregator fix above. A recognized tax/property-assessment aggregator (Avalara, Ownwell, SmartAsset, Tax-Rates.org, or equivalent) is now a named Tier 2 fallback when a state revenue department or county fee schedule doesn't publish the specific combined-rate or local-surtax figure needed.
